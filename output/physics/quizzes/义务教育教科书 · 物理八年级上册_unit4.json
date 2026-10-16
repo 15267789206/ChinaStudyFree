@@ -1,0 +1,161 @@
+{
+  "textbook": "八年级上册",
+  "unit": "质量与密度",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「质量与密度」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "质量及其测量",
+        "question": "一块铁被压成铁板，它的质量（　）",
+        "options": [
+          "变大",
+          "变小",
+          "不变",
+          "无法确定"
+        ],
+        "answer": "不变",
+        "explanation": "质量是物体的属性。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "密度及其应用",
+        "question": "质量 200 g、体积 100 cm³ 的物体，密度是多少 g/cm³？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$\\rho=\\frac{200}{100}=2$ g/cm³。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "密度及其应用",
+        "question": "体积为 200 cm³ 的水，质量是多少 g？（水密度取 1 g/cm³）",
+        "options": [],
+        "answer": "200",
+        "explanation": "$m=\\rho V=1\\times200=200$ g。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "质量及其测量",
+        "question": "$1\\ \\text{m}^3=1000\\ \\text{dm}^3$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "体积单位换算。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "质量及其应用",
+        "question": "某金属块质量 54 g，体积 20 cm³，它的密度是多少 g/cm³？",
+        "options": [],
+        "answer": "2.7",
+        "explanation": "$\\rho=\\frac{54}{20}=2.7$ g/cm³，为铝。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "密度及其应用",
+        "question": "同种物质的密度与其质量、体积无关。",
+        "options": [],
+        "answer": "对",
+        "explanation": "密度是物质的特性。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "质量及其测量",
+      "core_concept": "质量是物体所含物质的多少，是物体的属性，不随形状、位置、状态改变。天平使用：放平、调零、左物右码。",
+      "key_formula": "$1\\ \\text{t}=1000\\ \\text{kg}$，$1\\ \\text{kg}=1000\\ \\text{g}$",
+      "common_mistakes": [
+        "认为物体变到月球上质量变小。"
+      ],
+      "tips": "质量不变，重量会变。"
+    },
+    {
+      "point": "密度及其应用",
+      "core_concept": "单位体积某种物质的质量叫密度。同种物质密度一般相同，密度是物质的特性。",
+      "key_formula": "$\\rho=\\frac mV$",
+      "common_mistakes": [
+        "单位换算错误（$1\\ \\text{g/cm}^3=10^3\\ \\text{kg/m}^3$）。"
+      ],
+      "tips": "先统一单位再代入。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "密度及其应用",
+        "question": "密度为 $2.7\\ \\text{g/cm}^3$ 的铝，体积 $100\\ \\text{cm}^3$ 时质量是多少 g？",
+        "options": [],
+        "answer": "270",
+        "explanation": "$m=\\rho V=2.7\\times100=270$ g。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "密度及其应用",
+        "question": "水结成冰后，质量不变而体积变大，则密度（　）",
+        "options": [
+          "变大",
+          "变小",
+          "不变",
+          "无法确定"
+        ],
+        "answer": "变小",
+        "explanation": "$\\rho=\\frac mV$，$V$ 变大则 $\\rho$ 变小。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "质量及其测量",
+        "question": "用天平测质量时，物体应放在（　）",
+        "options": [
+          "左盘",
+          "右盘",
+          "任意盘",
+          "手上"
+        ],
+        "answer": "左盘",
+        "explanation": "左物右码。"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "密度及其应用",
+        "question": "水的密度是 $1.0\\times10^3$ ___（填单位）",
+        "options": [],
+        "answer": "kg/m3",
+        "explanation": "水的密度为 $1.0\\times10^3\\ \\text{kg/m}^3$。"
+      }
+    ]
+  }
+}

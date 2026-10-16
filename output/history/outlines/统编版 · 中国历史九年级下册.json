@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "现代中国的建设",
+      "knowledge_points": [
+        {
+          "name": "社会主义制度的建立与探索",
+          "description": "了解社会主义改造与建设探索。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "改革开放与中国特色社会主义",
+          "description": "理解改革开放与新时代成就。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "世界舞台与国际格局",
+      "knowledge_points": [
+        {
+          "name": "二战后世界格局的变化",
+          "description": "了解冷战格局与多极化趋势。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "经济全球化与挑战",
+          "description": "理解经济全球化的影响。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

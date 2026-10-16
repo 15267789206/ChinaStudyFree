@@ -1,0 +1,144 @@
+{
+  "textbook": "六年级下册",
+  "unit": "小学毕业与中学衔接",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「小学毕业与中学衔接」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "珍惜小学时光",
+        "question": "临近毕业，正确的做法是（　）",
+        "options": [
+          "珍惜与同学的友谊",
+          "互相孤立",
+          "破坏桌椅",
+          "抄袭作业"
+        ],
+        "answer": "珍惜与同学的友谊",
+        "explanation": "珍惜同学情谊。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "中学生活的准备",
+        "question": "面对中学更重的学习任务，应该（　）",
+        "options": [
+          "学会自主学习和安排时间",
+          "等家长催",
+          "只学喜欢的科目",
+          "一遇到困难就放弃"
+        ],
+        "answer": "学会自主学习和安排时间",
+        "explanation": "培养自主学习能力。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "珍惜小学时光",
+        "question": "小学阶段也要认真总结自己的收获与不足。",
+        "options": [],
+        "answer": "对",
+        "explanation": "总结促成长。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "中学生活的准备",
+        "question": "遇到学习困难要主动请教老师或同学。",
+        "options": [],
+        "answer": "对",
+        "explanation": "主动求助。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "珍惜小学时光",
+      "core_concept": "小学阶段是成长的重要时期，要珍惜同学友谊、师长教诲，认真总结收获与不足，带着好习惯迎接中学。",
+      "key_formula": "珍惜 → 总结 → 成长",
+      "common_mistakes": [
+        "毕业前破坏同学友谊。"
+      ],
+      "tips": "珍惜最后的时光。"
+    },
+    {
+      "point": "中学生活的准备",
+      "core_concept": "中学课程变多、难度变大，要学会自主学习、合理安排时间、主动适应新集体，主动请教老师同学。",
+      "key_formula": "主动适应、自主学习",
+      "common_mistakes": [
+        "依赖家长督促学习。"
+      ],
+      "tips": "培养自主学习能力。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "珍惜小学时光",
+        "question": "对老师的教诲，正确态度是（　）",
+        "options": [
+          "虚心接受并改进",
+          "置之不理",
+          "顶撞老师",
+          "背后抱怨"
+        ],
+        "answer": "虚心接受并改进",
+        "explanation": "尊重师言。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "中学生活的准备",
+        "question": "进入中学要主动适应新集体。",
+        "options": [],
+        "answer": "对",
+        "explanation": "适应新集体。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "中学生活的准备",
+        "question": "学习计划的制定应该（　）",
+        "options": [
+          "既切实可行又有弹性",
+          "写满却做不到",
+          "完全照抄别人",
+          "从不制定"
+        ],
+        "answer": "既切实可行又有弹性",
+        "explanation": "计划要可行。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "珍惜小学时光",
+        "question": "和同学发生矛盾要妥善处理，不做伤害友谊的事。",
+        "options": [],
+        "answer": "对",
+        "explanation": "珍视友谊。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级上册",
+  "unit": "富强与创新",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「富强与创新」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "改革开放与创新驱动",
+        "question": "引领发展的第一动力是（　）",
+        "options": [
+          "创新",
+          "投资",
+          "人口",
+          "土地"
+        ],
+        "answer": "创新",
+        "explanation": "创新是第一动力。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "中国的发展与民生",
+        "question": "我国的发展思想是（　）",
+        "options": [
+          "以人民为中心",
+          "以资本为中心",
+          "以出口为中心",
+          "以速度为中心"
+        ],
+        "answer": "以人民为中心",
+        "explanation": "人民为中心。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "改革开放与创新驱动",
+        "question": "改革开放是当代中国最鲜明的特色。",
+        "options": [],
+        "answer": "对",
+        "explanation": "改革开放是特色。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "中国的发展与民生",
+        "question": "我国仍处于并将长期处于社会主义初级阶段。",
+        "options": [],
+        "answer": "对",
+        "explanation": "基本国情。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "改革开放与创新驱动",
+      "core_concept": "改革开放是决定当代中国命运的关键一招。创新是引领发展的第一动力，是建设现代化经济体系的战略支撑。",
+      "key_formula": "创新是第一动力",
+      "common_mistakes": [
+        "认为改革开放已结束。"
+      ],
+      "tips": "改革开放仍在深化。"
+    },
+    {
+      "point": "中国的发展与民生",
+      "core_concept": "我国坚持以人民为中心的发展思想，坚持共享发展。全面建成小康社会后，我国进入新时代，但仍处于社会主义初级阶段。",
+      "key_formula": "以人民为中心",
+      "common_mistakes": [
+        "认为发展只追求 GDP 数字。"
+      ],
+      "tips": "发展的根本目的是增进人民福祉。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "改革开放与创新驱动",
+        "question": "下列做法最有利于创新的是（　）",
+        "options": [
+          "保护知识产权、尊重人才",
+          "抄袭他人成果",
+          "压制质疑",
+          "拒绝新事物"
+        ],
+        "answer": "保护知识产权、尊重人才",
+        "explanation": "创新需要制度保障。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "中国的发展与民生",
+        "question": "共享发展理念强调（　）",
+        "options": [
+          "发展成果由人民共享",
+          "少数人富就够了",
+          "先富带动但不管后富",
+          "不需发展"
+        ],
+        "answer": "发展成果由人民共享",
+        "explanation": "共享发展。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "改革开放与创新驱动",
+        "question": "关键核心技术是要不来、买不来、讨不来的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "自主创新重要。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "中国的发展与民生",
+        "question": "人民是国家的主人。",
+        "options": [],
+        "answer": "对",
+        "explanation": "人民当家作主。"
+      }
+    ]
+  }
+}

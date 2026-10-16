@@ -1,0 +1,83 @@
+{
+  "textbook": "高等数学",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "函数与极限",
+      "knowledge_points": [
+        {
+          "name": "极限的概念与运算",
+          "description": "理解极限思想与常用运算法则。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "连续性",
+          "description": "理解函数连续性与间断点。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "导数与微分",
+      "knowledge_points": [
+        {
+          "name": "导数与求导法则",
+          "description": "掌握基本求导公式与四则、复合求导。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "导数的应用",
+          "description": "掌握单调性、极值与最值。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "积分",
+      "knowledge_points": [
+        {
+          "name": "不定积分与定积分",
+          "description": "掌握基本积分公式与牛顿-莱布尼茨公式。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "定积分的应用",
+          "description": "会用定积分求面积。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 1 Food and table manners 饮食与餐具",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 Food and table manners 饮食与餐具」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "食物与餐具词汇",
+        "question": "「米饭」的英文是（　）",
+        "options": [
+          "rice",
+          "ice",
+          "rise",
+          "race"
+        ],
+        "answer": "rice",
+        "explanation": "rice = 米饭。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "食物与餐具词汇",
+        "question": "「筷子」的英文是（　）",
+        "options": [
+          "chopsticks",
+          "chopstick",
+          "knife",
+          "fork"
+        ],
+        "answer": "chopsticks",
+        "explanation": "筷子常用复数。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "现在进行时 be + doing",
+        "question": "— What are you eating? — ___",
+        "options": [
+          "I'm eating hamburgers and chips.",
+          "I eat hamburgers.",
+          "I'm eat hamburgers.",
+          "Yes, I am."
+        ],
+        "answer": "I'm eating hamburgers and chips.",
+        "explanation": "进行时 be + doing。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "食物与餐具词汇",
+        "question": "a knife and fork 的意思是「一副刀叉」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "刀叉合称。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "食物与餐具词汇",
+      "core_concept": "rice 米饭、noodles 面条、hamburger 汉堡、chips 炸薯条；chopsticks 筷子、knife 刀、fork 叉。英国人常用一副刀叉 a knife and fork。",
+      "key_formula": "We use a knife and fork.",
+      "common_mistakes": [
+        "chopsticks 当单数（它是复数）。"
+      ],
+      "tips": "筷子总是成对，用复数。"
+    },
+    {
+      "point": "现在进行时 be + doing",
+      "core_concept": "表示此时此刻正在进行的动作用 be + 动词 -ing。问句 What are you eating? 答 I'm eating…",
+      "key_formula": "What are you eating? — I'm eating hamburgers and chips.",
+      "common_mistakes": [
+        "漏掉 be 动词：I eating（×）。"
+      ],
+      "tips": "be + doing 缺一不可。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "食物与餐具词汇",
+        "question": "「汉堡包」的英文是（　）",
+        "options": [
+          "hamburger",
+          "humberger",
+          "hamberger",
+          "hamburg"
+        ],
+        "answer": "hamburger",
+        "explanation": "hamburger = 汉堡包。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "现在进行时 be + doing",
+        "question": "Look! The ducks ___ in the rain.",
+        "options": [
+          "are playing",
+          "play",
+          "plays",
+          "played"
+        ],
+        "answer": "are playing",
+        "explanation": "Look! 提示此刻正在发生。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "食物与餐具词汇",
+        "question": "英国人吃饭常用刀叉。",
+        "options": [],
+        "answer": "对",
+        "explanation": "knife and fork。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "现在进行时 be + doing",
+        "question": "表示「我正在吃苹果」，应说（　）",
+        "options": [
+          "I'm eating an apple.",
+          "I eat an apple.",
+          "I'm eat an apple.",
+          "I eating an apple."
+        ],
+        "answer": "I'm eating an apple.",
+        "explanation": "be + eating。"
+      }
+    ]
+  }
+}

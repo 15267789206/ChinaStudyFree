@@ -1,0 +1,145 @@
+{
+  "textbook": "大学物理（力学与电磁学基础）",
+  "unit": "静电场",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「静电场」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "库仑定律与电场强度",
+        "question": "点电荷在电场中受力 2×10⁻³ N，电荷量为 1×10⁻⁶ C，电场强度是多少 N/C？",
+        "options": [],
+        "answer": "2000",
+        "explanation": "$E=\\frac Fq=\\frac{2\\times10^{-3}}{1\\times10^{-6}}=2000$ N/C。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "电势能与电势",
+        "question": "电荷 2 C 通过电势差 5 V 时，电场力做功多少 J？",
+        "options": [],
+        "answer": "10",
+        "explanation": "$W=qU=2\\times5=10$ J。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "库仑定律与电场强度",
+        "question": "电场强度是（　）",
+        "options": [
+          "矢量",
+          "标量",
+          "只能是正数",
+          "与电荷无关的标量"
+        ],
+        "answer": "矢量",
+        "explanation": "E 是矢量，有方向。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "电势能与电势",
+        "question": "电场力做功与路径无关。",
+        "options": [],
+        "answer": "对",
+        "explanation": "静电力是保守力。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "电势能与电势",
+        "question": "匀强电场中 $E=100$ V/m，两点沿场强方向距离 2 m，则电势差是（　）",
+        "options": [
+          "50 V",
+          "200 V",
+          "102 V",
+          "0.02 V"
+        ],
+        "answer": "200 V",
+        "explanation": "$U=Ed=200$ V。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "库仑定律与电场强度",
+      "core_concept": "库仑定律 $F=k\\frac{q_1q_2}{r^2}$，适用于真空中点电荷。电场强度 $E=\\frac Fq$，是描述电场的物理量，与试探电荷无关。",
+      "key_formula": "$E=\\frac Fq$",
+      "common_mistakes": [
+        "认为电场强度与试探电荷有关。"
+      ],
+      "tips": "E 由场源决定。"
+    },
+    {
+      "point": "电势能与电势",
+      "core_concept": "电场力做功与路径无关，电场力做功等于电势能减少量。$U=\\frac Wq$，匀强电场中 $U=Ed$。",
+      "key_formula": "$W=qU$",
+      "common_mistakes": [
+        "电势差与电场强度混淆。"
+      ],
+      "tips": "U 是电压，E 是场强。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "库仑定律与电场强度",
+        "question": "两点电荷间距离增大到原来的 3 倍，库仑力变为原来的几分之一？（填分数如 1/9）",
+        "options": [],
+        "answer": "1/9",
+        "explanation": "与距离平方成反比。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "电势能与电势",
+        "question": "电势是标量，但可有正负。",
+        "options": [],
+        "answer": "对",
+        "explanation": "以无穷远为零电势。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "电势能与电势",
+        "question": "把 3 C 电荷从 A 移到 B，电场力做功 15 J，$U_{AB}$ 是多少 V？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$U=\\frac Wq=\\frac{15}{3}=5$ V。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "库仑定律与电场强度",
+        "question": "电场线越密的地方电场强度越大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "电场线疏密表示场强。"
+      }
+    ]
+  }
+}

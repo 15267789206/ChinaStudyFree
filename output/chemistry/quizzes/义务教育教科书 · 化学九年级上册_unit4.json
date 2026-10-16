@@ -1,0 +1,180 @@
+{
+  "textbook": "九年级上册",
+  "unit": "碳和碳的氧化物",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「碳和碳的氧化物」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "碳单质及其性质",
+        "question": "金刚石和石墨物理性质差异大的原因是（　）",
+        "options": [
+          "元素组成不同",
+          "碳原子排列方式不同",
+          "含杂质不同",
+          "硬度不同"
+        ],
+        "answer": "碳原子排列方式不同",
+        "explanation": "结构决定性质。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "二氧化碳的性质与制取",
+        "question": "检验二氧化碳气体用（　）",
+        "options": [
+          "燃着的木条",
+          "澄清石灰水",
+          "紫色石蕊试液",
+          "带火星木条"
+        ],
+        "answer": "澄清石灰水",
+        "explanation": "石灰水变浑浊。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "碳单质及其性质",
+        "question": "12 g 碳与足量氧化铜充分反应，可还原出铜多少 g？[$\\text{C}+2\\text{CuO}\\xrightarrow{\\text{高温}}2\\text{Cu}+\\text{CO}_2\\uparrow$，Cu 为 64]",
+        "options": [],
+        "answer": "128",
+        "explanation": "$\\frac{12}{12}=\\frac{x}{128}$，$x=128$ g。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "一氧化碳与碳循环",
+        "question": "一氧化碳有毒，二氧化碳无毒。",
+        "options": [],
+        "answer": "对",
+        "explanation": "CO 有毒。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "二氧化碳的性质与制取",
+        "question": "实验室制取二氧化碳不用稀硫酸的原因是（　）",
+        "options": [
+          "反应太快",
+          "生成的硫酸钙微溶覆盖表面阻止反应",
+          "不反应",
+          "产生杂质"
+        ],
+        "answer": "生成的硫酸钙微溶覆盖表面阻止反应",
+        "explanation": "微溶物覆盖阻止反应。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一氧化碳与碳循环",
+        "question": "二氧化碳能参与光合作用，是温室效应的主要气体之一。",
+        "options": [],
+        "answer": "对",
+        "explanation": "CO₂ 与温室效应。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "碳单质及其性质",
+      "core_concept": "金刚石、石墨、C60 都由碳元素组成，因碳原子排列方式不同而物理性质差异大。常温下碳化学性质不活泼，高温下可还原金属氧化物。",
+      "key_formula": "$\\text{C}+2\\text{CuO}\\xrightarrow{\\text{高温}}2\\text{Cu}+\\text{CO}_2\\uparrow$",
+      "common_mistakes": [
+        "认为三者是不同元素组成。"
+      ],
+      "tips": "同种元素、不同结构。"
+    },
+    {
+      "point": "二氧化碳的性质与制取",
+      "core_concept": "CO₂ 不能燃烧也不支持燃烧、密度比空气大，能与水反应生成碳酸、与澄清石灰水反应变浑浊。实验室用大理石与稀盐酸反应制取。",
+      "key_formula": "$\\text{CaCO}_3+2\\text{HCl}=\\text{CaCl}_2+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$",
+      "common_mistakes": [
+        "用稀硫酸代替稀盐酸（生成微溶物阻止反应）。"
+      ],
+      "tips": "检验用澄清石灰水，验满用燃着木条置于瓶口。"
+    },
+    {
+      "point": "一氧化碳与碳循环",
+      "core_concept": "CO 无色无味有毒（与血红蛋白结合），具有可燃性和还原性，可用作燃料和冶炼金属。CO₂ 增多会导致温室效应。",
+      "key_formula": "$\\text{CO}+\\text{CuO}\\xrightarrow{\\Delta}\\text{Cu}+\\text{CO}_2$",
+      "common_mistakes": [
+        "把 CO₂ 也当作有毒气体。"
+      ],
+      "tips": "CO 有毒，CO₂ 无毒但不支持呼吸。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "二氧化碳的性质与制取",
+        "question": "制取 4.4 g 二氧化碳需要碳酸钙多少 g？[$\\text{CaCO}_3+2\\text{HCl}=\\text{CaCl}_2+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$，$\\text{CaCO}_3$ 为 100，$\\text{CO}_2$ 为 44]",
+        "options": [],
+        "answer": "10",
+        "explanation": "$\\frac{x}{100}=\\frac{4.4}{44}$，$x=10$ g。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "碳单质及其性质",
+        "question": "下列不属于碳单质的是（　）",
+        "options": [
+          "金刚石",
+          "石墨",
+          "活性炭",
+          "二氧化碳"
+        ],
+        "answer": "二氧化碳",
+        "explanation": "CO₂ 是化合物。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "二氧化碳的性质与制取",
+        "question": "二氧化碳能使澄清石灰水变浑浊。",
+        "options": [],
+        "answer": "对",
+        "explanation": "生成难溶碳酸钙。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一氧化碳与碳循环",
+        "question": "CO 与 CO₂ 的化学性质不同的原因是（　）",
+        "options": [
+          "组成元素不同",
+          "分子构成不同",
+          "状态不同",
+          "密度不同"
+        ],
+        "answer": "分子构成不同",
+        "explanation": "分子是保持化学性质的最小粒子。"
+      }
+    ]
+  }
+}

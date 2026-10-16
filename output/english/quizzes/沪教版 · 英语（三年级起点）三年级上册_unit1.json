@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 1 Getting to know you — Hello! 见面问候",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 Getting to know you — Hello! 见面问候」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "问候语 Hello / Hi / Good morning",
+        "question": "早上见到老师，应该说（　）",
+        "options": [
+          "Good morning!",
+          "Good night!",
+          "Goodbye!",
+          "Good evening!"
+        ],
+        "answer": "Good morning!",
+        "explanation": "早上问候用 Good morning。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "道别 Goodbye / Good night",
+        "question": "睡前和爸爸妈妈道别应说（　）",
+        "options": [
+          "Good morning",
+          "Good night",
+          "Hello",
+          "Good afternoon"
+        ],
+        "answer": "Good night",
+        "explanation": "Good night 是睡前道别。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "问候语 Hello / Hi / Good morning",
+        "question": "下午见到同学应说（　）",
+        "options": [
+          "Good morning",
+          "Good afternoon",
+          "Good night",
+          "Goodbye"
+        ],
+        "answer": "Good afternoon",
+        "explanation": "下午用 Good afternoon。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "问候语 Hello / Hi / Good morning",
+        "question": "Hello 和 Hi 都可以用来打招呼。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两者皆可，Hi 更随意。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "问候语 Hello / Hi / Good morning",
+      "core_concept": "打招呼泛用 Hello / Hi；Good morning（早上）、Good afternoon（下午）、Good evening（晚上）按时段使用。",
+      "key_formula": "Good morning! — Good morning!",
+      "common_mistakes": [
+        "晚上好说成 Good night（那是睡前道别）。"
+      ],
+      "tips": "问候语看时段，道别看场合。"
+    },
+    {
+      "point": "道别 Goodbye / Good night",
+      "core_concept": "告别用 Goodbye / Bye；睡前与家人道别用 Good night，回答也用 Good night。",
+      "key_formula": "Goodbye! — Bye!",
+      "common_mistakes": [
+        "把 Good night 当晚上好。"
+      ],
+      "tips": "Good night = 晚安（道别）。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "问候语 Hello / Hi / Good morning",
+        "question": "第一次见面说 Nice to meet you.，对方应回答（　）",
+        "options": [
+          "Nice to meet you, too.",
+          "Goodbye.",
+          "Good night.",
+          "I'm nine."
+        ],
+        "answer": "Nice to meet you, too.",
+        "explanation": "回应加 too。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "道别 Goodbye / Good night",
+        "question": "放学和老师说再见，应说（　）",
+        "options": [
+          "Good morning",
+          "Good night",
+          "Goodbye",
+          "Good evening"
+        ],
+        "answer": "Goodbye",
+        "explanation": "放学道别用 Goodbye。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "道别 Goodbye / Good night",
+        "question": "Good evening 的意思是「晚上好」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "Good evening 是晚间问候。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "问候语 Hello / Hi / Good morning",
+        "question": "— Good morning, class! — ___",
+        "options": [
+          "Good morning, Miss Fang!",
+          "Good night!",
+          "Goodbye!",
+          "Hello!"
+        ],
+        "answer": "Good morning, Miss Fang!",
+        "explanation": "互相问候用同一用语。"
+      }
+    ]
+  }
+}

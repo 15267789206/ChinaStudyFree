@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 1 Getting to know you — Are you Kitty? 你是谁",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「Module 1 Getting to know you — Are you Kitty? 你是谁」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "一般疑问句 Are you…?",
+        "question": "— Are you Kitty? — ___",
+        "options": [
+          "Yes, I am.",
+          "Yes, I'm.",
+          "Yes, you are.",
+          "No, I am."
+        ],
+        "answer": "Yes, I am.",
+        "explanation": "肯定简答用 Yes, I am."
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问姓名 What's your name?",
+        "question": "询问对方姓名应说（　）",
+        "options": [
+          "What's your name?",
+          "How are you?",
+          "Are you Kitty?",
+          "How old are you?"
+        ],
+        "answer": "What's your name?",
+        "explanation": "问姓名用 What's your name。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问姓名 What's your name?",
+        "question": "「我叫莉莉。」的正确表达是（　）",
+        "options": [
+          "My name is Lily.",
+          "My name Lily.",
+          "I name is Lily.",
+          "My am Lily."
+        ],
+        "answer": "My name is Lily.",
+        "explanation": "My name is + 名字。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "一般疑问句 Are you…?",
+        "question": "Are you…? 是一般疑问句，用 Yes / No 回答。",
+        "options": [],
+        "answer": "对",
+        "explanation": "be 动词开头的一般疑问句。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "一般疑问句 Are you…?",
+      "core_concept": "确认对方身份用 Are you…?，肯定回答 Yes, I am. 否定回答 No, I'm not.",
+      "key_formula": "Are you Kitty? — Yes, I am. / No, I'm not.",
+      "common_mistakes": [
+        "回答写成 Yes, I'm.（×，不能缩写在句末）"
+      ],
+      "tips": "肯定简答不缩写。"
+    },
+    {
+      "point": "询问姓名 What's your name?",
+      "core_concept": "询问姓名 What's your name?，回答 My name is… 或 I'm…",
+      "key_formula": "What's your name? — My name is Lily.",
+      "common_mistakes": [
+        "回答漏掉 is：My name Lily（×）。"
+      ],
+      "tips": "name 后面要有 is。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "一般疑问句 Are you…?",
+        "question": "— Are you Sam? — No, ___",
+        "options": [
+          "I'm not.",
+          "I am.",
+          "you aren't.",
+          "I'm."
+        ],
+        "answer": "I'm not.",
+        "explanation": "否定简答用 No, I'm not."
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "询问姓名 What's your name?",
+        "question": "老师想知道你的名字，会问（　）",
+        "options": [
+          "What's your name?",
+          "How are you?",
+          "Are you a pupil?",
+          "Nice to meet you."
+        ],
+        "answer": "What's your name?",
+        "explanation": "问姓名。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "询问姓名 What's your name?",
+        "question": "I'm Lily. 也可以用来回答 What's your name?",
+        "options": [],
+        "answer": "对",
+        "explanation": "I'm… = My name is…"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般疑问句 Are you…?",
+        "question": "想确认「你是 Jill 吗」，应说（　）",
+        "options": [
+          "Are you Jill?",
+          "You are Jill.",
+          "Is you Jill?",
+          "Are Jill you?"
+        ],
+        "answer": "Are you Jill?",
+        "explanation": "确认身份用 Are you…?"
+      }
+    ]
+  }
+}

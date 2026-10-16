@@ -1,0 +1,149 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第4章 代数式",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「第4章 代数式」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "列代数式与代数式的值",
+        "question": "每本练习本 $a$ 元，买 5 本需 ___ 元。",
+        "options": [],
+        "answer": "5a",
+        "explanation": "用 5a 表示。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "列代数式与代数式的值",
+        "question": "当 $x=3$ 时，代数式 $2x+1$ 的值是多少？",
+        "options": [],
+        "answer": "7",
+        "explanation": "$2\\times3+1=7$。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "整式与合并同类项",
+        "question": "合并同类项：$7m-3m+2m=$ ？（填最简形式）",
+        "options": [],
+        "answer": "6m",
+        "explanation": "$(7-3+2)m=6m$。"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "整式与合并同类项",
+        "question": "单项式 $-4x^2y$ 的系数是 ___。",
+        "options": [],
+        "answer": "-4",
+        "explanation": "数字因数 $-4$。"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "整式的加减",
+        "question": "化简：$3a-(2a-1)=$ ___",
+        "options": [],
+        "answer": "a+1",
+        "explanation": "$3a-2a+1=a+1$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "列代数式与代数式的值",
+      "core_concept": "用字母表示数书写规范：数字与字母相乘、数字写在前面；代数式求值就是代入数值计算。",
+      "key_formula": "速度 $v=\\frac st$",
+      "common_mistakes": [
+        "书写顺序不规范（a3）。"
+      ],
+      "tips": "数字在前、字母在后。"
+    },
+    {
+      "point": "整式与合并同类项",
+      "core_concept": "单项式的数字因数是系数，所有字母指数之和是次数。几个单项式的和是多项式。同类项合并时系数相加。",
+      "key_formula": "$ax+bx=(a+b)x$",
+      "common_mistakes": [
+        "把 $x^2$ 与 $x$ 当同类项。"
+      ],
+      "tips": "先标同类项再合并。"
+    },
+    {
+      "point": "整式的加减",
+      "core_concept": "括号前是「+」去括号不变号，括号前是「−」去括号都变号；整式加减步骤：去括号、合并同类项。",
+      "key_formula": "$a-(b-c)=a-b+c$",
+      "common_mistakes": [
+        "括号前是减号时只变第一项。"
+      ],
+      "tips": "把括号连同前面符号一起处理。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "整式的加减",
+        "question": "$2(a+3)-(a-1)$ 化简后 $a$ 的系数是多少？",
+        "options": [],
+        "answer": "1",
+        "explanation": "化简得 $a+7$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "整式与合并同类项",
+        "question": "单项式 $5a^2b^3$ 的次数是（　）",
+        "options": [
+          "5",
+          "2",
+          "3",
+          "6"
+        ],
+        "answer": "5",
+        "explanation": "$2+3=5$。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "列代数式与代数式的值",
+        "question": "代数式 $3a$ 表示 3 与 $a$ 的乘积。",
+        "options": [],
+        "answer": "对",
+        "explanation": "数字与字母相乘。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "整式与合并同类项",
+        "question": "合并同类项：$4m-7m$ 得（　）",
+        "options": [],
+        "answer": "$-3m$,$3m$,$11m$,$-11m$",
+        "explanation": "$-3m$"
+      }
+    ]
+  }
+}

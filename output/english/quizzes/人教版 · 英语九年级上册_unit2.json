@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级上册",
+  "unit": "被动语态与情态动词",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「被动语态与情态动词」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "被动语态复习",
+        "question": "The bridge ___ last year.",
+        "options": [
+          "built",
+          "was built",
+          "is built",
+          "will be built"
+        ],
+        "answer": "was built",
+        "explanation": "last year 用过去时被动。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词的用法",
+        "question": "Students ___ bring dangerous things to school.",
+        "options": [
+          "mustn't",
+          "don't have to",
+          "needn't",
+          "can't"
+        ],
+        "answer": "mustn't",
+        "explanation": "禁止用 mustn't。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "被动语态复习",
+        "question": "被动语态中 be 动词的时态随主语和时态变化。",
+        "options": [],
+        "answer": "对",
+        "explanation": "be 的时态变化。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情态动词的用法",
+        "question": "情态动词后接动词原形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "后接原形。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "被动语态复习",
+      "core_concept": "被动语态由 be + 过去分词构成，be 的时态由主语和时态决定，情态动词后加 be + 过去分词。",
+      "key_formula": "be + 过去分词",
+      "common_mistakes": [
+        "be 的时态选错。"
+      ],
+      "tips": "先定被动再定时态。"
+    },
+    {
+      "point": "情态动词的用法",
+      "core_concept": "情态动词后接动词原形。may 表示许可或可能，must 表示必须或肯定推测，should 表示建议。否定式一般不加 to，但 mustn't 表示禁止。",
+      "key_formula": "情态动词 + 原形",
+      "common_mistakes": [
+        "情态动词后加 to。"
+      ],
+      "tips": "后接原形。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "被动语态复习",
+        "question": "These books must ___ before Friday.",
+        "options": [
+          "be returned",
+          "return",
+          "returning",
+          "returned"
+        ],
+        "answer": "be returned",
+        "explanation": "情态动词被动。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "情态动词的用法",
+        "question": "It ___ be a rabbit — look at those long ears!",
+        "options": [
+          "must",
+          "can't",
+          "shouldn't",
+          "needn't"
+        ],
+        "answer": "must",
+        "explanation": "肯定推测用 must。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "被动语态复习",
+        "question": "主动变被动要加 be 并将动词变为过去分词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "变被动要点。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情态动词的用法",
+        "question": "mustn't 表示禁止，needn't 表示不必。",
+        "options": [],
+        "answer": "对",
+        "explanation": "否定含义不同。"
+      }
+    ]
+  }
+}

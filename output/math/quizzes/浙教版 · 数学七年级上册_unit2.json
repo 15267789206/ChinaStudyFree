@@ -1,0 +1,182 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第2章 有理数的运算",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「第2章 有理数的运算」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的加减乘除",
+        "question": "计算：-3 + 5 = ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "-3 + 5 = 2。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的加减乘除",
+        "question": "计算：-8 + -6 = ？",
+        "options": [],
+        "answer": "-14",
+        "explanation": "-8 + -6 = -14。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的加减乘除",
+        "question": "计算：7 + -12 = ？",
+        "options": [],
+        "answer": "-5",
+        "explanation": "7 + -12 = -5。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的加减乘除",
+        "question": "计算：-4 × 6 = ？",
+        "options": [],
+        "answer": "-24",
+        "explanation": "-4 × 6 = -24。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的加减乘除",
+        "question": "计算：-15 × -3 = ？",
+        "options": [],
+        "answer": "45",
+        "explanation": "-15 × -3 = 45。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的加减乘除",
+        "question": "计算：12 × -4 = ？",
+        "options": [],
+        "answer": "-48",
+        "explanation": "12 × -4 = -48。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的乘方与混合运算",
+        "question": "计算：$(-2)^3=$ ？",
+        "options": [],
+        "answer": "-8",
+        "explanation": "$(-2)^3=-8$，负数的奇次幂为负。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的乘方与混合运算",
+        "question": "计算：$-8+3-(-5)=$ ？",
+        "options": [],
+        "answer": "0",
+        "explanation": "$-8+3=-5$，$-5+5=0$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "有理数的加减乘除",
+      "core_concept": "加法：同号取同号绝对值相加，异号取大绝对值加数符号、大减小。减法：减去一个数等于加上它的相反数。乘除：同号得正、异号得负，绝对值相乘除。",
+      "key_formula": "$a-b=a+(-b)$",
+      "common_mistakes": [
+        "异号相加符号取错。"
+      ],
+      "tips": "减法统一成加法再算。"
+    },
+    {
+      "point": "有理数的乘方与混合运算",
+      "core_concept": "$a^n$ 表示 $n$ 个 $a$ 相乘；负数的奇次幂为负、偶次幂为正。混合运算顺序：先乘方，再乘除，后加减；有括号先算括号。",
+      "key_formula": "$(-2)^2=4$，$-2^2=-4$",
+      "common_mistakes": [
+        "$-2^2$ 与 $(-2)^2$ 混淆。"
+      ],
+      "tips": "先定符号，再算绝对值。"
+    },
+    {
+      "point": "近似数",
+      "core_concept": "用四舍五入法按要求的精确度取近似值；精确到哪一位，就看它的下一位。",
+      "key_formula": "四舍五入",
+      "common_mistakes": [
+        "精确到十分位却看百分位。"
+      ],
+      "tips": "看保留位数的下一位。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "近似数",
+        "question": "用四舍五入法把 3.14159 精确到 0.01，得 ___。",
+        "options": [],
+        "answer": "3.14",
+        "explanation": "看千分位 1，舍去，得 3.14。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "有理数的乘方与混合运算",
+        "question": "计算 $-2^2$ 的结果是（　）",
+        "options": [
+          "-4",
+          "4",
+          "-2",
+          "2"
+        ],
+        "answer": "-4",
+        "explanation": "先乘方后取负：$-4$。"
+      },
+      {
+        "id": 11,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "有理数的乘方与混合运算",
+        "question": "负数的偶次幂是正数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "如 $(-3)^2=9$。"
+      },
+      {
+        "id": 12,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "有理数的加减乘除",
+        "question": "计算：$-6+9$ 的结果是多少？",
+        "options": [],
+        "answer": "3",
+        "explanation": "异号相加取正号，$9-6=3$。"
+      }
+    ]
+  }
+}

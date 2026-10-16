@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "内能与热机",
+      "knowledge_points": [
+        {
+          "name": "内能与比热容",
+          "description": "理解内能、热传递与比热容。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "内燃机与热机效率",
+          "description": "了解内燃机四个冲程与热机效率。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "电学基础",
+      "knowledge_points": [
+        {
+          "name": "电流与电路",
+          "description": "掌握电流、电压、电阻与欧姆定律。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "电功率与生活用电",
+          "description": "理解电功率与安全用电。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

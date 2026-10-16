@@ -1,0 +1,57 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Unit 1 人物与职业",
+      "knowledge_points": [
+        {
+          "name": "职业名称",
+          "description": "掌握常见职业的英文。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "be 动词与一般现在时",
+          "description": "用一般现在时描述职业与日常。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Unit 2 校园与学习",
+      "knowledge_points": [
+        {
+          "name": "学校场所与科目",
+          "description": "掌握学校场所与科目名称。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一般现在时的疑问与否定",
+          "description": "掌握一般现在时的疑问句与否定句。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

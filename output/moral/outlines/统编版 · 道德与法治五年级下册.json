@@ -1,0 +1,57 @@
+{
+  "textbook": "五年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "情感与交往",
+      "knowledge_points": [
+        {
+          "name": "情绪的管理",
+          "description": "认识情绪，学会调节情绪。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "友谊与矛盾处理",
+          "description": "学会与同伴交往，处理矛盾。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "公德与法治意识",
+      "knowledge_points": [
+        {
+          "name": "维护社会公德",
+          "description": "自觉遵守社会公德。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "法治意识启蒙",
+          "description": "树立法治意识，学会依法维权。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

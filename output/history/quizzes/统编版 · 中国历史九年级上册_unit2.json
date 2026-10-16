@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级上册",
+  "unit": "近代社会与革命道路",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「近代社会与革命道路」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "近代社会生活与教育文化",
+        "question": "近代中国社会生活变化的表现不包括（　）",
+        "options": [
+          "西餐传入",
+          "近代交通工具出现",
+          "剪辫易服",
+          "仍只有传统方式"
+        ],
+        "answer": "仍只有传统方式",
+        "explanation": "近代生活已变化。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "革命道路的探索",
+        "question": "新文化运动高举的旗帜是（　）",
+        "options": [
+          "民主与科学",
+          "自强与求富",
+          "实业救国",
+          "君权神授"
+        ],
+        "answer": "民主与科学",
+        "explanation": "民主科学旗帜。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "近代社会生活与教育文化",
+        "question": "近代交通工具改变了人们的出行方式。",
+        "options": [],
+        "answer": "对",
+        "explanation": "交通近代化。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "革命道路的探索",
+        "question": "中国共产党领导的新民主主义革命取得基本胜利。",
+        "options": [],
+        "answer": "对",
+        "explanation": "新民主主义革命。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "近代社会生活与教育文化",
+      "core_concept": "近代以后，西方列强侵略与社会变革推动中国近代化进程，社会生活、交通、教育、文化发生深刻变化。",
+      "key_formula": "近代化推动社会变迁",
+      "common_mistakes": [
+        "认为近代化止于器物层面。"
+      ],
+      "tips": "社会变迁面广。"
+    },
+    {
+      "point": "革命道路的探索",
+      "core_concept": "太平天国、洋务、戊戌变法、辛亥革命、新文化运动、共产党领导的新民主主义革命，构成中国近代化的层层探索。",
+      "key_formula": "器物 → 制度 → 思想 → 革命道路",
+      "common_mistakes": [
+        "把探索顺序记反。"
+      ],
+      "tips": "层层递进。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "近代社会生活与教育文化",
+        "question": "近代新式学堂兴起促进了（　）",
+        "options": [
+          "近代教育改革",
+          "科举废除的唯一原因",
+          "经济发展",
+          "城市化"
+        ],
+        "answer": "近代教育改革",
+        "explanation": "新式学堂促改革。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "革命道路的探索",
+        "question": "中国近代化探索的顺序是（　）",
+        "options": [
+          "器物—制度—思想",
+          "思想—制度—器物",
+          "制度—器物—思想",
+          "思想—器物—制度"
+        ],
+        "answer": "器物—制度—思想",
+        "explanation": "层层深入。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "近代社会生活与教育文化",
+        "question": "剪辫、易服是近代社会习俗变革的表现。",
+        "options": [],
+        "answer": "对",
+        "explanation": "习俗变革。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "革命道路的探索",
+        "question": "辛亥革命推翻了君主专制制度。",
+        "options": [],
+        "answer": "对",
+        "explanation": "辛亥革命意义。"
+      }
+    ]
+  }
+}

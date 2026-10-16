@@ -1,0 +1,167 @@
+{
+  "textbook": "一年级上册",
+  "unit": "加与减（一）",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「加与减（一）」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "加法的意义",
+        "question": "计算：1 + 2 = ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "1 + 2 = 3。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "加法的意义",
+        "question": "计算：2 + 3 = ？",
+        "options": [],
+        "answer": "5",
+        "explanation": "2 + 3 = 5。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "加法的意义",
+        "question": "计算：4 + 1 = ？",
+        "options": [],
+        "answer": "5",
+        "explanation": "4 + 1 = 5。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "加法的意义",
+        "question": "树上有 4 只鸟，又飞来 2 只，求一共几只，用（　）",
+        "options": [
+          "加法",
+          "减法",
+          "乘法",
+          "无法确定"
+        ],
+        "answer": "加法",
+        "explanation": "合起来用加法。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "减法的意义",
+        "question": "计算：5 − 2 = ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "5 − 2 = 3。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "减法的意义",
+        "question": "计算：4 − 1 = ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "4 − 1 = 3。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "减法的意义",
+        "question": "计算：3 − 2 = ？",
+        "options": [],
+        "answer": "1",
+        "explanation": "3 − 2 = 1。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "加法的意义",
+      "core_concept": "把两部分合起来求一共多少，用加法计算：a + b = c。",
+      "key_formula": "$a+b=c$",
+      "common_mistakes": [
+        "把「合起来」用成减法。"
+      ],
+      "tips": "一共、合起来用加法。"
+    },
+    {
+      "point": "减法的意义",
+      "core_concept": "从总数里去掉一部分，求剩下多少，用减法计算：a − b = c。",
+      "key_formula": "$a-b=c$",
+      "common_mistakes": [
+        "减法算式总数与部分颠倒。"
+      ],
+      "tips": "总数减去掉的部分。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "减法的意义",
+        "question": "原来有 5 个苹果，吃了 2 个，求还剩几个，用（　）",
+        "options": [
+          "减法",
+          "加法",
+          "乘法",
+          "无法确定"
+        ],
+        "answer": "减法",
+        "explanation": "去掉一部分用减法。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "加法的意义",
+        "question": "3 和 2 合起来是几？",
+        "options": [],
+        "answer": "5",
+        "explanation": "3 + 2 = 5。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "加法的意义",
+        "question": "把两部分合起来用加法计算。",
+        "options": [],
+        "answer": "对",
+        "explanation": "加法意义。"
+      },
+      {
+        "id": 11,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "减法的意义",
+        "question": "从 5 里面去掉 3，还剩几？",
+        "options": [],
+        "answer": "2",
+        "explanation": "5 − 3 = 2。"
+      }
+    ]
+  }
+}

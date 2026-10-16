@@ -1,0 +1,165 @@
+{
+  "textbook": "七年级下册",
+  "unit": "二元一次方程组",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「二元一次方程组」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "二元一次方程组的概念",
+        "question": "下列是二元一次方程的是（　）",
+        "options": [
+          "$x^2+y=1$",
+          "$2x+3y=6$",
+          "$xy=2$",
+          "$\\frac1x+y=1$"
+        ],
+        "answer": "$2x+3y=6$",
+        "explanation": "含两个未知数且次数为1。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "二元一次方程组的概念",
+        "question": "$\\begin{cases}x=1\\\\y=2\\end{cases}$ 是方程 $x+y=3$ 的解。",
+        "options": [],
+        "answer": "对",
+        "explanation": "代入 $1+2=3$ 成立。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "代入消元法",
+        "question": "解方程组 $\\begin{cases}y=x+1\\\\2x+y=7\\end{cases}$，则 $x=$ ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "代入：$2x+(x+1)=7$，$3x=6$，$x=2$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "代入消元法",
+        "question": "解方程组 $\\begin{cases}y=x+1\\\\2x+y=7\\end{cases}$，则 $y=$ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$x=2$，$y=2+1=3$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "加减消元法与实际问题",
+        "question": "解方程组 $\\begin{cases}x+y=10\\\\x-y=2\\end{cases}$，则 $x=$ ？",
+        "options": [],
+        "answer": "6",
+        "explanation": "两式相加 $2x=12$，$x=6$。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "加减消元法与实际问题",
+        "question": "解方程组 $\\begin{cases}x+y=10\\\\x-y=2\\end{cases}$，则 $y=$ ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$x=6$，$y=10-6=4$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "二元一次方程组的概念",
+      "core_concept": "含两个未知数、次数为1的整式方程是二元一次方程；两个二元一次方程合起来是二元一次方程组。",
+      "key_formula": "$ax+by=c$",
+      "common_mistakes": [
+        "把 $xy=1$ 当二元一次方程。"
+      ],
+      "tips": "未知数的项都是一次的。"
+    },
+    {
+      "point": "代入消元法",
+      "core_concept": "由一个方程解出一个未知数，代入另一个方程，消去一个未知数。",
+      "key_formula": "消元思想",
+      "common_mistakes": [
+        "代入时忘记整体代入。"
+      ],
+      "tips": "系数简单的方程优先变形。"
+    },
+    {
+      "point": "加减消元法与实际问题",
+      "core_concept": "当同一未知数系数相同或互为相反数时，把两方程相减或相加消元。",
+      "key_formula": "系数相同则相减",
+      "common_mistakes": [
+        "相减时符号出错。"
+      ],
+      "tips": "先调整系数再消元。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "二元一次方程组的概念",
+        "question": "二元一次方程 $2x+y=5$ 的正整数解有几组（　）",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "answer": "2",
+        "explanation": "$x=1,y=3$；$x=2,y=1$，共 2 组。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "加减消元法与实际问题",
+        "question": "解 $\\begin{cases}2x+y=7\\\\x+y=4\\end{cases}$，$x=$ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "相减 $x=3$。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "加减消元法与实际问题",
+        "question": "解 $\\begin{cases}2x+y=7\\\\x+y=4\\end{cases}$，$y=$ ？",
+        "options": [],
+        "answer": "1",
+        "explanation": "$x=3$，$y=4-3=1$。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "代入消元法",
+        "question": "解 $\\begin{cases}y=2x\\\\3x-y=3\\end{cases}$，$x=$ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$3x-2x=3$，$x=3$。"
+      }
+    ]
+  }
+}

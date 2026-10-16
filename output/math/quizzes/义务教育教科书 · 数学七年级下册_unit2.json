@@ -1,0 +1,170 @@
+{
+  "textbook": "七年级下册",
+  "unit": "实数",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「实数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "平方根与立方根",
+        "question": "$\\sqrt{16}=$ ___",
+        "options": [],
+        "answer": "4",
+        "explanation": "算术平方根取非负，$4^2=16$。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平方根与立方根",
+        "question": "9 的平方根是（　）",
+        "options": [
+          "3",
+          "-3",
+          "±3",
+          "81"
+        ],
+        "answer": "±3",
+        "explanation": "正数有两个平方根，互为相反数。"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平方根与立方根",
+        "question": "$\\sqrt[3]{27}=$ ___",
+        "options": [],
+        "answer": "3",
+        "explanation": "$3^3=27$。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "无理数与实数",
+        "question": "下列是无理数的是（　）",
+        "options": [
+          "$\\frac{22}{7}$",
+          "$\\sqrt2$",
+          "0.25",
+          "$-3$"
+        ],
+        "answer": "$\\sqrt2$",
+        "explanation": "$\\sqrt2$ 是无限不循环小数。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "无理数与实数",
+        "question": "实数与数轴上的点一一对应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "这是实数的基本性质。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "实数的运算与估算",
+        "question": "计算：$\\sqrt{25}+\\sqrt[3]{8}=$ ？",
+        "options": [],
+        "answer": "7",
+        "explanation": "$5+2=7$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "平方根与立方根",
+      "core_concept": "若 $x^2=a(a\\ge0)$，则 $x$ 是 $a$ 的平方根，其中非负的为算术平方根。正数有两个平方根，互为相反数。若 $x^3=a$，则 $x$ 是 $a$ 的立方根。",
+      "key_formula": "$\\sqrt{a}\\ge0$；$\\sqrt[3]{-a}=-\\sqrt[3]{a}$",
+      "common_mistakes": [
+        "认为 $\\sqrt{9}=\\pm3$（算术平方根取非负）。"
+      ],
+      "tips": "注意正数平方根有两个，算术平方根只有一个。"
+    },
+    {
+      "point": "无理数与实数",
+      "core_concept": "无限不循环小数是无理数，如 $\\sqrt2$、$\\pi$。有理数和无理数统称实数，实数与数轴上的点一一对应。",
+      "key_formula": "$\\sqrt2\\approx1.414$",
+      "common_mistakes": [
+        "把 $\\frac{22}{7}$ 当无理数（它是分数，有理数）。"
+      ],
+      "tips": "看能否写成分数形式。"
+    },
+    {
+      "point": "实数的运算与估算",
+      "core_concept": "实数的相反数、绝对值、运算律与有理数一致；可用夹逼法估算无理数的大小。",
+      "key_formula": "$|a|$ 定义同有理数",
+      "common_mistakes": [
+        "估算时夹逼区间取错。"
+      ],
+      "tips": "用相邻完全平方数夹逼。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "平方根与立方根",
+        "question": "负数没有平方根，但有立方根。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平方根要求非负；立方根对任意实数都存在。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "无理数与实数",
+        "question": "$\\sqrt5$ 在哪两个整数之间（　）",
+        "options": [
+          "1 和 2",
+          "2 和 3",
+          "3 和 4",
+          "4 和 5"
+        ],
+        "answer": "2 和 3",
+        "explanation": "$2^2=4<5<9=3^2$，故 $2<\\sqrt5<3$。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平方根与立方根",
+        "question": "$\\sqrt{81}=$ ___",
+        "options": [],
+        "answer": "9",
+        "explanation": "$9^2=81$。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "实数的运算与估算",
+        "question": "计算：$|\\sqrt2-1|+1=$ ？（保留最简形式）",
+        "options": [],
+        "answer": "\\sqrt2",
+        "explanation": "$\\sqrt2>1$，故 $|\\sqrt2-1|=\\sqrt2-1$，加 1 得 $\\sqrt2$。"
+      }
+    ]
+  }
+}

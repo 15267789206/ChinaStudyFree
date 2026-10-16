@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级上册",
+  "unit": "古代文明与近代转型",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「古代文明与近代转型」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "古代科技思想文化",
+        "question": "提出“仁”思想的是（　）",
+        "options": [
+          "孔子",
+          "老子",
+          "墨子",
+          "韩非"
+        ],
+        "answer": "孔子",
+        "explanation": "孔子主张仁。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "近代化的艰难起步",
+        "question": "中国近代化的开端是（　）",
+        "options": [
+          "洋务运动",
+          "戊戌变法",
+          "辛亥革命",
+          "新文化运动"
+        ],
+        "answer": "洋务运动",
+        "explanation": "洋务运动是开端。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "古代科技思想文化",
+        "question": "活字印刷术由毕昇发明。",
+        "options": [],
+        "answer": "对",
+        "explanation": "毕昇发明活字印刷。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "近代化的艰难起步",
+        "question": "洋务运动学习西方先进技术。",
+        "options": [],
+        "answer": "对",
+        "explanation": "学器物。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "古代科技思想文化",
+      "core_concept": "战国时期诸子百家争鸣，儒家、道家、墨家、法家观点各异。古代科技有四大发明、张衡地动仪、祖冲之圆周率等。",
+      "key_formula": "百家争鸣 + 四大发明",
+      "common_mistakes": [
+        "把诸子百家与宗教混为一谈。"
+      ],
+      "tips": "诸子是思想家。"
+    },
+    {
+      "point": "近代化的艰难起步",
+      "core_concept": "1840 年鸦片战争后中国被迫开放通商口岸，洋务运动引进西方技术，是中国近代化的开端。",
+      "key_formula": "1840 鸦片战争 → 洋务运动",
+      "common_mistakes": [
+        "认为洋务运动使中国富强。"
+      ],
+      "tips": "只学器物未富强。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "古代科技思想文化",
+        "question": "主张“无为而治”的是（　）",
+        "options": [
+          "道家",
+          "儒家",
+          "墨家",
+          "法家"
+        ],
+        "answer": "道家",
+        "explanation": "道家主张无为。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "近代化的艰难起步",
+        "question": "《南京条约》规定开放五处通商口岸，割让（　）",
+        "options": [
+          "香港岛",
+          "台湾",
+          "九龙",
+          "澳门"
+        ],
+        "answer": "香港岛",
+        "explanation": "割香港岛。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "古代科技思想文化",
+        "question": "《本草纲目》的作者是李时珍。",
+        "options": [],
+        "answer": "对",
+        "explanation": "李时珍著本草纲目。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "近代化的艰难起步",
+        "question": "洋务运动以“自强”“求富”为口号。",
+        "options": [],
+        "answer": "对",
+        "explanation": "洋务口号。"
+      }
+    ]
+  }
+}

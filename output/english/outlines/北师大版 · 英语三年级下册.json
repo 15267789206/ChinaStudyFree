@@ -1,0 +1,57 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Unit 1 School 校园与物品",
+      "knowledge_points": [
+        {
+          "name": "学习用品",
+          "description": "掌握常见学习用品的英文。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "颜色与文具搭配",
+          "description": "用颜色词描述物品。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Unit 2 Family 家庭与身体",
+      "knowledge_points": [
+        {
+          "name": "家庭成员",
+          "description": "掌握家庭成员的英文。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "身体部位",
+          "description": "掌握常见身体部位英文。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

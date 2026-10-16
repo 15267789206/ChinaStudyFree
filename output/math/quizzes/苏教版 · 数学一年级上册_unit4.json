@@ -1,0 +1,154 @@
+{
+  "textbook": "一年级上册",
+  "unit": "认位置",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「认位置」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "上下、前后",
+        "question": "国旗挂在黑板的（　）方",
+        "options": [
+          "上",
+          "下",
+          "前",
+          "后"
+        ],
+        "answer": "上",
+        "explanation": "国旗在上方。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "上下、前后",
+        "question": "我在妈妈的前面，妈妈就在我的（　）",
+        "options": [
+          "后面",
+          "前面",
+          "上面",
+          "左面"
+        ],
+        "answer": "后面",
+        "explanation": "前后相对。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "左右",
+        "question": "通常我们写字的手是（　）",
+        "options": [
+          "右手",
+          "左手",
+          "双脚",
+          "不一定"
+        ],
+        "answer": "右手",
+        "explanation": "多数人右手写字。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "上下、前后",
+        "question": "上和下是相对的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "相对位置。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "上下、前后",
+      "core_concept": "上下：位置高的为上、低的为下；前后：面对的一方为前、背对的一方为后。",
+      "key_formula": "上 / 下 / 前 / 后",
+      "common_mistakes": [
+        "不说参照物就说上下。"
+      ],
+      "tips": "先说明以谁为参照。"
+    },
+    {
+      "point": "左右",
+      "core_concept": "通常写字的手是右手，另一边是左手；左右会随身体朝向改变而改变。",
+      "key_formula": "左 / 右",
+      "common_mistakes": [
+        "以为左右永远不变。"
+      ],
+      "tips": "左右相对。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "左右",
+        "question": "面对北方时，我们的左边是（　）",
+        "options": [
+          "西",
+          "东",
+          "南",
+          "北"
+        ],
+        "answer": "西",
+        "explanation": "面北左西。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "上下、前后",
+        "question": "书在书包里面，书包就在书的（　）",
+        "options": [
+          "外面",
+          "里面",
+          "上面",
+          "下面"
+        ],
+        "answer": "外面",
+        "explanation": "内外相对。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "左右",
+        "question": "左右是相对的，会随朝向改变。",
+        "options": [],
+        "answer": "对",
+        "explanation": "相对位置。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "上下、前后",
+        "question": "排队做操，小明前面有 3 人，这一排小明排第（　）",
+        "options": [
+          "4",
+          "3",
+          "5",
+          "1"
+        ],
+        "answer": "4",
+        "explanation": "前面 3 人，小明第 4。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "Module 2 颜色与物品",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 2 颜色与物品」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "颜色词",
+        "question": "“红色”的英语是（　）",
+        "options": [
+          "red",
+          "black",
+          "green",
+          "white"
+        ],
+        "answer": "red",
+        "explanation": "红色 red。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "物品与指示代词",
+        "question": "___ is my pencil.（近，单数）",
+        "options": [
+          "This",
+          "These",
+          "That",
+          "Those"
+        ],
+        "answer": "This",
+        "explanation": "近单用 this。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "颜色词",
+        "question": "yellow 的意思是黄色。",
+        "options": [],
+        "answer": "对",
+        "explanation": "黄色 yellow。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "物品与指示代词",
+        "question": "those 指远处的复数名词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "those 远复。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "颜色词",
+      "core_concept": "red, yellow, blue, green, black, white, orange, pink, purple。",
+      "key_formula": "颜色词",
+      "common_mistakes": [
+        "把 purple 当作紫色之外的色。"
+      ],
+      "tips": "purple 是紫色。"
+    },
+    {
+      "point": "物品与指示代词",
+      "core_concept": "this / that / these / those：this/these 近，that/those 远；this/that 单数，these/those 复数。",
+      "key_formula": "this（近单）/ that（远单）",
+      "common_mistakes": [
+        "this 与 these 混淆。"
+      ],
+      "tips": "近单 this，远复 those。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "颜色词",
+        "question": "“黑色”的英语是（　）",
+        "options": [
+          "black",
+          "white",
+          "brown",
+          "green"
+        ],
+        "answer": "black",
+        "explanation": "黑色 black。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "物品与指示代词",
+        "question": "___ books are over there.（远，复数）",
+        "options": [
+          "This",
+          "These",
+          "That",
+          "Those"
+        ],
+        "answer": "Those",
+        "explanation": "远复用 those。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "颜色词",
+        "question": "orange 既可表示橙色也可表示橙子。",
+        "options": [],
+        "answer": "对",
+        "explanation": "多义。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "物品与指示代词",
+        "question": "these 指近处的复数名词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "these 近复。"
+      }
+    ]
+  }
+}

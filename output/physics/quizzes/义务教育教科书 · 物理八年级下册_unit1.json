@@ -1,0 +1,175 @@
+{
+  "textbook": "八年级下册",
+  "unit": "力与运动",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「力与运动」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "力与弹力、重力",
+        "question": "质量 2 kg 的物体所受重力是多少 N？（$g$ 取 10 N/kg）",
+        "options": [],
+        "answer": "20",
+        "explanation": "$G=mg=2\\times10=20$ N。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "牛顿第一定律与惯性",
+        "question": "关于惯性，说法正确的是（　）",
+        "options": [
+          "速度越大惯性越大",
+          "质量越大惯性越大",
+          "惯性是一种力",
+          "静止物体没有惯性"
+        ],
+        "answer": "质量越大惯性越大",
+        "explanation": "惯性只与质量有关。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "牛顿第一定律与惯性",
+        "question": "汽车突然刹车时乘客身体前倾，是因为乘客具有惯性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "惯性现象。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "二力平衡与摩擦力",
+        "question": "二力平衡的条件不包括（　）",
+        "options": [
+          "大小相等",
+          "方向相反",
+          "作用在同一直线上",
+          "作用在两个物体上"
+        ],
+        "answer": "作用在两个物体上",
+        "explanation": "平衡力作用在同一物体。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "力与弹力、重力",
+        "question": "重力为 49 N 的物体质量是多少 kg？（$g$ 取 9.8 N/kg）",
+        "options": [],
+        "answer": "5",
+        "explanation": "$m=\\frac Gg=\\frac{49}{9.8}=5$ kg。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "二力平衡与摩擦力",
+        "question": "压力越大，滑动摩擦力一定越大。",
+        "options": [],
+        "answer": "错",
+        "explanation": "还需接触面粗糙程度相同。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "力与弹力、重力",
+      "core_concept": "力是物体对物体的作用，单位牛顿(N)。重力 $G=mg$，$g$ 取 9.8 N/kg（计算常取 10 N/kg）。力的三要素是大小、方向、作用点。",
+      "key_formula": "$G=mg$",
+      "common_mistakes": [
+        "认为物体间不接触就没有力。"
+      ],
+      "tips": "力的作用是相互的。"
+    },
+    {
+      "point": "牛顿第一定律与惯性",
+      "core_concept": "一切物体在没有受到力的作用时，总保持静止状态或匀速直线运动状态。惯性是物体的属性，只与质量有关。",
+      "key_formula": "惯性大小只由质量决定",
+      "common_mistakes": [
+        "认为惯性是一种力。"
+      ],
+      "tips": "惯性不是力，不能说“受到惯性”。"
+    },
+    {
+      "point": "二力平衡与摩擦力",
+      "core_concept": "作用在同一物体上的两个力，大小相等、方向相反、作用在同一直线上时平衡。滑动摩擦力与压力和接触面粗糙程度有关。",
+      "key_formula": "$F_1=F_2$（同体、反向、共线）",
+      "common_mistakes": [
+        "把相互作用力当作平衡力。"
+      ],
+      "tips": "平衡力作用在同一物体上。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "牛顿第一定律与惯性",
+        "question": "牛顿第一定律是通过（　）得出的",
+        "options": [
+          "直接实验",
+          "在实验基础上推理",
+          "想象",
+          "数学推导"
+        ],
+        "answer": "在实验基础上推理",
+        "explanation": "理想实验加推理。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "二力平衡与摩擦力",
+        "question": "用 5 N 的力水平推静止在水平面上的物体，未推动，摩擦力是多少 N？",
+        "options": [],
+        "answer": "5",
+        "explanation": "静止即平衡，摩擦力等于推力 5 N。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "力与弹力、重力",
+        "question": "力的三要素是大小、方向、作用点。",
+        "options": [],
+        "answer": "对",
+        "explanation": "力的三要素影响作用效果。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "二力平衡与摩擦力",
+        "question": "下列能增大摩擦的是（　）",
+        "options": [
+          "加润滑油",
+          "减小压力",
+          "增大接触面粗糙程度",
+          "用滚动代替滑动"
+        ],
+        "answer": "增大接触面粗糙程度",
+        "explanation": "粗糙程度越大摩擦越大。"
+      }
+    ]
+  }
+}

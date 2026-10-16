@@ -1,0 +1,145 @@
+{
+  "textbook": "必修第二册",
+  "unit": "统计与概率",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「统计与概率」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "统计与抽样",
+        "question": "数据 2、4、6、8 的平均数是多少？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$\\frac{2+4+6+8}{4}=5$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "统计与抽样",
+        "question": "数据 1、2、3、4、5 的方差是多少？",
+        "options": [],
+        "answer": "2",
+        "explanation": "平均数 3，方差 $=\\frac{4+1+0+1+4}{5}=2$。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "古典概型与事件关系",
+        "question": "掷一枚骰子，出现偶数点的概率是（　）",
+        "options": [
+          "$\\frac12$",
+          "$\\frac13$",
+          "$\\frac16$",
+          "$\\frac23$"
+        ],
+        "answer": "$\\frac12$",
+        "explanation": "2、4、6 共 3 个，$\\frac36=\\frac12$。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "古典概型与事件关系",
+        "question": "对立事件一定是互斥事件。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对立事件是特殊的互斥事件。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "古典概型与事件关系",
+        "question": "从 1~10 中随机取一个数，它是质数的概率是多少（填分数如 2/5）？",
+        "options": [],
+        "answer": "2/5",
+        "explanation": "质数有 2、3、5、7 共 4 个，$\\frac4{10}=\\frac25$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "统计与抽样",
+      "core_concept": "简单随机抽样（抽签法、随机数法）、分层抽样是常用方法。平均数、众数、中位数刻画集中趋势；方差、标准差刻画离散程度。",
+      "key_formula": "$\\bar x=\\frac1n\\sum x_i$",
+      "common_mistakes": [
+        "分层抽样时比例算错。"
+      ],
+      "tips": "分层按比例抽取。"
+    },
+    {
+      "point": "古典概型与事件关系",
+      "core_concept": "古典概型要求样本点有限且等可能。互斥事件不能同时发生；对立事件必有一个发生。$P(A\\cup B)=P(A)+P(B)$ 对互斥事件成立。",
+      "key_formula": "$P(A)=\\frac mn$",
+      "common_mistakes": [
+        "非等可能时错用古典概型。"
+      ],
+      "tips": "先验证等可能性。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "统计与抽样",
+        "question": "某班 50 人，男生 30 人，按性别分层抽取 10 人，应抽男生多少人？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$10\\times\\frac{30}{50}=6$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "古典概型与事件关系",
+        "question": "同时掷两枚硬币，至少一枚正面的概率是（　）",
+        "options": [
+          "$\\frac12$",
+          "$\\frac34$",
+          "$\\frac14$",
+          "$\\frac23$"
+        ],
+        "answer": "$\\frac34$",
+        "explanation": "只有正反反反两种情况不含正面，$1-\\frac14=\\frac34$。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "古典概型与事件关系",
+        "question": "互斥事件 $A$、$B$ 满足 $P(A\\cup B)=P(A)+P(B)$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "互斥概率加法公式。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "统计与抽样",
+        "question": "数据 2、3、3、5、7 的众数是多少？",
+        "options": [],
+        "answer": "3",
+        "explanation": "3 出现次数最多。"
+      }
+    ]
+  }
+}

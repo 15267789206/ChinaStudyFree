@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "Module 2 日常生活 / Daily life",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 2 日常生活 / Daily life」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一日作息",
+        "question": "I usually ___ up at six o'clock.",
+        "options": [
+          "get",
+          "gets",
+          "getting",
+          "got"
+        ],
+        "answer": "get",
+        "explanation": "主语 I 用原形。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家务与兴趣",
+        "question": "She enjoys ___ music.",
+        "options": [
+          "listen",
+          "listens",
+          "listening",
+          "to listening"
+        ],
+        "answer": "listening",
+        "explanation": "enjoy 后接 doing。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一日作息",
+        "question": "频度副词 usually 放在实义动词之前。",
+        "options": [],
+        "answer": "对",
+        "explanation": "频度副词位置。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "家务与兴趣",
+        "question": "“喜欢做某事”可用 enjoy doing sth。",
+        "options": [],
+        "answer": "对",
+        "explanation": "enjoy doing。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "一日作息",
+      "core_concept": "沪教版 Module 2 涉及起床、上学、吃饭、睡觉等日常活动。常用频度副词 always、usually、often、sometimes、never。",
+      "key_formula": "频度副词 + 一般现在时",
+      "common_mistakes": [
+        "频度副词位置放错。"
+      ],
+      "tips": "频度副词在实义动词前。"
+    },
+    {
+      "point": "家务与兴趣",
+      "core_concept": "用 like/love/enjoy + doing 表示兴趣；用 help with / do housework 谈论家务。",
+      "key_formula": "enjoy doing sth",
+      "common_mistakes": [
+        "enjoy 后面接动词原形。"
+      ],
+      "tips": "enjoy 后接 doing。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一日作息",
+        "question": "He never ___ late for school.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "answer": "is",
+        "explanation": "主语 He 用 is。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家务与兴趣",
+        "question": "I like ___ books in the evening.",
+        "options": [
+          "read",
+          "reads",
+          "reading",
+          "to read"
+        ],
+        "answer": "reading",
+        "explanation": "like 后可接 doing。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一日作息",
+        "question": "频度副词 always 表示频率最高。",
+        "options": [],
+        "answer": "对",
+        "explanation": "频度频率。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "家务与兴趣",
+        "question": "help with sth 表示在某方面提供帮助。",
+        "options": [],
+        "answer": "对",
+        "explanation": "help with。"
+      }
+    ]
+  }
+}

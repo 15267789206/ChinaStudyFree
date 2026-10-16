@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 3 These ducks are very naughty 淘气的鸭子",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「Module 3 These ducks are very naughty 淘气的鸭子」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "指示代词 this / that / these / those",
+        "question": "指近处的多个物体，用（　）",
+        "options": [
+          "these",
+          "this",
+          "that",
+          "those"
+        ],
+        "answer": "these",
+        "explanation": "复近用 these。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "指示代词 this / that / these / those",
+        "question": "指远处的单个物体，用（　）",
+        "options": [
+          "that",
+          "this",
+          "these",
+          "those"
+        ],
+        "answer": "that",
+        "explanation": "单远用 that。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "动物词汇 duck / naughty",
+        "question": "「淘气的」的英文是（　）",
+        "options": [
+          "naughty",
+          "naughtyy",
+          "nauti",
+          "naugthy"
+        ],
+        "answer": "naughty",
+        "explanation": "naughty = 淘气的。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "指示代词 this / that / these / those",
+        "question": "these 是复数，后面接复数名词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "these + 复数。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "指示代词 this / that / these / those",
+      "core_concept": "this 这个（近）、that 那个（远）、these 这些（近，复数）、those 那些（远，复数）。",
+      "key_formula": "This is a duck. / These are ducks.",
+      "common_mistakes": [
+        "these 当成单数。"
+      ],
+      "tips": "单近 this，单远 that；复近 these，复远 those。"
+    },
+    {
+      "point": "动物词汇 duck / naughty",
+      "core_concept": "duck 鸭子（复 ducks）、naughty 淘气的、cute 可爱的、lovely 可爱的。",
+      "key_formula": "These ducks are very naughty!",
+      "common_mistakes": [
+        "duck 复数写成 duckes。"
+      ],
+      "tips": "一般名词直接加 -s。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "指示代词 this / that / these / those",
+        "question": "「那些」的英文是（　）",
+        "options": [
+          "those",
+          "these",
+          "this",
+          "that"
+        ],
+        "answer": "those",
+        "explanation": "复远用 those。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "动物词汇 duck / naughty",
+        "question": "「鸭子」的复数是（　）",
+        "options": [
+          "ducks",
+          "duckes",
+          "duck",
+          "duckies"
+        ],
+        "answer": "ducks",
+        "explanation": "一般加 -s。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "指示代词 this / that / these / those",
+        "question": "this 指近处的单个事物。",
+        "options": [],
+        "answer": "对",
+        "explanation": "单近 this。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "动物词汇 duck / naughty",
+        "question": "— What are those? — ___",
+        "options": [
+          "They are flowers.",
+          "They is flowers.",
+          "It is flowers.",
+          "These are flower."
+        ],
+        "answer": "They are flowers.",
+        "explanation": "复数用 they are。"
+      }
+    ]
+  }
+}

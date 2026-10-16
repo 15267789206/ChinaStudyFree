@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 4 Fun time — Collecting things 收藏",
+  "unit_number": 8,
+  "unit_test": {
+    "title": "第8单元「Module 4 Fun time — Collecting things 收藏」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "收藏词汇 collect / stamp / coin",
+        "question": "「集邮」的英文是（　）",
+        "options": [
+          "collect stamps",
+          "collect stamp",
+          "collecting stamps",
+          "collects stamps"
+        ],
+        "answer": "collect stamps",
+        "explanation": "collect + 复数。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "收藏词汇 collect / stamp / coin",
+        "question": "「硬币」的英文是（　）",
+        "options": [
+          "coin",
+          "coins",
+          "coint",
+          "coyn"
+        ],
+        "answer": "coin",
+        "explanation": "coin 硬币。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "收藏词汇 collect / stamp / coin",
+        "question": "「邮票」的英文是（　）",
+        "options": [
+          "stamp",
+          "stamps",
+          "stampe",
+          "stemp"
+        ],
+        "answer": "stamp",
+        "explanation": "stamp 邮票。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "收藏词汇 collect / stamp / coin",
+        "question": "collect 的意思是「收集」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "collect 收集。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "收藏词汇 collect / stamp / coin",
+      "core_concept": "collect 收集、stamp 邮票、coin 硬币、collection 收藏品。",
+      "key_formula": "collect stamps 集邮",
+      "common_mistakes": [
+        "collect 写成 colect。"
+      ],
+      "tips": "双写 l？不，collect 一个 l，注意拼写 c-o-l-l-e-c-t。"
+    },
+    {
+      "point": "爱好表达 hobby",
+      "core_concept": "hobby 爱好；My hobby is collecting stamps. 询问 What's your hobby?",
+      "key_formula": "What's your hobby? — My hobby is reading.",
+      "common_mistakes": [
+        "hobby 复数变 y 为 i 加 -es。"
+      ],
+      "tips": "hobby → hobbies。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "收藏词汇 collect / stamp / coin",
+        "question": "「我的收藏」的英文是（　）",
+        "options": [
+          "my collection",
+          "my collect",
+          "my collections",
+          "my collecting"
+        ],
+        "answer": "my collection",
+        "explanation": "collection 名词。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "爱好表达 hobby",
+        "question": "「爱好」的英文是（　）",
+        "options": [
+          "hobby",
+          "hobbys",
+          "habby",
+          "hobbie"
+        ],
+        "answer": "hobby",
+        "explanation": "hobby 爱好。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "爱好表达 hobby",
+        "question": "hobby 的复数是 hobbies。",
+        "options": [],
+        "answer": "对",
+        "explanation": "变 y 为 i 加 -es。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "爱好表达 hobby",
+        "question": "「你收藏什么？」的英文是（　）",
+        "options": [
+          "What do you collect?",
+          "What are you collect?",
+          "What do you collecting?",
+          "What you collect?"
+        ],
+        "answer": "What do you collect?",
+        "explanation": "实义动词用 do 提问。"
+      }
+    ]
+  }
+}

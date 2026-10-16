@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级上册",
+  "unit": "天气与气候",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「天气与气候」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "天气与气温、降水",
+        "question": "下列描述属于气候的是（　）",
+        "options": [
+          "今天大风",
+          "明天下雨",
+          "四季如春",
+          "今日气温 20℃"
+        ],
+        "answer": "四季如春",
+        "explanation": "气候是长期平均。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "世界主要气候类型",
+        "question": "“夏季炎热干燥、冬季温和多雨”描述的是（　）",
+        "options": [
+          "温带季风气候",
+          "地中海气候",
+          "热带雨林气候",
+          "温带海洋性气候"
+        ],
+        "answer": "地中海气候",
+        "explanation": "雨热不同期是地中海气候。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "天气与气温、降水",
+        "question": "世界气温大致由低纬向高纬递减。",
+        "options": [],
+        "answer": "对",
+        "explanation": "受纬度影响。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "世界主要气候类型",
+        "question": "热带雨林气候终年高温多雨。",
+        "options": [],
+        "answer": "对",
+        "explanation": "热带雨林气候特征。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "天气与气温、降水",
+      "core_concept": "天气是短时间大气状况，气候是多年平均状况。世界气温由低纬向高纬递减；降水赤道多、两极少，中纬内陆少。",
+      "key_formula": "气温随纬度升高而降低",
+      "common_mistakes": [
+        "把天气与气候混为一谈。"
+      ],
+      "tips": "天气短时多变，气候长期稳定。"
+    },
+    {
+      "point": "世界主要气候类型",
+      "core_concept": "热带雨林气候终年高温多雨；地中海气候夏季炎热干燥、冬季温和多雨；温带季风气候夏季高温多雨、冬季寒冷干燥。",
+      "key_formula": "以温定带、以水定型",
+      "common_mistakes": [
+        "把地中海气候与季风气候特点混淆。"
+      ],
+      "tips": "地中海气候雨热不同期。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "世界主要气候类型",
+        "question": "温带季风气候的降水主要集中在（　）",
+        "options": [
+          "冬季",
+          "夏季",
+          "春季",
+          "全年均匀"
+        ],
+        "answer": "夏季",
+        "explanation": "雨热同期。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "天气与气温、降水",
+        "question": "赤道地区降水多，两极地区降水少。",
+        "options": [],
+        "answer": "对",
+        "explanation": "降水分布规律。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "世界主要气候类型",
+        "question": "北半球陆地上最热月一般出现在 7 月。",
+        "options": [],
+        "answer": "对",
+        "explanation": "北半球 7 月最热。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "天气与气温、降水",
+        "question": "气温日较差是指（　）",
+        "options": [
+          "一天中最高气温与最低气温之差",
+          "一年中最高与最低气温之差",
+          "白天与夜晚的平均气温",
+          "两天的气温差"
+        ],
+        "answer": "一天中最高气温与最低气温之差",
+        "explanation": "日较差定义。"
+      }
+    ]
+  }
+}

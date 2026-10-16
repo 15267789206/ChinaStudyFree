@@ -1,0 +1,47 @@
+{
+  "textbook": "八年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "中国的地理差异与经济发展",
+      "knowledge_points": [
+        {
+          "name": "四大地理区域",
+          "description": "掌握四大地理区域的划分与特征。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "因地制宜发展经济",
+          "description": "理解因地制宜发展农业与工业。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "家乡与环境保护",
+      "knowledge_points": [
+        {
+          "name": "环境保护与可持续发展",
+          "description": "了解环境问题与可持续 strategies。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

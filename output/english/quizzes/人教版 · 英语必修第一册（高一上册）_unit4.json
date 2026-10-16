@@ -1,0 +1,154 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Unit 4 Natural Disasters 自然灾害",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「Unit 4 Natural Disasters 自然灾害」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+        "question": "「洪水」的英文是（　）",
+        "options": [
+          "flood",
+          "flud",
+          "floood",
+          "floud"
+        ],
+        "answer": "flood",
+        "explanation": "flood 洪水。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+        "question": "「地震」的英文是（　）",
+        "options": [
+          "earthquake",
+          "earth quake",
+          "erthquake",
+          "earthquacke"
+        ],
+        "answer": "earthquake",
+        "explanation": "合写。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+        "question": "「灾难」的英文是（　）",
+        "options": [
+          "disaster",
+          "disater",
+          "disastar",
+          "disastre"
+        ],
+        "answer": "disaster",
+        "explanation": "disaster 灾难。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+        "question": "tsunami 的意思是「海啸」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "tsunami 海啸。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "灾害词汇 flood / earthquake / tsunami",
+      "core_concept": "flood 洪水、earthquake 地震、tsunami 海啸、drought 干旱、disaster 灾难。",
+      "key_formula": "a natural disaster 自然灾害",
+      "common_mistakes": [
+        "earthquake 拆成两个词。"
+      ],
+      "tips": "合写 earthquake。"
+    },
+    {
+      "point": "新闻与指令表达",
+      "core_concept": "evacuate 撤离、rescue 救援、in ruins 成废墟；指令 Give instructions。",
+      "key_formula": "prepare for a disaster 防灾准备",
+      "common_mistakes": [
+        "evacuate 拼写错误。"
+      ],
+      "tips": "e-vac-uate。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "新闻与指令表达",
+        "question": "「撤离」的英文是（　）",
+        "options": [
+          "evacuate",
+          "evacute",
+          "evauate",
+          "evacuvate"
+        ],
+        "answer": "evacuate",
+        "explanation": "evacuate 撤离。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "新闻与指令表达",
+        "question": "「救援」的英文是（　）",
+        "options": [
+          "rescue",
+          "rescure",
+          "resque",
+          "rescoue"
+        ],
+        "answer": "rescue",
+        "explanation": "rescue 救援。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "新闻与指令表达",
+        "question": "in ruins 的意思是「成为废墟」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "in ruins。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "灾害词汇 flood / earthquake / tsunami",
+        "question": "「干旱」的英文是（　）",
+        "options": [
+          "drought",
+          "drougt",
+          "draught",
+          "drowght"
+        ],
+        "answer": "drought",
+        "explanation": "drought 干旱。"
+      }
+    ]
+  }
+}

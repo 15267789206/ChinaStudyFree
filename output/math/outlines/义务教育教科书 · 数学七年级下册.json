@@ -1,0 +1,113 @@
+{
+  "textbook": "七年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "相交线与平行线",
+      "knowledge_points": [
+        {
+          "name": "相交线与对顶角",
+          "description": "理解对顶角、邻补角，掌握垂线性质。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "平行线的判定",
+          "description": "掌握平行线的判定方法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "平行线的性质与平移",
+          "description": "掌握平行线性质并理解平移。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "实数",
+      "knowledge_points": [
+        {
+          "name": "平方根与立方根",
+          "description": "理解平方根、算术平方根与立方根。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "无理数与实数",
+          "description": "认识无理数，理解实数与数轴一一对应。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "实数的运算与估算",
+          "description": "会进行实数的简单运算与估算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "二元一次方程组",
+      "knowledge_points": [
+        {
+          "name": "二元一次方程组的概念",
+          "description": "理解二元一次方程(组)与解的意义。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "代入消元法",
+          "description": "会用代入法解二元一次方程组。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "加减消元法与实际问题",
+          "description": "会用加减法解方程组并解决实际问题。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "语言文字与文学评论",
+      "knowledge_points": [
+        {
+          "name": "语言文字积累与运用",
+          "description": "掌握语言文字的规范与运用。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "文学评论与经典阅读",
+          "description": "掌握文学评论的阅读方法。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "整本书阅读与思辨表达",
+      "knowledge_points": [
+        {
+          "name": "整本书阅读方法",
+          "description": "掌握整本书阅读策略。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "思辨性表达",
+          "description": "学习有逻辑地表达观点。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

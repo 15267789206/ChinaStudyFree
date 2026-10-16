@@ -1,0 +1,144 @@
+{
+  "textbook": "四年级下册",
+  "unit": "权利与义务",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「权利与义务」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "生活中的权利",
+        "question": "下面属于未成年人合法权益的是（　）",
+        "options": [
+          "受教育权",
+          "随意旷课",
+          "不写作业",
+          "欺负同学"
+        ],
+        "answer": "受教育权",
+        "explanation": "受教育权受法律保护。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "尊重他人权利",
+        "question": "行使自己的权利时，也要（　）",
+        "options": [
+          "尊重他人的权利",
+          "不顾别人",
+          "想怎样就怎样",
+          "强迫别人"
+        ],
+        "answer": "尊重他人的权利",
+        "explanation": "行使权利有边界。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "生活中的权利",
+        "question": "未成年人的合法权益受法律保护。",
+        "options": [],
+        "answer": "对",
+        "explanation": "权益受保护。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "尊重他人权利",
+        "question": "有说话的自由，也要听别人把话说完。",
+        "options": [],
+        "answer": "对",
+        "explanation": "尊重他人表达。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "生活中的权利",
+      "core_concept": "未成年人享有受教育权、生命健康权、人身自由权等。权利受法律保护，也受法律约束。",
+      "key_formula": "权利与义务相伴",
+      "common_mistakes": [
+        "认为可以随意处置自己的物品而不用商量。"
+      ],
+      "tips": "权利要依法行使。"
+    },
+    {
+      "point": "尊重他人权利",
+      "core_concept": "我们有学习的权利，也不能影响别人学习；我们有发言的自由，也要尊重别人说话。行使权利有边界。",
+      "key_formula": "行使权利有边界",
+      "common_mistakes": [
+        "在自习课大声说话影响他人。"
+      ],
+      "tips": "尊重别人也是尊重自己。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "生活中的权利",
+        "question": "父母不让你上学，去打工，这侵犯了你的（　）",
+        "options": [
+          "受教育权",
+          "休息权",
+          "财产权",
+          "姓名权"
+        ],
+        "answer": "受教育权",
+        "explanation": "剥夺上学机会违法。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "尊重他人权利",
+        "question": "在图书馆大声打电话会影响他人学习。",
+        "options": [],
+        "answer": "对",
+        "explanation": "要尊重他人。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "尊重他人权利",
+        "question": "课堂上想发言，应该（　）",
+        "options": [
+          "先举手再发言",
+          "直接大喊",
+          "打断老师",
+          "和同桌说"
+        ],
+        "answer": "先举手再发言",
+        "explanation": "发言先举手。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "生活中的权利",
+        "question": "权利与义务是相互伴随的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "权利义务相伴。"
+      }
+    ]
+  }
+}

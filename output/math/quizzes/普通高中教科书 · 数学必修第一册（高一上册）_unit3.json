@@ -1,0 +1,150 @@
+{
+  "textbook": "必修第一册",
+  "unit": "函数的概念与性质",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「函数的概念与性质」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "函数的概念与表示",
+        "question": "已知 $f(x)=2x^2-1$，则 $f(2)=$ ？",
+        "options": [],
+        "answer": "7",
+        "explanation": "$2\\times4-1=7$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "函数的概念与表示",
+        "question": "函数 $f(x)=\\frac{1}{x-2}$ 的定义域是 $x\\ne$ ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "分母不为 0。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "函数的单调性与奇偶性",
+        "question": "$f(x)=x^3$ 是（　）",
+        "options": [
+          "奇函数",
+          "偶函数",
+          "非奇非偶",
+          "既奇又偶"
+        ],
+        "answer": "奇函数",
+        "explanation": "$f(-x)=-x^3=-f(x)$。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "函数的单调性与奇偶性",
+        "question": "$f(x)=x^2$ 在 $(0,+\\infty)$ 上单调递增。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对称轴为 $x=0$。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "函数的单调性与奇偶性",
+        "question": "$f(x)=|x|$ 是（　）",
+        "options": [
+          "奇函数",
+          "偶函数",
+          "非奇非偶",
+          "周期函数"
+        ],
+        "answer": "偶函数",
+        "explanation": "$|-x|=|x|$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "函数的概念与表示",
+      "core_concept": "函数是定义域、对应关系、值域三要素确定的对应关系。求函数值只需代入解析式；求定义域需考虑分母不为 0、偶次根式被开方数非负等。",
+      "key_formula": "$y=f(x)$",
+      "common_mistakes": [
+        "忽略定义域限制。"
+      ],
+      "tips": "先看分母和根号。"
+    },
+    {
+      "point": "函数的单调性与奇偶性",
+      "core_concept": "增函数：$x_1<x_2\\Rightarrow f(x_1)<f(x_2)$。奇函数满足 $f(-x)=-f(x)$（图象关于原点对称）；偶函数满足 $f(-x)=f(x)$（图象关于 $y$ 轴对称）。",
+      "key_formula": "$f(-x)=-f(x)$ / $f(-x)=f(x)$",
+      "common_mistakes": [
+        "忘记判断定义域是否关于原点对称。"
+      ],
+      "tips": "先看定义域再判奇偶性。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "函数的单调性与奇偶性",
+        "question": "已知 $f(x)$ 是奇函数且 $f(3)=5$，则 $f(-3)=$ ？",
+        "options": [],
+        "answer": "-5",
+        "explanation": "奇函数 $f(-x)=-f(x)$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "函数的概念与表示",
+        "question": "函数 $f(x)=\\sqrt{x-1}$ 的定义域是（　）",
+        "options": [
+          "$x>1$",
+          "$x\\ge1$",
+          "$x\\le1$",
+          "$\\mathbb R$"
+        ],
+        "answer": "$x\\ge1$",
+        "explanation": "被开方数非负。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "函数的概念与表示",
+        "question": "函数的三要素是定义域、对应关系和值域。",
+        "options": [],
+        "answer": "对",
+        "explanation": "函数三要素。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "函数的单调性与奇偶性",
+        "question": "若 $f(x)$ 在区间上满足 $x_1<x_2\\Rightarrow f(x_1)>f(x_2)$，则 $f(x)$ 在该区间上单调 ___。",
+        "options": [],
+        "answer": "递减",
+        "explanation": "减函数定义。"
+      }
+    ]
+  }
+}

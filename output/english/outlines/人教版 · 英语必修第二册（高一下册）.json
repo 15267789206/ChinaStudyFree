@@ -1,0 +1,57 @@
+{
+  "textbook": "必修第二册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "现在完成时与过去完成时",
+      "knowledge_points": [
+        {
+          "name": "现在完成时",
+          "description": "掌握现在完成时与 since/for。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "过去完成时",
+          "description": "掌握过去完成时的构成与用法。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "定语从句",
+      "knowledge_points": [
+        {
+          "name": "限制性定语从句",
+          "description": "掌握定语从句的关系词选择。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "非限制性定语从句",
+          "description": "区分限制性与非限制性定语从句。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

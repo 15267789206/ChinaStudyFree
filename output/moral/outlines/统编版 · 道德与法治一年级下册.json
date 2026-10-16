@@ -1,0 +1,57 @@
+{
+  "textbook": "一年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "好习惯伴成长",
+      "knowledge_points": [
+        {
+          "name": "生活中的好习惯",
+          "description": "养成生活与卫生好习惯。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "今日事今日毕",
+          "description": "养成做事不拖拉的习惯。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "我与大家",
+      "knowledge_points": [
+        {
+          "name": "分享与合作",
+          "description": "学会分享、乐于合作。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "诚实守信",
+          "description": "做一个诚实的好孩子。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

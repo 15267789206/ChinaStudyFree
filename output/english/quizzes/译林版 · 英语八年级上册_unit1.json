@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "单元话题：学校生活与自我认知",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「单元话题：学校生活与自我认知」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "人物介绍与外貌",
+        "question": "This is my sister. She ___ short hair.",
+        "options": [
+          "has",
+          "have",
+          "is",
+          "are"
+        ],
+        "answer": "has",
+        "explanation": "第三人称单数用 has。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "日常作息与频率",
+        "question": "— How often do you exercise? — ___",
+        "options": [
+          "Every day",
+          "Yesterday",
+          "Last week",
+          "An hour ago"
+        ],
+        "answer": "Every day",
+        "explanation": "问频率答频率。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "人物介绍与外貌",
+        "question": "介绍人物可用 This is… 引出。",
+        "options": [],
+        "answer": "对",
+        "explanation": "介绍句型。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "日常作息与频率",
+        "question": "never 表示频率最低。",
+        "options": [],
+        "answer": "对",
+        "explanation": "频率最低。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "人物介绍与外貌",
+      "core_concept": "译林版（牛津译林）按 Unit 组织，每单元含 Story time、Grammar time 等板块。介绍人物常用 This is… / He is… / She has…",
+      "key_formula": "介绍句型",
+      "common_mistakes": [
+        "第三人称单数漏 -s。"
+      ],
+      "tips": "注意主谓一致。"
+    },
+    {
+      "point": "日常作息与频率",
+      "core_concept": "用 How often 提问频率；回答用 always、usually、often、sometimes、seldom、never。",
+      "key_formula": "How often…?",
+      "common_mistakes": [
+        "把 How often 与 How long 混淆。"
+      ],
+      "tips": "How often 问频率。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "人物介绍与外貌",
+        "question": "— Who is he? — ___",
+        "options": [
+          "He is my uncle.",
+          "He's twelve.",
+          "He is fine.",
+          "He is at school."
+        ],
+        "answer": "He is my uncle.",
+        "explanation": "问身份答身份。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "日常作息与频率",
+        "question": "She usually ___ to school at seven.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "answer": "goes",
+        "explanation": "第三人称单数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "人物介绍与外貌",
+        "question": "形容词性物主代词后接名词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "物主代词。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "日常作息与频率",
+        "question": "always 表示频率最高。",
+        "options": [],
+        "answer": "对",
+        "explanation": "频率最高。"
+      }
+    ]
+  }
+}

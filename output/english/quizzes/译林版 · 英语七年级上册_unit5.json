@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Unit 5 Let's celebrate! 庆祝",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「Unit 5 Let's celebrate! 庆祝」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "节日词汇 Halloween / Christmas / Spring Festival",
+        "question": "「万圣节」的英文是（　）",
+        "options": [
+          "Halloween",
+          "Hallowean",
+          "Hallowen",
+          "Hallowween"
+        ],
+        "answer": "Halloween",
+        "explanation": "Halloween 万圣节。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "节日词汇 Halloween / Christmas / Spring Festival",
+        "question": "「圣诞节」的英文是（　）",
+        "options": [
+          "Christmas",
+          "Christms",
+          "Cristmas",
+          "Christamas"
+        ],
+        "answer": "Christmas",
+        "explanation": "Christmas 圣诞。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "庆祝活动 dress up / trick or treat",
+        "question": "「不给糖就捣蛋」的英文是（　）",
+        "options": [
+          "trick or treat",
+          "treat or trick",
+          "trick and treat",
+          "trick or treating"
+        ],
+        "answer": "trick or treat",
+        "explanation": "固定表达。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "节日词汇 Halloween / Christmas / Spring Festival",
+        "question": "celebrate 的意思是「庆祝」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "celebrate 庆祝。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "节日词汇 Halloween / Christmas / Spring Festival",
+      "core_concept": "Halloween 万圣节、Christmas 圣诞节、Spring Festival 春节；celebrate 庆祝。",
+      "key_formula": "at Halloween / at Christmas",
+      "common_mistakes": [
+        "节日前一律用 at 不对。"
+      ],
+      "tips": "Christmas/Halloween 用 at，Day 用 on。"
+    },
+    {
+      "point": "庆祝活动 dress up / trick or treat",
+      "core_concept": "dress up 打扮、trick or treat 不给糖就捣蛋、pumpkin lantern 南瓜灯、present 礼物。",
+      "key_formula": "dress up as a ghost 打扮成鬼",
+      "common_mistakes": [
+        "dress up 写成 dress down。"
+      ],
+      "tips": "up 表装扮，down 表穿着朴素。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "庆祝活动 dress up / trick or treat",
+        "question": "「打扮成」的英文是（　）",
+        "options": [
+          "dress up as",
+          "dress as up",
+          "dress up in",
+          "dress up"
+        ],
+        "answer": "dress up as",
+        "explanation": "as 表扮成。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "节日词汇 Halloween / Christmas / Spring Festival",
+        "question": "「春节」的英文是（　）",
+        "options": [
+          "the Spring Festival",
+          "Spring Festival",
+          "the Spring Festivals",
+          "Spring festival"
+        ],
+        "answer": "the Spring Festival",
+        "explanation": "加 the。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "庆祝活动 dress up / trick or treat",
+        "question": "pumpkin lantern 的意思是「南瓜灯」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "万圣节南瓜灯。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "庆祝活动 dress up / trick or treat",
+        "question": "「我们圣诞节互送礼物。」的英文是（　）",
+        "options": [
+          "We give presents to each other at Christmas.",
+          "We give presents each other in Christmas.",
+          "We give present to each other at Christmas.",
+          "We gives presents to each other at Christmas."
+        ],
+        "answer": "We give presents to each other at Christmas.",
+        "explanation": "at Christmas。"
+      }
+    ]
+  }
+}

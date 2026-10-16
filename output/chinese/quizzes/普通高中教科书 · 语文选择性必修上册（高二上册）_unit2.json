@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修上册",
+  "unit": "逻辑与思辨性阅读",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「逻辑与思辨性阅读」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "逻辑思维与论证结构",
+        "question": "由一般结论推出特殊结论的推理是（　）",
+        "options": [
+          "演绎推理",
+          "归纳推理",
+          "类比推理",
+          "直觉判断"
+        ],
+        "answer": "演绎推理",
+        "explanation": "一般→特殊为演绎。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "批判性思维",
+        "question": "审慎接受一个观点，首先应检查（　）",
+        "options": [
+          "证据是否充分",
+          "语气是否坚定",
+          "结论是否惊人",
+          "作者是否有名气"
+        ],
+        "answer": "证据是否充分",
+        "explanation": "先看证据。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "逻辑思维与论证结构",
+        "question": "演绎推理的结论具有必然性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "演绎结论必然。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "批判性思维",
+        "question": "批判性思维意味着怀疑一切。",
+        "options": [],
+        "answer": "错",
+        "explanation": "是有根据的审慎，不是全盘否定。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "逻辑思维与论证结构",
+      "core_concept": "概念、判断、推理是思维的基本形式。演绎推理由一般到特殊，结论必然为真；归纳推理由特殊到一般，结论或然。",
+      "key_formula": "演绎（必然）vs 归纳（或然）",
+      "common_mistakes": [
+        "认为归纳推理结论必然可靠。"
+      ],
+      "tips": "归纳需验证。"
+    },
+    {
+      "point": "批判性思维",
+      "core_concept": "批判性思维要求对观点保持审慎态度：看证据是否充分、推理是否有效、是否有隐含假设、能否被反例推翻。",
+      "key_formula": "证据 + 推理 + 假设",
+      "common_mistakes": [
+        "把「有道理」当作「已证明」。"
+      ],
+      "tips": "区分可能性与必然性。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "逻辑思维与论证结构",
+        "question": "「所有金属都导电，所以铜是金属，所以铜导电」属于（　）",
+        "options": [
+          "演绎推理",
+          "归纳推理",
+          "类比",
+          "循环论证"
+        ],
+        "answer": "演绎推理",
+        "explanation": "演绎推理。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "批判性思维",
+        "question": "下列做法最能体现批判性思维的是（　）",
+        "options": [
+          "对不同来源的说法交叉验证",
+          "只相信一个来源",
+          "谁说的就信谁的",
+          "谁说的都不信"
+        ],
+        "answer": "对不同来源的说法交叉验证",
+        "explanation": "交叉验证。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "逻辑思维与论证结构",
+        "question": "类比推理结论可靠，无需检验。",
+        "options": [],
+        "answer": "错",
+        "explanation": "类比结论或然，须检验。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "批判性思维",
+        "question": "提出问题时应关注论证的隐含假设。",
+        "options": [],
+        "answer": "对",
+        "explanation": "审视隐含前提。"
+      }
+    ]
+  }
+}

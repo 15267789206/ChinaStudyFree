@@ -1,0 +1,160 @@
+{
+  "textbook": "必修1",
+  "unit": "细胞的基本结构与物质运输",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「细胞的基本结构与物质运输」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "细胞器与细胞核",
+        "question": "有氧呼吸的主要场所是（　）",
+        "options": [
+          "线粒体",
+          "叶绿体",
+          "核糖体",
+          "液泡"
+        ],
+        "answer": "线粒体",
+        "explanation": "线粒体是有氧呼吸主要场所。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "物质跨膜运输",
+        "question": "需要载体蛋白且消耗能量的是（　）",
+        "options": [
+          "自由扩散",
+          "协助扩散",
+          "主动运输",
+          "渗透作用"
+        ],
+        "answer": "主动运输",
+        "explanation": "主动运输特点。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "细胞器与细胞核",
+        "question": "细胞核是遗传信息库，是细胞代谢和遗传的控制中心。",
+        "options": [],
+        "answer": "对",
+        "explanation": "细胞核功能。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "细胞器与细胞核",
+        "question": "与分泌蛋白的加工、运输有关的结构是（　）",
+        "options": [
+          "核糖体、内质网、高尔基体",
+          "线粒体、叶绿体",
+          "溶酶体、液泡",
+          "中心体、核糖体"
+        ],
+        "answer": "核糖体、内质网、高尔基体",
+        "explanation": "分泌蛋白途径。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "物质跨膜运输",
+        "question": "自由扩散不需要载体蛋白，也不消耗能量。",
+        "options": [],
+        "answer": "对",
+        "explanation": "自由扩散特点。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "细胞器与细胞核",
+      "core_concept": "线粒体是有氧呼吸的主要场所，叶绿体是光合作用场所，核糖体是蛋白质合成场所，高尔基体与分泌物的形成有关。细胞核是遗传信息库和代谢控制中心。",
+      "key_formula": "线粒体 = 动力车间",
+      "common_mistakes": [
+        "把核糖体当作蛋白质加工场所。"
+      ],
+      "tips": "合成在核糖体，加工靠内质网和高尔基体。"
+    },
+    {
+      "point": "物质跨膜运输",
+      "core_concept": "自由扩散和协助扩散不消耗能量，主动运输需要载体蛋白并消耗 ATP。大分子进出通过胞吞、胞吐。",
+      "key_formula": "主动运输：逆浓度 + 耗能 + 载体",
+      "common_mistakes": [
+        "把协助扩散当作耗能过程。"
+      ],
+      "tips": "看是否逆浓度、是否耗能。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "物质跨膜运输",
+        "question": "将红细胞置于清水中会吸水涨破，说明（　）",
+        "options": [
+          "细胞膜具有选择透过性",
+          "水分子可自由通过细胞膜",
+          "红细胞无细胞壁保护",
+          "细胞内液浓度低于清水"
+        ],
+        "answer": "红细胞无细胞壁保护",
+        "explanation": "动物细胞无细胞壁。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "细胞器与细胞核",
+        "question": "叶绿体是光合作用的场所，只存在于植物细胞中。",
+        "options": [],
+        "answer": "错",
+        "explanation": "部分藻类也有，但某些植物细胞（如根细胞）无叶绿体。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "细胞器与细胞核",
+        "question": "蛋白质合成的场所是（　）",
+        "options": [
+          "核糖体",
+          "高尔基体",
+          "中心体",
+          "溶酶体"
+        ],
+        "answer": "核糖体",
+        "explanation": "核糖体是合成场所。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "物质跨膜运输",
+        "question": "胞吞和胞吐体现了细胞膜的流动性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "依赖膜流动性。"
+      }
+    ]
+  }
+}

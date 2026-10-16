@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级下册",
+  "unit": "人体的呼吸与循环",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「人体的呼吸与循环」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "呼吸系统与血液循环",
+        "question": "血液中运输氧气的成分是（　）",
+        "options": [
+          "血浆",
+          "红细胞",
+          "白细胞",
+          "血小板"
+        ],
+        "answer": "红细胞",
+        "explanation": "红细胞含血红蛋白。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "呼吸系统与血液循环",
+        "question": "体循环的起点是（　）",
+        "options": [
+          "左心室",
+          "右心室",
+          "左心房",
+          "右心房"
+        ],
+        "answer": "左心室",
+        "explanation": "体循环起于左心室。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "泌尿系统与排泄",
+        "question": "尿液的形成包括肾小球的滤过和肾小管的重吸收。",
+        "options": [],
+        "answer": "对",
+        "explanation": "尿液形成两过程。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "呼吸系统与血液循环",
+        "question": "肺动脉中流的是静脉血。",
+        "options": [],
+        "answer": "对",
+        "explanation": "肺动脉流静脉血。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "呼吸系统与血液循环",
+      "core_concept": "呼吸系统由呼吸道和肺组成，肺泡适于气体交换。血液由血浆和血细胞组成，红细胞含血红蛋白运输氧气。血液循环分体循环与肺循环。",
+      "key_formula": "体循环：左心室→主动脉→…→右心房",
+      "common_mistakes": [
+        "认为动脉里一定流动脉血。"
+      ],
+      "tips": "肺动脉里流静脉血。"
+    },
+    {
+      "point": "泌尿系统与排泄",
+      "core_concept": "泌尿系统由肾脏、输尿管、膀胱、尿道组成。尿液形成经肾小球滤过和肾小管重吸收两个过程。",
+      "key_formula": "肾小球滤过 + 肾小管重吸收",
+      "common_mistakes": [
+        "认为原尿中含大量血细胞。"
+      ],
+      "tips": "正常尿液中无血细胞与葡萄糖。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "呼吸系统与血液循环",
+        "question": "人体内进行气体交换的主要场所是（　）",
+        "options": [
+          "气管",
+          "肺泡",
+          "支气管",
+          "鼻腔"
+        ],
+        "answer": "肺泡",
+        "explanation": "肺泡是气体交换场所。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "泌尿系统与排泄",
+        "question": "原尿中不含血细胞和大分子蛋白质。",
+        "options": [],
+        "answer": "对",
+        "explanation": "肾小球滤过作用。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "呼吸系统与血液循环",
+        "question": "血小板有止血和加速凝血的作用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "血小板功能。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "泌尿系统与排泄",
+        "question": "形成尿液的器官是（　）",
+        "options": [
+          "肾脏",
+          "膀胱",
+          "输尿管",
+          "尿道"
+        ],
+        "answer": "肾脏",
+        "explanation": "肾脏形成尿液。"
+      }
+    ]
+  }
+}

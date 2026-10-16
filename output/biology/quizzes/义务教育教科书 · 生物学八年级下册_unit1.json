@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "人的健康与免疫",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「人的健康与免疫」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "传染病与免疫",
+        "question": "预防传染病的关键措施之一是（　）",
+        "options": [
+          "控制传染源",
+          "增加人口",
+          "减少锻炼",
+          "多聚集"
+        ],
+        "answer": "控制传染源",
+        "explanation": "预防三措施之一。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "人体的三道防线与免疫",
+        "question": "人体的第一道防线是（　）",
+        "options": [
+          "皮肤和黏膜",
+          "吞噬细胞",
+          "抗体",
+          "淋巴细胞"
+        ],
+        "answer": "皮肤和黏膜",
+        "explanation": "第一道防线是皮肤黏膜。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "传染病与免疫",
+        "question": "传染病具有传染性和流行性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "传染病特点。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "人体的三道防线与免疫",
+        "question": "免疫系统具有防御、监控和清除功能。",
+        "options": [],
+        "answer": "对",
+        "explanation": "免疫系统三大功能。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "传染病与免疫",
+      "core_concept": "传染病由病原体引起，具有传染性、流行性和地方性、发病初期症状。传播途径有空气传播、饮食传播、生物媒介传播等。预防措施包括控制传染源、切断传播途径、保护易感人群。",
+      "key_formula": "控制传染源 + 切断传播途径 + 保护易感人群",
+      "common_mistakes": [
+        "只打疫苗而不注意卫生。"
+      ],
+      "tips": "预防三环节。"
+    },
+    {
+      "point": "人体的三道防线与免疫",
+      "core_concept": "人体三道防线：第一道皮肤和黏膜，第二道体液中的杀菌物质和吞噬细胞，第三道免疫器官和免疫细胞。前两道人人都有，第三道只出现在部分人身上。",
+      "key_formula": "三道防线",
+      "common_mistakes": [
+        "认为免疫系统只会清除病菌。"
+      ],
+      "tips": "免疫有防御、监控和清除功能。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "传染病与免疫",
+        "question": "下列属于切断传播途径的是（　）",
+        "options": [
+          "勤洗手、戴口罩",
+          "隔离病人",
+          "接种疫苗",
+          "加强锻炼"
+        ],
+        "answer": "勤洗手、戴口罩",
+        "explanation": "切断传播途径。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "人体的三道防线与免疫",
+        "question": "抗体主要分布在（　）",
+        "options": [
+          "血浆和淋巴中",
+          "皮肤表面",
+          "骨骼中",
+          "肌肉中"
+        ],
+        "answer": "血浆和淋巴中",
+        "explanation": "抗体在体液中。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "传染病与免疫",
+        "question": "接种疫苗属于保护易感人群。",
+        "options": [],
+        "answer": "对",
+        "explanation": "接种疫苗保护易感人群。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "人体的三道防线与免疫",
+        "question": "艾滋病主要破坏人体的免疫系统。",
+        "options": [],
+        "answer": "对",
+        "explanation": "艾滋病危害免疫系统。"
+      }
+    ]
+  }
+}

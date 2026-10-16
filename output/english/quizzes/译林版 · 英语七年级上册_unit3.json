@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Unit 3 Welcome to our school! 学校",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「Unit 3 Welcome to our school! 学校」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "学校场所 library / playground / office",
+        "question": "「图书馆」的英文是（　）",
+        "options": [
+          "library",
+          "libary",
+          "librery",
+          "libbary"
+        ],
+        "answer": "library",
+        "explanation": "library 图书馆。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "学校场所 library / playground / office",
+        "question": "「操场」的英文是（　）",
+        "options": [
+          "playground",
+          "play ground",
+          "playgrund",
+          "playgroud"
+        ],
+        "answer": "playground",
+        "explanation": "合写 playground。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "人称代词主格与宾格",
+        "question": "「请把书给我。」的英文是（　）",
+        "options": [
+          "Please give me the book.",
+          "Please give I the book.",
+          "Please give my the book.",
+          "Please give mine the book."
+        ],
+        "answer": "Please give me the book.",
+        "explanation": "动词后用宾格。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "人称代词主格与宾格",
+        "question": "主格代词在句中作主语。",
+        "options": [],
+        "answer": "对",
+        "explanation": "主格作主语。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "学校场所 library / playground / office",
+      "core_concept": "library 图书馆、playground 操场、office 办公室、classroom 教室、hall 大厅。",
+      "key_formula": "in the library / on the playground",
+      "common_mistakes": [
+        "library 拼写错误。"
+      ],
+      "tips": "library 两个 r。"
+    },
+    {
+      "point": "人称代词主格与宾格",
+      "core_concept": "主格 I/you/he/she/it/we/they 作主语；宾格 me/you/him/her/it/us/them 作宾语。",
+      "key_formula": "Please give me the book. / We like him.",
+      "common_mistakes": [
+        "动词后用主格。"
+      ],
+      "tips": "动词介词后用宾格。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "学校场所 library / playground / office",
+        "question": "「办公室」的英文是（　）",
+        "options": [
+          "office",
+          "offices",
+          "ofice",
+          "offce"
+        ],
+        "answer": "office",
+        "explanation": "office 办公室。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "人称代词主格与宾格",
+        "question": "「我们喜欢她。」的英文是（　）",
+        "options": [
+          "We like her.",
+          "We like she.",
+          "We likes her.",
+          "We like hers."
+        ],
+        "answer": "We like her.",
+        "explanation": "动词后宾格。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "人称代词主格与宾格",
+        "question": "him 是 he 的宾格。",
+        "options": [],
+        "answer": "对",
+        "explanation": "主 he 宾 him。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "学校场所 library / playground / office",
+        "question": "「欢迎来到我们学校！」的英文是（　）",
+        "options": [
+          "Welcome to our school!",
+          "Welcome in our school!",
+          "Welcome to ours school!",
+          "Welcome to our schools!"
+        ],
+        "answer": "Welcome to our school!",
+        "explanation": "welcome to。"
+      }
+    ]
+  }
+}

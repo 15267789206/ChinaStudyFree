@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级下册",
+  "unit": "世界舞台与个人选择",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「世界舞台与个人选择」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "中国与世界",
+        "question": "构建人类命运共同体体现了（　）",
+        "options": [
+          "共商共建共享",
+          "各行其是",
+          "以邻为壑",
+          "单边主义"
+        ],
+        "answer": "共商共建共享",
+        "explanation": "命运共同体理念。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "职业与人生选择",
+        "question": "关于职业，正确的认识是（　）",
+        "options": [
+          "职业没有高低贵贱之分",
+          "只有当官才有前途",
+          "体力劳动没有价值",
+          "职业选择决定人生全部"
+        ],
+        "answer": "职业没有高低贵贱之分",
+        "explanation": "职业平等。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "中国与世界",
+        "question": "我国坚持对外开放基本国策。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对外开放。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "职业与人生选择",
+        "question": "踏实劳动才能创造美好生活。",
+        "options": [],
+        "answer": "对",
+        "explanation": "劳动创造价值。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "中国与世界",
+      "core_concept": "世界各国相互联系、相互依存的程度空前加深。中国坚持对外开放基本国策，推动构建人类命运共同体。",
+      "key_formula": "构建人类命运共同体",
+      "common_mistakes": [
+        "认为中国闭关自守有利。"
+      ],
+      "tips": "坚持对外开放。"
+    },
+    {
+      "point": "职业与人生选择",
+      "core_concept": "职业不分高低贵贱，都是社会需要的岗位。择业要看社会需要与个人条件，踏实劳动创造美好生活。",
+      "key_formula": "劳动创造价值",
+      "common_mistakes": [
+        "把职业分出高低贵贱。"
+      ],
+      "tips": "劳动最光荣。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "中国与世界",
+        "question": "面对经济全球化，我国应（　）",
+        "options": [
+          "坚持对外开放、互利共赢",
+          "封闭锁国",
+          "脱钩断链",
+          "拒绝一切合作"
+        ],
+        "answer": "坚持对外开放、互利共赢",
+        "explanation": "开放才能发展。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "职业与人生选择",
+        "question": "择业时应考虑（　）",
+        "options": [
+          "社会需要与个人特长",
+          "只看工资高低",
+          "只看面子",
+          "跟随潮流"
+        ],
+        "answer": "社会需要与个人特长",
+        "explanation": "理性择业。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "中国与世界",
+        "question": "构建人类命运共同体已经成为国际共识。",
+        "options": [],
+        "answer": "对",
+        "explanation": "国际共识。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "职业与人生选择",
+        "question": "每个岗位都是社会需要的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "岗位平等。"
+      }
+    ]
+  }
+}

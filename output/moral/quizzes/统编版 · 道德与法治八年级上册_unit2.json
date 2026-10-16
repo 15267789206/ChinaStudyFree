@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "网络生活与社会诚信",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「网络生活与社会诚信」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "合理利用网络",
+        "question": "面对网络上未经证实的信息，正确做法是（　）",
+        "options": [
+          "查证信源后再判断和转发",
+          "马上转发",
+          "大量传播",
+          "当作事实"
+        ],
+        "answer": "查证信源后再判断和转发",
+        "explanation": "先查证再转发。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "诚信与失信后果",
+        "question": "失信惩戒制度的主要目的是（　）",
+        "options": [
+          "让失信者承担相应后果、维护公平",
+          "惩罚所有人",
+          "取代法律",
+          "限制消费自由"
+        ],
+        "answer": "让失信者承担相应后果、维护公平",
+        "explanation": "惩戒目的是维护公平。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "合理利用网络",
+        "question": "沉迷网络游戏会影响身心健康和学习。",
+        "options": [],
+        "answer": "对",
+        "explanation": "沉迷危害。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "诚信与失信后果",
+        "question": "失信者会在经济和社会生活中受到惩戒。",
+        "options": [],
+        "answer": "对",
+        "explanation": "失信惩戒。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "合理利用网络",
+      "core_concept": "网络信息鱼龙混杂，要提高媒介素养，学会“信息节食”、标注信源、交叉验证。沉迷网络会影响学习和身心健康。",
+      "key_formula": "提高媒介素养",
+      "common_mistakes": [
+        "不加辨别地转发信息。"
+      ],
+      "tips": "转发前先查证。"
+    },
+    {
+      "point": "诚信与失信后果",
+      "core_concept": "诚信是社会主义核心价值观的重要内容，失信者会在经济、社会生活中受到惩戒。失信惩戒不是目的，关键是人人讲诚信。",
+      "key_formula": "诚信无价",
+      "common_mistakes": [
+        "认为失信只是道德问题。"
+      ],
+      "tips": "失信有法律后果。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "合理利用网络",
+        "question": "下列属于健康上网行为的是（　）",
+        "options": [
+          "控制上网时长、拒绝不良信息",
+          "沉迷网络游戏",
+          "浏览暴力色情内容",
+          "随意加陌生好友"
+        ],
+        "answer": "控制上网时长、拒绝不良信息",
+        "explanation": "健康上网。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "诚信与失信后果",
+        "question": "下列行为体现诚信的是（　）",
+        "options": [
+          "如实汇报考试情况",
+          "考试作弊",
+          "虚报成绩骗取荣誉",
+          "冒用他人名义"
+        ],
+        "answer": "如实汇报考试情况",
+        "explanation": "诚信体现在细节。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "合理利用网络",
+        "question": "网络空间也要遵守法律法规。",
+        "options": [],
+        "answer": "对",
+        "explanation": "网络不是法外之地。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "诚信与失信后果",
+        "question": "诚信是良好人格的重要组成部分。",
+        "options": [],
+        "answer": "对",
+        "explanation": "诚信重要。"
+      }
+    ]
+  }
+}

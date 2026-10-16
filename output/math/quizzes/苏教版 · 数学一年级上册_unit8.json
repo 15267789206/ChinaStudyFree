@@ -1,0 +1,160 @@
+{
+  "textbook": "一年级上册",
+  "unit": "10以内的加法和减法",
+  "unit_number": 8,
+  "unit_test": {
+    "title": "第8单元「10以内的加法和减法」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "10 以内的加法",
+        "question": "计算：3 + 4 = ？",
+        "options": [],
+        "answer": "7",
+        "explanation": "3 + 4 = 7。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "10 以内的加法",
+        "question": "计算：2 + 5 = ？",
+        "options": [],
+        "answer": "7",
+        "explanation": "2 + 5 = 7。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "10 以内的加法",
+        "question": "计算：6 + 3 = ？",
+        "options": [],
+        "answer": "9",
+        "explanation": "6 + 3 = 9。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "10 以内的减法",
+        "question": "计算：9 − 5 = ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "9 − 5 = 4。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "10 以内的减法",
+        "question": "计算：8 − 3 = ？",
+        "options": [],
+        "answer": "5",
+        "explanation": "8 − 3 = 5。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "10 以内的加法",
+        "question": "树上有 4 只鸟，又飞来 2 只，一共（　）只",
+        "options": [
+          "6",
+          "5",
+          "7",
+          "8"
+        ],
+        "answer": "6",
+        "explanation": "4 + 2 = 6。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "10 以内的加法",
+      "core_concept": "把两部分合起来用加法；可用分与合、接着数、凑十法计算。",
+      "key_formula": "$a+b=c$",
+      "common_mistakes": [
+        "把加法当减法。"
+      ],
+      "tips": "合起来用加法。"
+    },
+    {
+      "point": "10 以内的减法",
+      "core_concept": "从总数里去掉一部分求剩下用减法；可用「想加算减」。",
+      "key_formula": "$a-b=c$",
+      "common_mistakes": [
+        "减法顺序颠倒。"
+      ],
+      "tips": "总数减去掉的部分。"
+    },
+    {
+      "point": "连加、连减与加减混合",
+      "core_concept": "连加、连减、加减混合都按从左到右的顺序计算。",
+      "key_formula": "从左到右",
+      "common_mistakes": [
+        "先算右边的。"
+      ],
+      "tips": "从左往右算。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "连加、连减与加减混合",
+        "question": "2 + 3 + 4 = ？",
+        "options": [],
+        "answer": "9",
+        "explanation": "2 + 3 = 5，5 + 4 = 9。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "连加、连减与加减混合",
+        "question": "9 − 2 − 3 = ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "9 − 2 = 7，7 − 3 = 4。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "连加、连减与加减混合",
+        "question": "10 − 4 + 2 = ？",
+        "options": [],
+        "answer": "8",
+        "explanation": "10 − 4 = 6，6 + 2 = 8。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "连加、连减与加减混合",
+        "question": "两步式题按从左到右的顺序计算。",
+        "options": [],
+        "answer": "对",
+        "explanation": "运算顺序。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级下册",
+  "unit": "古诗文与议论文写作",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「古诗文与议论文写作」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古诗文复习与默写",
+        "question": "翻译文言文时首先要做到（　）",
+        "options": [
+          "字字落实、句句准确",
+          "只要大意对",
+          "可增删原文",
+          "用白话替代"
+        ],
+        "answer": "字字落实、句句准确",
+        "explanation": "翻译要落实。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "议论文与材料作文写作",
+        "question": "议论文写作中最重要的是（　）",
+        "options": [
+          "观点鲜明、论据充分",
+          "辞藻华丽",
+          "字数多",
+          "开头新颖"
+        ],
+        "answer": "观点鲜明、论据充分",
+        "explanation": "议论文三要素。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古诗文复习与默写",
+        "question": "默写要一字不错，注意字形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "默写准确性。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "议论文与材料作文写作",
+        "question": "材料作文要审清材料的多角度内涵。",
+        "options": [],
+        "answer": "对",
+        "explanation": "审材。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "古诗文复习与默写",
+      "core_concept": "九年级应重点掌握《鱼我所欲也》《送东阳马生序》《曹刿论战》等名篇的文言实词虚词、翻译与默写。",
+      "key_formula": "实词 + 虚词 + 翻译 + 默写",
+      "common_mistakes": [
+        "只背译文不理解字词。"
+      ],
+      "tips": "字字落实。"
+    },
+    {
+      "point": "议论文与材料作文写作",
+      "core_concept": "议论文要观点鲜明、论据充分、论证有力。材料作文要审清材料内涵，确定立意，安排结构。",
+      "key_formula": "观点 + 论据 + 论证",
+      "common_mistakes": [
+        "堆砌材料而无观点。"
+      ],
+      "tips": "一材多角度挖。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古诗文复习与默写",
+        "question": "“鱼我所欲也”中“欲”的意思是（　）",
+        "options": [
+          "想要",
+          "欲望",
+          "将要",
+          "需要"
+        ],
+        "answer": "想要",
+        "explanation": "欲=想要。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "议论文与材料作文写作",
+        "question": "材料作文立意过于狭窄，问题多出在（　）",
+        "options": [
+          "没有从材料中读出深层内涵",
+          "语言不通顺",
+          "字数不足",
+          "卷面不整洁"
+        ],
+        "answer": "没有从材料中读出深层内涵",
+        "explanation": "审材不深。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古诗文复习与默写",
+        "question": "文言实词要结合语境推断词义。",
+        "options": [],
+        "answer": "对",
+        "explanation": "语境推断。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "议论文与材料作文写作",
+        "question": "议论文可以用事实论据也可以用道理论据。",
+        "options": [],
+        "answer": "对",
+        "explanation": "论据类型。"
+      }
+    ]
+  }
+}

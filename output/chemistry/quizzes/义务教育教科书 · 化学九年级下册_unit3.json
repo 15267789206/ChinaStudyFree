@@ -1,0 +1,171 @@
+{
+  "textbook": "九年级下册",
+  "unit": "酸和碱",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「酸和碱」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "常见的酸及其性质",
+        "question": "稀释浓硫酸的正确操作是（　）",
+        "options": [
+          "把水倒入浓硫酸",
+          "把浓硫酸倒入水中并搅拌",
+          "两者同时倒入",
+          "先加热再混合"
+        ],
+        "answer": "把浓硫酸倒入水中并搅拌",
+        "explanation": "酸入水并搅拌散热。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "常见的碱与中和反应",
+        "question": "中和 40 g 氢氧化钠需要氯化氢多少 g？[$\\text{NaOH}+\\text{HCl}=\\text{NaCl}+\\text{H}_2\\text{O}$，NaOH 为 40，HCl 为 36.5]",
+        "options": [],
+        "answer": "36.5",
+        "explanation": "$\\frac{40}{40}=\\frac{x}{36.5}$，$x=36.5$ g。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "常见的碱与中和反应",
+        "question": "中和反应的实质是氢离子与氢氧根离子结合生成水。",
+        "options": [],
+        "answer": "对",
+        "explanation": "中和反应实质。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "常见的碱与中和反应",
+        "question": "某溶液 pH=3，则该溶液显（　）",
+        "options": [
+          "酸性",
+          "碱性",
+          "中性",
+          "无法判断"
+        ],
+        "answer": "酸性",
+        "explanation": "pH<7 显酸性。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "常见的酸及其性质",
+        "question": "下列物质不能与稀盐酸反应的是（　）",
+        "options": [
+          "铁",
+          "氧化铜",
+          "氢氧化钠",
+          "铜"
+        ],
+        "answer": "铜",
+        "explanation": "铜在氢之后，不与稀盐酸反应。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "常见的酸及其性质",
+        "question": "酸能使紫色石蕊试液变红。",
+        "options": [],
+        "answer": "对",
+        "explanation": "酸的指示剂反应。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "常见的酸及其性质",
+      "core_concept": "酸能与指示剂、活泼金属、金属氧化物、碱、某些盐反应。浓硫酸具有吸水性和脱水性，稀释时应把浓硫酸沿器壁慢慢注入水中并搅拌。",
+      "key_formula": "$\\text{Fe}_2\\text{O}_3+6\\text{HCl}=2\\text{FeCl}_3+3\\text{H}_2\\text{O}$",
+      "common_mistakes": [
+        "稀释时把水倒入浓硫酸。"
+      ],
+      "tips": "酸入水，边加边搅。"
+    },
+    {
+      "point": "常见的碱与中和反应",
+      "core_concept": "碱能与指示剂、酸、某些盐反应。中和反应是酸与碱作用生成盐和水的反应，实质是 $\\text{H}^++\\text{OH}^-=\\text{H}_2\\text{O}$。$\\text{pH}=7$ 中性，$<7$ 酸性，$>7$ 碱性。",
+      "key_formula": "$\\text{NaOH}+\\text{HCl}=\\text{NaCl}+\\text{H}_2\\text{O}$",
+      "common_mistakes": [
+        "认为 pH 越小酸性越弱。"
+      ],
+      "tips": "pH 越小酸性越强。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "常见的碱与中和反应",
+        "question": "用 20 g 氢氧化钠溶液恰好中和 36.5 g 1% 的盐酸，该氢氧化钠溶液的质量分数是多少（填百分数数字，如 2）？",
+        "options": [],
+        "answer": "2",
+        "explanation": "HCl 为 $36.5\\times1\\%=0.365$ g，需 NaOH $=\\frac{40}{36.5}\\times0.365=0.4$ g，$\\frac{0.4}{20}\\times100\\%=2\\%$。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "常见的酸及其性质",
+        "question": "浓硫酸敞口放置一段时间后，质量（　）",
+        "options": [
+          "增大",
+          "减小",
+          "不变",
+          "先增后减"
+        ],
+        "answer": "增大",
+        "explanation": "浓硫酸吸水。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "常见的碱与中和反应",
+        "question": "用 pH 试纸测溶液 pH 前应先用水润湿。",
+        "options": [],
+        "answer": "错",
+        "explanation": "润湿会稀释溶液导致误差。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "常见的碱与中和反应",
+        "question": "农业上常用熟石灰改良（　）",
+        "options": [
+          "酸性土壤",
+          "碱性土壤",
+          "中性土壤",
+          "盐碱地"
+        ],
+        "answer": "酸性土壤",
+        "explanation": "熟石灰显碱性能中和酸性。"
+      }
+    ]
+  }
+}

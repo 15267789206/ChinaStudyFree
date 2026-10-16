@@ -1,0 +1,155 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第二章 有理数及其运算",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「第二章 有理数及其运算」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "有理数与数轴",
+        "question": "$-6$ 的绝对值是多少？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$|-6|=6$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "相反数与绝对值",
+        "question": "$-\\frac34$ 的倒数是多少（填分数如 -4/3）？",
+        "options": [],
+        "answer": "-4/3",
+        "explanation": "倒数为 $-\\frac43$。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的运算与科学记数法",
+        "question": "计算：-7 + 4 = ？",
+        "options": [],
+        "answer": "-3",
+        "explanation": "-7 + 4 = -3。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的运算与科学记数法",
+        "question": "计算：-5 + -9 = ？",
+        "options": [],
+        "answer": "-14",
+        "explanation": "-5 + -9 = -14。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的运算与科学记数法",
+        "question": "$(-3)^2$ 的值是多少？",
+        "options": [],
+        "answer": "9",
+        "explanation": "负数的偶次幂为正。"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "有理数的运算与科学记数法",
+        "question": "用科学记数法表示 56000 为 $5.6\\times10^n$，$n=$ ___",
+        "options": [],
+        "answer": "4",
+        "explanation": "$56000=5.6\\times10^4$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "有理数与数轴",
+      "core_concept": "整数和分数统称有理数。规定了原点、正方向、单位长度的直线叫数轴；数轴上右边的数总比左边的大。",
+      "key_formula": "数轴三要素：原点、正方向、单位长度",
+      "common_mistakes": [
+        "误以为 0 不是有理数。"
+      ],
+      "tips": "比较两个负数，绝对值大的反而小。"
+    },
+    {
+      "point": "相反数与绝对值",
+      "core_concept": "只有符号不同的两个数互为相反数，0 的相反数是 0。$|a|$ 表示 $a$ 到原点的距离，绝对值非负。",
+      "key_formula": "$|-a|=|a|$",
+      "common_mistakes": [
+        "认为 $|a|=a$ 恒成立。"
+      ],
+      "tips": "先判断符号再求绝对值。"
+    },
+    {
+      "point": "有理数的运算与科学记数法",
+      "core_concept": "同号相乘得正、异号得负；除以一个非零数等于乘它的倒数。科学记数法写成 $a\\times10^n$（$1\\le|a|<10$）。",
+      "key_formula": "$a\\times10^n\\ (1\\le|a|<10)$",
+      "common_mistakes": [
+        "$a$ 的范围写错。"
+      ],
+      "tips": "先定符号，再算绝对值。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的运算与科学记数法",
+        "question": "计算：$-2^3=$ ？",
+        "options": [],
+        "answer": "-8",
+        "explanation": "先乘方后取负：$-8$。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "相反数与绝对值",
+        "question": "数轴上表示 $-3$ 的点与表示 $2$ 的点之间的距离是多少？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$2-(-3)=5$。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "相反数与绝对值",
+        "question": "0 的相反数是 ___。",
+        "options": [],
+        "answer": "0",
+        "explanation": "0 的相反数仍是 0。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "有理数的运算与科学记数法",
+        "question": "两个负数相乘，积为正数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "同号得正。"
+      }
+    ]
+  }
+}

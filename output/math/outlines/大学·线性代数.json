@@ -1,0 +1,57 @@
+{
+  "textbook": "线性代数",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "行列式与矩阵",
+      "knowledge_points": [
+        {
+          "name": "行列式",
+          "description": "掌握二、三阶行列式计算与性质。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "矩阵的运算",
+          "description": "掌握矩阵加减、数乘与乘法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "线性方程组",
+      "knowledge_points": [
+        {
+          "name": "线性方程组的解法",
+          "description": "掌握高斯消元与解的判定。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "向量组与向量空间",
+          "description": "理解线性相关与秩的概念。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

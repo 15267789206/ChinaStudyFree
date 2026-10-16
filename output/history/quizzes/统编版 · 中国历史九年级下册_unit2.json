@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级下册",
+  "unit": "世界舞台与国际格局",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「世界舞台与国际格局」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "二战后世界格局的变化",
+        "question": "美苏冷战开始的标志是（　）",
+        "options": [
+          "杜鲁门主义出台",
+          "马歇尔计划",
+          "北约成立",
+          "柏林危机"
+        ],
+        "answer": "杜鲁门主义出台",
+        "explanation": "杜鲁门主义是冷战标志。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "经济全球化与挑战",
+        "question": "世界贸易组织的简称是（　）",
+        "options": [
+          "WTO",
+          "IMF",
+          "WB",
+          "G20"
+        ],
+        "answer": "WTO",
+        "explanation": "WTO 是世贸组织。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "二战后世界格局的变化",
+        "question": "1991 年苏联解体标志两极格局结束。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两极格局结束。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "经济全球化与挑战",
+        "question": "经济全球化趋势不可逆转。",
+        "options": [],
+        "answer": "对",
+        "explanation": "全球化趋势。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "二战后世界格局的变化",
+      "core_concept": "二战后美苏两极格局形成（杜鲁门主义、马歇尔计划、北约、华约）。20 世纪 90 年代苏联解体，两极格局结束，世界朝多极化方向发展。",
+      "key_formula": "杜鲁门主义 = 冷战标志",
+      "common_mistakes": [
+        "把马歇尔计划当作军事同盟。"
+      ],
+      "tips": "马歇尔计划是经济援助。"
+    },
+    {
+      "point": "经济全球化与挑战",
+      "core_concept": "第三次科技革命推动经济全球化，WTO 成立标志世界经济贸易组织建立。全球化带来机遇也带来挑战。",
+      "key_formula": "WTO = 世贸组织",
+      "common_mistakes": [
+        "认为全球化只有好处。"
+      ],
+      "tips": "机遇与挑战并存。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "二战后世界格局的变化",
+        "question": "两极格局结束后，世界发展的趋势是（　）",
+        "options": [
+          "多极化",
+          "单极化终结",
+          "全球化结束",
+          "回到冷战"
+        ],
+        "answer": "多极化",
+        "explanation": "多极化趋势。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "经济全球化与挑战",
+        "question": "经济全球化带来的主要挑战是（　）",
+        "options": [
+          "发展中国家处于劣势、风险增多",
+          "没有任何挑战",
+          "只对发达国家有利无对发展中国家",
+          "导致完全失业"
+        ],
+        "answer": "发展中国家处于劣势、风险增多",
+        "explanation": "全球化有挑战。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "二战后世界格局的变化",
+        "question": "和平与发展是当今时代的主题。",
+        "options": [],
+        "answer": "对",
+        "explanation": "时代主题。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "经济全球化与挑战",
+        "question": "中国加入世界贸易组织促进了经济发展。",
+        "options": [],
+        "answer": "对",
+        "explanation": "加入WTO促发展。"
+      }
+    ]
+  }
+}

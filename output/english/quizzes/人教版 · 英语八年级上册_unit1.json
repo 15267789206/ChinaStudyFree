@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "一般现在时与现在进行时",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「一般现在时与现在进行时」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时",
+        "question": "She ___ her homework every evening.",
+        "options": [
+          "do",
+          "does",
+          "is doing",
+          "did"
+        ],
+        "answer": "does",
+        "explanation": "第三人称单数用 does。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "现在进行时",
+        "question": "Look! The boys ___ football on the playground.",
+        "options": [
+          "play",
+          "plays",
+          "are playing",
+          "played"
+        ],
+        "answer": "are playing",
+        "explanation": "Look! 提示正在进行。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时",
+        "question": "一般现在时可表示客观事实，如 The earth goes around the sun.",
+        "options": [],
+        "answer": "对",
+        "explanation": "客观事实用一般现在时。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "现在进行时",
+        "question": "现在进行时表示此刻正在发生的动作。",
+        "options": [],
+        "answer": "对",
+        "explanation": "进行时表进行。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "一般现在时",
+      "core_concept": "一般现在时表示经常性动作或客观事实。否定和疑问要借助助动词 do/does，第三人称单数动词加 -s/-es。",
+      "key_formula": "do/does + 动词原形",
+      "common_mistakes": [
+        "第三人称单数忘记加 -s。"
+      ],
+      "tips": "助动词后用原形。"
+    },
+    {
+      "point": "现在进行时",
+      "core_concept": "现在进行时表示此刻正在进行的动作，由 be + 动词 -ing 构成，常与 now、at the moment 连用。",
+      "key_formula": "be + 动词-ing",
+      "common_mistakes": [
+        "与一般现在时的用法混淆。"
+      ],
+      "tips": "看时间标志词。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时",
+        "question": "___ your father watch TV in the evening?",
+        "options": [
+          "Does",
+          "Do",
+          "Is",
+          "Are"
+        ],
+        "answer": "Does",
+        "explanation": "第三人称单数疑问用 Does。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "现在进行时",
+        "question": "Listen! Someone ___ in the next room.",
+        "options": [
+          "sings",
+          "sing",
+          "is singing",
+          "sang"
+        ],
+        "answer": "is singing",
+        "explanation": "Listen! 提示进行。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时",
+        "question": "助动词 does 后面的动词要用原形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "does 后用原形。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "现在进行时",
+        "question": "现在进行时可用于 play with 等固定搭配的动词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "固定搭配例外。"
+      }
+    ]
+  }
+}

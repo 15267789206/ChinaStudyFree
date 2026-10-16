@@ -1,0 +1,57 @@
+{
+  "textbook": "六年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "阅读与成长",
+      "knowledge_points": [
+        {
+          "name": "阅读习惯与读书方法",
+          "description": "掌握读书方法，养成阅读习惯。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "学习中的思考",
+          "description": "学会独立思考与合作探究。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "校园生活与热爱祖国",
+      "knowledge_points": [
+        {
+          "name": "学校与班级生活",
+          "description": "参与班级与学校管理。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "热爱祖国与民族团结",
+          "description": "增强国家认同与民族团结。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

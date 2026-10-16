@@ -1,0 +1,155 @@
+{
+  "textbook": "必修1",
+  "unit": "组成细胞的分子",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「组成细胞的分子」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "蛋白质与核酸",
+        "question": "蛋白质的基本组成单位是（　）",
+        "options": [
+          "葡萄糖",
+          "氨基酸",
+          "核苷酸",
+          "脂肪酸"
+        ],
+        "answer": "氨基酸",
+        "explanation": "氨基酸是蛋白质单体。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "蛋白质与核酸",
+        "question": "由 100 个氨基酸构成的含 2 条肽链的蛋白质，肽键数为多少？",
+        "options": [],
+        "answer": "98",
+        "explanation": "$100-2=98$ 个肽键。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "蛋白质与核酸",
+        "question": "DNA 主要分布在细胞核中。",
+        "options": [],
+        "answer": "对",
+        "explanation": "DNA 主要在细胞核。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "糖类、脂质与水盐",
+        "question": "细胞中含量最多的化合物是（　）",
+        "options": [
+          "蛋白质",
+          "水",
+          "糖类",
+          "脂质"
+        ],
+        "answer": "水",
+        "explanation": "水含量最多。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "糖类、脂质与水盐",
+        "question": "作为储能物质的脂质主要是（　）",
+        "options": [
+          "磷脂",
+          "脂肪",
+          "胆固醇",
+          "维生素 D"
+        ],
+        "answer": "脂肪",
+        "explanation": "脂肪是储能物质。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "蛋白质与核酸",
+      "core_concept": "蛋白质基本单位是氨基酸，结构多样性由氨基酸种类、数目、排列顺序和肽链空间结构决定。核酸是遗传信息的携带者，DNA 双链、RNA 单链。",
+      "key_formula": "脱水缩合：肽键数 = 氨基酸数 − 肽链数",
+      "common_mistakes": [
+        "计算肽键时忘记减去肽链数。"
+      ],
+      "tips": "环状肽另有区别。"
+    },
+    {
+      "point": "糖类、脂质与水盐",
+      "core_concept": "糖类是主要能源物质，脂肪是良好储能物质，蛋白质是生命活动的主要承担者，核酸控制遗传变异。水是含量最多的化合物。",
+      "key_formula": "细胞中含量最多：水",
+      "common_mistakes": [
+        "把蛋白质当含量最多的化合物。"
+      ],
+      "tips": "最多的是水，最多的有机物是蛋白质。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "蛋白质与核酸",
+        "question": "蛋白质结构多样性的原因不包括（　）",
+        "options": [
+          "氨基酸种类不同",
+          "氨基酸数目不同",
+          "氨基酸排列顺序不同",
+          "氨基酸都含氨基和羧基"
+        ],
+        "answer": "氨基酸都含氨基和羧基",
+        "explanation": "这是共性不是多样性原因。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "糖类、脂质与水盐",
+        "question": "核酸的基本单位是核苷酸。",
+        "options": [],
+        "answer": "对",
+        "explanation": "核苷酸是核酸单体。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "蛋白质与核酸",
+        "question": "50 个氨基酸形成 1 条肽链，失去水分子多少个？",
+        "options": [],
+        "answer": "49",
+        "explanation": "失水数 = 肽键数 = 49。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "糖类、脂质与水盐",
+        "question": "自由水比例越高，细胞代谢越旺盛。",
+        "options": [],
+        "answer": "对",
+        "explanation": "自由水与代谢相关。"
+      }
+    ]
+  }
+}

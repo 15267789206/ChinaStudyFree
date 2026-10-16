@@ -1,0 +1,144 @@
+{
+  "textbook": "必修下册",
+  "unit": "现代文阅读与语言文字运用",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「现代文阅读与语言文字运用」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "小说与戏剧阅读",
+        "question": "戏剧的核心是（　）",
+        "options": [
+          "冲突",
+          "对白",
+          "场景",
+          "幕次"
+        ],
+        "answer": "冲突",
+        "explanation": "戏剧核心是冲突。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "语言文字积累",
+        "question": "成语使用最忌讳的是（　）",
+        "options": [
+          "望文生义",
+          "恰当使用",
+          "结合语境",
+          "注意褒贬"
+        ],
+        "answer": "望文生义",
+        "explanation": "望文生义是常见错误。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "小说与戏剧阅读",
+        "question": "戏剧通过人物对白与动作推动剧情。",
+        "options": [],
+        "answer": "对",
+        "explanation": "戏剧表现手法。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "语言文字积累",
+        "question": "表达得体要考慮对象与场合。",
+        "options": [],
+        "answer": "对",
+        "explanation": "得体要求。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "小说与戏剧阅读",
+      "core_concept": "戏剧以冲突为核心矛盾，通过人物对白与动作推动剧情。分析戏剧要抓冲突类型与人物关系。",
+      "key_formula": "冲突 → 剧情",
+      "common_mistakes": [
+        "只记台词不分析冲突。"
+      ],
+      "tips": "抓核心矛盾。"
+    },
+    {
+      "point": "语言文字积累",
+      "core_concept": "语言运用要准确、简明、连贯、得体。成语使用要避免望文生义与褒贬误用。",
+      "key_formula": "准确 + 简明 + 连贯 + 得体",
+      "common_mistakes": [
+        "望文生义用成语。"
+      ],
+      "tips": "成语要看语境。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "小说与戏剧阅读",
+        "question": "分析戏剧冲突时首先应（　）",
+        "options": [
+          "找出人物之间的核心矛盾",
+          "统计台词数量",
+          "记住作者生平",
+          "看舞台布景"
+        ],
+        "answer": "找出人物之间的核心矛盾",
+        "explanation": "抓核心矛盾。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "语言文字积累",
+        "question": "句子的连贯性主要通过（　）",
+        "options": [
+          "语意衔接与结构一致",
+          "字数相同",
+          "押韵",
+          "字数多"
+        ],
+        "answer": "语意衔接与结构一致",
+        "explanation": "连贯性要求。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "小说与戏剧阅读",
+        "question": "戏剧冲突有正面冲突与侧面冲突之分。",
+        "options": [],
+        "answer": "对",
+        "explanation": "冲突类型。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "语言文字积累",
+        "question": "答题与写作都应做到表达得体。",
+        "options": [],
+        "answer": "对",
+        "explanation": "得体。"
+      }
+    ]
+  }
+}

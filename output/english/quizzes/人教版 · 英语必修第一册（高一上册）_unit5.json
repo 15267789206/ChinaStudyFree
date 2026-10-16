@@ -1,0 +1,154 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Unit 5 Languages Around the World 世界语言",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「Unit 5 Languages Around the World 世界语言」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "语言词汇 dialect / character",
+        "question": "「方言」的英文是（　）",
+        "options": [
+          "dialect",
+          "dialekt",
+          "dilect",
+          "dialectt"
+        ],
+        "answer": "dialect",
+        "explanation": "dialect 方言。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "语言词汇 dialect / character",
+        "question": "「书写系统」的英文是（　）",
+        "options": [
+          "writing system",
+          "write system",
+          "writing systems",
+          "writting system"
+        ],
+        "answer": "writing system",
+        "explanation": "writing system。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "英语的传播与变体",
+        "question": "「口音」的英文是（　）",
+        "options": [
+          "accent",
+          "acsent",
+          "accsent",
+          "ascent"
+        ],
+        "answer": "accent",
+        "explanation": "accent 口音。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "英语的传播与变体",
+        "question": "English is widely used. 意思接近「英语被广泛使用」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "widely used。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "语言词汇 dialect / character",
+      "core_concept": "dialect 方言、character 汉字、system 系统、plural 复数、native language 母语。",
+      "key_formula": "Chinese characters 汉字",
+      "common_mistakes": [
+        "character 拼写错误。"
+      ],
+      "tips": "char-ac-ter。"
+    },
+    {
+      "point": "英语的传播与变体",
+      "core_concept": "English is widely used. 英语被广泛使用；accent 口音；American English 美式英语、British English 英式英语。",
+      "key_formula": "English is an international language.",
+      "common_mistakes": [
+        "widely 写成 wide。"
+      ],
+      "tips": "修饰 used 用副词 widely。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "语言词汇 dialect / character",
+        "question": "「母语」的英文是（　）",
+        "options": [
+          "native language",
+          "nature language",
+          "natvie language",
+          "national language"
+        ],
+        "answer": "native language",
+        "explanation": "native language。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "英语的传播与变体",
+        "question": "「复数」的英文是（　）",
+        "options": [
+          "plural",
+          "plurall",
+          "plurl",
+          "plaral"
+        ],
+        "answer": "plural",
+        "explanation": "plural 复数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "语言词汇 dialect / character",
+        "question": "汉字是表意文字，有悠久历史。",
+        "options": [],
+        "answer": "对",
+        "explanation": "文化常识。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "英语的传播与变体",
+        "question": "「世界上有许多人说英语。」的英文是（　）",
+        "options": [
+          "Many people speak English in the world.",
+          "Many people speak English in world.",
+          "Many people speaks English in the world.",
+          "Much people speak English in the world."
+        ],
+        "answer": "Many people speak English in the world.",
+        "explanation": "people 复数概念。"
+      }
+    ]
+  }
+}

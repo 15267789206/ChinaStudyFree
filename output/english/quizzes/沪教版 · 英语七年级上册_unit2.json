@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 1 My life — Daily life 日常生活",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 1 My life — Daily life 日常生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "日常动词短语",
+        "question": "「我每天六点起床。」的英文是（　）",
+        "options": [
+          "I get up at six.",
+          "I gets up at six.",
+          "I get up in six.",
+          "I getting up at six."
+        ],
+        "answer": "I get up at six.",
+        "explanation": "第一人称用原形。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时第三人称单数",
+        "question": "He ___ to school by bus every day.",
+        "options": [
+          "goes",
+          "go",
+          "going",
+          "went"
+        ],
+        "answer": "goes",
+        "explanation": "三单加 -es。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "日常动词短语",
+        "question": "「上床睡觉」的英文是（　）",
+        "options": [
+          "go to bed",
+          "go to school",
+          "get up",
+          "go home"
+        ],
+        "answer": "go to bed",
+        "explanation": "go to bed 睡觉。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "日常动词短语",
+        "question": "have breakfast 的意思是「吃早饭」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "三餐用 have。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "日常动词短语",
+      "core_concept": "get up 起床、have breakfast 吃早饭、go to school 去上学、do homework 做作业、go to bed 上床睡觉。",
+      "key_formula": "I get up at six every day.",
+      "common_mistakes": [
+        "have breakfast 说成 eat breakfast 虽对但教材用 have。"
+      ],
+      "tips": "三餐动词用 have。"
+    },
+    {
+      "point": "一般现在时第三人称单数",
+      "core_concept": "主语是 he/she/it 时动词加 -s/-es：go→goes、watch→watches、have→has。",
+      "key_formula": "He goes to school by bus.",
+      "common_mistakes": [
+        "三单忘记变化。"
+      ],
+      "tips": "看主语是不是他/她/它。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时第三人称单数",
+        "question": "She ___ TV in the evening.",
+        "options": [
+          "watches",
+          "watch",
+          "watchs",
+          "watching"
+        ],
+        "answer": "watches",
+        "explanation": "ch 结尾加 -es。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时第三人称单数",
+        "question": "My mother ___ breakfast every morning.",
+        "options": [
+          "has",
+          "have",
+          "haves",
+          "having"
+        ],
+        "answer": "has",
+        "explanation": "have 的三单是 has。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时第三人称单数",
+        "question": "every day 常与一般现在时连用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表习惯。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "日常动词短语",
+        "question": "「做作业」的英文是（　）",
+        "options": [
+          "do homework",
+          "make homework",
+          "do homeworks",
+          "does homework"
+        ],
+        "answer": "do homework",
+        "explanation": "固定搭配。"
+      }
+    ]
+  }
+}

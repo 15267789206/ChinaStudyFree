@@ -1,0 +1,144 @@
+{
+  "textbook": "四年级下册",
+  "unit": "我们的国家与家乡",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「我们的国家与家乡」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "祖国的象征与统一",
+        "question": "我国的国旗是（　）",
+        "options": [
+          "五星红旗",
+          "米字旗",
+          "星条旗",
+          "太阳旗"
+        ],
+        "answer": "五星红旗",
+        "explanation": "国旗是五星红旗。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "民族团结与家乡变化",
+        "question": "我国是一个（　）",
+        "options": [
+          "统一的多民族国家",
+          "单一民族国家",
+          "没有民族的国家",
+          "移民国家"
+        ],
+        "answer": "统一的多民族国家",
+        "explanation": "我国是多民族国家。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "祖国的象征与统一",
+        "question": "国歌是国家的象征，要尊重。",
+        "options": [],
+        "answer": "对",
+        "explanation": "尊重国歌。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "民族团结与家乡变化",
+        "question": "各民族之间要平等团结。",
+        "options": [],
+        "answer": "对",
+        "explanation": "民族团结。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "祖国的象征与统一",
+      "core_concept": "国旗、国徽、国歌是国家的象征。我国位于亚洲东部、太平洋西岸，陆地面积约 960 万平方千米，是多民族国家。",
+      "key_formula": "国旗五星红旗",
+      "common_mistakes": [
+        "把国歌当作普通歌曲随意改编。"
+      ],
+      "tips": "尊重国家象征。"
+    },
+    {
+      "point": "民族团结与家乡变化",
+      "core_concept": "我国是统一的多民族国家，各民族一律平等、互相团结。改革开放以来家乡在交通、住房、教育等方面变化巨大。",
+      "key_formula": "各民族一家亲",
+      "common_mistakes": [
+        "认为少数民族与汉族不平等。"
+      ],
+      "tips": "民族团结要靠大家。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "祖国的象征与统一",
+        "question": "我国的国歌是（　）",
+        "options": [
+          "《义勇军进行曲》",
+          "《欢乐颂》",
+          "《茉莉花》",
+          "《歌唱祖国》"
+        ],
+        "answer": "《义勇军进行曲》",
+        "explanation": "国歌是义勇军进行曲。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "民族团结与家乡变化",
+        "question": "各民族一律平等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "民族平等。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "民族团结与家乡变化",
+        "question": "和少数民族同学相处，应该（　）",
+        "options": [
+          "尊重他们的风俗习惯",
+          "嘲笑他们的服饰",
+          "不和他们玩",
+          "起绰号"
+        ],
+        "answer": "尊重他们的风俗习惯",
+        "explanation": "尊重民族习俗。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "祖国的象征与统一",
+        "question": "我国的陆地面积约 960 万平方千米。",
+        "options": [],
+        "answer": "对",
+        "explanation": "国土面积约 960 万 km²。"
+      }
+    ]
+  }
+}

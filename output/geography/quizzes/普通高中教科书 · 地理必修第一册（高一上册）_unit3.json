@@ -1,0 +1,144 @@
+{
+  "textbook": "必修第一册",
+  "unit": "地貌、植被与自然灾害",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「地貌、植被与自然灾害」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "常见地貌类型",
+        "question": "喀斯特地貌主要是由（　）形成的",
+        "options": [
+          "流水溶蚀",
+          "风力侵蚀",
+          "冰川侵蚀",
+          "海浪侵蚀"
+        ],
+        "answer": "流水溶蚀",
+        "explanation": "可溶性岩石被流水溶蚀。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "常见地貌类型",
+        "question": "沙丘属于（　）",
+        "options": [
+          "风沙地貌",
+          "流水地貌",
+          "喀斯特地貌",
+          "冰川地貌"
+        ],
+        "answer": "风沙地貌",
+        "explanation": "沙丘由风力堆积形成。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "自然灾害与防灾减灾",
+        "question": "滑坡和泥石流属于地质灾害。",
+        "options": [],
+        "answer": "对",
+        "explanation": "属地质灾害。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "常见地貌类型",
+        "question": "三角洲由流水堆积作用形成。",
+        "options": [],
+        "answer": "对",
+        "explanation": "入海口堆积形成三角洲。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "常见地貌类型",
+      "core_concept": "流水地貌有峡谷、冲积扇、三角洲；风沙地貌有沙丘、风蚀蘑菇；喀斯特地貌有溶洞、石林、峰林，由流水溶蚀作用形成。",
+      "key_formula": "溶蚀 → 喀斯特地貌",
+      "common_mistakes": [
+        "把沙丘当作流水地貌。"
+      ],
+      "tips": "干旱区多风沙地貌。"
+    },
+    {
+      "point": "自然灾害与防灾减灾",
+      "core_concept": "常见气象灾害有台风、寒潮、洪涝、干旱；地质灾害有地震、滑坡、泥石流。防灾要建立监测预警系统、加强宣传教育、提高防灾意识。",
+      "key_formula": "监测 + 预警 + 防灾",
+      "common_mistakes": [
+        "认为灾害完全不可预防。"
+      ],
+      "tips": "预防为主、防治结合。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "自然灾害与防灾减灾",
+        "question": "减轻滑坡危害的合理措施是（　）",
+        "options": [
+          "加固坡体、监测预警",
+          "坡脚开挖",
+          "大量灌溉",
+          "坡顶堆载"
+        ],
+        "answer": "加固坡体、监测预警",
+        "explanation": "工程与监测结合。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "常见地貌类型",
+        "question": "我国西南地区喀斯特地貌分布广泛。",
+        "options": [],
+        "answer": "对",
+        "explanation": "石灰岩广布。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "自然灾害与防灾减灾",
+        "question": "台风常带来狂风暴雨，也可能缓解旱情。",
+        "options": [],
+        "answer": "对",
+        "explanation": "台风利弊并存。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "常见地貌类型",
+        "question": "冲积扇一般形成在（　）",
+        "options": [
+          "河流出山口",
+          "河流入海口",
+          "河流源头",
+          "沙漠腹地"
+        ],
+        "answer": "河流出山口",
+        "explanation": "出山口堆积形成冲积扇。"
+      }
+    ]
+  }
+}

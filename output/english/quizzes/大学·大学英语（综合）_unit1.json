@@ -1,0 +1,144 @@
+{
+  "textbook": "大学英语（综合）",
+  "unit": "语法与句式",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「语法与句式」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "从句与句式",
+        "question": "If I ___ you, I would accept the offer.",
+        "options": [
+          "am",
+          "was",
+          "were",
+          "be"
+        ],
+        "answer": "were",
+        "explanation": "虚拟语气用 were。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "从句与句式",
+        "question": "___ he said made us happy.",
+        "options": [
+          "That",
+          "What",
+          "Which",
+          "It"
+        ],
+        "answer": "What",
+        "explanation": "主语从句缺宾语，用 What。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "从句与句式",
+        "question": "否定词置于句首时，主句通常用部分倒装。",
+        "options": [],
+        "answer": "对",
+        "explanation": "否定词首倒装。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "从句与句式",
+        "question": "Never ___ such a beautiful view.",
+        "options": [
+          "I have seen",
+          "have I seen",
+          "I saw",
+          "did I saw"
+        ],
+        "answer": "have I seen",
+        "explanation": "Never 置于句首用倒装。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "从句与虚拟语气",
+      "core_concept": "名词性从句包括主语、宾语、表语、同位语从句。虚拟语气中，与现在事实相反用过去式，与过去事实相反用过去完成式。",
+      "key_formula": "If I were you, I would…",
+      "common_mistakes": [
+        "虚拟语气中误用 was。"
+      ],
+      "tips": "虚拟中 be 动词用 were。"
+    },
+    {
+      "point": "非谓语与倒装",
+      "core_concept": "非谓语形式作状语时，逻辑主语与句子主语一致。否定词置于句首时用部分倒装；only 修饰状语置于句首也用倒装。",
+      "key_formula": "Never have I seen…",
+      "common_mistakes": [
+        "倒装时忘记助动词。"
+      ],
+      "tips": "倒装 = 助动词提前。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "从句与句式",
+        "question": "The reason ___ he was late is unknown.",
+        "options": [
+          "why",
+          "which",
+          "what",
+          "who"
+        ],
+        "answer": "why",
+        "explanation": "先行词 reason 用 why。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "从句与句式",
+        "question": "非谓语作状语时，其逻辑主语应与句子主语一致。",
+        "options": [],
+        "answer": "对",
+        "explanation": "避免悬垂结构。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "从句与句式",
+        "question": "虚拟语气中，与现在事实相反时从句用一般过去时。",
+        "options": [],
+        "answer": "对",
+        "explanation": "虚拟语气规则。"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "从句与句式",
+        "question": "Only then ___ he realize his mistake.（填助动词）",
+        "options": [],
+        "answer": "did",
+        "explanation": "Only + 状语置于句首引起部分倒装。"
+      }
+    ]
+  }
+}

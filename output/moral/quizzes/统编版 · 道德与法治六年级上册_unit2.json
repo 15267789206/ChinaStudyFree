@@ -1,0 +1,144 @@
+{
+  "textbook": "六年级上册",
+  "unit": "校园生活与热爱祖国",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「校园生活与热爱祖国」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "学校与班级生活",
+        "question": "班干部应该（　）",
+        "options": [
+          "以身作则，为同学服务",
+          "只管别人",
+          "自己违反纪律",
+          "拉帮结派"
+        ],
+        "answer": "以身作则，为同学服务",
+        "explanation": "班干部要服务同学。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "热爱祖国与民族团结",
+        "question": "下列做法体现爱国的是（　）",
+        "options": [
+          "维护国家荣誉和利益",
+          "散布谣言",
+          "损坏公物",
+          "崇洋媚外"
+        ],
+        "answer": "维护国家荣誉和利益",
+        "explanation": "爱国体现在日常行动。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "学校与班级生活",
+        "question": "班级公约要靠全体同学自觉遵守。",
+        "options": [],
+        "answer": "对",
+        "explanation": "公约靠自觉。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "热爱祖国与民族团结",
+        "question": "维护民族团结是每个公民的责任。",
+        "options": [],
+        "answer": "对",
+        "explanation": "民族团结是责任。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "学校与班级生活",
+      "core_concept": "班级公约需要共同讨论制定并自觉遵守。班干部要为同学服务，学校生活需要规则与责任。",
+      "key_formula": "共同制定、共同遵守",
+      "common_mistakes": [
+        "班干部只管别人不管自己。"
+      ],
+      "tips": "管理者更要以身作则。"
+    },
+    {
+      "point": "热爱祖国与民族团结",
+      "core_concept": "要了解祖国历史与文化，维护国家统一，促进民族团结，为国家发展贡献力量。",
+      "key_formula": "心向祖国、情系中华",
+      "common_mistakes": [
+        "崇洋媚外，贬低本国文化。"
+      ],
+      "tips": "文化自信很重要。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "学校与班级生活",
+        "question": "班级公约的制定应该（　）",
+        "options": [
+          "全班同学共同讨论",
+          "班长一人决定",
+          "老师指定就行",
+          "抽签决定"
+        ],
+        "answer": "全班同学共同讨论",
+        "explanation": "共同参与制定公约。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "热爱祖国与民族团结",
+        "question": "热爱祖国是每个公民应有的情感。",
+        "options": [],
+        "answer": "对",
+        "explanation": "爱国情感。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "热爱祖国与民族团结",
+        "question": "下列不属于维护国家统一表现的是（　）",
+        "options": [
+          "支持国家统一大业",
+          "反对分裂国家的行为",
+          "传播分裂言论",
+          "遵守国家法律法规"
+        ],
+        "answer": "传播分裂言论",
+        "explanation": "分裂言论危害统一。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "学校与班级生活",
+        "question": "在学校里，规则是顺利开展活动的重要保证。",
+        "options": [],
+        "answer": "对",
+        "explanation": "规则保秩序。"
+      }
+    ]
+  }
+}

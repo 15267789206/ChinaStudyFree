@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "Module 1 了解彼此 / Getting to know each other",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 了解彼此 / Getting to know each other」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "问候与介绍",
+        "question": "— What's your name? — ___",
+        "options": [
+          "I'm fine.",
+          "My name is Tom.",
+          "I'm twelve.",
+          "She's my sister."
+        ],
+        "answer": "My name is Tom.",
+        "explanation": "问姓名答姓名。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "描述外貌与特征",
+        "question": "She ___ long hair.",
+        "options": [
+          "have",
+          "has",
+          "is",
+          "are"
+        ],
+        "answer": "has",
+        "explanation": "第三人称单数用 has。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "问候与介绍",
+        "question": "My name is… 与 I am… 都可用于自我介绍。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两种自我介绍。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "描述外貌与特征",
+        "question": "形容词作表语时放在 be 动词之后。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表语位置。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "问候与介绍",
+      "core_concept": "沪教版按 Module—Unit 组织。自我介绍常用 I'm… / My name is…；询问用 What's your name? How old are you? Where are you from?",
+      "key_formula": "I am… / My name is…",
+      "common_mistakes": [
+        "把 How old 问成 How many。"
+      ],
+      "tips": "How old 问年龄。"
+    },
+    {
+      "point": "描述外貌与特征",
+      "core_concept": "常用描述句型：He is tall and thin. She has long hair. 形容词位置在 be 动词后、名词前。",
+      "key_formula": "be + 形容词 / have + 名词",
+      "common_mistakes": [
+        "has 与 have 混用。"
+      ],
+      "tips": "第三人称单数用 has。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "问候与介绍",
+        "question": "— How old are you? — ___",
+        "options": [
+          "I'm fine.",
+          "I'm twelve.",
+          "I'm Tom.",
+          "It's twelve."
+        ],
+        "answer": "I'm twelve.",
+        "explanation": "问年龄答年龄。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "描述外貌与特征",
+        "question": "He ___ short and strong.",
+        "options": [
+          "is",
+          "are",
+          "have",
+          "has"
+        ],
+        "answer": "is",
+        "explanation": "主语 He 用 is。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "问候与介绍",
+        "question": "沪教版教材按 Module 与 Unit 组织内容。",
+        "options": [],
+        "answer": "对",
+        "explanation": "Module-Unit 编排。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "描述外貌与特征",
+        "question": "形容外貌可用 tall、thin、short、strong 等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "外貌形容词。"
+      }
+    ]
+  }
+}

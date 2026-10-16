@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "一般现在时与一般过去时复习",
+      "knowledge_points": [
+        {
+          "name": "时态综合复习",
+          "description": "辨析现在时与过去时的用法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "人称代词、物主代词与冠词",
+          "description": "综合运用各类代词与冠词。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "被动语态与情态动词",
+      "knowledge_points": [
+        {
+          "name": "被动语态复习",
+          "description": "综合运用被动语态各种时态。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "情态动词的用法",
+          "description": "掌握 can/may/must/should/need 的用法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

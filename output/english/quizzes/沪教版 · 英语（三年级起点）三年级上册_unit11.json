@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 4 The world around us — Small animals 小动物",
+  "unit_number": 11,
+  "unit_test": {
+    "title": "第11单元「Module 4 The world around us — Small animals 小动物」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "动物词汇 cat / dog / bird / rabbit / fish",
+        "question": "「猫」的英文是（　）",
+        "options": [
+          "cat",
+          "caty",
+          "kat",
+          "cit"
+        ],
+        "answer": "cat",
+        "explanation": "cat = 猫。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "动物词汇 cat / dog / bird / rabbit / fish",
+        "question": "「狗」的英文是（　）",
+        "options": [
+          "dog",
+          "dig",
+          "dug",
+          "doge"
+        ],
+        "answer": "dog",
+        "explanation": "dog = 狗。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "表达拥有 I have a…",
+        "question": "「我有一只小鸟。」的英文是（　）",
+        "options": [
+          "I have a bird.",
+          "I have bird.",
+          "I has a bird.",
+          "I have a birds."
+        ],
+        "answer": "I have a bird.",
+        "explanation": "单数前加 a。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "动物词汇 cat / dog / bird / rabbit / fish",
+        "question": "rabbit 的意思是「兔子」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "rabbit = 兔子。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "动物词汇 cat / dog / bird / rabbit / fish",
+      "core_concept": "cat 猫、dog 狗、bird 鸟、rabbit 兔子、fish 鱼。",
+      "key_formula": "a cat / a dog / a bird / a rabbit / a fish",
+      "common_mistakes": [
+        "rabbit 写成 rabit。"
+      ],
+      "tips": "rabbit 双写 b。"
+    },
+    {
+      "point": "表达拥有 I have a…",
+      "core_concept": "表达拥有用 I have a / an…；复数 I have two…",
+      "key_formula": "I have a bird. / I have two rabbits.",
+      "common_mistakes": [
+        "I have a birds.（×）"
+      ],
+      "tips": "数量大于 1 名词用复数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "动物词汇 cat / dog / bird / rabbit / fish",
+        "question": "「鱼」的英文是（　）",
+        "options": [
+          "fish",
+          "fishe",
+          "feesh",
+          "fishs"
+        ],
+        "answer": "fish",
+        "explanation": "fish = 鱼。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "表达拥有 I have a…",
+        "question": "「我有两只兔子。」的英文是（　）",
+        "options": [
+          "I have two rabbits.",
+          "I have two rabbit.",
+          "I has two rabbits.",
+          "I have a two rabbits."
+        ],
+        "answer": "I have two rabbits.",
+        "explanation": "复数加 -s。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "动物词汇 cat / dog / bird / rabbit / fish",
+        "question": "animal 的意思是「动物」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "animal = 动物。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "表达拥有 I have a…",
+        "question": "— What do you have? — ___",
+        "options": [
+          "I have a dog.",
+          "I'm a dog.",
+          "Yes, I do.",
+          "I like dogs."
+        ],
+        "answer": "I have a dog.",
+        "explanation": "问拥有答 I have…"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "中国的地理差异与经济发展",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「中国的地理差异与经济发展」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "四大地理区域",
+        "question": "我国四大地理区域中，位于最南的是（　）",
+        "options": [
+          "南方地区",
+          "北方地区",
+          "西北地区",
+          "青藏地区"
+        ],
+        "answer": "南方地区",
+        "explanation": "南方地区最南。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "因地制宜发展经济",
+        "question": "我国重要的商品棉产区是（　）",
+        "options": [
+          "新疆",
+          "东北三省",
+          "海南",
+          "四川盆地"
+        ],
+        "answer": "新疆",
+        "explanation": "新疆产棉。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "四大地理区域",
+        "question": "秦岭—淮河一线大致是我国南北方分界线。",
+        "options": [],
+        "answer": "对",
+        "explanation": "南北分界线。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "因地制宜发展经济",
+        "question": "发展经济要因地制宜。",
+        "options": [],
+        "answer": "对",
+        "explanation": "因地制宜。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "四大地理区域",
+      "core_concept": "我国划分为北方地区、南方地区、西北地区和青藏地区四大区域。分界线大体与秦岭—淮河一线、400 毫米年等降水量线相吻合。",
+      "key_formula": "秦岭—淮河、400 mm 等降水量线",
+      "common_mistakes": [
+        "把四大区域与地形区混淆。"
+      ],
+      "tips": "区域界线要记牢。"
+    },
+    {
+      "point": "因地制宜发展经济",
+      "core_concept": "北方种小麦、种玉米，南方种水稻；西北发展灌溉农业、畜牧业；青藏发展河谷农业和畜牧业。新疆是重要棉产区。",
+      "key_formula": "因地制宜",
+      "common_mistakes": [
+        "忽略自然条件谈经济。"
+      ],
+      "tips": "经济要适应自然条件。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "四大地理区域",
+        "question": "北方地区的耕地类型主要是（　）",
+        "options": [
+          "旱地",
+          "水田",
+          "林地",
+          "草地"
+        ],
+        "answer": "旱地",
+        "explanation": "北方以旱地为主。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "因地制宜发展经济",
+        "question": "青藏地区发展种植业主要分布在（　）",
+        "options": [
+          "河谷地区",
+          "高原面上",
+          "沙漠地区",
+          "沼泽深处"
+        ],
+        "answer": "河谷地区",
+        "explanation": "青藏河谷农业。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "四大地理区域",
+        "question": "西北地区降水量少，主要发展畜牧业和灌溉农业。",
+        "options": [],
+        "answer": "对",
+        "explanation": "西北经济特点。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "因地制宜发展经济",
+        "question": "南方地区降水丰富，适宜发展水稻种植。",
+        "options": [],
+        "answer": "对",
+        "explanation": "南稻北粟。"
+      }
+    ]
+  }
+}

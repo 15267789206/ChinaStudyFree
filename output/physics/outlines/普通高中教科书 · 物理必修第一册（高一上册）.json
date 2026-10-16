@@ -1,0 +1,109 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "运动的描述",
+      "knowledge_points": [
+        {
+          "name": "质点、参考系与位移",
+          "description": "理解理想化模型与描述运动的物理量。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "速度与加速度",
+          "description": "理解平均速度、瞬时速度与加速度。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "匀变速直线运动",
+      "knowledge_points": [
+        {
+          "name": "匀变速直线运动规律",
+          "description": "掌握速度公式与位移公式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "自由落体与运动图象",
+          "description": "掌握自由落体规律与图象分析。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "相互作用——力",
+      "knowledge_points": [
+        {
+          "name": "三种常见力与力的合成",
+          "description": "理解重力、弹力、摩擦力的特点与力的合成。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "力的分解与共点力平衡",
+          "description": "掌握力的分解与平衡条件。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "运动和力的关系",
+      "knowledge_points": [
+        {
+          "name": "牛顿运动定律",
+          "description": "掌握牛顿三定律与动力学基本问题。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "超重、失重与动力学的应用",
+          "description": "理解超重失重现象与动力学问题求解。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

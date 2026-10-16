@@ -1,0 +1,146 @@
+{
+  "textbook": "九年级下册",
+  "unit": "锐角三角函数",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「锐角三角函数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "特殊角三角函数值与解直角三角形",
+        "question": "$\\sin30°$ 的值是多少（填分数如 1/2）？",
+        "options": [],
+        "answer": "1/2",
+        "explanation": "特殊角函数值。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "特殊角三角函数值与解直角三角形",
+        "question": "$\\tan45°$ 的值是多少？",
+        "options": [],
+        "answer": "1",
+        "explanation": "$\\tan45°=1$。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "锐角三角函数定义",
+        "question": "直角三角形中 $\\angle A$ 的对边 3、斜边 5，则 $\\sin A=$ ？（填分数）",
+        "options": [],
+        "answer": "3/5",
+        "explanation": "$\\sin A=\\frac35$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "锐角三角函数定义",
+        "question": "直角三角形中 $\\angle A$ 的对边 3、邻边 4，则 $\\tan A=$ ？（填分数）",
+        "options": [],
+        "answer": "3/4",
+        "explanation": "$\\tan A=\\frac34$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "特殊角三角函数值与解直角三角形",
+        "question": "直角三角形中 $\\angle A=30°$，斜边 10，则 $\\angle A$ 的对边是多少？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$10\\sin30°=5$。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "锐角三角函数定义",
+        "question": "锐角三角函数值都是正数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "边长比为正。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "锐角三角函数定义",
+      "core_concept": "在直角三角形中，$\\sin A=\\frac{\\text{对边}}{\\text{斜边}}$，$\\cos A=\\frac{\\text{邻边}}{\\text{斜边}}$，$\\tan A=\\frac{\\text{对边}}{\\text{邻边}}$。",
+      "key_formula": "$\\sin^2A+\\cos^2A=1$",
+      "common_mistakes": [
+        "正弦与余弦的边搞混。"
+      ],
+      "tips": "正弦配斜边，正切配两直角边。"
+    },
+    {
+      "point": "特殊角三角函数值与解直角三角形",
+      "core_concept": "$\\sin30°=\\frac12$，$\\sin45°=\\frac{\\sqrt2}{2}$，$\\sin60°=\\frac{\\sqrt3}{2}$；由已知元素求其余元素的过程叫解直角三角形。",
+      "key_formula": "$\\tan45°=1$",
+      "common_mistakes": [
+        "混淆 30° 与 60° 的值。"
+      ],
+      "tips": "画图记忆三个特殊角。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "特殊角三角函数值与解直角三角形",
+        "question": "直角三角形中 $\\angle A=60°$，邻边 4，则对边是多少（保留根号，填 $\\sqrt3$ 的系数）？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$4\\tan60°=4\\sqrt3$。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "锐角三角函数定义",
+        "question": "直角三角形两直角边为 5、12，则斜边为 13，$\\cos A$（$A$ 对 5）是多少（填分数）？",
+        "options": [],
+        "answer": "12/13",
+        "explanation": "$\\cos A=\\frac{12}{13}$。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "特殊角三角函数值与解直角三角形",
+        "question": "$\\sin60°=\\frac{\\sqrt3}{2}$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "特殊角函数值。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "特殊角三角函数值与解直角三角形",
+        "question": "仰角 45° 观测一棵树顶，测点到树底水平距离 12 m，树高多少米？",
+        "options": [],
+        "answer": "12",
+        "explanation": "$12\\tan45°=12$。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Extended reading 与牛津版块学习法",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Extended reading 与牛津版块学习法」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "牛津版块结构",
+        "question": "译林版教材中的 Extended reading 栏目主要用于（　）",
+        "options": [
+          "阅读策略训练",
+          "单词背诵",
+          "口语考试",
+          "语法填空"
+        ],
+        "answer": "阅读策略训练",
+        "explanation": "Extended reading 训练阅读。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "主旨大意与细节",
+        "question": "做主旨大意题应重点关注（　）",
+        "options": [
+          "首尾句与段落中心句",
+          "生词数量",
+          "文章长度",
+          "标题字体"
+        ],
+        "answer": "首尾句与段落中心句",
+        "explanation": "抓主旨。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "牛津版块结构",
+        "question": "译林版教材注重培养学习策略。",
+        "options": [],
+        "answer": "对",
+        "explanation": "策略培养。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "主旨大意与细节",
+        "question": "做细节题必须回原文定位，不能主观臆断。",
+        "options": [],
+        "answer": "对",
+        "explanation": "以原文为据。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "牛津版块结构",
+      "core_concept": "译林版每单元设 Extended reading 栏目，含 Reading for gist、Reading for details 等阅读技巧训练。",
+      "key_formula": "先主旨后细节",
+      "common_mistakes": [
+        "只读细节不抓主旨。"
+      ],
+      "tips": "先主旨后细节。"
+    },
+    {
+      "point": "主旨大意与细节",
+      "core_concept": "主旨题看首尾句与段落中心句；细节题回原文定位，不主观臆断。",
+      "key_formula": "首尾句 + 中心句",
+      "common_mistakes": [
+        "用常识替代原文。"
+      ],
+      "tips": "一切以原文为据。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "牛津版块结构",
+        "question": "Reading for gist 的目的是（　）",
+        "options": [
+          "把握文章大意",
+          "记住所有单词",
+          "完成翻译",
+          "背诵课文"
+        ],
+        "answer": "把握文章大意",
+        "explanation": "gist 是大意。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "主旨大意与细节",
+        "question": "段落中心句通常在（　）",
+        "options": [
+          "段首或段尾",
+          "单词中间",
+          "标题下",
+          "括号里"
+        ],
+        "answer": "段首或段尾",
+        "explanation": "中心句位置。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "牛津版块结构",
+        "question": "Reading for details 侧重具体信息。",
+        "options": [],
+        "answer": "对",
+        "explanation": "细节阅读。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "主旨大意与细节",
+        "question": "推断题必须以原文为依据，不能随意联想。",
+        "options": [],
+        "answer": "对",
+        "explanation": "推断有据。"
+      }
+    ]
+  }
+}

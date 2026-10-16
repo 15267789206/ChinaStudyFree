@@ -1,0 +1,160 @@
+{
+  "textbook": "必修第二册",
+  "unit": "有机化合物",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「有机化合物」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "甲烷、乙烯与苯",
+        "question": "能使溴水褪色的是（　）",
+        "options": [
+          "甲烷",
+          "乙烯",
+          "苯",
+          "乙烷"
+        ],
+        "answer": "乙烯",
+        "explanation": "乙烯与溴加成。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "甲烷、乙烯与苯",
+        "question": "甲烷能与氯气在光照条件下发生取代反应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "甲烷取代反应。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "乙醇、乙酸与基本营养物质",
+        "question": "能与 NaHCO₃ 反应放出 CO₂ 的是（　）",
+        "options": [
+          "乙醇",
+          "乙酸",
+          "乙醛",
+          "苯"
+        ],
+        "answer": "乙酸",
+        "explanation": "乙酸有羧基显酸性。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "乙醇、乙酸与基本营养物质",
+        "question": "葡萄糖能发生银镜反应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "葡萄糖为还原性糖。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "甲烷、乙烯与苯",
+        "question": "苯分子中碳碳键的特点是（　）",
+        "options": [
+          "单双键交替",
+          "完全相同的介于单双键之间的键",
+          "全是单键",
+          "全是双键"
+        ],
+        "answer": "完全相同的介于单双键之间的键",
+        "explanation": "苯环键长相同。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "甲烷、乙烯与苯",
+      "core_concept": "甲烷是正四面体结构，能发生取代反应；乙烯含碳碳双键，能发生加成反应和加聚反应；苯是平面正六边形结构，能发生取代反应。",
+      "key_formula": "$\\text{CH}_2=\\text{CH}_2+\\text{Br}_2\\to\\text{CH}_2\\text{BrCH}_2\\text{Br}$",
+      "common_mistakes": [
+        "认为苯含碳碳双键。"
+      ],
+      "tips": "苯中碳碳键是独特的。"
+    },
+    {
+      "point": "乙醇、乙酸与基本营养物质",
+      "core_concept": "乙醇含羟基（—OH），能被氧化为乙醛、乙酸。乙酸含羧基（—COOH），具有酸性且能与乙醇发生酯化反应。葡萄糖是还原性糖，能发生银镜反应。",
+      "key_formula": "$\\text{CH}_3\\text{COOH}+\\text{C}_2\\text{H}_5\\text{OH}\\rightleftharpoons\\text{CH}_3\\text{COOC}_2\\text{H}_5+\\text{H}_2\\text{O}$",
+      "common_mistakes": [
+        "酯化反应方程式中漏写水。"
+      ],
+      "tips": "酯化：酸脱羟基醇脱氢。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "乙醇、乙酸与基本营养物质",
+        "question": "酯化反应中，浓硫酸的作用是（　）",
+        "options": [
+          "催化剂和吸水剂",
+          "氧化剂",
+          "还原剂",
+          "溶剂"
+        ],
+        "answer": "催化剂和吸水剂",
+        "explanation": "浓硫酸催化和吸水。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "甲烷、乙烯与苯",
+        "question": "1 mol 乙烯完全与溴发生加成反应，需要溴多少 mol？",
+        "options": [],
+        "answer": "1",
+        "explanation": "双键 1:1 加成。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "乙醇、乙酸与基本营养物质",
+        "question": "乙醇能使酸性高锰酸钾溶液褪色。",
+        "options": [],
+        "answer": "对",
+        "explanation": "乙醇被氧化。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "甲烷、乙烯与苯",
+        "question": "下列有机物中属于烃的是（　）",
+        "options": [
+          "乙醇",
+          "乙酸",
+          "苯",
+          "葡萄糖"
+        ],
+        "answer": "苯",
+        "explanation": "只含 C、H 的有机物为烃。"
+      }
+    ]
+  }
+}

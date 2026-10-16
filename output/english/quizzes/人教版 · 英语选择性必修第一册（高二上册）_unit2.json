@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "状语从句与名词性从句",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「状语从句与名词性从句」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "三大从句综合",
+        "question": "Could you tell me ___ ?",
+        "options": [
+          "where is the post office",
+          "where the post office is",
+          "where was the post office",
+          "the post office where is"
+        ],
+        "answer": "where the post office is",
+        "explanation": "宾语从句用陈述语序。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "语序与一致",
+        "question": "The number of students in our school ___ .",
+        "options": [
+          "are",
+          "is",
+          "were",
+          "have been"
+        ],
+        "answer": "is",
+        "explanation": "the number of 作主语用单数。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "三大从句综合",
+        "question": "名词性从句一律使用陈述语序。",
+        "options": [],
+        "answer": "对",
+        "explanation": "语序要点。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "语序与一致",
+        "question": "主谓一致要求主语与谓语在数上保持一致。",
+        "options": [],
+        "answer": "对",
+        "explanation": "主谓一致。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "三大从句综合",
+      "core_concept": "名词性从句包括主语从句、宾语从句、表语从句和同位语从句，一律用陈述语序。状语从句常用时间、条件、让步、结果等连词。",
+      "key_formula": "名词性从句一律陈述语序",
+      "common_mistakes": [
+        "宾语从句保留疑问语序。"
+      ],
+      "tips": "语序是关键。"
+    },
+    {
+      "point": "语序与一致",
+      "core_concept": "主谓一致要求主语与谓语在数上一致。倒装句包括否定副词提前的部分倒装和地点/时间副词提前的全部倒装。",
+      "key_formula": "主语 + 谓语（数一致）",
+      "common_mistakes": [
+        "忽略主语的数。"
+      ],
+      "tips": "看主语定谓语。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "三大从句综合",
+        "question": "It is important that every student ___ the exam.",
+        "options": [
+          "passes",
+          "pass",
+          "will pass",
+          "passed"
+        ],
+        "answer": "pass",
+        "explanation": "it 作形式主语，从句用 should + 原形。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "语序与一致",
+        "question": "Never ___ such a wonderful place before.",
+        "options": [
+          "I have seen",
+          "have I seen",
+          "I saw",
+          "did I see"
+        ],
+        "answer": "have I seen",
+        "explanation": "否定副词提前部分倒装。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "三大从句综合",
+        "question": "同位语从句用来解释前面的抽象名词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "同位语从句。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "语序与一致",
+        "question": "a number of + 复数名词作主语时谓语用复数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "a number of 用复数。"
+      }
+    ]
+  }
+}

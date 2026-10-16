@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "中华文化与古典诗歌",
+      "knowledge_points": [
+        {
+          "name": "中华文化源流与特点",
+          "description": "了解中华文化的基本特点。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "古典诗歌鉴赏",
+          "description": "鉴赏古典诗歌的风格与意境。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "逻辑与思辨性阅读",
+      "knowledge_points": [
+        {
+          "name": "逻辑思维与论证结构",
+          "description": "理解逻辑思维基本形式。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "批判性思维",
+          "description": "学会独立思考与辨析。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

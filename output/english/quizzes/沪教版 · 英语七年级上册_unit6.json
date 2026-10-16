@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 3 Travels — Travelling around Asia 环亚旅行",
+  "unit_number": 6,
+  "unit_test": {
+    "title": "第6单元「Module 3 Travels — Travelling around Asia 环亚旅行」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+        "question": "「我打算去北京。」的英文是（　）",
+        "options": [
+          "I'm going to Beijing.",
+          "I going to Beijing.",
+          "I'm go to Beijing.",
+          "I'm going to go to Beijing."
+        ],
+        "answer": "I'm going to Beijing.",
+        "explanation": "be going to + 地点。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+        "question": "「酒店」的英文是（　）",
+        "options": [
+          "hotel",
+          "hostel",
+          "hotell",
+          "hotals"
+        ],
+        "answer": "hotel",
+        "explanation": "hotel 酒店。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+        "question": "「订票」的英文是（　）",
+        "options": [
+          "book tickets",
+          "buy ticket",
+          "book ticket",
+          "take tickets"
+        ],
+        "answer": "book tickets",
+        "explanation": "book 预订。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一般将来时 be going to",
+        "question": "be going to 表示将来的计划。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表计划。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "旅行词汇 travel / ticket / hotel / visit",
+      "core_concept": "travel 旅行、ticket 票、hotel 酒店、visit 参观、trip 短途旅行。",
+      "key_formula": "book tickets 订票 / visit the Great Wall 参观长城",
+      "common_mistakes": [
+        "travel 与 trip 混用。"
+      ],
+      "tips": "travel 泛指旅行，trip 指具体一趟。"
+    },
+    {
+      "point": "一般将来时 be going to",
+      "core_concept": "be going to + 原形表示计划做某事；疑问句把 be 提前。",
+      "key_formula": "I'm going to Beijing next week.",
+      "common_mistakes": [
+        "going to 后接过去式。"
+      ],
+      "tips": "to 后接原形。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+        "question": "「火车票」的英文是（　）",
+        "options": [
+          "train ticket",
+          "train tickets",
+          "train's ticket",
+          "ticket train"
+        ],
+        "answer": "train ticket",
+        "explanation": "名词修饰名词。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+        "question": "「参观长城」的英文是（　）",
+        "options": [
+          "visit the Great Wall",
+          "visit Great Wall",
+          "look the Great Wall",
+          "visit a Great Wall"
+        ],
+        "answer": "visit the Great Wall",
+        "explanation": "the Great Wall。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "旅行词汇 travel / ticket / hotel / visit",
+        "question": "travel 的意思是「旅行」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "travel 旅行。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般将来时 be going to",
+        "question": "「你打算去哪里度假？」的英文是（　）",
+        "options": [
+          "Where are you going for the holiday?",
+          "Where you are going for the holiday?",
+          "Where are you go for the holiday?",
+          "Where do you going for the holiday?"
+        ],
+        "answer": "Where are you going for the holiday?",
+        "explanation": "特殊疑问句 be 提前。"
+      }
+    ]
+  }
+}

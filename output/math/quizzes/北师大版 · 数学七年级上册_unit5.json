@@ -1,0 +1,165 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第五章 一元一次方程",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「第五章 一元一次方程」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "方程与一元一次方程",
+        "question": "下列是一元一次方程的是（　）",
+        "options": [
+          "$2x-3=5$",
+          "$x^2+1=0$",
+          "$\\frac1x=2$",
+          "$xy=6$"
+        ],
+        "answer": "$2x-3=5$",
+        "explanation": "满足一元一次方程定义。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "方程与一元一次方程",
+        "question": "$x=3$ 是方程 $2x-1=5$ 的解。",
+        "options": [],
+        "answer": "对",
+        "explanation": "代入 $2\\times3-1=5$ 成立。"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "等式的性质与解方程",
+        "question": "解方程 $x+5=12$，$x=$ ___",
+        "options": [],
+        "answer": "7",
+        "explanation": "$x=12-5=7$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等式的性质与解方程",
+        "question": "解方程：$5x − 3 = 17$，则 $x = $ ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "移项得 $5x = 17 + 3$，即 $5x = 20$，两边同除以 5，得 $x = 4$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等式的性质与解方程",
+        "question": "解方程：$4x + 8 = 32$，则 $x = $ ？",
+        "options": [],
+        "answer": "6",
+        "explanation": "移项得 $4x = 32 − 8$，即 $4x = 24$，两边同除以 4，得 $x = 6$。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "列方程解应用题",
+        "question": "某数的 4 倍加 5 等于 25，这个数是多少？",
+        "options": [],
+        "answer": "5",
+        "explanation": "设数为 $x$，$4x+5=25$，$x=5$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "方程与一元一次方程",
+      "core_concept": "含未知数的等式叫方程；只含一个未知数、次数为 1、两边都是整式的方程叫一元一次方程。",
+      "key_formula": "$ax+b=0\\ (a\\ne0)$",
+      "common_mistakes": [
+        "把 $\\frac1x=2$ 当一元一次方程。"
+      ],
+      "tips": "看三点：一个未知数、次数 1、整式。"
+    },
+    {
+      "point": "等式的性质与解方程",
+      "core_concept": "等式两边同加（减）同一个数或式子仍相等；两边同乘（除以非零数）仍相等。移项要变号。",
+      "key_formula": "$a=b\\Rightarrow a\\pm c=b\\pm c$",
+      "common_mistakes": [
+        "移项忘记变号。"
+      ],
+      "tips": "移项 = 过桥变号。"
+    },
+    {
+      "point": "列方程解应用题",
+      "core_concept": "找等量关系是核心。常见模型：和差倍分、行程（$s=vt$）、工程、销售。",
+      "key_formula": "$s=vt$",
+      "common_mistakes": [
+        "单位不统一。"
+      ],
+      "tips": "先找等量关系再设未知数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "等式的性质与解方程",
+        "question": "解方程 $3(x-2)=9$，$x=$ ？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$x-2=3$，$x=5$。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "方程与一元一次方程",
+        "question": "若 $2x^m+1=0$ 是一元一次方程，$m=$（　）",
+        "options": [
+          "1",
+          "0",
+          "2",
+          "-1"
+        ],
+        "answer": "1",
+        "explanation": "次数为 1，故 $m=1$。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "列方程解应用题",
+        "question": "长方形长 8 cm，面积 48 cm²，宽是多少 cm？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$8x=48$，$x=6$。"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "等式的性质与解方程",
+        "question": "解方程 $5x=20$，$x=$ ___",
+        "options": [],
+        "answer": "4",
+        "explanation": "$x=4$。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "声现象",
+      "knowledge_points": [
+        {
+          "name": "声音的产生与传播",
+          "description": "理解声音由振动产生，需要介质传播。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "声音的特性",
+          "description": "理解音调、响度、音色及其影响因素。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "噪声与声的利用",
+          "description": "了解噪声控制与声的利用。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "光现象",
+      "knowledge_points": [
+        {
+          "name": "光的直线传播与反射",
+          "description": "理解光的直线传播与反射定律。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "平面镜成像",
+          "description": "掌握平面镜成像特点。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "光的折射",
+          "description": "理解折射规律与常见现象。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "物态变化",
+      "knowledge_points": [
+        {
+          "name": "温度与温度计",
+          "description": "掌握温度计使用与读数。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "熔化和凝固",
+          "description": "理解熔化、凝固与晶体特点。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "汽化、液化与升华、凝华",
+          "description": "掌握六种物态变化。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "质量与密度",
+      "knowledge_points": [
+        {
+          "name": "质量及其测量",
+          "description": "理解质量是物质属性并会用天平测量。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "密度及其应用",
+          "description": "掌握密度公式并会计算与鉴别物质。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

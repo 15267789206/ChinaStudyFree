@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级上册",
+  "unit": "现代文阅读与古诗词",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「现代文阅读与古诗词」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "议论文阅读",
+        "question": "议论文中作者提出的看法是（　）",
+        "options": [
+          "论点",
+          "论据",
+          "论证",
+          "结论"
+        ],
+        "answer": "论点",
+        "explanation": "论点是作者的看法。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古诗词鉴赏",
+        "question": "“不畏浮云遮望眼”表达的精神是（　）",
+        "options": [
+          "坚定自信、勇往直前",
+          "愁苦无奈",
+          "思乡怀人",
+          "恬淡闲适"
+        ],
+        "answer": "坚定自信、勇往直前",
+        "explanation": "王安石咏志。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "议论文阅读",
+        "question": "议论文必须有理有据。",
+        "options": [],
+        "answer": "对",
+        "explanation": "有理有据。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古诗词鉴赏",
+        "question": "借景抒情是古诗词常见手法。",
+        "options": [],
+        "answer": "对",
+        "explanation": "借景抒情。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "议论文阅读",
+      "core_concept": "议论文三要素是论点、论据、论证。阅读时要理清论证思路，抓住关键语句分析含义，评价作者观点是否正确、理由是否充分。",
+      "key_formula": "论点 + 论据 + 论证",
+      "common_mistakes": [
+        "把论题当作论点。"
+      ],
+      "tips": "论点是作者明确的主张。"
+    },
+    {
+      "point": "古诗词鉴赏",
+      "core_concept": "常见手法有借景抒情、托物言志、虚实结合、动静结合、用典。鉴赏要抓意象、炼字炼句与主旨。",
+      "key_formula": "意象 + 手法 + 情感",
+      "common_mistakes": [
+        "只翻译不赏析手法。"
+      ],
+      "tips": "炼字要讲出妙处。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "议论文阅读",
+        "question": "分析议论文思路，可先梳理出（　）",
+        "options": [
+          "作者的论证脉络",
+          "作者的家庭情况",
+          "文中的插图",
+          "生字词表"
+        ],
+        "answer": "作者的论证脉络",
+        "explanation": "梳理论证脉络。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古诗词鉴赏",
+        "question": "“大漠孤烟直，长河落日圆”中“直”字主要写出（　）",
+        "options": [
+          "景物的形态特征",
+          "作者的心情",
+          "诗人性格",
+          "诗歌节奏"
+        ],
+        "answer": "景物的形态特征",
+        "explanation": "炼字写形态。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "议论文阅读",
+        "question": "论证方法包括举例论证、道理论证、对比论证等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "常见论证方法。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古诗词鉴赏",
+        "question": "鉴赏炼字题要答出“意思 + 妙处 + 情感”。",
+        "options": [],
+        "answer": "对",
+        "explanation": "炼字答题规范。"
+      }
+    ]
+  }
+}

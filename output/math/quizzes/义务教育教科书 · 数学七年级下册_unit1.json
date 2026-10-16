@@ -1,0 +1,170 @@
+{
+  "textbook": "七年级下册",
+  "unit": "相交线与平行线",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「相交线与平行线」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "相交线与对顶角",
+        "question": "两条直线相交，其中一个角为 40°，它的对顶角是（　）",
+        "options": [
+          "40°",
+          "50°",
+          "140°",
+          "无法确定"
+        ],
+        "answer": "40°",
+        "explanation": "对顶角相等。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "相交线与对顶角",
+        "question": "邻补角的和等于 180°。",
+        "options": [],
+        "answer": "对",
+        "explanation": "邻补角互补。"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平行线的判定",
+        "question": "两条直线被第三条直线所截，若同位角相等，则这两条直线 ___。",
+        "options": [],
+        "answer": "平行",
+        "explanation": "同位角相等，两直线平行。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平行线的性质与平移",
+        "question": "两直线平行，同旁内角（　）",
+        "options": [
+          "相等",
+          "互补",
+          "互余",
+          "不确定"
+        ],
+        "answer": "互补",
+        "explanation": "两直线平行，同旁内角互补。"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "平行线的性质与平移",
+        "question": "两直线平行，若一个内错角为 65°，则另一个内错角为 ___°。",
+        "options": [],
+        "answer": "65",
+        "explanation": "两直线平行，内错角相等。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "平行线的性质与平移",
+        "question": "平移会改变图形的形状和大小。",
+        "options": [],
+        "answer": "错",
+        "explanation": "平移只改变位置，不改变形状和大小。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "相交线与对顶角",
+      "core_concept": "两条直线相交成四个角，对顶角相等，邻补角互补（和为180°）。过一点有且只有一条直线与已知直线垂直。",
+      "key_formula": "对顶角相等；邻补角之和 = 180°",
+      "common_mistakes": [
+        "把邻补角当作对顶角。"
+      ],
+      "tips": "看是否共顶点、角的两边互为反向延长线。"
+    },
+    {
+      "point": "平行线的判定",
+      "core_concept": "同位角相等、内错角相等、同旁内角互补，则两直线平行。",
+      "key_formula": "同位角相等 ⇒ 两直线平行",
+      "common_mistakes": [
+        "把判定与性质混淆。"
+      ],
+      "tips": "由角推线用判定；由线推角用性质。"
+    },
+    {
+      "point": "平行线的性质与平移",
+      "core_concept": "两直线平行，则同位角相等、内错角相等、同旁内角互补。平移只改变位置，不改变形状和大小。",
+      "key_formula": "两直线平行 ⇒ 内错角相等",
+      "common_mistakes": [
+        "忽略“两直线平行”这一前提。"
+      ],
+      "tips": "先确认平行，再用性质。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "相交线与对顶角",
+        "question": "过直线外一点有且只有一条直线与已知直线平行。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平行公理。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平行线的判定",
+        "question": "下列不能判定两直线平行的是（　）",
+        "options": [
+          "同位角相等",
+          "内错角相等",
+          "同旁内角互补",
+          "同旁内角相等"
+        ],
+        "answer": "同旁内角相等",
+        "explanation": "同旁内角互补才可判定平行。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平行线的性质与平移",
+        "question": "两直线平行，同位角 ___。",
+        "options": [],
+        "answer": "相等",
+        "explanation": "平行线性质。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "平行线的性质与平移",
+        "question": "两直线平行，同旁内角中一个角是 110°，另一个角是多少度？",
+        "options": [],
+        "answer": "70",
+        "explanation": "$180°-110°=70°$。"
+      }
+    ]
+  }
+}

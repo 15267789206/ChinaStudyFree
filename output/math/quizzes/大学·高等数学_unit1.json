@@ -1,0 +1,145 @@
+{
+  "textbook": "高等数学",
+  "unit": "函数与极限",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「函数与极限」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "极限的概念与运算",
+        "question": "$\\lim_{x\\to2}(3x+1)=$ ？",
+        "options": [],
+        "answer": "7",
+        "explanation": "直接代入：$3\\times2+1=7$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "极限的概念与运算",
+        "question": "$\\lim_{x\\to0}\\frac{\\sin 3x}{x}=$ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$\\lim\\frac{\\sin3x}{3x}\\times3=1\\times3=3$。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "极限的概念与运算",
+        "question": "$\\lim_{x\\to\\infty}\\frac{1}{x}=$（　）",
+        "options": [
+          "1",
+          "0",
+          "$\\infty$",
+          "不存在"
+        ],
+        "answer": "0",
+        "explanation": "趋于无穷时倒数趋于 0。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "连续性",
+        "question": "初等函数在其定义区间内是连续的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "初等函数连续性。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "极限的概念与运算",
+        "question": "无穷小的倒数是无穷大。",
+        "options": [],
+        "answer": "错",
+        "explanation": "需强调非零无穷小。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "极限的概念与运算",
+      "core_concept": "极限描述函数在自变量趋近某值时的变化趋势。$\\lim_{x\\to0}\\frac{\\sin x}{x}=1$ 是重要极限；无穷小与无穷大互为倒数关系。",
+      "key_formula": "$\\lim_{x\\to0}\\frac{\\sin x}{x}=1$",
+      "common_mistakes": [
+        "直接代入导致 $\\frac00$ 未处理。"
+      ],
+      "tips": "先化简或等价无穷小替换。"
+    },
+    {
+      "point": "连续性",
+      "core_concept": "函数在一点连续需满足：在该点有定义、极限存在、极限值等于函数值。初等函数在定义区间内连续。",
+      "key_formula": "$\\lim_{x\\to x_0}f(x)=f(x_0)$",
+      "common_mistakes": [
+        "忽略“有定义”这一条件。"
+      ],
+      "tips": "三条件缺一不可。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "极限的概念与运算",
+        "question": "$\\lim_{x\\to1}\\frac{x^2-1}{x-1}=$ ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$\\frac{(x-1)(x+1)}{x-1}=x+1\\to2$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "连续性",
+        "question": "函数在一点连续的必要条件是（　）",
+        "options": [
+          "在该点有定义",
+          "在该点可导",
+          "该点为极值点",
+          "函数单调"
+        ],
+        "answer": "在该点有定义",
+        "explanation": "连续需先有定义。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "极限的概念与运算",
+        "question": "$\\lim_{x\\to0}\\frac{\\sin x}{x}=1$ 是一个重要极限。",
+        "options": [],
+        "answer": "对",
+        "explanation": "重要极限。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "连续性",
+        "question": "函数 $f(x)=x^2$ 在 $x=3$ 处的函数值是多少？",
+        "options": [],
+        "answer": "9",
+        "explanation": "$3^2=9$。"
+      }
+    ]
+  }
+}

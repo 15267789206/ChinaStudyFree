@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "Module 2 我的家人 / My family",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 2 我的家人 / My family」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员称呼",
+        "question": "“奶奶/外婆”的英语是（　）",
+        "options": [
+          "grandma",
+          "grandpa",
+          "aunt",
+          "uncle"
+        ],
+        "answer": "grandma",
+        "explanation": "grandma 外婆/奶奶。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "形容词描述",
+        "question": "My father is very ___",
+        "options": [
+          "tall",
+          "talls",
+          "talling",
+          "tallly"
+        ],
+        "answer": "tall",
+        "explanation": "形容词原形。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员称呼",
+        "question": "brother 指兄或弟，sister 指姐或妹。",
+        "options": [],
+        "answer": "对",
+        "explanation": "兄/弟，姐/妹。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "形容词描述",
+        "question": "形容词作表语要放在 be 动词之后。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表语位置。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "家庭成员称呼",
+      "core_concept": "father/dad, mother/mum, brother, sister, grandpa, grandma。介绍家人常用 This is my…",
+      "key_formula": "This is my father.",
+      "common_mistakes": [
+        "把 sister 与 brother 混淆。"
+      ],
+      "tips": "注意男女对应。"
+    },
+    {
+      "point": "形容词描述",
+      "core_concept": "常用形容词：big, small, tall, short, young, old, happy。用 He/She is… 或 He/She has… 描述。",
+      "key_formula": "He is tall. She has long hair.",
+      "common_mistakes": [
+        "形容词位置放错。"
+      ],
+      "tips": "表语放 be 后。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员称呼",
+        "question": "“爸爸”的英语是（　）",
+        "options": [
+          "father",
+          "uncle",
+          "brother",
+          "teacher"
+        ],
+        "answer": "father",
+        "explanation": "爸爸 father。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "形容词描述",
+        "question": "She ___ long hair.",
+        "options": [
+          "have",
+          "has",
+          "is",
+          "are"
+        ],
+        "answer": "has",
+        "explanation": "第三人称单数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员称呼",
+        "question": "介绍家人可以说 This is my mother.",
+        "options": [],
+        "answer": "对",
+        "explanation": "介绍家人。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "形容词描述",
+        "question": "描述家人外貌要用合适的形容词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "形容词描述。"
+      }
+    ]
+  }
+}

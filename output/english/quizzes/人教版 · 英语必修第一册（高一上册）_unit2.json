@@ -1,0 +1,154 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Unit 2 Travelling Around 旅行",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Unit 2 Travelling Around 旅行」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "旅行词汇 travel plan / transport",
+        "question": "「旅行计划」的英文是（　）",
+        "options": [
+          "travel plan",
+          "traveling plan",
+          "travell plan",
+          "travel plane"
+        ],
+        "answer": "travel plan",
+        "explanation": "travel plan。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "旅行词汇 travel plan / transport",
+        "question": "「交通」的英文是（　）",
+        "options": [
+          "transport",
+          "transpot",
+          "transporrt",
+          "transportt"
+        ],
+        "answer": "transport",
+        "explanation": "transport 交通。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "预订与计划表达",
+        "question": "「预订机票」的英文是（　）",
+        "options": [
+          "book air tickets",
+          "book air ticket",
+          "booking air tickets",
+          "book the air tickets"
+        ],
+        "answer": "book air tickets",
+        "explanation": "复数不加 the。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "旅行词汇 travel plan / transport",
+        "question": "package tour 的意思是「包价旅游」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "package tour。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "旅行词汇 travel plan / transport",
+      "core_concept": "travel plan 旅行计划、package tour 包价游、transport 交通、application 申请、passport 护照。",
+      "key_formula": "book air tickets 订机票",
+      "common_mistakes": [
+        "transport 拼写错误。"
+      ],
+      "tips": "trans- 前缀 + port。"
+    },
+    {
+      "point": "预订与计划表达",
+      "core_concept": "book / reserve 预订、apply for 申请；be going to 表计划。",
+      "key_formula": "apply for a passport 申请护照",
+      "common_mistakes": [
+        "apply 后直接接护照不加 for。"
+      ],
+      "tips": "apply for + 目标。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "预订与计划表达",
+        "question": "「申请护照」的英文是（　）",
+        "options": [
+          "apply for a passport",
+          "apply a passport",
+          "applying for passport",
+          "apply for passports"
+        ],
+        "answer": "apply for a passport",
+        "explanation": "apply for。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "旅行词汇 travel plan / transport",
+        "question": "「好游客」的英文是（　）",
+        "options": [
+          "a good tourist",
+          "a good tourism",
+          "a good travel",
+          "a good tour"
+        ],
+        "answer": "a good tourist",
+        "explanation": "tourist 游客。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "预订与计划表达",
+        "question": "reserve 的意思是「预订」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "reserve 预订。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "预订与计划表达",
+        "question": "「我打算去西安旅行。」的英文是（　）",
+        "options": [
+          "I'm going to travel to Xi'an.",
+          "I going to travel to Xi'an.",
+          "I'm going to travel Xi'an.",
+          "I'm go to travel to Xi'an."
+        ],
+        "answer": "I'm going to travel to Xi'an.",
+        "explanation": "be going to + 原形。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "textbook": "九年级上册",
+  "unit": "我们周围的空气",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「我们周围的空气」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "空气的组成",
+        "question": "空气中体积分数最大的气体是（　）",
+        "options": [
+          "氧气",
+          "氮气",
+          "二氧化碳",
+          "稀有气体"
+        ],
+        "answer": "氮气",
+        "explanation": "氮气约占 78%。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "空气的组成",
+        "question": "空气中氧气的体积分数约为 21%。",
+        "options": [],
+        "answer": "对",
+        "explanation": "空气组成。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "空气的组成",
+        "question": "100 L 空气中氧气约有多少 L？",
+        "options": [],
+        "answer": "21",
+        "explanation": "$100\\times21\\%=21$ L。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "氧气的性质与制取",
+        "question": "检验一瓶气体是氧气的方法是（　）",
+        "options": [
+          "闻气味",
+          "伸入带火星木条",
+          "通入澄清石灰水",
+          "观察颜色"
+        ],
+        "answer": "伸入带火星木条",
+        "explanation": "木条复燃则为氧气。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "氧气的性质与制取",
+        "question": "实验室用过氧化氢制氧气时，二氧化锰的作用是（　）",
+        "options": [
+          "反应物",
+          "生成物",
+          "催化剂",
+          "溶剂"
+        ],
+        "answer": "催化剂",
+        "explanation": "二氧化锰是催化剂。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "氧气的实验室制法操作",
+        "question": "氧气不易溶于水，可用排水法收集。",
+        "options": [],
+        "answer": "对",
+        "explanation": "氧气溶解性小。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "空气的组成",
+      "core_concept": "空气按体积分数约为：氮气 78%、氧气 21%、稀有气体 0.94%、二氧化碳 0.03%、其他 0.03%。",
+      "key_formula": "$V(\\text{N}_2):V(\\text{O}_2)\\approx4:1$",
+      "common_mistakes": [
+        "把体积分数当作质量分数。"
+      ],
+      "tips": "空气成分均指体积分数。"
+    },
+    {
+      "point": "氧气的性质与制取",
+      "core_concept": "氧气能支持燃烧，带火星木条复燃可检验氧气。实验室可用加热高锰酸钾或分解过氧化氢制取氧气，二氧化锰作催化剂。",
+      "key_formula": "$2\\text{H}_2\\text{O}_2\\xrightarrow{\\text{MnO}_2}2\\text{H}_2\\text{O}+\\text{O}_2\\uparrow$",
+      "common_mistakes": [
+        "把催化剂的作用说成“增加生成物质量”。"
+      ],
+      "tips": "催化剂改变速率，本身质量和化学性质不变。"
+    },
+    {
+      "point": "氧气的实验室制法操作",
+      "core_concept": "收集氧气可用向上排空气法（密度比空气大）或排水法（不易溶于水）；用排水法收集时导管口有连续均匀气泡冒出才开始收集。",
+      "key_formula": "氧气密度 > 空气",
+      "common_mistakes": [
+        "刚冒气泡就收集（含空气）。"
+      ],
+      "tips": "等气泡连续均匀再收集。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "空气的组成",
+        "question": "测定空气中氧气含量的实验中，能替代红磷的物质应满足（　）",
+        "options": [
+          "能与氧气反应且生成物为固体",
+          "易溶于水",
+          "与氮气反应",
+          "燃烧生成气体"
+        ],
+        "answer": "能与氧气反应且生成物为固体",
+        "explanation": "保证气体减少量等于氧气量。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "氧气的性质与制取",
+        "question": "加热 31.6 g 高锰酸钾，理论上生成氧气的物质的量为 0.1 mol，其质量是多少 g？（氧气摩尔质量 32 g/mol）",
+        "options": [],
+        "answer": "3.2",
+        "explanation": "$m=nM=0.1\\times32=3.2$ g。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "氧气的实验室制法操作",
+        "question": "用向上排空气法收集氧气是因为氧气密度比空气大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "密度大于空气。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "氧气的性质与制取",
+        "question": "下列属于氧气化学性质的是（　）",
+        "options": [
+          "无色无味",
+          "不易溶于水",
+          "支持燃烧",
+          "密度比空气大"
+        ],
+        "answer": "支持燃烧",
+        "explanation": "支持燃烧是化学性质。"
+      }
+    ]
+  }
+}

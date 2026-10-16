@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 4 The world around us — Numbers 数字",
+  "unit_number": 10,
+  "unit_test": {
+    "title": "第10单元「Module 4 The world around us — Numbers 数字」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数字 1-12 与 eleven / twelve",
+        "question": "11 的英文是（　）",
+        "options": [
+          "eleven",
+          "twelve",
+          "ten",
+          "twenty"
+        ],
+        "answer": "eleven",
+        "explanation": "11 = eleven。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数字 1-12 与 eleven / twelve",
+        "question": "12 的英文是（　）",
+        "options": [
+          "twelve",
+          "eleven",
+          "twenty",
+          "thirteen"
+        ],
+        "answer": "twelve",
+        "explanation": "12 = twelve。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问数量 How many…?",
+        "question": "— How many apples? — ___",
+        "options": [
+          "Three.",
+          "Fine.",
+          "Yes.",
+          "It's red."
+        ],
+        "answer": "Three.",
+        "explanation": "How many 问数量答数字。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "数字 1-12 与 eleven / twelve",
+        "question": "ten 表示数字 10。",
+        "options": [],
+        "answer": "对",
+        "explanation": "10 = ten。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "数字 1-12 与 eleven / twelve",
+      "core_concept": "one 到 ten 之后是 eleven（11）、twelve（12）。",
+      "key_formula": "eleven / twelve",
+      "common_mistakes": [
+        "eleven 写成 elevan。"
+      ],
+      "tips": "11、12 是特殊变化，要单独记。"
+    },
+    {
+      "point": "询问数量 How many…?",
+      "core_concept": "询问可数物品数量用 How many…?，回答直接给数字：Three.",
+      "key_formula": "How many apples? — Three.",
+      "common_mistakes": [
+        "How many 后接不可数名词。"
+      ],
+      "tips": "many 后接可数名词复数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "数字 1-12 与 eleven / twelve",
+        "question": "one, two, three, four, ___, six，横线上应填（　）",
+        "options": [
+          "five",
+          "seven",
+          "eight",
+          "nine"
+        ],
+        "answer": "five",
+        "explanation": "顺序 4 后面是 5。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问数量 How many…?",
+        "question": "询问班里有多少同学，应问（　）",
+        "options": [
+          "How many students?",
+          "How much students?",
+          "How old students?",
+          "What many students?"
+        ],
+        "answer": "How many students?",
+        "explanation": "可数名词用 how many。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "数字 1-12 与 eleven / twelve",
+        "question": "eleven 比 ten 大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "11 > 10。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "数字 1-12 与 eleven / twelve",
+        "question": "ten, eleven, ___, thirteen，横线上应填（　）",
+        "options": [
+          "twelve",
+          "fourteen",
+          "nine",
+          "fifteen"
+        ],
+        "answer": "twelve",
+        "explanation": "12 在 11 与 13 之间。"
+      }
+    ]
+  }
+}

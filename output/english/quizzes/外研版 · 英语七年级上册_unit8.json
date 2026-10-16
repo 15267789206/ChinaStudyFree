@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 8 Choosing presents 挑选礼物",
+  "unit_number": 8,
+  "unit_test": {
+    "title": "第8单元「Module 8 Choosing presents 挑选礼物」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "礼物词汇 present / gift / birthday",
+        "question": "「礼物」的英文是（　）",
+        "options": [
+          "present",
+          "parent",
+          "presence",
+          "pleasant"
+        ],
+        "answer": "present",
+        "explanation": "present 礼物。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "礼物词汇 present / gift / birthday",
+        "question": "「生日」的英文是（　）",
+        "options": [
+          "birthday",
+          "birth day",
+          "birhtday",
+          "birthdey"
+        ],
+        "answer": "birthday",
+        "explanation": "birthday 生日。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "购物句型 How much…?",
+        "question": "询问价格应问（　）",
+        "options": [
+          "How much is it?",
+          "How many is it?",
+          "How much it is?",
+          "What much is it?"
+        ],
+        "answer": "How much is it?",
+        "explanation": "how much 问价。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "礼物词汇 present / gift / birthday",
+        "question": "give 的意思是「给」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "give 给。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "礼物词汇 present / gift / birthday",
+      "core_concept": "present 礼物、gift 礼物、birthday 生日；give sb. sth. 给某人某物。",
+      "key_formula": "buy a present 买礼物 / Happy birthday! 生日快乐",
+      "common_mistakes": [
+        "present 与 parent 混淆。"
+      ],
+      "tips": "present 有「礼物」义。"
+    },
+    {
+      "point": "购物句型 How much…?",
+      "core_concept": "询问价格 How much is it? / How much are they?；想买 I want to buy… / I'd like to buy…",
+      "key_formula": "How much is it? — It's 20 yuan.",
+      "common_mistakes": [
+        "how much 后接可数复数物品。"
+      ],
+      "tips": "问价统一 how much。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "购物句型 How much…?",
+        "question": "「我想买一个礼物。」的英文是（　）",
+        "options": [
+          "I want to buy a present.",
+          "I want buy a present.",
+          "I want to buying a present.",
+          "I want to bought a present."
+        ],
+        "answer": "I want to buy a present.",
+        "explanation": "want to + 原形。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "礼物词汇 present / gift / birthday",
+        "question": "Happy birthday! 是生日祝福。",
+        "options": [],
+        "answer": "对",
+        "explanation": "生日快乐。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "礼物词汇 present / gift / birthday",
+        "question": "「给朋友的礼物」的英文是（　）",
+        "options": [
+          "a present for my friend",
+          "a present to my friend",
+          "a present of my friend",
+          "a present with my friend"
+        ],
+        "answer": "a present for my friend",
+        "explanation": "for 表给谁。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "购物句型 How much…?",
+        "question": "「它们 50 元。」的英文是（　）",
+        "options": [
+          "They're 50 yuan.",
+          "They 50 yuan.",
+          "It's 50 yuan.",
+          "They are 50 yuans."
+        ],
+        "answer": "They're 50 yuan.",
+        "explanation": "复数主语 they。"
+      }
+    ]
+  }
+}

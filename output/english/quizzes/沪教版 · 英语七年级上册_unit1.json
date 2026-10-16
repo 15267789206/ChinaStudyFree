@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 1 My life — Making friends 交朋友",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 My life — Making friends 交朋友」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "交朋友表达",
+        "question": "「交朋友」的英文是（　）",
+        "options": [
+          "make friends",
+          "do friends",
+          "make friend",
+          "have friends"
+        ],
+        "answer": "make friends",
+        "explanation": "交朋友用 make friends。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "自我介绍与来源",
+        "question": "— Nice to meet you. — ___",
+        "options": [
+          "Nice to meet you, too.",
+          "How are you?",
+          "I'm fine.",
+          "Goodbye."
+        ],
+        "answer": "Nice to meet you, too.",
+        "explanation": "回应加 too。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "自我介绍与来源",
+        "question": "「我来自中国。」的英文是（　）",
+        "options": [
+          "I'm from China.",
+          "I come China.",
+          "I'm in China.",
+          "I from China."
+        ],
+        "answer": "I'm from China.",
+        "explanation": "be from 来自。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "交朋友表达",
+        "question": "friendly 的意思是「友好的」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "friendly 形容词。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "交朋友表达",
+      "core_concept": "make friends 交朋友、be friendly to… 对……友好。见面问候 Nice to meet you. 回答 Nice to meet you, too.",
+      "key_formula": "make friends / be friendly to others",
+      "common_mistakes": [
+        "friend 与 friendly 混用。"
+      ],
+      "tips": "friend 是名词，friendly 是形容词。"
+    },
+    {
+      "point": "自我介绍与来源",
+      "core_concept": "I'm from China. 我来自中国；Where are you from? 你来自哪里？",
+      "key_formula": "Where are you from? — I'm from China.",
+      "common_mistakes": [
+        "from 后面接错。"
+      ],
+      "tips": "be from = 来自。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "交朋友表达",
+        "question": "想认识新同学，应主动说（　）",
+        "options": [
+          "Hello! I'm Li Ming. Nice to meet you.",
+          "How old are you?",
+          "Where do you live?",
+          "What's your name?"
+        ],
+        "answer": "Hello! I'm Li Ming. Nice to meet you.",
+        "explanation": "主动问候并自我介绍。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "自我介绍与来源",
+        "question": "「你来自哪里？」的英文是（　）",
+        "options": [
+          "Where are you from?",
+          "Where do you come?",
+          "Where are you?",
+          "What are you from?"
+        ],
+        "answer": "Where are you from?",
+        "explanation": "be from 疑问式。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "交朋友表达",
+        "question": "be friendly to others 表示「对他人友好」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "友好相处。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "自我介绍与来源",
+        "question": "「我们是好朋友。」的英文是（　）",
+        "options": [
+          "We are good friends.",
+          "We are good friend.",
+          "We is good friends.",
+          "We are goods friends."
+        ],
+        "answer": "We are good friends.",
+        "explanation": "复数用 are + friends。"
+      }
+    ]
+  }
+}

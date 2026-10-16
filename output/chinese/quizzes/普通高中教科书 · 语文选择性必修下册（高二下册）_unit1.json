@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修下册",
+  "unit": "语言文字与文学评论",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「语言文字与文学评论」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "语言文字积累与运用",
+        "question": "语言运用的首要要求是（　）",
+        "options": [
+          "准确、简明、得体",
+          "华丽",
+          "复杂",
+          "含蓄难懂"
+        ],
+        "answer": "准确、简明、得体",
+        "explanation": "语言规范三要求。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "文学评论与经典阅读",
+        "question": "文学评论的重点是（　）",
+        "options": [
+          "作品的主旨、艺术特色与思想价值",
+          "作者生平简介",
+          "故事结局",
+          "封面设计"
+        ],
+        "answer": "作品的主旨、艺术特色与思想价值",
+        "explanation": "评论三要素。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "语言文字积累与运用",
+        "question": "锤炼字词能使表达更准确传神。",
+        "options": [],
+        "answer": "对",
+        "explanation": "锤炼字词。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "文学评论与经典阅读",
+        "question": "阅读经典要读进去并品出味道。",
+        "options": [],
+        "answer": "对",
+        "explanation": "读经典。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "语言文字积累与运用",
+      "core_concept": "语言文字运用要注意规范（用词恰当、句式得当、表达简明），要锤炼字词、推敲句式。",
+      "key_formula": "规范 + 简明 + 准确 + 生动",
+      "common_mistakes": [
+        "用词堆砌。"
+      ],
+      "tips": "推敲字词句。"
+    },
+    {
+      "point": "文学评论与经典阅读",
+      "core_concept": "文学评论要抓作品的主旨、艺术特色与思想价值。阅读经典要读进去、品出来。",
+      "key_formula": "主旨 + 艺术 + 价值",
+      "common_mistakes": [
+        "只复述情节不评析。"
+      ],
+      "tips": "评论要评析结合。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "语言文字积累与运用",
+        "question": "下列表达最得体的一句是（　）",
+        "options": [
+          "“请问您贵姓？”——对长辈的礼貌用语",
+          "“喂，你谁啊？”",
+          "“滚开！”",
+          "“把东西拿来！”"
+        ],
+        "answer": "“请问您贵姓？”——对长辈的礼貌用语",
+        "explanation": "得体用语。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "文学评论与经典阅读",
+        "question": "评析一部作品应做到（　）",
+        "options": [
+          "评述结合，有理有据",
+          "只夸不评",
+          "只批不褒",
+          "空泛无据"
+        ],
+        "answer": "评述结合，有理有据",
+        "explanation": "评析结合。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "语言文字积累与运用",
+        "question": "书面语与口语的表达特点各有不同。",
+        "options": [],
+        "answer": "对",
+        "explanation": "语体差异。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "文学评论与经典阅读",
+        "question": "经典作品历久弥新，值得反复阅读。",
+        "options": [],
+        "answer": "对",
+        "explanation": "经典常读常新。"
+      }
+    ]
+  }
+}

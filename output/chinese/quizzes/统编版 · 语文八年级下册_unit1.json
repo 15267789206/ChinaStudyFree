@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "古诗文与游记",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「古诗文与游记」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古代游记散文",
+        "question": "游记中最常见的是（　）",
+        "options": [
+          "移步换景",
+          "时空倒流",
+          "首尾呼应",
+          "欲扬先抑"
+        ],
+        "answer": "移步换景",
+        "explanation": "游记按行踪写景。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古代诗歌鉴赏",
+        "question": "“杨柳”常用来表达（　）",
+        "options": [
+          "惜别之情",
+          "喜迎丰收",
+          "愤怒",
+          "田园闲适"
+        ],
+        "answer": "惜别之情",
+        "explanation": "柳与别离相关。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古代游记散文",
+        "question": "游记往往融叙事、写景、抒情于一体。",
+        "options": [],
+        "answer": "对",
+        "explanation": "游记特点。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古代诗歌鉴赏",
+        "question": "诗歌鉴赏要结合全诗理解意象的情感。",
+        "options": [],
+        "answer": "对",
+        "explanation": "结合全诗分析。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "古代游记散文",
+      "core_concept": "游记常按行踪移步换景，融叙事、写景、抒情、议论于一体。分析时要抓住景物的特点与作者的情感变化。",
+      "key_formula": "移步换景、情景交融",
+      "common_mistakes": [
+        "只翻译不体会情感。"
+      ],
+      "tips": "抓住景物特点与情感。"
+    },
+    {
+      "point": "古代诗歌鉴赏",
+      "core_concept": "诗歌鉴赏要抓住意象、意境和情感。常见意象如月、雁、杨柳各有固定情感指向，要结合全诗具体分析。",
+      "key_formula": "意象 + 意境 + 情感",
+      "common_mistakes": [
+        "套用情感不结合文本。"
+      ],
+      "tips": "一切景语皆情语。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古代游记散文",
+        "question": "分析游记中的景物描写作用，可以从（　）入手",
+        "options": [
+          "景物特点与表达的情感",
+          "作者生平",
+          "文章字数",
+          "标点符号"
+        ],
+        "answer": "景物特点与表达的情感",
+        "explanation": "从景与情入手。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古代诗歌鉴赏",
+        "question": "“大漠孤烟直，长河落日圆”描绘的是（　）",
+        "options": [
+          "雄浑壮阔的边塞景象",
+          "江南春景",
+          "田园闲趣",
+          "市井生活"
+        ],
+        "answer": "雄浑壮阔的边塞景象",
+        "explanation": "边塞雄浑景象。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古代游记散文",
+        "question": "游记中的议论句往往直接表达作者主旨。",
+        "options": [],
+        "answer": "对",
+        "explanation": "议论抒情言志。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古代诗歌鉴赏",
+        "question": "意象是融入了作者情感的具体物象。",
+        "options": [],
+        "answer": "对",
+        "explanation": "意象含情。"
+      }
+    ]
+  }
+}

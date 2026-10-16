@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级下册",
+  "unit": "富强与文明",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「富强与文明」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "共同富裕与中国梦",
+        "question": "共同富裕是社会主义的（　）",
+        "options": [
+          "本质要求",
+          "临时措施",
+          "可选项",
+          "结果"
+        ],
+        "answer": "本质要求",
+        "explanation": "共同富裕是本质要求。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "中华优秀传统文化",
+        "question": "对待中华优秀传统文化的正确态度是（　）",
+        "options": [
+          "创造性转化、创新性发展",
+          "全部照搬",
+          "全部抛弃",
+          "只取糟粕"
+        ],
+        "answer": "创造性转化、创新性发展",
+        "explanation": "两创方针。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "共同富裕与中国梦",
+        "question": "共同富裕不是同步、同等富裕。",
+        "options": [],
+        "answer": "对",
+        "explanation": "共同富裕非齐头并进。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "中华优秀传统文化",
+        "question": "中华优秀传统文化是中华民族的精神命脉。",
+        "options": [],
+        "answer": "对",
+        "explanation": "文化是命脉。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "共同富裕与中国梦",
+      "core_concept": "共同富裕是社会主义的本质要求，是中国式现代化的重要特征。实现共同富裕要发展生产力、完善分配制度、扩大中等收入群体。",
+      "key_formula": "共同富裕是本质要求",
+      "common_mistakes": [
+        "把共同富裕理解为同步同等富裕。"
+      ],
+      "tips": "不是整齐划一，而是共同富裕。"
+    },
+    {
+      "point": "中华优秀传统文化",
+      "core_concept": "中华优秀传统文化源远流长、博大精深，是中华民族的精神命脉。要创造性转化、创新性发展，增强文化自信。",
+      "key_formula": "两创：创造性转化、创新性发展",
+      "common_mistakes": [
+        "全盘否定传统文化。"
+      ],
+      "tips": "取其精华、去其糟粕。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "共同富裕与中国梦",
+        "question": "实现共同富裕的路径不包括（　）",
+        "options": [
+          "大力发展生产力",
+          "完善分配制度",
+          "实行平均主义",
+          "促进基本公共服务均等化"
+        ],
+        "answer": "实行平均主义",
+        "explanation": "平均主义不是共同富裕路径。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "中华优秀传统文化",
+        "question": "下列对待传统文化的做法错误的是（　）",
+        "options": [
+          "批判地继承，取其精华去其糟粕",
+          "盲目全盘否定",
+          "结合时代需求创新发展",
+          "弘扬优秀传统文化"
+        ],
+        "answer": "盲目全盘否定",
+        "explanation": "不能全盘否定。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "共同富裕与中国梦",
+        "question": "我国仍处于社会主义初级阶段，发展不平衡不充分问题依然存在。",
+        "options": [],
+        "answer": "对",
+        "explanation": "发展不平衡仍存在。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "中华优秀传统文化",
+        "question": "文化自信是更基础、更广泛、更深厚的自信。",
+        "options": [],
+        "answer": "对",
+        "explanation": "文化自信。"
+      }
+    ]
+  }
+}

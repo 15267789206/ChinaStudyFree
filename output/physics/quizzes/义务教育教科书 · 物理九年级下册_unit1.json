@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级下册",
+  "unit": "内能与热机",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「内能与热机」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "内能与比热容",
+        "question": "改变内能的方式有（　）",
+        "options": [
+          "做功和热传递",
+          "只有热传递",
+          "只有做功",
+          "只有摩擦"
+        ],
+        "answer": "做功和热传递",
+        "explanation": "两种方式。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "内燃机与热机效率",
+        "question": "汽油机四个冲程中把内能转化为机械能的是（　）",
+        "options": [
+          "做功冲程",
+          "吸气冲程",
+          "压缩冲程",
+          "排气冲程"
+        ],
+        "answer": "做功冲程",
+        "explanation": "做功冲程转化能量。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "内能与比热容",
+        "question": "水的比热容较大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "水的比热容大。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "内燃机与热机效率",
+        "question": "压缩冲程把机械能转化为内能。",
+        "options": [],
+        "answer": "对",
+        "explanation": "压缩是机械能转内能。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "内能与比热容",
+      "core_concept": "内能是物体内部所有分子热运动的总能。热传递改变内能，方式有传导、对流和辐射。比热容反映物质吸热能力，水的比热容大。",
+      "key_formula": "$Q = cm\\Delta t$",
+      "common_mistakes": [
+        "认为热量是物体含有的物质。"
+      ],
+      "tips": "热量是过程量。"
+    },
+    {
+      "point": "内燃机与热机效率",
+      "core_concept": "汽油机四冲程：吸气、压缩、做功、排气。其中只有做功冲程把内能转化为机械能。热机效率等于有用功与总功之比。",
+      "key_formula": "$n = \\dfrac{W_\\text{有用}}{W_\\text{总}} \\times 100\\%$",
+      "common_mistakes": [
+        "认为压缩冲程对外做功。"
+      ],
+      "tips": "只有做功冲程做功。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "内能与比热容",
+        "question": "沿海地区昼夜温差比内陆小，主要因为水的（　）",
+        "options": [
+          "比热容大",
+          "密度大",
+          "导热快",
+          "沸点高"
+        ],
+        "answer": "比热容大",
+        "explanation": "水的比热容大。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "内燃机与热机效率",
+        "question": "提高热机效率的途径是（　）",
+        "options": [
+          "使燃料充分燃烧并减少热量损失",
+          "增加散热",
+          "降低燃料热值",
+          "减少做功"
+        ],
+        "answer": "使燃料充分燃烧并减少热量损失",
+        "explanation": "提高效率途径。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "内能与比热容",
+        "question": "热量是热传递过程中转移的能量，不能用“含有”描述。",
+        "options": [],
+        "answer": "对",
+        "explanation": "热量是过程量。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "内燃机与热机效率",
+        "question": "热机效率不可能达到 100%。",
+        "options": [],
+        "answer": "对",
+        "explanation": "存在热损失。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "Module 2 规则与的帮助",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 2 规则与的帮助」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 must / should",
+        "question": "You ___ be late again — it's a rule.",
+        "options": [
+          "mustn't",
+          "must",
+          "shouldn't",
+          "needn't"
+        ],
+        "answer": "mustn't",
+        "explanation": "禁止用 mustn't。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "求助与建议表达",
+        "question": "— I have a question. — ___",
+        "options": [
+          "What a pity!",
+          "What can I do for you?",
+          "You're welcome.",
+          "Never mind."
+        ],
+        "answer": "What can I do for you?",
+        "explanation": "服务行业常用语。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 must / should",
+        "question": "should 表示“应该、建议”。",
+        "options": [],
+        "answer": "对",
+        "explanation": "should 表建议。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "求助与建议表达",
+        "question": "“Why not…?”用于提出建议。",
+        "options": [],
+        "answer": "对",
+        "explanation": "Why not。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "情态动词 must / should",
+      "core_concept": "must 表示必须，should 表示应该，mustn't 表示禁止，情态动词后接动词原形。",
+      "key_formula": "情态动词 + 动词原形",
+      "common_mistakes": [
+        "情态动词后加 to。"
+      ],
+      "tips": "后接原形。"
+    },
+    {
+      "point": "求助与建议表达",
+      "core_concept": "常用句型：Could you help me? Can I help you? Why not…? What about…? You should…",
+      "key_formula": "Why not + 动词原形?",
+      "common_mistakes": [
+        "把 Why not 回答成 Yes。"
+      ],
+      "tips": "Why not 提建议。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 must / should",
+        "question": "We ___ protect the environment.",
+        "options": [
+          "should",
+          "shoulds",
+          "should to",
+          "are should"
+        ],
+        "answer": "should",
+        "explanation": "情态动词不变形。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "求助与建议表达",
+        "question": "What ___ we do for the old people?",
+        "options": [
+          "do",
+          "can",
+          "should",
+          "are"
+        ],
+        "answer": "can",
+        "explanation": "情态动词表能力。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 must / should",
+        "question": "mustn't 表示禁止，needn't 表示不必。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两者区别。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "求助与建议表达",
+        "question": "提供帮助时常说 Can I help you?",
+        "options": [],
+        "answer": "对",
+        "explanation": "Can I help you。"
+      }
+    ]
+  }
+}

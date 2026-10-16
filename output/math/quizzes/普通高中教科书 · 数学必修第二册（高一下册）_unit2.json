@@ -1,0 +1,130 @@
+{
+  "textbook": "必修第二册",
+  "unit": "复数",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「复数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "复数的概念与四则运算",
+        "question": "$(2+i)+(1-3i)=$ ？（写成 a+bi 形式）",
+        "options": [],
+        "answer": "3-2i",
+        "explanation": "实部 3、虚部 -2。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "复数的概念与四则运算",
+        "question": "复数 $3+4i$ 的模是多少？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$\\sqrt{9+16}=5$。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "复数的概念与四则运算",
+        "question": "$i^2=-1$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "虚数单位约定。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "复数的概念与四则运算",
+        "question": "$i^3=$（　）",
+        "options": [
+          "1",
+          "-1",
+          "$i$",
+          "$-i$"
+        ],
+        "answer": "$-i$",
+        "explanation": "$i^3=i^2\\cdot i=-i$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "复数的概念与四则运算",
+      "core_concept": "$z=a+bi$，$i^2=-1$。$|z|=\\sqrt{a^2+b^2}$。共轭复数为 $a-bi$。加法实部虚部分别相加；乘法按多项式展开并用 $i^2=-1$ 化简。",
+      "key_formula": "$i^2=-1$，$|z|=\\sqrt{a^2+b^2}$",
+      "common_mistakes": [
+        "$i^2$ 写成 1。"
+      ],
+      "tips": "牢记 $i^2=-1$。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "复数的概念与四则运算",
+        "question": "$(1+i)(1-i)=$ ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$1-i^2=1+1=2$。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "复数的概念与四则运算",
+        "question": "复数 $2-3i$ 的共轭复数是（　）",
+        "options": [
+          "$2+3i$",
+          "$-2-3i$",
+          "$-2+3i$",
+          "$3-2i$"
+        ],
+        "answer": "$2+3i$",
+        "explanation": "虚部变号。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "复数的概念与四则运算",
+        "question": "$(2i)^2=4i^2=-4$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "注意整体平方。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "复数的概念与四则运算",
+        "question": "复数 $a+bi$ 为纯虚数的条件是（　）",
+        "options": [
+          "$a=0$ 且 $b\\ne0$",
+          "$b=0$",
+          "$a=0$",
+          "$a\\ne0$"
+        ],
+        "answer": "$a=0$ 且 $b\\ne0$",
+        "explanation": "纯虚数定义。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "textbook": "八年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "力与运动",
+      "knowledge_points": [
+        {
+          "name": "力与弹力、重力",
+          "description": "理解力的作用效果、重力与弹力。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "牛顿第一定律与惯性",
+          "description": "理解惯性定律与惯性。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "二力平衡与摩擦力",
+          "description": "掌握二力平衡条件与摩擦力影响因素。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "压强与浮力",
+      "knowledge_points": [
+        {
+          "name": "压强",
+          "description": "理解压强概念并会计算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "液体的压强",
+          "description": "掌握液体压强规律与公式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "阿基米德原理与浮沉条件",
+          "description": "掌握浮力计算与浮沉判断。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "功和机械能",
+      "knowledge_points": [
+        {
+          "name": "功与功率",
+          "description": "理解做功条件并会计算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "动能与势能",
+          "description": "理解动能、重力势能、弹性势能的影响因素。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "机械能及其转化",
+          "description": "理解机械能守恒与转化。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

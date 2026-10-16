@@ -1,0 +1,170 @@
+{
+  "textbook": "八年级上册",
+  "unit": "全等三角形",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「全等三角形」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "全等三角形的判定",
+        "question": "判断两三角形全等，下列条件不成立的是（　）",
+        "options": [
+          "SSS",
+          "SAS",
+          "SSA",
+          "ASA"
+        ],
+        "answer": "SSA",
+        "explanation": "SSA 不能判定全等。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "全等三角形的性质",
+        "question": "全等三角形的对应边相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "全等性质。"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "全等三角形的判定",
+        "question": "三边分别对应相等的两个三角形 ___。",
+        "options": [],
+        "answer": "全等",
+        "explanation": "SSS 判定。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "角平分线的性质",
+        "question": "角平分线上的点到角两边的距离相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "角平分线性质定理。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "角平分线的性质",
+        "question": "到角两边距离相等的点在（　）",
+        "options": [
+          "角平分线上",
+          "中线上",
+          "高上",
+          "无法确定"
+        ],
+        "answer": "角平分线上",
+        "explanation": "角平分线的判定。"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "全等三角形的性质",
+        "question": "全等三角形的对应角 ___。",
+        "options": [],
+        "answer": "相等",
+        "explanation": "全等性质。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "全等三角形的判定",
+      "core_concept": "三边对应相等(SSS)、两边及夹角对应相等(SAS)、两角及夹边(ASA)、两角及对边(AAS)、直角三角形的斜边与一直角边(HL)可判定全等。",
+      "key_formula": "SAS / ASA / SSS / AAS / HL",
+      "common_mistakes": [
+        "用 SSA 判定全等。"
+      ],
+      "tips": "找对应元素时注意角的“夹”与“对”。"
+    },
+    {
+      "point": "全等三角形的性质",
+      "core_concept": "全等三角形的对应边相等、对应角相等。",
+      "key_formula": "全等 ⇒ 对应边、角相等",
+      "common_mistakes": [
+        "对应关系找错。"
+      ],
+      "tips": "先写出全等符号，再按对应顺序找边角。"
+    },
+    {
+      "point": "角平分线的性质",
+      "core_concept": "角平分线上的点到角两边的距离相等；到角两边距离相等的点在角平分线上。",
+      "key_formula": "点P在平分线 ⇔ 到两边距离相等",
+      "common_mistakes": [
+        "把“距离”写成任意连线。"
+      ],
+      "tips": "距离必须垂直于两边。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "全等三角形的判定",
+        "question": "已知两边及夹角可判定全等，依据是（　）",
+        "options": [
+          "SSS",
+          "SAS",
+          "ASA",
+          "AAS"
+        ],
+        "answer": "SAS",
+        "explanation": "两边及夹角为 SAS。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "角平分线的性质",
+        "question": "三角形三条角平分线交于一点。",
+        "options": [],
+        "answer": "对",
+        "explanation": "交点是内心。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "全等三角形的判定",
+        "question": "两角及夹边对应相等可判定全等，简称 ___。",
+        "options": [],
+        "answer": "ASA",
+        "explanation": "角边角。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "全等三角形的性质",
+        "question": "全等三角形的周长相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对应边相等，周长自然相等。"
+      }
+    ]
+  }
+}

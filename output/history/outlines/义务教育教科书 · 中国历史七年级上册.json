@@ -1,0 +1,93 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "史前时期与早期国家",
+      "knowledge_points": [
+        {
+          "name": "中国境内早期人类",
+          "description": "了解北京人、元谋人等与原始农耕。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "夏商周与分封制",
+          "description": "了解早期国家与西周制度。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "春秋战国与社会变革",
+          "description": "了解争霸兼并、商鞅变法与百家争鸣。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "秦汉时期",
+      "knowledge_points": [
+        {
+          "name": "秦的统一与中央集权",
+          "description": "了解秦朝统一措施与影响。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "汉朝巩固统一",
+          "description": "了解汉武帝巩固统一的措施。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "三国两晋南北朝",
+      "knowledge_points": [
+        {
+          "name": "三国鼎立与西晋统一",
+          "description": "了解三国鼎立局面的形成。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "江南开发与民族交融",
+          "description": "了解南方开发与民族交融。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

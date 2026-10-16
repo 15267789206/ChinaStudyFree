@@ -1,0 +1,155 @@
+{
+  "textbook": "必修第一册",
+  "unit": "钠、氯及其化合物",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「钠、氯及其化合物」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "钠及其化合物",
+        "question": "钠与水反应的现象不包括（　）",
+        "options": [
+          "浮在水面",
+          "熔成小球",
+          "沉入水底",
+          "四处游动"
+        ],
+        "answer": "沉入水底",
+        "explanation": "钠密度小于水。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "氯及其化合物",
+        "question": "氯水具有漂白性，起漂白作用的物质是（　）",
+        "options": [
+          "$\\text{Cl}_2$",
+          "$\\text{HCl}$",
+          "$\\text{HClO}$",
+          "$\\text{H}_2\\text{O}$"
+        ],
+        "answer": "$\\text{HClO}$",
+        "explanation": "次氯酸有漂白性。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "钠及其化合物",
+        "question": "过氧化钠可用于呼吸面具或潜水艇中供氧。",
+        "options": [],
+        "answer": "对",
+        "explanation": "与 CO₂ 反应产生 O₂。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "钠及其化合物",
+        "question": "4.6 g 钠的物质的量是多少 mol？（Na 为 23 g/mol）",
+        "options": [],
+        "answer": "0.2",
+        "explanation": "$n=\\frac{4.6}{23}=0.2$ mol。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "氯及其化合物",
+        "question": "氯气有毒，闻氯气气味时应扇动气体。",
+        "options": [],
+        "answer": "对",
+        "explanation": "正确闻气味方法。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "钠及其化合物",
+      "core_concept": "钠是活泼金属，与水反应生成氢氧化钠和氢气。过氧化钠与二氧化碳反应生成碳酸钠和氧气，可用于供氧。碳酸氢钠受热易分解。",
+      "key_formula": "$2\\text{Na}+2\\text{H}_2\\text{O}=2\\text{NaOH}+\\text{H}_2\\uparrow$",
+      "common_mistakes": [
+        "认为钠可置换出盐溶液中的金属。"
+      ],
+      "tips": "钠先与水反应。"
+    },
+    {
+      "point": "氯及其化合物",
+      "core_concept": "氯气是黄绿色有刺激性气味的有毒气体，与水反应生成盐酸和次氯酸，次氯酸具有强氧化性和漂白性。",
+      "key_formula": "$\\text{Cl}_2+\\text{H}_2\\text{O}=\\text{HCl}+\\text{HClO}$",
+      "common_mistakes": [
+        "把漂白性归给氯气本身。"
+      ],
+      "tips": "漂白靠 HClO。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "钠及其化合物",
+        "question": "鉴别碳酸钠与碳酸氢钠可用（　）",
+        "options": [
+          "加水",
+          "加热",
+          "加 NaCl",
+          "闻气味"
+        ],
+        "answer": "加热",
+        "explanation": "碳酸氢钠受热分解。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "氯及其化合物",
+        "question": "$\\text{Cl}_2$ 与 NaOH 反应生成 NaCl、NaClO 和水，1 mol $\\text{Cl}_2$ 需 NaOH 多少 mol？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$\\text{Cl}_2+2\\text{NaOH}=\\text{NaCl}+\\text{NaClO}+\\text{H}_2\\text{O}$。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "钠及其化合物",
+        "question": "钠在空气中燃烧生成氧化钠。",
+        "options": [],
+        "answer": "错",
+        "explanation": "生成过氧化钠。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "氯及其化合物",
+        "question": "实验室制取氯气常用（　）",
+        "options": [
+          "$\\text{MnO}_2$ 与浓盐酸加热",
+          "$\\text{NaCl}$ 与稀盐酸",
+          "电解食盐水",
+          "氯酸钾分解"
+        ],
+        "answer": "$\\text{MnO}_2$ 与浓盐酸加热",
+        "explanation": "经典制氯法。"
+      }
+    ]
+  }
+}

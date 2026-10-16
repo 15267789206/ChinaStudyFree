@@ -1,0 +1,134 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "空间向量与立体几何",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「空间向量与立体几何」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "空间向量的运算与坐标表示",
+        "question": "$\\vec a=(1,0,2)$，$\\vec b=(2,1,0)$，则 $\\vec a\\cdot\\vec b=$ ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$1\\times2+0\\times1+2\\times0=2$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "空间向量的运算与坐标表示",
+        "question": "向量 $(2,-1,2)$ 的模是多少？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$\\sqrt{4+1+4}=3$。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "用空间向量求空间角",
+        "question": "求异面直线所成角时，公式中需要（　）",
+        "options": [
+          "取绝对值",
+          "取相反数",
+          "平方",
+          "开方"
+        ],
+        "answer": "取绝对值",
+        "explanation": "保证为锐角。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "空间向量的运算与坐标表示",
+        "question": "空间向量垂直的充要条件是数量积为 0。",
+        "options": [],
+        "answer": "对",
+        "explanation": "垂直条件。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "空间向量的运算与坐标表示",
+      "core_concept": "空间向量坐标形式的数量积 $\\vec a\\cdot\\vec b=x_1x_2+y_1y_2+z_1z_2$；模 $|\\vec a|=\\sqrt{x^2+y^2+z^2}$。垂直条件为数量积为 0。",
+      "key_formula": "$\\vec a\\cdot\\vec b=x_1x_2+y_1y_2+z_1z_2$",
+      "common_mistakes": [
+        "漏掉 $z$ 分量。"
+      ],
+      "tips": "三维都要算。"
+    },
+    {
+      "point": "用空间向量求空间角",
+      "core_concept": "异面直线所成角 $\\theta$ 满足 $\\cos\\theta=\\frac{|\\vec a\\cdot\\vec b|}{|\\vec a||\\vec b|}$；直线与平面所成角用直线方向向量与平面法向量夹角的正弦值表示。",
+      "key_formula": "$\\cos\\theta=\\frac{|\\vec a\\cdot\\vec b|}{|\\vec a||\\vec b|}$",
+      "common_mistakes": [
+        "忘记取绝对值导致角为钝角。"
+      ],
+      "tips": "异面直线夹角为锐角或直角。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "空间向量的运算与坐标表示",
+        "question": "已知 $\\vec a=(1,2,-1)$，$\\vec b=(2,0,2)$，则 $\\vec a\\cdot\\vec b=$ ？",
+        "options": [],
+        "answer": "0",
+        "explanation": "$2+0-2=0$，故垂直。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "用空间向量求空间角",
+        "question": "两向量夹角的余弦值的取值范围是（　）",
+        "options": [
+          "$[0,1]$",
+          "$[-1,1]$",
+          "$(0,1)$",
+          "$[-1,0]$"
+        ],
+        "answer": "$[-1,1]$",
+        "explanation": "余弦值范围。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "空间向量的运算与坐标表示",
+        "question": "空间向量可以平移，其坐标随之改变。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平移时坐标变化。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "空间向量的运算与坐标表示",
+        "question": "$\\vec a=(2,2,1)$，则 $|\\vec a|=$ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$\\sqrt{4+4+1}=3$。"
+      }
+    ]
+  }
+}

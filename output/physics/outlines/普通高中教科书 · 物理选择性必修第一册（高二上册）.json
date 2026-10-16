@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "动量守恒定律",
+      "knowledge_points": [
+        {
+          "name": "动量与冲量",
+          "description": "理解动量、冲量与动量定理。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "动量守恒定律",
+          "description": "掌握动量守恒的条件与应用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "机械振动与机械波",
+      "knowledge_points": [
+        {
+          "name": "简谐运动与单摆",
+          "description": "掌握简谐运动特征与单摆周期。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "机械波与波的描述",
+          "description": "掌握波长、频率、波速关系。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

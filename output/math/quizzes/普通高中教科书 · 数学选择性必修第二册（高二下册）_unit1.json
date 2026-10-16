@@ -1,0 +1,182 @@
+{
+  "textbook": "选择性必修第二册",
+  "unit": "数列",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「数列」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "等差数列",
+        "question": "等差数列 $\\{a_n\\}$ 中 $a_1=2$，公差 $d=3$，则 $a_{10}=$ ？",
+        "options": [],
+        "answer": "29",
+        "explanation": "$a_{10}=a_1+(10-1)d=2+9\\times(3)=29$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "等差数列",
+        "question": "等差数列 $\\{a_n\\}$ 中 $a_1=5$，公差 $d=-2$，则 $a_{6}=$ ？",
+        "options": [],
+        "answer": "-5",
+        "explanation": "$a_{6}=a_1+(6-1)d=5+5\\times(-2)=-5$。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "等差数列",
+        "question": "等差数列首项 1、公差 2、前 10 项和是多少？",
+        "options": [],
+        "answer": "100",
+        "explanation": "$S_{10}=10\\times1+\\frac{10\\times9}{2}\\times2=10+90=100$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "等比数列",
+        "question": "等比数列 $\\{a_n\\}$ 中 $a_1=1$，公比 $q=2$，则 $a_{5}=$ ？",
+        "options": [],
+        "answer": "16",
+        "explanation": "$a_{5}=a_1q^{4}=1\\times2^{4}=16$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "等比数列",
+        "question": "等比数列 $\\{a_n\\}$ 中 $a_1=3$，公比 $q=2$，则 $a_{4}=$ ？",
+        "options": [],
+        "answer": "24",
+        "explanation": "$a_{4}=a_1q^{3}=3\\times2^{3}=24$。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等比数列",
+        "question": "等比数列首项 1、公比 2、前 5 项和是多少？",
+        "options": [],
+        "answer": "31",
+        "explanation": "$\\frac{1(1-2^5)}{1-2}=31$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "数列求和与递推",
+        "question": "数列 $a_n=\\frac{1}{n(n+1)}$ 的前 $n$ 项和为（　）",
+        "options": [
+          "$\\frac{n}{n+1}$",
+          "$\\frac{1}{n+1}$",
+          "$\\frac{n+1}{n}$",
+          "$\\frac n{n+2}$"
+        ],
+        "answer": "$\\frac{n}{n+1}$",
+        "explanation": "裂项相消：$1-\\frac{1}{n+1}$。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "等差数列",
+        "question": "等差数列中，若 $m+n=p+q$，则 $a_m+a_n=a_p+a_q$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "等差性质。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "等差数列",
+      "core_concept": "等差数列通项 $a_n=a_1+(n-1)d$，前 $n$ 项和 $S_n=\\frac{n(a_1+a_n)}{2}=na_1+\\frac{n(n-1)}{2}d$。",
+      "key_formula": "$a_n=a_1+(n-1)d$",
+      "common_mistakes": [
+        "项数与公式对应错误。"
+      ],
+      "tips": "先确定 $a_1$ 与 $d$。"
+    },
+    {
+      "point": "等比数列",
+      "core_concept": "等比数列通项 $a_n=a_1q^{n-1}$；$q\\ne1$ 时 $S_n=\\frac{a_1(1-q^n)}{1-q}$。",
+      "key_formula": "$a_n=a_1q^{n-1}$",
+      "common_mistakes": [
+        "公比 $q=1$ 时套用求和公式。"
+      ],
+      "tips": "先讨论 $q=1$ 的情况。"
+    },
+    {
+      "point": "数列求和与递推",
+      "core_concept": "常用方法：公式法、倒序相加（等差）、错位相减（等差×等比）、裂项相消。",
+      "key_formula": "$\\frac{1}{n(n+1)}=\\frac1n-\\frac{1}{n+1}$",
+      "common_mistakes": [
+        "裂项后忘记系数。"
+      ],
+      "tips": "裂项求和注意首尾剩余项。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等差数列",
+        "question": "等差数列 $\\{a_n\\}$ 中 $a_1=3$，公差 $d=4$，则 $a_{8}=$ ？",
+        "options": [],
+        "answer": "31",
+        "explanation": "$a_{8}=a_1+(8-1)d=3+7\\times(4)=31$。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等比数列",
+        "question": "等比数列 $\\{a_n\\}$ 中 $a_1=2$，公比 $q=3$，则 $a_{4}=$ ？",
+        "options": [],
+        "answer": "54",
+        "explanation": "$a_{4}=a_1q^{3}=2\\times3^{3}=54$。"
+      },
+      {
+        "id": 11,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等差数列",
+        "question": "等差数列中 $a_1=2$，$a_5=14$，则公差 $d=$ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$2+4d=14$，$d=3$。"
+      },
+      {
+        "id": 12,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "等比数列",
+        "question": "等比数列中，若 $a_1>0$、$q>0$，则各项均为正。",
+        "options": [],
+        "answer": "对",
+        "explanation": "符号由首项和公比决定。"
+      }
+    ]
+  }
+}

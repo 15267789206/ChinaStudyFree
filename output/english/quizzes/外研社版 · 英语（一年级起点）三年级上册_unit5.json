@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 5 Can I have an ice cream? 请求与许可",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「Module 5 Can I have an ice cream? 请求与许可」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "请求用语 Can I…?",
+        "question": "「我可以吃个冰淇淋吗？」的英文是（　）",
+        "options": [
+          "Can I have an ice cream?",
+          "Can I has an ice cream?",
+          "Can I have a ice cream?",
+          "I can have an ice cream?"
+        ],
+        "answer": "Can I have an ice cream?",
+        "explanation": "元音音素前用 an。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "请求用语 Can I…?",
+        "question": "肯定回答别人的请求，应说（　）",
+        "options": [
+          "Yes, you can.",
+          "Yes, I can.",
+          "Yes, you do.",
+          "Yes, please do."
+        ],
+        "answer": "Yes, you can.",
+        "explanation": "问 you 答 you。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "购物与场所词汇",
+        "question": "「商店」的英文是（　）",
+        "options": [
+          "shop",
+          "ship",
+          "sharp",
+          "sheep"
+        ],
+        "answer": "shop",
+        "explanation": "shop = 商店。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "请求用语 Can I…?",
+        "question": "Can I come in? 是在请求许可。",
+        "options": [],
+        "answer": "对",
+        "explanation": "请求进门。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "请求用语 Can I…?",
+      "core_concept": "请求许可用 Can I…?，肯定 Yes, you can. / Yes, here you are. 否定 No, you can't. But you can have a cake.",
+      "key_formula": "Can I have an ice cream? — Yes, here you are.",
+      "common_mistakes": [
+        "请求时用 Give me…（不礼貌）。"
+      ],
+      "tips": "礼貌请求带 please 更好。"
+    },
+    {
+      "point": "购物与场所词汇",
+      "core_concept": "shop 商店、ice cream 冰淇淋、library 图书馆；Don't worry. 别担心。",
+      "key_formula": "go to the shop 去商店",
+      "common_mistakes": [
+        "ice cream 写成 icecream。"
+      ],
+      "tips": "ice cream 分两词写。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "购物与场所词汇",
+        "question": "「图书馆」的英文是（　）",
+        "options": [
+          "library",
+          "libary",
+          "librery",
+          "libbary"
+        ],
+        "answer": "library",
+        "explanation": "library = 图书馆。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "请求用语 Can I…?",
+        "question": "「给你。」的英文是（　）",
+        "options": [
+          "Here you are.",
+          "Here are you.",
+          "You are here.",
+          "Here it is you."
+        ],
+        "answer": "Here you are.",
+        "explanation": "固定表达。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "购物与场所词汇",
+        "question": "Don't worry 的意思是「别担心」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "安慰用语。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "请求用语 Can I…?",
+        "question": "— Can I come in? — ___",
+        "options": [
+          "Yes, please.",
+          "Yes, I can.",
+          "No, I can't.",
+          "Yes, you are."
+        ],
+        "answer": "Yes, please.",
+        "explanation": "请进用 Yes, please。"
+      }
+    ]
+  }
+}

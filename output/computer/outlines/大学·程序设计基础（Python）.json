@@ -1,0 +1,57 @@
+{
+  "textbook": "程序设计基础（Python）",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "基础语法与数据类型",
+      "knowledge_points": [
+        {
+          "name": "变量与数据类型",
+          "description": "掌握基本数据类型与运算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "列表与字典",
+          "description": "掌握常用容器的操作。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "流程控制与函数",
+      "knowledge_points": [
+        {
+          "name": "条件与循环",
+          "description": "掌握 if/elif/else 与 for/while。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "函数与模块",
+          "description": "掌握函数定义与常用模块。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

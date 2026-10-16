@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 2 The natural world — Seasons 季节",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「Module 2 The natural world — Seasons 季节」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "季节与天气词汇",
+        "question": "「春天」的英文是（　）",
+        "options": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "answer": "spring",
+        "explanation": "spring 春。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "季节与天气词汇",
+        "question": "「晴天」的英文是（　）",
+        "options": [
+          "sunny",
+          "rainy",
+          "snowy",
+          "windy"
+        ],
+        "answer": "sunny",
+        "explanation": "sunny 晴朗的。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "描述天气句型",
+        "question": "「夏天很热。」的英文是（　）",
+        "options": [
+          "It's hot in summer.",
+          "I'm hot in summer.",
+          "It hot in summer.",
+          "It's hot on summer."
+        ],
+        "answer": "It's hot in summer.",
+        "explanation": "季节前用 in。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "季节与天气词汇",
+        "question": "winter 的意思是「冬天」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "winter 冬。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "季节与天气词汇",
+      "core_concept": "spring 春、summer 夏、autumn 秋、winter 冬；sunny 晴、rainy 雨、snowy 雪、windy 风、cloudy 多云。",
+      "key_formula": "It's hot in summer. / It's cold in winter.",
+      "common_mistakes": [
+        "季节前用 in 却写成 on。"
+      ],
+      "tips": "季节前用 in。"
+    },
+    {
+      "point": "描述天气句型",
+      "core_concept": "描述天气用 It's + 形容词：It's sunny today. 询问 What's the weather like today?",
+      "key_formula": "What's the weather like? — It's sunny.",
+      "common_mistakes": [
+        "回答用 I am sunny。（×）"
+      ],
+      "tips": "天气用 it 不用 I。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "季节与天气词汇",
+        "question": "「多风的」的英文是（　）",
+        "options": [
+          "windy",
+          "rainy",
+          "cloudy",
+          "sunny"
+        ],
+        "answer": "windy",
+        "explanation": "windy 有风的。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "描述天气句型",
+        "question": "询问今天天气，应问（　）",
+        "options": [
+          "What's the weather like today?",
+          "How is the weather be?",
+          "What is the weather?",
+          "How are you today?"
+        ],
+        "answer": "What's the weather like today?",
+        "explanation": "固定句型。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "季节与天气词汇",
+        "question": "一年有四个季节。",
+        "options": [],
+        "answer": "对",
+        "explanation": "春夏秋冬。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "描述天气句型",
+        "question": "「冬天下雪。」的英文是（　）",
+        "options": [
+          "It snows in winter.",
+          "It's snow in winter.",
+          "It snow in winter.",
+          "It's snowing in winter."
+        ],
+        "answer": "It snows in winter.",
+        "explanation": "客观事实用一般现在时。"
+      }
+    ]
+  }
+}

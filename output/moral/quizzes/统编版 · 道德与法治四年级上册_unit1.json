@@ -1,0 +1,144 @@
+{
+  "textbook": "四年级上册",
+  "unit": "班级与集体",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「班级与集体」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "集体生活中的合作",
+        "question": "小组合作完成板报，应该（　）",
+        "options": [
+          "一个人全做",
+          "分工合作各展所长",
+          "都不参与",
+          "只让组长做"
+        ],
+        "answer": "分工合作各展所长",
+        "explanation": "合作要分工。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "诚实与信任",
+        "question": "同学借了你的书忘记还，你应该（　）",
+        "options": [
+          "再也不借给他",
+          "提醒他并借机谈谈信用",
+          "偷偷拿回来",
+          "到处说他坏话"
+        ],
+        "answer": "提醒他并借机谈谈信用",
+        "explanation": "借东西要还，守信重要。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "集体生活中的合作",
+        "question": "合作能发挥每个人的长处。",
+        "options": [],
+        "answer": "对",
+        "explanation": "合作扬长避短。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "诚实与信任",
+        "question": "说谎会失去别人的信任。",
+        "options": [],
+        "answer": "对",
+        "explanation": "诚实换来信任。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "集体生活中的合作",
+      "core_concept": "集体活动要目标一致、分工合理、相互配合。合作能发挥各自长处，把事情做得更好。",
+      "key_formula": "合作共赢",
+      "common_mistakes": [
+        "小组活动一个人包办。"
+      ],
+      "tips": "分工合作效率高。"
+    },
+    {
+      "point": "诚实与信任",
+      "core_concept": "诚实的人值得信任，说谎会失去朋友的信任。考试不作弊、借东西按时还，都是诚实的表现。",
+      "key_formula": "诚实换来信任",
+      "common_mistakes": [
+        "为了一时方便说谎。"
+      ],
+      "tips": "诚实是最可贵的品质。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "诚实与信任",
+        "question": "考试时同桌要抄你的答案，你应该（　）",
+        "options": [
+          "给他抄",
+          "拒绝并说明这不对",
+          "报告老师后嘲笑他",
+          "把卷子藏起来"
+        ],
+        "answer": "拒绝并说明这不对",
+        "explanation": "考试作弊不诚实。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "集体生活中的合作",
+        "question": "集体活动中要听取不同意见。",
+        "options": [],
+        "answer": "对",
+        "explanation": "合作要听取意见。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "集体生活中的合作",
+        "question": "合作中遇到分歧，应该（　）",
+        "options": [
+          "民主商量",
+          "强行按自己的来",
+          "吵架",
+          "退出"
+        ],
+        "answer": "民主商量",
+        "explanation": "分歧要民主商量。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "诚实与信任",
+        "question": "诚实的人更容易获得信任。",
+        "options": [],
+        "answer": "对",
+        "explanation": "诚实获信任。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "textbook": "九年级下册",
+  "unit": "电学基础",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「电学基础」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "电流与电路",
+        "question": "欧姆定律的表达式是（　）",
+        "options": [
+          "$I = U/R$",
+          "$U = IR$",
+          "$R = UI$",
+          "$P = UI$"
+        ],
+        "answer": "$I = U/R$",
+        "explanation": "欧姆定律表达式。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "电功率与生活用电",
+        "question": "家庭电路中，各用电器之间是（　）",
+        "options": [
+          "并联",
+          "串联",
+          "有的并联有的串联",
+          "不连接"
+        ],
+        "answer": "并联",
+        "explanation": "用电器并联。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "电流与电路",
+        "question": "导体电阻是导体本身的一种性质。",
+        "options": [],
+        "answer": "对",
+        "explanation": "电阻是属性。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "电功率与生活用电",
+        "question": "家庭电路中各用电器并联才能各自正常工作。",
+        "options": [],
+        "answer": "对",
+        "explanation": "并联工作。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "电流与电路",
+      "core_concept": "电流由电荷的定向移动形成。欧姆定律 $I = U/R$ 表明导体中的电流跟导体两端电压成正比、跟电阻成反比。",
+      "key_formula": "$I = \\dfrac{U}{R}$",
+      "common_mistakes": [
+        "认为电阻随电压变化。"
+      ],
+      "tips": "电阻是导体属性。"
+    },
+    {
+      "point": "电功率与生活用电",
+      "core_concept": "电功率 $P = UI$。家庭电路由火线、零线组成，各用电器并联。安全电压不高于 36 V。",
+      "key_formula": "$P = UI = \\dfrac{U^2}{R}$",
+      "common_mistakes": [
+        "认为用电器串联更省电。"
+      ],
+      "tips": "用电器并联。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "电流与电路",
+        "question": "电压是形成电流的原因，电源提供电压。",
+        "options": [],
+        "answer": "对",
+        "explanation": "电压是电流动力。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "电功率与生活用电",
+        "question": "家庭照明电路的电压是（　）",
+        "options": [
+          "220 V",
+          "110 V",
+          "380 V",
+          "36 V"
+        ],
+        "answer": "220 V",
+        "explanation": "照明电压 220 V。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "电流与电路",
+        "question": "导体两端的电压越高，通过它的电流越大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "欧姆定律推论。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "电功率与生活用电",
+        "question": "安全电压不高于 36 V。",
+        "options": [],
+        "answer": "对",
+        "explanation": "安全电压规定。"
+      }
+    ]
+  }
+}

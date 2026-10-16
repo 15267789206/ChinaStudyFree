@@ -1,0 +1,149 @@
+{
+  "textbook": "一年级上册",
+  "unit": "比较",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「比较」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "比多少",
+        "question": "小明有 3 支笔，小红有 5 支笔，谁的笔多？（　）",
+        "options": [
+          "小明",
+          "小红",
+          "一样多",
+          "无法比较"
+        ],
+        "answer": "小红",
+        "explanation": "5 > 3，小红多。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "比多少",
+        "question": "两堆物品一个对一个正好对完，说明（　）",
+        "options": [
+          "同样多",
+          "一堆多",
+          "一堆少",
+          "无法比较"
+        ],
+        "answer": "同样多",
+        "explanation": "对完即相等。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "比长短、比高矮",
+        "question": "比较两根绳子的长短时，要把一端对齐。",
+        "options": [],
+        "answer": "对",
+        "explanation": "一端对齐才能比。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "比多少",
+        "question": "4 和 6 比，较大的数是几？",
+        "options": [],
+        "answer": "6",
+        "explanation": "6 > 4。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "比多少",
+      "core_concept": "比较多少用一一对应的方法，一个对着一个，有多出来的一方就较多；结果有「多、少、同样多」。",
+      "key_formula": "一一对应比较",
+      "common_mistakes": [
+        "不一一对应就下结论。"
+      ],
+      "tips": "对齐了再比。"
+    },
+    {
+      "point": "比长短、比高矮",
+      "core_concept": "比较长短要把一端对齐；比较高矮要站在同一水平面上。",
+      "key_formula": "一端对齐再比较",
+      "common_mistakes": [
+        "没有一端对齐就比较。"
+      ],
+      "tips": "先对齐再比较。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "比长短、比高矮",
+        "question": "比较高矮时，两个人要站在（　）",
+        "options": [
+          "同一水平面上",
+          "不同的地方",
+          "一个台阶上一个台阶下",
+          "随意站"
+        ],
+        "answer": "同一水平面上",
+        "explanation": "同一平面才公平。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "比多少",
+        "question": "「同样多」表示两边数量相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "数量相等。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "比长短、比高矮",
+        "question": "小树高，小草矮，说明（　）",
+        "options": [
+          "小树比小草高",
+          "小树比小草矮",
+          "一样高",
+          "无法比较"
+        ],
+        "answer": "小树比小草高",
+        "explanation": "高矮是相对比较。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "比多少",
+        "question": "5 个苹果和 5 个梨比，（　）",
+        "options": [
+          "苹果多",
+          "梨多",
+          "同样多",
+          "无法比较"
+        ],
+        "answer": "同样多",
+        "explanation": "数量都是 5。"
+      }
+    ]
+  }
+}

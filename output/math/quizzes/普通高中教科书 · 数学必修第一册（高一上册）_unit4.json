@@ -1,0 +1,161 @@
+{
+  "textbook": "必修第一册",
+  "unit": "指数函数与对数函数",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「指数函数与对数函数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "指数与指数函数",
+        "question": "计算：$2^{-3}=$ ？（填分数如 1/8）",
+        "options": [],
+        "answer": "1/8",
+        "explanation": "$2^{-3}=\\frac{1}{2^3}=\\frac18$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "对数与对数函数",
+        "question": "计算 $\\log_28=$ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$2^3=8$。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "对数与对数函数",
+        "question": "计算 $\\log_381=$ ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$3^4=81$。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "指数与指数函数",
+        "question": "指数函数 $y=2^x$ 的图象过定点（　）",
+        "options": [
+          "$(1,0)$",
+          "$(0,1)$",
+          "$(0,0)$",
+          "$(1,1)$"
+        ],
+        "answer": "$(0,1)$",
+        "explanation": "$2^0=1$。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "对数与对数函数",
+        "question": "$\\log_a(M+N)=\\log_aM+\\log_aN$。",
+        "options": [],
+        "answer": "错",
+        "explanation": "对数不能拆加法。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "指数与指数函数",
+        "question": "函数 $y=(\\frac12)^x$ 是（　）",
+        "options": [
+          "增函数",
+          "减函数",
+          "常函数",
+          "先增后减"
+        ],
+        "answer": "减函数",
+        "explanation": "底数 $0<\\frac12<1$，递减。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "指数与指数函数",
+      "core_concept": "$a^{\\frac mn}=\\sqrt[n]{a^m}(a>0)$。指数函数 $y=a^x(a>0,a\\ne1)$ 过定点 $(0,1)$；$a>1$ 递增，$0<a<1$ 递减。",
+      "key_formula": "$a^0=1$，$a^{-n}=\\frac{1}{a^n}$",
+      "common_mistakes": [
+        "负指数运算出错。"
+      ],
+      "tips": "负指数取倒数。"
+    },
+    {
+      "point": "对数与对数函数",
+      "core_concept": "$\\log_a(MN)=\\log_aM+\\log_aN$，$\\log_a\\frac MN=\\log_aM-\\log_aN$，$\\log_aM^n=n\\log_aM$。对数函数 $y=\\log_ax$ 过定点 $(1,0)$。",
+      "key_formula": "$\\log_a a=1$，$\\log_a1=0$",
+      "common_mistakes": [
+        "把 $\\log(M+N)$ 拆开。"
+      ],
+      "tips": "只有乘除能拆。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "对数与对数函数",
+        "question": "计算 $\\log_2 4+\\log_2 8=$ ？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$2+3=5$。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "指数与指数函数",
+        "question": "计算 $3^0+2^{-1}=$ ？（填小数如 1.5）",
+        "options": [],
+        "answer": "1.5",
+        "explanation": "$1+0.5=1.5$。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "指数与指数函数",
+        "question": "指数函数 $y=a^x$ 的图象都过点 $(0,1)$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "定点性质。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "对数与对数函数",
+        "question": "若 $\\log_2x=3$，则 $x=$（　）",
+        "options": [
+          "6",
+          "8",
+          "9",
+          "12"
+        ],
+        "answer": "8",
+        "explanation": "$x=2^3=8$。"
+      }
+    ]
+  }
+}

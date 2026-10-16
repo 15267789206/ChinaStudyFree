@@ -1,0 +1,57 @@
+{
+  "textbook": "八年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "近代化探索与民族复兴",
+      "knowledge_points": [
+        {
+          "name": "近代化探索的历程",
+          "description": "了解洋务运动、戊戌变法、辛亥革命、新文化运动。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "五四运动与中国共产党成立",
+          "description": "了解五四运动与中共建党。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "抗日战争与新中国成立",
+      "knowledge_points": [
+        {
+          "name": "中华民族的抗日战争",
+          "description": "了解抗日战争的经过与意义。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "内战与新中国成立",
+          "description": "了解解放战争与新中国成立。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

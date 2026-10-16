@@ -1,0 +1,139 @@
+{
+  "textbook": "八年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "二次根式",
+      "knowledge_points": [
+        {
+          "name": "二次根式的概念与性质",
+          "description": "理解二次根式的意义与基本性质。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "二次根式的乘除",
+          "description": "掌握乘除法则并会化简。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "二次根式的加减",
+          "description": "会合并同类二次根式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "勾股定理",
+      "knowledge_points": [
+        {
+          "name": "勾股定理",
+          "description": "掌握直角三角形三边关系并会计算。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "勾股定理的逆定理",
+          "description": "会用三边关系判定直角三角形。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "平行四边形",
+      "knowledge_points": [
+        {
+          "name": "平行四边形的性质",
+          "description": "掌握平行四边形边、角、对角线的性质。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "平行四边形的判定",
+          "description": "掌握多种判定方法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "特殊平行四边形",
+          "description": "掌握矩形、菱形、正方形的性质与判定。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "一次函数",
+      "knowledge_points": [
+        {
+          "name": "函数与变量",
+          "description": "理解函数概念与自变量取值范围。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一次函数的图象与性质",
+          "description": "掌握一次函数图象与 $k$、$b$ 的关系。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "正比例函数与一次函数的应用",
+          "description": "会用待定系数法求解析式并解决实际问题。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

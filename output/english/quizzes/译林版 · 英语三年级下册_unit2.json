@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "Unit 2 I'm Liu Tao 我的家人",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Unit 2 I'm Liu Tao 我的家人」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员",
+        "question": "“祖父”的英语是（　）",
+        "options": [
+          "grandfather",
+          "uncle",
+          "brother",
+          "father"
+        ],
+        "answer": "grandfather",
+        "explanation": "祖父 grandfather。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "be 动词与形容词",
+        "question": "My sister ___ tall.",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": "is",
+        "explanation": "第三人称单数用 is。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员",
+        "question": "This is my father. 用于介绍父亲。",
+        "options": [],
+        "answer": "对",
+        "explanation": "介绍家人。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "be 动词与形容词",
+        "question": "形容词作表语放在 be 动词之后。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表语位置。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "家庭成员",
+      "core_concept": "father, mother, brother, sister, grandfather, grandmother。译林版常用 This is my… 介绍。",
+      "key_formula": "This is my mother.",
+      "common_mistakes": [
+        "把 grandmother 写成 grandmoter。"
+      ],
+      "tips": "注意拼写。"
+    },
+    {
+      "point": "be 动词与形容词",
+      "core_concept": "He is… / She is… 描述；形容词有 big, small, tall, short, happy, thin。",
+      "key_formula": "He is tall.",
+      "common_mistakes": [
+        "第三人称单数用 are。"
+      ],
+      "tips": "He/She 用 is。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员",
+        "question": "“姐妹”中“妹”的英文是（　）",
+        "options": [
+          "sister",
+          "brother",
+          "uncle",
+          "aunt"
+        ],
+        "answer": "sister",
+        "explanation": "sister 姐或妹。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "be 动词与形容词",
+        "question": "He ___ very happy.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "is",
+        "explanation": "He 用 is。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员",
+        "question": "grandmother 指祖母或外祖母。",
+        "options": [],
+        "answer": "对",
+        "explanation": "祖母。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "be 动词与形容词",
+        "question": "描述家人外貌要用合适的形容词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "形容词描述。"
+      }
+    ]
+  }
+}

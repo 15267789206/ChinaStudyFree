@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 3 Places and activities — At the fruit shop 在水果店",
+  "unit_number": 8,
+  "unit_test": {
+    "title": "第8单元「Module 3 Places and activities — At the fruit shop 在水果店」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "水果词汇 apple / banana / orange / pear",
+        "question": "「苹果」的英文是（　）",
+        "options": [
+          "apple",
+          "banana",
+          "orange",
+          "pear"
+        ],
+        "answer": "apple",
+        "explanation": "apple = 苹果。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "水果词汇 apple / banana / orange / pear",
+        "question": "「香蕉」的英文是（　）",
+        "options": [
+          "banana",
+          "apple",
+          "orange",
+          "pear"
+        ],
+        "answer": "banana",
+        "explanation": "banana = 香蕉。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "表达喜好 I like…",
+        "question": "「我喜欢苹果。」的英文是（　）",
+        "options": [
+          "I like apples.",
+          "I like apple.",
+          "I likes apples.",
+          "I'm like apples."
+        ],
+        "answer": "I like apples.",
+        "explanation": "泛指用复数。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "水果词汇 apple / banana / orange / pear",
+        "question": "orange 的意思是「橙子」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "orange = 橙子。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "水果词汇 apple / banana / orange / pear",
+      "core_concept": "apple 苹果、banana 香蕉、orange 橙子、pear 梨。",
+      "key_formula": "an apple / a banana / an orange / a pear",
+      "common_mistakes": [
+        "an apple 写成 a apple。"
+      ],
+      "tips": "元音音素前用 an。"
+    },
+    {
+      "point": "表达喜好 I like…",
+      "core_concept": "表达喜好 I like apples.（喜欢苹果这类，用复数）；单指一个用 I'd like an apple.",
+      "key_formula": "I like apples. / I'd like an apple.",
+      "common_mistakes": [
+        "I like apple.（泛指要复数）"
+      ],
+      "tips": "泛指一类用复数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "水果词汇 apple / banana / orange / pear",
+        "question": "「梨」的英文是（　）",
+        "options": [
+          "pear",
+          "apple",
+          "banana",
+          "orange"
+        ],
+        "answer": "pear",
+        "explanation": "pear = 梨。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "表达喜好 I like…",
+        "question": "「我想要一个苹果。」的英文是（　）",
+        "options": [
+          "I'd like an apple.",
+          "I like an apple.",
+          "I'm like apple.",
+          "I likes apple."
+        ],
+        "answer": "I'd like an apple.",
+        "explanation": "I'd like = I would like 想要。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "水果词汇 apple / banana / orange / pear",
+        "question": "fruit 的意思是「水果」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "fruit = 水果。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "表达喜好 I like…",
+        "question": "— Do you like bananas? — ___",
+        "options": [
+          "Yes, I do.",
+          "Yes, I like.",
+          "Yes, I am.",
+          "Yes, I can."
+        ],
+        "answer": "Yes, I do.",
+        "explanation": "do 问 do 答。"
+      }
+    ]
+  }
+}

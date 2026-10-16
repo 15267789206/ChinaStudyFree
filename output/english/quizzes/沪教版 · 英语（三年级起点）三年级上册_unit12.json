@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 4 The world around us — The four seasons 四季",
+  "unit_number": 12,
+  "unit_test": {
+    "title": "第12单元「Module 4 The world around us — The four seasons 四季」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "季节 spring / summer / autumn / winter",
+        "question": "「春天」的英文是（　）",
+        "options": [
+          "spring",
+          "summer",
+          "autumn",
+          "winter"
+        ],
+        "answer": "spring",
+        "explanation": "spring = 春天。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "季节 spring / summer / autumn / winter",
+        "question": "「夏天」的英文是（　）",
+        "options": [
+          "summer",
+          "spring",
+          "autumn",
+          "winter"
+        ],
+        "answer": "summer",
+        "explanation": "summer = 夏天。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "表达最喜欢 I like… best",
+        "question": "「我最喜欢秋天。」的英文是（　）",
+        "options": [
+          "I like autumn best.",
+          "I best like autumn.",
+          "I like best autumn.",
+          "I'm like autumn best."
+        ],
+        "answer": "I like autumn best.",
+        "explanation": "best 放句末。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "季节 spring / summer / autumn / winter",
+        "question": "winter 的意思是「冬天」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "winter = 冬天。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "季节 spring / summer / autumn / winter",
+      "core_concept": "spring 春、summer 夏、autumn 秋、winter 冬。一年有四个季节。",
+      "key_formula": "spring / summer / autumn / winter",
+      "common_mistakes": [
+        "autumn 与 fall 混淆（fall 是美式）。"
+      ],
+      "tips": "autumn 英式，fall 美式，都对。"
+    },
+    {
+      "point": "表达最喜欢 I like… best",
+      "core_concept": "表达最喜欢用 I like… best.；询问 Which season do you like best?",
+      "key_formula": "I like autumn best.",
+      "common_mistakes": [
+        "I best like autumn.（×）"
+      ],
+      "tips": "best 放在句末。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "季节 spring / summer / autumn / winter",
+        "question": "「秋天」的英文是（　）",
+        "options": [
+          "autumn",
+          "spring",
+          "summer",
+          "winter"
+        ],
+        "answer": "autumn",
+        "explanation": "autumn = 秋天。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "季节 spring / summer / autumn / winter",
+        "question": "一年有（　）个季节",
+        "options": [
+          "四",
+          "三",
+          "五",
+          "六"
+        ],
+        "answer": "四",
+        "explanation": "春夏秋冬共四季。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "季节 spring / summer / autumn / winter",
+        "question": "夏天通常很热。",
+        "options": [],
+        "answer": "对",
+        "explanation": "夏季高温。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "表达最喜欢 I like… best",
+        "question": "— Which season do you like best? — ___",
+        "options": [
+          "I like summer best.",
+          "I like summer good.",
+          "I'm summer.",
+          "Yes, I do."
+        ],
+        "answer": "I like summer best.",
+        "explanation": "问最喜欢，答 like… best。"
+      }
+    ]
+  }
+}

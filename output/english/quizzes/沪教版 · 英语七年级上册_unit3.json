@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 2 The natural world — The earth 我们的地球",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「Module 2 The natural world — The earth 我们的地球」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "环保词汇 protect / pollute / recycle",
+        "question": "「保护地球」的英文是（　）",
+        "options": [
+          "protect the earth",
+          "protect earth",
+          "pollute the earth",
+          "recycle the earth"
+        ],
+        "answer": "protect the earth",
+        "explanation": "protect 保护。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "环保词汇 protect / pollute / recycle",
+        "question": "「污染」的英文是（　）",
+        "options": [
+          "pollute",
+          "pollutionn",
+          "polute",
+          "polluter"
+        ],
+        "answer": "pollute",
+        "explanation": "pollute 污染。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "情态动词 should / must",
+        "question": "「我们应该保护环境。」的英文是（　）",
+        "options": [
+          "We should protect the environment.",
+          "We should protects the environment.",
+          "We should to protect the environment.",
+          "We should protecting the environment."
+        ],
+        "answer": "We should protect the environment.",
+        "explanation": "should + 原形。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "环保词汇 protect / pollute / recycle",
+        "question": "recycle 的意思是「回收利用」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "recycle 回收。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "环保词汇 protect / pollute / recycle",
+      "core_concept": "protect 保护、pollute 污染、recycle 回收利用、environment 环境。",
+      "key_formula": "protect the earth / protect the environment",
+      "common_mistakes": [
+        "protect 与 prevent 混淆。"
+      ],
+      "tips": "protect 保护，prevent 阻止。"
+    },
+    {
+      "point": "情态动词 should / must",
+      "core_concept": "should 应该（建议）、must 必须（强制）；否定 shouldn't 不应该。后接动词原形。",
+      "key_formula": "We should protect the environment.",
+      "common_mistakes": [
+        "should 后接 to do。"
+      ],
+      "tips": "情态动词后接原形。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "环保词汇 protect / pollute / recycle",
+        "question": "「环境」的英文是（　）",
+        "options": [
+          "environment",
+          "envirnment",
+          "environmant",
+          "enviroment"
+        ],
+        "answer": "environment",
+        "explanation": "environment 环境。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 should / must",
+        "question": "「我们不应该污染环境。」的英文是（　）",
+        "options": [
+          "We shouldn't pollute the environment.",
+          "We shouldn't pollutes the environment.",
+          "We shouldn't to pollute the environment.",
+          "We don't should pollute the environment."
+        ],
+        "answer": "We shouldn't pollute the environment.",
+        "explanation": "shouldn't + 原形。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "情态动词 should / must",
+        "question": "should 表示「应该」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表建议。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "环保词汇 protect / pollute / recycle",
+        "question": "为了环保，饮料瓶可以（　）",
+        "options": [
+          "recycle",
+          "pollute",
+          "waste",
+          "litter"
+        ],
+        "answer": "recycle",
+        "explanation": "回收利用。"
+      }
+    ]
+  }
+}

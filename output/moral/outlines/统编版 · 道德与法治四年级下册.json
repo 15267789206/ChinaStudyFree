@@ -1,0 +1,57 @@
+{
+  "textbook": "四年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "权利与义务",
+      "knowledge_points": [
+        {
+          "name": "生活中的权利",
+          "description": "了解未成年人的合法权益。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "尊重他人权利",
+          "description": "行使权利时不侵犯他人。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "我们的国家与家乡",
+      "knowledge_points": [
+        {
+          "name": "祖国的象征与统一",
+          "description": "认识国家象征，增强国家认同。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "民族团结与家乡变化",
+          "description": "了解民族团结与家乡发展。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

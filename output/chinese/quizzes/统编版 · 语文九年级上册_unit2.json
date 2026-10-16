@@ -1,0 +1,86 @@
+{
+  "textbook": "九年级上册",
+  "unit": "文言文与古诗",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「文言文与古诗」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "文言文阅读",
+        "question": "判断句“……者，……也”的标志词是（　）",
+        "options": [
+          "……也",
+          "是",
+          "非",
+          "以"
+        ],
+        "answer": "……也",
+        "explanation": "“……者，……也”是判断句标志。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "古代诗词默写与赏析",
+        "question": "默写《观沧海》名句时应注意（　）",
+        "options": [
+          "字形准确无误",
+          "只要意思对就行",
+          "可以换词",
+          "可以加字"
+        ],
+        "answer": "字形准确无误",
+        "explanation": "默写要一字不差。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "文言文阅读",
+        "question": "判断句常以“是、标志、说明”等词为标志。",
+        "options": [],
+        "answer": "对",
+        "explanation": "判断句标志。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "古代诗词默写与赏析",
+        "question": "理解性默写要抓住题干提示的关键词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "抓提示词。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "文言文阅读",
+      "core_concept": "重点掌握“之、其、而、以、于”等词的意义和用法，识别判断句、被动句、倒装句等特殊句式。",
+      "key_formula": "判断句：A 是 B（标志：是、标志、说明）",
+      "common_mistakes": [
+        "忽略特殊句式。"
+      ],
+      "tips": "抓标志词识别句式。"
+    },
+    {
+      "point": "古代诗词默写与赏析",
+      "core_concept": "默写要注意字形准确、理解性默写要结合提示。赏析要结合全诗的意象、情感与写法。",
+      "key_formula": "理解性默写抓提示词",
+      "common_mistakes": [
+        "写错别字。"
+      ],
+      "tips": "反复默写巩固。"
+    }
+  ]
+}

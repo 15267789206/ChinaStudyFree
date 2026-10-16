@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 2 My family, my friends and me — My family 我的家庭",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「Module 2 My family, my friends and me — My family 我的家庭」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员 father / mother / brother / sister",
+        "question": "「爸爸」的英文是（　）",
+        "options": [
+          "father",
+          "mother",
+          "brother",
+          "sister"
+        ],
+        "answer": "father",
+        "explanation": "father = 爸爸。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员 father / mother / brother / sister",
+        "question": "「妈妈」的英文是（　）",
+        "options": [
+          "mother",
+          "father",
+          "sister",
+          "brother"
+        ],
+        "answer": "mother",
+        "explanation": "mother = 妈妈。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "介绍家人 This is my…",
+        "question": "「这是我爸爸。」的英文是（　）",
+        "options": [
+          "This is my father.",
+          "This is my mother.",
+          "He is my father.",
+          "This my father."
+        ],
+        "answer": "This is my father.",
+        "explanation": "介绍家人用 This is my…"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员 father / mother / brother / sister",
+        "question": "sister 的意思是「姐妹」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "sister = 姐妹。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "家庭成员 father / mother / brother / sister",
+      "core_concept": "father 爸爸、mother 妈妈、brother 兄弟、sister 姐妹。也可用 dad / mum（口语）。",
+      "key_formula": "father / mother / brother / sister",
+      "common_mistakes": [
+        "brother 与 sister 混用。"
+      ],
+      "tips": "dad/mum 更口语，father/mother 更正式。"
+    },
+    {
+      "point": "介绍家人 This is my…",
+      "core_concept": "介绍家人用 This is my father / mother / brother / sister。复数 these are…",
+      "key_formula": "This is my father. / These are my parents.",
+      "common_mistakes": [
+        "介绍多人还用 this is。"
+      ],
+      "tips": "多个用 these are。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "家庭成员 father / mother / brother / sister",
+        "question": "「兄弟」的英文是（　）",
+        "options": [
+          "brother",
+          "sister",
+          "father",
+          "mother"
+        ],
+        "answer": "brother",
+        "explanation": "brother = 兄弟。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "介绍家人 This is my…",
+        "question": "介绍全家人应说（　）",
+        "options": [
+          "This is my family.",
+          "This is my father.",
+          "These is my family.",
+          "This are my family."
+        ],
+        "answer": "This is my family.",
+        "explanation": "家庭作为一个整体用单数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "家庭成员 father / mother / brother / sister",
+        "question": "parents 指的是「父母双方」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "parents = 父母。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "介绍家人 This is my…",
+        "question": "「这些是我的朋友。」的英文是（　）",
+        "options": [
+          "These are my friends.",
+          "This is my friends.",
+          "These is my friend.",
+          "This are my friends."
+        ],
+        "answer": "These are my friends.",
+        "explanation": "复数用 These are。"
+      }
+    ]
+  }
+}

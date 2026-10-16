@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "一般过去时与一般将来时",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「一般过去时与一般将来时」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般过去时",
+        "question": "We ___ to the zoo last Sunday.",
+        "options": [
+          "go",
+          "goes",
+          "went",
+          "will go"
+        ],
+        "answer": "went",
+        "explanation": "last Sunday 是过去时间。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般将来时",
+        "question": "Look at the black clouds! It ___ rain.",
+        "options": [
+          "is going to",
+          "was",
+          "goes to",
+          "has gone"
+        ],
+        "answer": "is going to",
+        "explanation": "有迹象表明即将发生。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般过去时",
+        "question": "规则动词过去式一般加 -ed。",
+        "options": [],
+        "answer": "对",
+        "explanation": "规则过去式。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般将来时",
+        "question": "be going to 表示已经计划好的事。",
+        "options": [],
+        "answer": "对",
+        "explanation": "going to 表打算。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "一般过去时",
+      "core_concept": "一般过去时表示过去发生的动作。规则动词加 -ed；不规则动词需逐个记忆，如 go-went、see-saw。",
+      "key_formula": "动词过去式",
+      "common_mistakes": [
+        "不规则动词随便加 -ed。"
+      ],
+      "tips": "不规则动词要专门记。"
+    },
+    {
+      "point": "一般将来时",
+      "core_concept": "will 表示单纯的将来或临时决定；be going to 表示计划打算或有迹象即将发生。",
+      "key_formula": "will do / be going to do",
+      "common_mistakes": [
+        "两种表达混用不分。"
+      ],
+      "tips": "will 重将来，going to 重打算。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般过去时",
+        "question": "He ___ his homework yesterday evening.",
+        "options": [
+          "do",
+          "does",
+          "did",
+          "will do"
+        ],
+        "answer": "did",
+        "explanation": "yesterday evening 用过去时。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般将来时",
+        "question": "I think it ___ rain tomorrow.",
+        "options": [
+          "will",
+          "will be",
+          "is",
+          "was"
+        ],
+        "answer": "will be",
+        "explanation": "表示对未来的预测。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般过去时",
+        "question": "不规则动词的过去式不能按规则加 -ed。",
+        "options": [],
+        "answer": "对",
+        "explanation": "不规则需记忆。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般将来时",
+        "question": "will 常表示说话当时做出的临时决定。",
+        "options": [],
+        "answer": "对",
+        "explanation": "will 表临时决定。"
+      }
+    ]
+  }
+}

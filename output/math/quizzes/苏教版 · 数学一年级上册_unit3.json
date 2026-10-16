@@ -1,0 +1,154 @@
+{
+  "textbook": "一年级上册",
+  "unit": "分一分",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「分一分」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "按标准分一分",
+        "question": "把铅笔、橡皮、尺子放到一起，是按（　）分",
+        "options": [
+          "用途",
+          "颜色",
+          "形状",
+          "大小"
+        ],
+        "answer": "用途",
+        "explanation": "都是文具。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "按标准分一分",
+        "question": "把红色和黄色的积木分开，是按（　）分",
+        "options": [
+          "颜色",
+          "形状",
+          "用途",
+          "大小"
+        ],
+        "answer": "颜色",
+        "explanation": "按颜色。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "分一分与整理",
+        "question": "分一分的标准要一样。",
+        "options": [],
+        "answer": "对",
+        "explanation": "标准统一。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "分一分与整理",
+        "question": "整理房间属于（　）",
+        "options": [
+          "分一分",
+          "数一数",
+          "比一比",
+          "认位置"
+        ],
+        "answer": "分一分",
+        "explanation": "整理即分类。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "按标准分一分",
+      "core_concept": "分一分就是按用途、形状、颜色等标准把物品分组；每次分一分只用一个标准。",
+      "key_formula": "按标准分组",
+      "common_mistakes": [
+        "一次用两个标准混着分。"
+      ],
+      "tips": "一次一个标准。"
+    },
+    {
+      "point": "分一分与整理",
+      "core_concept": "把文具放进文具盒、把衣服放进衣柜都是分一分；分一分让东西更整齐、更好找。",
+      "key_formula": "整理 = 分一分",
+      "common_mistakes": [
+        "认为分一分只是游戏。"
+      ],
+      "tips": "生活中处处有分类。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "按标准分一分",
+        "question": "把汽车和飞机分开，是按（　）分",
+        "options": [
+          "种类",
+          "颜色",
+          "大小",
+          "形状"
+        ],
+        "answer": "种类",
+        "explanation": "按类型。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "分一分与整理",
+        "question": "分一分可以让东西更整齐。",
+        "options": [],
+        "answer": "对",
+        "explanation": "整理的好处。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "按标准分一分",
+        "question": "把圆形和方形的积木分开，是按（　）分",
+        "options": [
+          "形状",
+          "颜色",
+          "用途",
+          "大小"
+        ],
+        "answer": "形状",
+        "explanation": "按形状。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "分一分与整理",
+        "question": "同一堆积木，下面说法正确的是（　）",
+        "options": [
+          "可以按颜色分，也可以按形状分",
+          "只能按颜色分",
+          "只能按形状分",
+          "不能分"
+        ],
+        "answer": "可以按颜色分，也可以按形状分",
+        "explanation": "标准多样。"
+      }
+    ]
+  }
+}

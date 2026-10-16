@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "我们的公共生活",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「我们的公共生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "爱护公用设施",
+        "question": "看到健身器材坏了，应该（　）",
+        "options": [
+          "继续使劲玩",
+          "告诉管理人员",
+          "拆下来带走",
+          "假装没看见"
+        ],
+        "answer": "告诉管理人员",
+        "explanation": "及时报告维护。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "文明礼貌与社会公德",
+        "question": "乘坐公交车时，应该（　）",
+        "options": [
+          "排队上车",
+          "挤着上车",
+          "逃票",
+          "抢占座位"
+        ],
+        "answer": "排队上车",
+        "explanation": "乘车要排队。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "爱护公用设施",
+        "question": "公共设施是为大家服务的，要爱护。",
+        "options": [],
+        "answer": "对",
+        "explanation": "爱护公物。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "文明礼貌与社会公德",
+        "question": "得到帮助后要说谢谢。",
+        "options": [],
+        "answer": "对",
+        "explanation": "礼貌用语。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "爱护公用设施",
+      "core_concept": "路灯、长椅、健身器材等公共设施为大家服务，要爱护使用，不损坏不独占。",
+      "key_formula": "爱护公物",
+      "common_mistakes": [
+        "在长椅上刻字。"
+      ],
+      "tips": "公物为大家，爱护靠大家。"
+    },
+    {
+      "point": "文明礼貌与社会公德",
+      "core_concept": "使用“请、谢谢、对不起”等礼貌用语；乘车排队、主动给有需要的人让座；公共场所不喧哗。",
+      "key_formula": "文明礼貌",
+      "common_mistakes": [
+        "在公交车上抢座位。"
+      ],
+      "tips": "文明体现在细节。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "文明礼貌与社会公德",
+        "question": "公交车上遇到老人，应该（　）",
+        "options": [
+          "主动让座",
+          "装作睡觉",
+          "盯着他看",
+          "不让座"
+        ],
+        "answer": "主动让座",
+        "explanation": "主动给有需要的人让座。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "文明礼貌与社会公德",
+        "question": "不小心踩到别人要道歉。",
+        "options": [],
+        "answer": "对",
+        "explanation": "道歉是礼貌。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "爱护公用设施",
+        "question": "下面哪种行为是爱护公物（　）",
+        "options": [
+          "在书上写名字爱护课本",
+          "在课桌上刻字",
+          "掰断公园树枝",
+          "破坏路灯"
+        ],
+        "answer": "在书上写名字爱护课本",
+        "explanation": "爱护物品。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "文明礼貌与社会公德",
+        "question": "在公共场所不能大声喧哗。",
+        "options": [],
+        "answer": "对",
+        "explanation": "公共场所要安静。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "textbook": "七年级上册",
+  "unit": "生物和生物圈",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「生物和生物圈」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "生物的特征与调查",
+        "question": "下列属于生物的是（　）",
+        "options": [
+          "钟乳石",
+          "珊瑚虫",
+          "机器人",
+          "雪花"
+        ],
+        "answer": "珊瑚虫",
+        "explanation": "珊瑚虫具有生命现象。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "生物的特征与调查",
+        "question": "生物都能对外界刺激作出反应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "应激性是生物特征。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "生物与环境的关系",
+        "question": "下列属于非生物因素的是（　）",
+        "options": [
+          "捕食",
+          "竞争",
+          "温度",
+          "合作"
+        ],
+        "answer": "温度",
+        "explanation": "温度属非生物因素。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "生态系统与生物圈",
+        "question": "食物链“草→兔→狼”中，狼属于（　）",
+        "options": [
+          "生产者",
+          "初级消费者",
+          "次级消费者",
+          "分解者"
+        ],
+        "answer": "次级消费者",
+        "explanation": "狼是第二级消费者。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "生态系统与生物圈",
+        "question": "食物链中可以包含分解者。",
+        "options": [],
+        "answer": "错",
+        "explanation": "食物链只包含生产者和消费者。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "生态系统与生物圈",
+        "question": "生态系统中能将有机物分解为无机物的是（　）",
+        "options": [
+          "生产者",
+          "消费者",
+          "分解者",
+          "阳光"
+        ],
+        "answer": "分解者",
+        "explanation": "分解者起分解作用。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "生物的特征与调查",
+      "core_concept": "生物具有需要营养、能呼吸、能排出废物、能对外界刺激作出反应、能生长繁殖、有遗传变异等特征（病毒除外）。调查要明确目的、制定方案、如实记录。",
+      "key_formula": "生物的基本特征",
+      "common_mistakes": [
+        "把钟乳石长大当作生物生长。"
+      ],
+      "tips": "看是否具有生命现象。"
+    },
+    {
+      "point": "生物与环境的关系",
+      "core_concept": "生态因素分非生物因素（光、温度、水）和生物因素（捕食、竞争、合作）。生物既能适应环境也能影响环境。",
+      "key_formula": "环境影响生物，生物也影响环境",
+      "common_mistakes": [
+        "只答环境影响生物。"
+      ],
+      "tips": "注意双向关系。"
+    },
+    {
+      "point": "生态系统与生物圈",
+      "core_concept": "生态系统由生物部分（生产者、消费者、分解者）和非生物部分组成。食物链从生产者开始，箭头指向捕食者。生物圈是最大的生态系统。",
+      "key_formula": "食物链起始于生产者",
+      "common_mistakes": [
+        "食物链中写进分解者。"
+      ],
+      "tips": "食物链不包含分解者和非生物。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "生物与环境的关系",
+        "question": "仙人掌叶退化为刺，说明（　）",
+        "options": [
+          "生物影响环境",
+          "生物适应环境",
+          "环境不受影响",
+          "生物改变环境"
+        ],
+        "answer": "生物适应环境",
+        "explanation": "减少水分散失是适应干旱。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "生态系统与生物圈",
+        "question": "地球上最大的生态系统是（　）",
+        "options": [
+          "森林生态系统",
+          "海洋生态系统",
+          "生物圈",
+          "草原生态系统"
+        ],
+        "answer": "生物圈",
+        "explanation": "生物圈是最大的生态系统。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "生物的特征与调查",
+        "question": "除病毒外，生物都是由细胞构成的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "细胞是生命活动的基本单位。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "生态系统与生物圈",
+        "question": "生态系统具有一定的自动调节能力。",
+        "options": [],
+        "answer": "对",
+        "explanation": "但调节能力有限。"
+      }
+    ]
+  }
+}

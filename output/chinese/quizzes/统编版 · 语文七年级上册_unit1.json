@@ -1,0 +1,149 @@
+{
+  "textbook": "七年级上册",
+  "unit": "记叙文阅读",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「记叙文阅读」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "记叙文的要素与线索",
+        "question": "记叙文六要素不包括（　）",
+        "options": [
+          "时间",
+          "地点",
+          "议论",
+          "结果"
+        ],
+        "answer": "议论",
+        "explanation": "议论是表达方式，不是要素。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "记叙文的要素与线索",
+        "question": "记叙文的线索可以是一件物品。",
+        "options": [],
+        "answer": "对",
+        "explanation": "以物为线索很常见。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "人物描写与表达效果",
+        "question": "“他皱起眉头，握紧了拳头”主要运用了（　）",
+        "options": [
+          "外貌描写",
+          "动作描写",
+          "语言描写",
+          "心理描写"
+        ],
+        "answer": "动作描写",
+        "explanation": "描写动作。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "人物描写与表达效果",
+        "question": "分析描写作用时，正确的答题思路是（　）",
+        "options": [
+          "只写“生动形象”",
+          "写方法+内容+作用",
+          "只概括内容",
+          "只写人物性格"
+        ],
+        "answer": "写方法+内容+作用",
+        "explanation": "三步答题法。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "记叙文的要素与线索",
+      "core_concept": "记叙文六要素为时间、地点、人物、事件的起因、经过、结果。线索可以是人、事、物、情，起贯穿全文的作用。",
+      "key_formula": "记叙六要素",
+      "common_mistakes": [
+        "把“结果”漏写。"
+      ],
+      "tips": "答六要素要完整。"
+    },
+    {
+      "point": "人物描写与表达效果",
+      "core_concept": "人物描写有外貌、语言、动作、心理、神态描写。答题要点：指出方法 + 写出内容 + 表现性格/情感。",
+      "key_formula": "方法 + 内容 + 作用",
+      "common_mistakes": [
+        "只写“生动形象”而无具体分析。"
+      ],
+      "tips": "结合文本具体分析。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "记叙文的要素与线索",
+        "question": "下列属于环境描写作用的是（　）",
+        "options": [
+          "交代背景、烘托心情",
+          "说明事物特征",
+          "介绍作者",
+          "论证观点"
+        ],
+        "answer": "交代背景、烘托心情",
+        "explanation": "环境描写作用。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "人物描写与表达效果",
+        "question": "心理描写能直接揭示人物的内心活动。",
+        "options": [],
+        "answer": "对",
+        "explanation": "心理描写揭示内心。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "人物描写与表达效果",
+        "question": "“她的脸红得像苹果”属于（　）",
+        "options": [
+          "比喻",
+          "夸张",
+          "拟人",
+          "排比"
+        ],
+        "answer": "比喻",
+        "explanation": "把脸红比作苹果。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "记叙文的要素与线索",
+        "question": "记叙文必须按时间顺序写。",
+        "options": [],
+        "answer": "错",
+        "explanation": "也可用倒叙、插叙。"
+      }
+    ]
+  }
+}

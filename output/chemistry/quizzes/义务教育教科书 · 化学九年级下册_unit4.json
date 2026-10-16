@@ -1,0 +1,177 @@
+{
+  "textbook": "九年级下册",
+  "unit": "盐 化肥",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「盐 化肥」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "常见的盐与复分解反应",
+        "question": "下列反应属于复分解反应的是（　）",
+        "options": [
+          "$\\text{Fe}+\\text{CuSO}_4$",
+          "$\\text{NaOH}+\\text{HCl}$",
+          "$\\text{C}+\\text{O}_2$",
+          "$\\text{CaCO}_3\\xrightarrow{\\text{高温}}\\text{CaO}+\\text{CO}_2$"
+        ],
+        "answer": "$\\text{NaOH}+\\text{HCl}$",
+        "explanation": "两种化合物交换成分。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "化学肥料与粗盐提纯",
+        "question": "氮肥的主要作用是（　）",
+        "options": [
+          "促进枝叶生长",
+          "促进根系发达",
+          "增强抗倒伏",
+          "改良土壤"
+        ],
+        "answer": "促进枝叶生长",
+        "explanation": "氮肥促枝叶。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "化学肥料与粗盐提纯",
+        "question": "粗盐提纯中过滤可以除去不溶性杂质。",
+        "options": [],
+        "answer": "对",
+        "explanation": "过滤除去不溶物。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "常见的盐与复分解反应",
+        "question": "10.6 g 碳酸钠与足量稀盐酸反应，生成二氧化碳多少 g？[$\\text{Na}_2\\text{CO}_3+2\\text{HCl}=2\\text{NaCl}+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$，$\\text{Na}_2\\text{CO}_3$ 为 106，$\\text{CO}_2$ 为 44]",
+        "options": [],
+        "answer": "4.4",
+        "explanation": "$\\frac{10.6}{106}=\\frac{x}{44}$，$x=4.4$ g。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "化学肥料与粗盐提纯",
+        "question": "蒸发食盐水时，停止加热的时机是（　）",
+        "options": [
+          "水完全蒸干",
+          "出现较多固体",
+          "刚开始沸腾",
+          "溶液变黄"
+        ],
+        "answer": "出现较多固体",
+        "explanation": "防止固体飞溅。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "常见的盐与复分解反应",
+        "question": "复分解反应前后元素的化合价一定改变。",
+        "options": [],
+        "answer": "错",
+        "explanation": "复分解反应中化合价不变。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "常见的盐与复分解反应",
+      "core_concept": "复分解反应是两种化合物互相交换成分生成另外两种化合物的反应，发生条件是有沉淀、气体或水生成。",
+      "key_formula": "$\\text{Na}_2\\text{CO}_3+2\\text{HCl}=2\\text{NaCl}+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$",
+      "common_mistakes": [
+        "认为所有复分解反应都能发生。"
+      ],
+      "tips": "看是否有沉淀、气体或水。"
+    },
+    {
+      "point": "化学肥料与粗盐提纯",
+      "core_concept": "氮肥促进枝叶繁茂（尿素、碳酸氢铵），磷肥促进根系发达，钾肥增强抗病虫害能力。粗盐提纯步骤：溶解、过滤、蒸发结晶。",
+      "key_formula": "粗盐提纯 = 溶解 + 过滤 + 蒸发",
+      "common_mistakes": [
+        "蒸发时直接蒸干。"
+      ],
+      "tips": "出现较多固体时停止加热。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "常见的盐与复分解反应",
+        "question": "把 5.85 g 氯化钠完全溶解配成溶液，$\\text{NaCl}$ 的物质的量为 0.1 mol，其摩尔质量是多少 g/mol？",
+        "options": [],
+        "answer": "58.5",
+        "explanation": "$M=\\frac mn=\\frac{5.85}{0.1}=58.5$ g/mol。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "化学肥料与粗盐提纯",
+        "question": "下列化肥属于复合肥的是（　）",
+        "options": [
+          "尿素",
+          "氯化钾",
+          "$\\text{KNO}_3$",
+          "磷矿粉"
+        ],
+        "answer": "$\\text{KNO}_3$",
+        "explanation": "含 N、K 两种营养元素。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "常见的盐与复分解反应",
+        "question": "碳酸钠俗称纯碱，其水溶液显碱性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "碳酸钠溶液显碱性。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "常见的盐与复分解反应",
+        "question": "计算 NaCl 的相对分子质量",
+        "options": [],
+        "answer": "58.5",
+        "explanation": "相对分子质量 = 23\\times1 + 35.5\\times1 = 58.5。"
+      },
+      {
+        "id": 11,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "常见的盐与复分解反应",
+        "question": "计算 CaCO$_3$ 的相对分子质量",
+        "options": [],
+        "answer": "100",
+        "explanation": "相对分子质量 = 40\\times1 + 12\\times1 + 16\\times3 = 100。"
+      }
+    ]
+  }
+}

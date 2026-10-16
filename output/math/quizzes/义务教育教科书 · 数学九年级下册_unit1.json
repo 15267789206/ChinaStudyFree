@@ -1,0 +1,161 @@
+{
+  "textbook": "九年级下册",
+  "unit": "反比例函数",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「反比例函数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "反比例函数的概念与图象",
+        "question": "下列是反比例函数的是（　）",
+        "options": [
+          "$y=2x$",
+          "$y=\\frac2x$",
+          "$y=x^2$",
+          "$y=x+2$"
+        ],
+        "answer": "$y=\\frac2x$",
+        "explanation": "形如 $y=\\frac kx$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "反比例函数的概念与图象",
+        "question": "反比例函数 $y=\\frac{6}{x}$ 中，当 $x=3$ 时 $y=$ ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$\\frac63=2$。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "反比例函数的性质与应用",
+        "question": "反比例函数 $y=\\frac{-4}{x}$ 的图象位于（　）",
+        "options": [
+          "第一、三象限",
+          "第二、四象限",
+          "第一、二象限",
+          "第三、四象限"
+        ],
+        "answer": "第二、四象限",
+        "explanation": "$k=-4<0$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "反比例函数的性质与应用",
+        "question": "$y=\\frac{8}{x}$ 图象上一点向两坐标轴作垂线，所围矩形面积是多少？",
+        "options": [],
+        "answer": "8",
+        "explanation": "$S=|k|=8$。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "反比例函数的性质与应用",
+        "question": "反比例函数 $y=\\frac3x$ 中，在每个象限内 $y$ 随 $x$ 增大而减小。",
+        "options": [],
+        "answer": "对",
+        "explanation": "$k=3>0$。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "反比例函数的性质与应用",
+        "question": "已知 $y=\\frac kx$ 过点 $(2,3)$，则 $k=$ ？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$k=xy=6$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "反比例函数的概念与图象",
+      "core_concept": "形如 $y=\\frac kx(k\\ne0)$ 的函数是反比例函数。图象是双曲线；$k>0$ 时位于一、三象限，$k<0$ 时位于二、四象限。",
+      "key_formula": "$y=\\frac kx$",
+      "common_mistakes": [
+        "认为图象与坐标轴相交。"
+      ],
+      "tips": "双曲线无限接近坐标轴但不相交。"
+    },
+    {
+      "point": "反比例函数的性质与应用",
+      "core_concept": "在每个象限内，$k>0$ 时 $y$ 随 $x$ 增大而减小；$k<0$ 时 $y$ 随 $x$ 增大而增大。图形上任一点向两坐标轴作垂线围成的矩形面积为 $|k|$。",
+      "key_formula": "$S_{\\text{矩形}}=|k|$",
+      "common_mistakes": [
+        "忽视“在每个象限内”这一前提。"
+      ],
+      "tips": "比较大小先看是否在同一象限。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "反比例函数的性质与应用",
+        "question": "点 $(1,a)$ 与 $(b,2)$ 都在 $y=\\frac{4}{x}$ 上，则 $a\\cdot b=$（　）",
+        "options": [
+          "2",
+          "4",
+          "8",
+          "16"
+        ],
+        "answer": "8",
+        "explanation": "$a=\\frac41=4$，$b=\\frac42=2$，$ab=8$。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "反比例函数的概念与图象",
+        "question": "反比例函数 $y=\\frac{12}{x}$ 中，当 $x=-4$ 时 $y=$ ？",
+        "options": [],
+        "answer": "-3",
+        "explanation": "$\\frac{12}{-4}=-3$。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "反比例函数的概念与图象",
+        "question": "反比例函数的图象与坐标轴有交点。",
+        "options": [],
+        "answer": "错",
+        "explanation": "无限接近但不相交。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "反比例函数的性质与应用",
+        "question": "$y=\\frac{k}{x}$ 图象上点 $(3,4)$，则 $k$ 是多少？",
+        "options": [],
+        "answer": "12",
+        "explanation": "$k=3\\times4=12$。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 3 My school 我的学校",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「Module 3 My school 我的学校」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "there be 句型",
+        "question": "「我们班有 30 名学生。」的英文是（　）",
+        "options": [
+          "There are thirty students in our class.",
+          "There is thirty students in our class.",
+          "There are thirty student in our class.",
+          "There have thirty students in our class."
+        ],
+        "answer": "There are thirty students in our class.",
+        "explanation": "复数用 there are。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "方位介词 next to / behind / on the left of",
+        "question": "「图书馆在操场左边。」的英文是（　）",
+        "options": [
+          "The library is on the left of the playground.",
+          "The library is in the left of the playground.",
+          "The library is on the left playground.",
+          "The library is at the left of playground."
+        ],
+        "answer": "The library is on the left of the playground.",
+        "explanation": "on the left of。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "方位介词 next to / behind / on the left of",
+        "question": "「在……旁边」的英文是（　）",
+        "options": [
+          "next to",
+          "next in",
+          "near to",
+          "close in"
+        ],
+        "answer": "next to",
+        "explanation": "next to 紧挨。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "there be 句型",
+        "question": "there be 句型表示「某处有某物」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表存在。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "there be 句型",
+      "core_concept": "there is + 单数/不可数，there are + 复数；否定 there isn't / aren't。",
+      "key_formula": "There are thirty students in our class.",
+      "common_mistakes": [
+        "there is 后接复数名词。"
+      ],
+      "tips": "看后面的名词定单复数。"
+    },
+    {
+      "point": "方位介词 next to / behind / on the left of",
+      "core_concept": "next to 在……旁边、behind 在……后面、on the left of 在……左边、in front of 在……前面。",
+      "key_formula": "The library is on the left of the playground.",
+      "common_mistakes": [
+        "on the left 漏掉 of。"
+      ],
+      "tips": "left/right 后接 of 再接对象。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "there be 句型",
+        "question": "There ___ a book on the desk.",
+        "options": [
+          "is",
+          "are",
+          "be",
+          "am"
+        ],
+        "answer": "is",
+        "explanation": "单数用 is。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "方位介词 next to / behind / on the left of",
+        "question": "「在……后面」的英文是（　）",
+        "options": [
+          "behind",
+          "before",
+          "below",
+          "besides"
+        ],
+        "answer": "behind",
+        "explanation": "behind 后面。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "there be 句型",
+        "question": "there be 遵循就近原则。",
+        "options": [],
+        "answer": "对",
+        "explanation": "最近名词定单复。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "方位介词 next to / behind / on the left of",
+        "question": "「在……前面」的英文是（　）",
+        "options": [
+          "in front of",
+          "in the front",
+          "front of",
+          "before of"
+        ],
+        "answer": "in front of",
+        "explanation": "in front of 外部前方。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "textbook": "八年级下册",
+  "unit": "功和机械能",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「功和机械能」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "功与功率",
+        "question": "用 50 N 的力沿水平方向推动物体移动 4 m，做的功是多少 J？",
+        "options": [],
+        "answer": "200",
+        "explanation": "$W=Fs=50\\times4=200$ J。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "功与功率",
+        "question": "在 10 s 内做功 600 J，功率是多少 W？",
+        "options": [],
+        "answer": "60",
+        "explanation": "$P=\\frac{600}{10}=60$ W。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "动能与势能",
+        "question": "下列物体具有重力势能的是（　）",
+        "options": [
+          "水平地面上静止的石块",
+          "被举高的杠铃",
+          "静止的弹簧",
+          "运动的汽车"
+        ],
+        "answer": "被举高的杠铃",
+        "explanation": "有高度且受重力。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "机械能及其转化",
+        "question": "物体自由下落时重力势能转化为动能。",
+        "options": [],
+        "answer": "对",
+        "explanation": "机械能转化。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "功与功率",
+        "question": "下列情况中人对物体做了功的是（　）",
+        "options": [
+          "提着水桶水平走动",
+          "举着杠铃静止不动",
+          "推着车前进",
+          "举着物体原地不动"
+        ],
+        "answer": "推着车前进",
+        "explanation": "有力且在力方向上有位移。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "动能与势能",
+        "question": "物体的速度越大，动能一定越大。",
+        "options": [],
+        "answer": "错",
+        "explanation": "还与质量有关。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "功与功率",
+      "core_concept": "功等于力与物体在力的方向上移动距离的乘积。有力无距离或有距离无力都不做功。",
+      "key_formula": "$W=Fs$，$P=\\frac Wt$",
+      "common_mistakes": [
+        "把竖直提力与水平位移相乘。"
+      ],
+      "tips": "力与距离必须同方向。"
+    },
+    {
+      "point": "动能与势能",
+      "core_concept": "动能大小与质量和速度有关（质量越大、速度越大动能越大）；重力势能与质量和高度有关；弹性势能与弹性形变程度有关。",
+      "key_formula": "$E_k$ 与 $m$、$v$ 有关",
+      "common_mistakes": [
+        "认为动能只与速度有关。"
+      ],
+      "tips": "机械能 = 动能 + 势能。"
+    },
+    {
+      "point": "机械能及其转化",
+      "core_concept": "动能与势能可以相互转化；若只有动能和势能相互转化，机械能总量保持不变。",
+      "key_formula": "$E_k+E_p=\\text{常量}$（不计阻力）",
+      "common_mistakes": [
+        "忽略摩擦损耗。"
+      ],
+      "tips": "自由下落：重力势能 → 动能。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "功与功率",
+        "question": "起重机把 500 N 的货物匀速提升 6 m，做的功是多少 J？",
+        "options": [],
+        "answer": "3000",
+        "explanation": "$W=Gh=500\\times6=3000$ J。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "功与功率",
+        "question": "功率为 2000 W 的机器工作 5 s，做功是多少 J？",
+        "options": [],
+        "answer": "10000",
+        "explanation": "$W=Pt=2000\\times5=10000$ J。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "机械能及其转化",
+        "question": "滚摆上升过程中，动能（　）",
+        "options": [
+          "增大",
+          "减小",
+          "不变",
+          "先减小后增大"
+        ],
+        "answer": "减小",
+        "explanation": "上升时动能转化为重力势能。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "功与功率",
+        "question": "有力作用在物体上，且物体沿力的方向移动了距离，该力一定做了功。",
+        "options": [],
+        "answer": "对",
+        "explanation": "做功的两个必要因素。"
+      }
+    ]
+  }
+}

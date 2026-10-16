@@ -1,0 +1,57 @@
+{
+  "textbook": "必修上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "现代文阅读",
+      "knowledge_points": [
+        {
+          "name": "论述类文本阅读",
+          "description": "掌握论述文的论点、论据与论证方法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "现代诗歌与散文鉴赏",
+          "description": "掌握意象、意境与手法分析。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "古诗文阅读",
+      "knowledge_points": [
+        {
+          "name": "文言实词与虚词",
+          "description": "掌握常见实词含义与虚词用法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "文言句式与翻译",
+          "description": "掌握常见文言句式与翻译要求。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

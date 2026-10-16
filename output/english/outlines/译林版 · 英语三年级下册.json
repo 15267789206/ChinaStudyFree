@@ -1,0 +1,57 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Unit 1 Hello! 问候与课堂用语",
+      "knowledge_points": [
+        {
+          "name": "课堂用语",
+          "description": "掌握英语课堂常用语。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "问候与介绍",
+          "description": "掌握问候与自我介绍。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Unit 2 I'm Liu Tao 我的家人",
+      "knowledge_points": [
+        {
+          "name": "家庭成员",
+          "description": "掌握家庭成员的英语称呼。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "be 动词与形容词",
+          "description": "用 be 动词描述家人。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

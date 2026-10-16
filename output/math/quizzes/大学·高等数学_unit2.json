@@ -1,0 +1,156 @@
+{
+  "textbook": "高等数学",
+  "unit": "导数与微分",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「导数与微分」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "导数与求导法则",
+        "question": "已知 $f(x)=x^3+0x^2+0x$，则 $f'(3)=$ ？",
+        "options": [],
+        "answer": "27",
+        "explanation": "$f'(x)=3x^2+0x+0$，代入 $x=3$ 得 $27$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "导数与求导法则",
+        "question": "已知 $f(x)=x^3+1x^2-1x$，则 $f'(1)=$ ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$f'(x)=3x^2+2x-1$，代入 $x=1$ 得 $4$。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "导数与求导法则",
+        "question": "函数 $f(x)=x^4$ 的导函数 $f'(x)=$ ？（写成 $4x^3$ 形式）",
+        "options": [],
+        "answer": "4x^3",
+        "explanation": "$(x^4)'=4x^3$。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "导数的应用",
+        "question": "函数 $f(x)=x^2-2x$ 的极小值点是 $x=$（　）",
+        "options": [
+          "0",
+          "1",
+          "2",
+          "-1"
+        ],
+        "answer": "1",
+        "explanation": "$f'=2x-2=0$，$x=1$。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "导数的应用",
+        "question": "函数在区间上可导且导数大于零，则该函数单调递增。",
+        "options": [],
+        "answer": "对",
+        "explanation": "导数与单调性。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "导数与求导法则",
+        "question": "$(\\ln x)'=\\frac{1}{x}$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "基本公式。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "导数与求导法则",
+      "core_concept": "$(x^n)'=nx^{n-1}$，$(e^x)'=e^x$，$(\\ln x)'=\\frac1x$。乘法法则 $(uv)'=u'v+uv'$；复合函数求导用链式法则。",
+      "key_formula": "$(uv)'=u'v+uv'$",
+      "common_mistakes": [
+        "复合求导漏乘内层导数。"
+      ],
+      "tips": "由外向内逐层求导。"
+    },
+    {
+      "point": "导数的应用",
+      "core_concept": "$f'(x)>0$ 递增，$f'(x)<0$ 递减；极值点在 $f'(x)=0$ 且左右异号处；闭区间上最值需比较极值与端点值。",
+      "key_formula": "$f'(x_0)=0$ 且左右异号 ⇒ 极值",
+      "common_mistakes": [
+        "只比较极值而忽略端点。"
+      ],
+      "tips": "闭区间最值要比端点。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "导数的应用",
+        "question": "函数 $f(x)=x^3-3x$ 的极大值是多少？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$f'=3x^2-3=0$，$x=\\pm1$；$f(-1)=-1+3=2$ 为极大值。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "导数与求导法则",
+        "question": "函数 $f(x)=e^x$ 在 $x=0$ 处的导数值是多少？",
+        "options": [],
+        "answer": "1",
+        "explanation": "$(e^x)'=e^x$，$e^0=1$。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "导数的应用",
+        "question": "求函数在闭区间上最值时，需要比较（　）",
+        "options": [
+          "各极值与端点函数值",
+          "只有极值",
+          "只有端点值",
+          "导数值"
+        ],
+        "answer": "各极值与端点函数值",
+        "explanation": "极值与端点值都要比较。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "导数与求导法则",
+        "question": "乘积的导数等于导数的乘积。",
+        "options": [],
+        "answer": "错",
+        "explanation": "应为 $(uv)'=u'v+uv'$。"
+      }
+    ]
+  }
+}

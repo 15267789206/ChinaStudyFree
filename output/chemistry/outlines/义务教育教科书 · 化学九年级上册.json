@@ -1,0 +1,139 @@
+{
+  "textbook": "九年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "我们周围的空气",
+      "knowledge_points": [
+        {
+          "name": "空气的组成",
+          "description": "掌握空气成分及测定方法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "氧气的性质与制取",
+          "description": "掌握氧气性质、实验室制法与检验。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "氧气的实验室制法操作",
+          "description": "掌握装置、收集与检验方法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "物质构成的奥秘",
+      "knowledge_points": [
+        {
+          "name": "分子、原子与离子",
+          "description": "理解微观粒子与原子结构。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "元素与元素符号",
+          "description": "理解元素概念、符号与周期律初步。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "化学式与化合价",
+          "description": "掌握化学式书写与化合价规则。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "化学方程式",
+      "knowledge_points": [
+        {
+          "name": "质量守恒定律",
+          "description": "理解质量守恒定律及微观解释。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "化学方程式的书写与计算",
+          "description": "掌握书写原则与简单计算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "碳和碳的氧化物",
+      "knowledge_points": [
+        {
+          "name": "碳单质及其性质",
+          "description": "了解金刚石、石墨、C60 及碳的化学性质。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "二氧化碳的性质与制取",
+          "description": "掌握 CO₂ 性质、检验与实验室制法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一氧化碳与碳循环",
+          "description": "了解 CO 的毒性、还原性与温室效应。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

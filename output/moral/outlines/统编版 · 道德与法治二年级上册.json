@@ -1,0 +1,57 @@
+{
+  "textbook": "二年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "我们的班级",
+      "knowledge_points": [
+        {
+          "name": "班级生活与集体荣誉",
+          "description": "热爱班集体，维护集体荣誉。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "值日与责任",
+          "description": "认真做好值日，承担责任。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "安全与健康",
+      "knowledge_points": [
+        {
+          "name": "居家与出行安全",
+          "description": "掌握基本的安全常识。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "锻炼与作息",
+          "description": "养成锻炼身体的习惯。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

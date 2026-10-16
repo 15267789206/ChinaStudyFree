@@ -1,0 +1,144 @@
+{
+  "textbook": "一年级下册",
+  "unit": "我与大家",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「我与大家」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "分享与合作",
+        "question": "和小伙伴一起搭积木，应该（　）",
+        "options": [
+          "一个人独占",
+          "分工合作一起搭",
+          "推倒别人的",
+          "在旁边捣乱"
+        ],
+        "answer": "分工合作一起搭",
+        "explanation": "合作才能搭得更好。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "诚实守信",
+        "question": "不小心打碎了花瓶，正确做法是（　）",
+        "options": [
+          "藏在沙发底下",
+          "主动承认并道歉",
+          "说是小猫弄的",
+          "不理不问"
+        ],
+        "answer": "主动承认并道歉",
+        "explanation": "诚实的人勇于承认错误。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "分享与合作",
+        "question": "与同学分享图书是快乐的事。",
+        "options": [],
+        "answer": "对",
+        "explanation": "分享带来快乐。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "诚实守信",
+        "question": "答应别人的事情要努力做到。",
+        "options": [],
+        "answer": "对",
+        "explanation": "答应的事要做到。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "分享与合作",
+      "core_concept": "与同学分享图书、玩具会带来快乐；小组合作时要分工配合，才能把事情做得更好。",
+      "key_formula": "分享快乐、合作共赢",
+      "common_mistakes": [
+        "只顾自己、不愿分享。"
+      ],
+      "tips": "一起努力收获更多。"
+    },
+    {
+      "point": "诚实守信",
+      "core_concept": "诚实就是不说谎、不骗人，做错了事主动承认。守信就是答应别人的事要努力做到。",
+      "key_formula": "诚实守信",
+      "common_mistakes": [
+        "怕挨批评就说谎。"
+      ],
+      "tips": "承认错误是勇敢的表现。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "诚实守信",
+        "question": "下面哪种表现是诚实的（　）",
+        "options": [
+          "考试偷看",
+          "捡到东西交给老师",
+          "撒谎请假",
+          "抄别人作业"
+        ],
+        "answer": "捡到东西交给老师",
+        "explanation": "拾金不昧是诚实的表现。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "分享与合作",
+        "question": "小组合作时要听取大家的意见。",
+        "options": [],
+        "answer": "对",
+        "explanation": "合作要听取意见。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "分享与合作",
+        "question": "别人不愿分享时，你应该（　）",
+        "options": [
+          "强行拿走",
+          "礼貌沟通",
+          "生气不理人",
+          "抢过来"
+        ],
+        "answer": "礼貌沟通",
+        "explanation": "要礼貌沟通，不强求。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "诚实守信",
+        "question": "说谎可能会失去别人的信任。",
+        "options": [],
+        "answer": "对",
+        "explanation": "说谎会失去信任。"
+      }
+    ]
+  }
+}

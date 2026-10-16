@@ -1,0 +1,139 @@
+{
+  "textbook": "八年级上册",
+  "unit": "平方根与实数",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「平方根与实数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "9 的平方根是（　）",
+        "options": [
+          "±3",
+          "3",
+          "−3",
+          "±9"
+        ],
+        "answer": "±3",
+        "explanation": "正数有两个平方根。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "立方根与无理数",
+        "question": "$\\sqrt[3]{-27}$ 等于（　）",
+        "options": [
+          "−3",
+          "3",
+          "−27",
+          "无意义"
+        ],
+        "answer": "−3",
+        "explanation": "立方根可为负。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "$\\sqrt{4}=2$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "算术平方根取正。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "立方根与无理数",
+        "question": "$\\sqrt[3]{a^3}=a$ 对任意实数 $a$ 成立。",
+        "options": [],
+        "answer": "对",
+        "explanation": "立方根性质。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "平方根与算术平方根",
+      "core_concept": "若 $x^2 = a$，则 $x$ 是 $a$ 的平方根。正平方根叫算术平方根。$a > 0$ 时有两个平方根，$\\sqrt{a}$ 只取正值。",
+      "key_formula": "$\\sqrt{a^2} = |a|$",
+      "common_mistakes": [
+        "写成 $\\sqrt{a^2}=a$。"
+      ],
+      "tips": "注意绝对值。"
+    },
+    {
+      "point": "立方根与无理数",
+      "core_concept": "$\\sqrt[3]{a}$ 表示 $a$ 的立方根，$\\sqrt[3]{-8}=-2$。无理数不能表示为分数形式，如 $\\sqrt{2}$、$\\pi$。",
+      "key_formula": "$\\sqrt[3]{a^3}=a$",
+      "common_mistakes": [
+        "认为立方根一定是正数。"
+      ],
+      "tips": "立方根有正有负。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "$\\sqrt{16}=4$，而 $\\sqrt{16}$ 的算术平方根是 4。",
+        "options": [],
+        "answer": "对",
+        "explanation": "算术平方根。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "立方根与无理数",
+        "question": "下列各数中无理数是（　）",
+        "options": [
+          "$\\sqrt{2}$",
+          "0.5",
+          "3",
+          "$\\frac{2}{3}$"
+        ],
+        "answer": "$\\sqrt{2}$",
+        "explanation": "$\\sqrt{2}$ 是无理数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "只有 $a \\ge 0$ 时 $a$ 才有平方根。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平方根存在条件。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "立方根与无理数",
+        "question": "$\\sqrt{2}$ 是无理数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "无理数。"
+      }
+    ]
+  }
+}

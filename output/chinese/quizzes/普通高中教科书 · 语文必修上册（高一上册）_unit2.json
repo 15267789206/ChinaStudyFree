@@ -1,0 +1,149 @@
+{
+  "textbook": "必修上册",
+  "unit": "古诗文阅读",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「古诗文阅读」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "文言实词与虚词",
+        "question": "“勾践之困于会稽”中“之”的用法是（　）",
+        "options": [
+          "助词，取消句子独立性",
+          "代词",
+          "动词“到”",
+          "助词“的”"
+        ],
+        "answer": "助词，取消句子独立性",
+        "explanation": "主谓之间，取消句子独立性。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "文言句式与翻译",
+        "question": "“为仲卿母所遣”属于（　）",
+        "options": [
+          "被动句",
+          "判断句",
+          "宾语前置",
+          "定语后置"
+        ],
+        "answer": "被动句",
+        "explanation": "“为……所”表被动。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "文言实词与虚词",
+        "question": "文言翻译以直译为主，意译为辅。",
+        "options": [],
+        "answer": "对",
+        "explanation": "翻译原则。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "文言句式与翻译",
+        "question": "“何陋之有”的句式是（　）",
+        "options": [
+          "宾语前置",
+          "状语后置",
+          "判断句",
+          "被动句"
+        ],
+        "answer": "宾语前置",
+        "explanation": "“之”为宾语前置标志。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "文言实词与虚词",
+      "core_concept": "文言实词有一词多义、古今异义、通假字、词类活用等现象。常见虚词“之、其、而、以、于”需结合语境判断用法与意义。",
+      "key_formula": "之：代词/助词/动词",
+      "common_mistakes": [
+        "用今义解释古文。"
+      ],
+      "tips": "结合上下文推断词义。"
+    },
+    {
+      "point": "文言句式与翻译",
+      "core_concept": "常见句式有判断句、被动句、宾语前置、状语后置、定语后置。翻译要“信、达、雅”，做到字字落实、句式调整。",
+      "key_formula": "信、达、雅",
+      "common_mistakes": [
+        "翻译漏译关键实词。"
+      ],
+      "tips": "逐字对应再调整语序。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "文言实词与虚词",
+        "question": "“沛公军霸上”中“军”的活用是（　）",
+        "options": [
+          "名词作动词，驻军",
+          "名词作状语",
+          "使动用法",
+          "意动用法"
+        ],
+        "answer": "名词作动词，驻军",
+        "explanation": "名词活用为动词。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "文言句式与翻译",
+        "question": "判断句常用“……者，……也”式表示。",
+        "options": [],
+        "answer": "对",
+        "explanation": "常见判断句式。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "文言实词与虚词",
+        "question": "“而”作连词时可表示的关系不包括（　）",
+        "options": [
+          "并列",
+          "转折",
+          "承接",
+          "反问"
+        ],
+        "answer": "反问",
+        "explanation": "“而”不表反问。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "文言实词与虚词",
+        "question": "古今异义词要按古义理解。",
+        "options": [],
+        "answer": "对",
+        "explanation": "如“妻子”古指妻子儿女。"
+      }
+    ]
+  }
+}

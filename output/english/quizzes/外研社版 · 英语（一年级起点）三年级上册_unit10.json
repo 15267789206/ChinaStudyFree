@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 10 Are you going to Hong Kong? 旅行计划",
+  "unit_number": 10,
+  "unit_test": {
+    "title": "第10单元「Module 10 Are you going to Hong Kong? 旅行计划」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be going to 疑问句",
+        "question": "「你要去香港吗？」的英文是（　）",
+        "options": [
+          "Are you going to Hong Kong?",
+          "Do you going to Hong Kong?",
+          "You are going to Hong Kong?",
+          "Are you go to Hong Kong?"
+        ],
+        "answer": "Are you going to Hong Kong?",
+        "explanation": "be 提前。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be going to 疑问句",
+        "question": "肯定回答 Are you going to…?，应说（　）",
+        "options": [
+          "Yes, I am.",
+          "Yes, I do.",
+          "Yes, you are.",
+          "Yes, I'm."
+        ],
+        "answer": "Yes, I am.",
+        "explanation": "be 问 be 答。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "旅行词汇 travel / see / visit",
+        "question": "「旅行」的英文是（　）",
+        "options": [
+          "travel",
+          "travell",
+          "traval",
+          "traveling"
+        ],
+        "answer": "travel",
+        "explanation": "travel = 旅行。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be going to 疑问句",
+        "question": "be going to 变疑问句时把 be 动词提到句首。",
+        "options": [],
+        "answer": "对",
+        "explanation": "be 前置。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "be going to 疑问句",
+      "core_concept": "把 be 提到句首：Are you going to…? 答 Yes, I am. / No, I'm not.",
+      "key_formula": "Are you going to Hong Kong? — Yes, I am.",
+      "common_mistakes": [
+        "Do you going to…（×）"
+      ],
+      "tips": "有 be 就不再用 do。"
+    },
+    {
+      "point": "旅行词汇 travel / see / visit",
+      "core_concept": "travel 旅行、see 看、visit 参观；What are you going to see? 你打算去看什么？",
+      "key_formula": "What are you going to see?",
+      "common_mistakes": [
+        "going to see 写成 going see。"
+      ],
+      "tips": "to 不能丢。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "旅行词汇 travel / see / visit",
+        "question": "「香港」的英文是（　）",
+        "options": [
+          "Hong Kong",
+          "Hongkong",
+          "Hong Kongg",
+          "Hong-Kong"
+        ],
+        "answer": "Hong Kong",
+        "explanation": "分两词，都大写。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "be going to 疑问句",
+        "question": "「你打算去看什么？」的英文是（　）",
+        "options": [
+          "What are you going to see?",
+          "What you are going to see?",
+          "What are you going to saw?",
+          "What do you going to see?"
+        ],
+        "answer": "What are you going to see?",
+        "explanation": "特殊疑问词 + be + 主语 + going to。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "旅行词汇 travel / see / visit",
+        "question": "visit 的意思是「参观、拜访」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "visit = 参观。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "be going to 疑问句",
+        "question": "— Are you going to see the Great Wall? — ___",
+        "options": [
+          "Yes, I am.",
+          "Yes, I do.",
+          "Yes, you are.",
+          "Yes, we am."
+        ],
+        "answer": "Yes, I am.",
+        "explanation": "主语 I 配 am。"
+      }
+    ]
+  }
+}

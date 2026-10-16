@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Unit 8 Fashion 时尚",
+  "unit_number": 8,
+  "unit_test": {
+    "title": "第8单元「Unit 8 Fashion 时尚」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+        "question": "「牛仔裤」的英文是（　）",
+        "options": [
+          "jeans",
+          "jean",
+          "jeens",
+          "jeanes"
+        ],
+        "answer": "jeans",
+        "explanation": "常用复数。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+        "question": "「夹克」的英文是（　）",
+        "options": [
+          "jacket",
+          "jackettt",
+          "jaket",
+          "jacke"
+        ],
+        "answer": "jacket",
+        "explanation": "jacket 夹克。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+        "question": "「运动鞋」的英文是（　）",
+        "options": [
+          "trainers",
+          "trainer",
+          "trainners",
+          "trains"
+        ],
+        "answer": "trainers",
+        "explanation": "英式 trainers。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+        "question": "fashion 的意思是「时尚」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "fashion 时尚。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "服装词汇 trainers / jeans / jacket / scarf",
+      "core_concept": "trainers 运动鞋、jeans 牛仔裤、jacket 夹克、scarf 围巾；comfortable 舒适的。",
+      "key_formula": "a pair of jeans 一条牛仔裤",
+      "common_mistakes": [
+        "jeans 当单数。"
+      ],
+      "tips": "jeans/trousers 常用复数。"
+    },
+    {
+      "point": "描述穿着 look + 形容词",
+      "core_concept": "look + 形容词表示「看起来」；You look cool! 你看起来很酷！",
+      "key_formula": "You look cool in this jacket.",
+      "common_mistakes": [
+        "look 后接副词。"
+      ],
+      "tips": "look 是系动词，后接形容词。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+        "question": "「围巾」的英文是（　）",
+        "options": [
+          "scarf",
+          "scarff",
+          "skarf",
+          "scarfe"
+        ],
+        "answer": "scarf",
+        "explanation": "scarf 围巾。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "描述穿着 look + 形容词",
+        "question": "「你看起来很酷！」的英文是（　）",
+        "options": [
+          "You look cool!",
+          "You looks cool!",
+          "You are look cool!",
+          "You look coolly!"
+        ],
+        "answer": "You look cool!",
+        "explanation": "look + 形容词。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "服装词汇 trainers / jeans / jacket / scarf",
+        "question": "comfortable 的意思是「舒适的」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "comfortable 舒适。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "描述穿着 look + 形容词",
+        "question": "「这条围巾看起来很漂亮。」的英文是（　）",
+        "options": [
+          "The scarf looks beautiful.",
+          "The scarf look beautiful.",
+          "The scarf looks beautifully.",
+          "The scarf is look beautiful."
+        ],
+        "answer": "The scarf looks beautiful.",
+        "explanation": "三单 looks。"
+      }
+    ]
+  }
+}

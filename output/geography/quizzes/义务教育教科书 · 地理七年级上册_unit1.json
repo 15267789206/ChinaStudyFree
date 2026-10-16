@@ -1,0 +1,176 @@
+{
+  "textbook": "七年级上册",
+  "unit": "地球和地图",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「地球和地图」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "地球与经纬网",
+        "question": "纬线指示的方向是（　）",
+        "options": [
+          "东西方向",
+          "南北方向",
+          "东北方向",
+          "垂直方向"
+        ],
+        "answer": "东西方向",
+        "explanation": "纬线指示东西。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "地球与经纬网",
+        "question": "南北半球的分界线是（　）",
+        "options": [
+          "本初子午线",
+          "赤道",
+          "20°W",
+          "160°E"
+        ],
+        "answer": "赤道",
+        "explanation": "赤道划分南北半球。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "地图三要素与等高线地形图",
+        "question": "等高线密集的地方坡度（　）",
+        "options": [
+          "陡",
+          "缓",
+          "相同",
+          "无法判断"
+        ],
+        "answer": "陡",
+        "explanation": "密集表示坡陡。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "地球与经纬网",
+        "question": "经线的长度都相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "经线等长。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "地图三要素与等高线地形图",
+        "question": "等高线向高处凸出的部位是山谷。",
+        "options": [],
+        "answer": "对",
+        "explanation": "凸高为谷。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "地图三要素与等高线地形图",
+        "question": "比例尺 1:50000 的地图上量得两地距离 3 cm，实地距离是多少千米？",
+        "options": [],
+        "answer": "1.5",
+        "explanation": "$3\\times50000=150000$ cm $=1.5$ km。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "地球与经纬网",
+      "core_concept": "地球是两极稍扁、赤道略鼓的不规则球体。纬线指示东西方向，经线指示南北方向。赤道是南北半球分界线，20°W 与 160°E 组成东西半球分界线。",
+      "key_formula": "纬度 0°~90°，经度 0°~180°",
+      "common_mistakes": [
+        "把东西半球界线说成 0° 和 180° 经线。"
+      ],
+      "tips": "东西半球界线为 20°W、160°E。"
+    },
+    {
+      "point": "地图三要素与等高线地形图",
+      "core_concept": "地图三要素是比例尺、方向、图例。等高线密集处坡陡，稀疏处坡缓；等高线向高处凸出为山谷，向低处凸出为山脊。",
+      "key_formula": "比例尺 = 图上距离 / 实地距离",
+      "common_mistakes": [
+        "把山谷山脊判读颠倒。"
+      ],
+      "tips": "凸高为谷、凸低为脊。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "地球与经纬网",
+        "question": "下列地点位于东半球的是（　）",
+        "options": [
+          "10°W",
+          "30°W",
+          "170°E",
+          "180°"
+        ],
+        "answer": "10°W",
+        "explanation": "20°W 以东为东半球。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "地图三要素与等高线地形图",
+        "question": "地图上表示“山峰”的图例符号是（　）",
+        "options": [
+          "▲",
+          "○",
+          "■",
+          "△±"
+        ],
+        "answer": "▲",
+        "explanation": "三角形表示山峰。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "地图三要素与等高线地形图",
+        "question": "比例尺越大，表示的范围越小、内容越详细。",
+        "options": [],
+        "answer": "对",
+        "explanation": "比例尺与详略关系。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "地球与经纬网",
+        "question": "地球自转的方向是（　）",
+        "options": [
+          "自西向东",
+          "自东向西",
+          "自南向北",
+          "自北向南"
+        ],
+        "answer": "自西向东",
+        "explanation": "自转方向自西向东。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "textbook": "九年级下册",
+  "unit": "溶液",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「溶液」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "溶液的形成与溶解度",
+        "question": "下列关于溶液的说法正确的是（　）",
+        "options": [
+          "溶液一定是无色的",
+          "溶液是均一稳定的混合物",
+          "溶液一定是液体",
+          "溶液一定是纯净物"
+        ],
+        "answer": "溶液是均一稳定的混合物",
+        "explanation": "溶液定义。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "溶质质量分数",
+        "question": "将 20 g 食盐溶于 80 g 水中，溶质质量分数是多少（填百分数数字，如 20）？",
+        "options": [],
+        "answer": "20",
+        "explanation": "$\\frac{20}{100}\\times100\\%=20\\%$。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "溶质质量分数",
+        "question": "100 g 质量分数为 10% 的溶液中含溶质多少 g？",
+        "options": [],
+        "answer": "10",
+        "explanation": "$100\\times10\\%=10$ g。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "溶液的形成与溶解度",
+        "question": "大多数固体物质的溶解度随温度升高而增大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "溶解度受温度影响。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "溶质质量分数",
+        "question": "把 50 g 20% 的溶液稀释为 10%，需加水多少 g？",
+        "options": [],
+        "answer": "50",
+        "explanation": "溶质 10 g，$\\frac{10}{10\\%}=100$ g，加水 50 g。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "溶质质量分数",
+        "question": "饱和溶液的溶质质量分数一定大于不饱和溶液。",
+        "options": [],
+        "answer": "错",
+        "explanation": "须同温、同溶质比较。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "溶液的形成与溶解度",
+      "core_concept": "溶液是均一、稳定的混合物。在一定温度下，某固态物质在 100 g 溶剂里达到饱和状态时所溶解的质量叫溶解度。大多数固体溶解度随温度升高而增大。",
+      "key_formula": "溶解度单位：g/100 g 水",
+      "common_mistakes": [
+        "把溶解度与溶质质量分数混淆。"
+      ],
+      "tips": "溶解度必须指明温度。"
+    },
+    {
+      "point": "溶质质量分数",
+      "core_concept": "溶质质量分数 = 溶质质量 / 溶液质量 × 100%。稀释前后溶质质量不变。",
+      "key_formula": "$w=\\frac{m_\\text{质}}{m_\\text{液}}\\times100\\%$",
+      "common_mistakes": [
+        "分母用溶剂质量。"
+      ],
+      "tips": "分母是溶液质量。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "溶液的形成与溶解度",
+        "question": "20℃ 时某物质溶解度为 36 g，该温度下其饱和溶液的溶质质量分数是多少（填百分数，保留一位小数，如 26.5）？",
+        "options": [],
+        "answer": "26.5",
+        "explanation": "$\\frac{36}{136}\\times100\\%\\approx26.5\\%$。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "溶液的形成与溶解度",
+        "question": "将接近饱和的硝酸钾溶液变为饱和溶液，可行的方法是（　）",
+        "options": [
+          "加水",
+          "升温",
+          "加硝酸钾",
+          "减小压强"
+        ],
+        "answer": "加硝酸钾",
+        "explanation": "加溶质可使其饱和。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "溶质质量分数",
+        "question": "溶液稀释前后溶质的质量不变。",
+        "options": [],
+        "answer": "对",
+        "explanation": "稀释计算依据。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "溶质质量分数",
+        "question": "配制 200 g 5% 的氯化钠溶液，需要氯化钠多少 g？",
+        "options": [],
+        "answer": "10",
+        "explanation": "$200\\times5\\%=10$ g。"
+      }
+    ]
+  }
+}

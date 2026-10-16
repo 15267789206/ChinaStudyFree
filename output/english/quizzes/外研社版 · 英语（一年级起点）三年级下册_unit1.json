@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "Module 1 数字与问候",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 数字与问候」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数字 1-10",
+        "question": "the number 5 的英语是（　）",
+        "options": [
+          "five",
+          "four",
+          "nine",
+          "ten"
+        ],
+        "answer": "five",
+        "explanation": "5 = five。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "问候语与告别语",
+        "question": "早上好可以说（　）",
+        "options": [
+          "Good morning",
+          "Good night",
+          "Goodbye",
+          "Bye"
+        ],
+        "answer": "Good morning",
+        "explanation": "早上好。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "数字 1-10",
+        "question": "eight 的意思是 8。",
+        "options": [],
+        "answer": "对",
+        "explanation": "8 = eight。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "问候语与告别语",
+        "question": "Goodbye 与 Bye 都可表示告别。",
+        "options": [],
+        "answer": "对",
+        "explanation": "告别语。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "数字 1-10",
+      "core_concept": "外研社版一年级起点从数字与问候起步。one, two, three, four, five, six, seven, eight, nine, ten。",
+      "key_formula": "数字卡片",
+      "common_mistakes": [
+        "four 与 five 混淆。"
+      ],
+      "tips": "跟读巩固。"
+    },
+    {
+      "point": "问候语与告别语",
+      "core_concept": "Hello! / Hi! / Good morning! / Good afternoon! / Goodbye! / Bye!",
+      "key_formula": "问候按时段",
+      "common_mistakes": [
+        "晚上问好不用 Good night。"
+      ],
+      "tips": "Good night 用于睡前道别。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数字 1-10",
+        "question": "the number 3 的英语是（　）",
+        "options": [
+          "three",
+          "tree",
+          "third",
+          "free"
+        ],
+        "answer": "three",
+        "explanation": "3 = three。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "问候语与告别语",
+        "question": "睡前与家人道别说（　）",
+        "options": [
+          "Good night",
+          "Good morning",
+          "Good evening",
+          "Hello"
+        ],
+        "answer": "Good night",
+        "explanation": "Good night = 晚安。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "数字 1-10",
+        "question": "nine 的意思是 9。",
+        "options": [],
+        "answer": "对",
+        "explanation": "9 = nine。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "问候语与告别语",
+        "question": "Good afternoon 用于下午问候。",
+        "options": [],
+        "answer": "对",
+        "explanation": "按时段。"
+      }
+    ]
+  }
+}

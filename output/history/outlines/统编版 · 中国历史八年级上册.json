@@ -1,0 +1,57 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "近代侵略与民族危机",
+      "knowledge_points": [
+        {
+          "name": "鸦片战争与《南京条约》",
+          "description": "了解鸦片战争背景、过程与影响。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "第二次鸦片战争与甲午战争",
+          "description": "了解列强侵略的加深与民族危机。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "近代化探索",
+      "knowledge_points": [
+        {
+          "name": "洋务运动",
+          "description": "了解洋务运动内容与评价。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "戊戌变法与辛亥革命",
+          "description": "了解维新变法与辛亥革命的成果。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

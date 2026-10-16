@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "动物的主要类群",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「动物的主要类群」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "脊椎动物的主要类群",
+        "question": "用鳃呼吸、用鳍游泳的动物是（　）",
+        "options": [
+          "鱼类",
+          "两栖类",
+          "爬行类",
+          "鸟类"
+        ],
+        "answer": "鱼类",
+        "explanation": "鱼类用鳃呼吸。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "无脊椎动物与分类",
+        "question": "身体分节、有外骨骼的动物是（　）",
+        "options": [
+          "节肢动物",
+          "环节动物",
+          "线形动物",
+          "软体动物"
+        ],
+        "answer": "节肢动物",
+        "explanation": "节肢动物有外骨骼。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "脊椎动物的主要类群",
+        "question": "鸟类体表被羽，靠气囊辅助呼吸。",
+        "options": [],
+        "answer": "对",
+        "explanation": "鸟类呼吸特点。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "无脊椎动物与分类",
+        "question": "动物分类可以依据形态结构和生活习性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "分类依据多样。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "脊椎动物的主要类群",
+      "core_concept": "脊椎动物包括鱼纲、两栖纲、爬行纲、鸟纲、哺乳纲。鱼用鳃呼吸靠鳍运动；两栖类幼体用鳃、成体用肺兼皮肤；爬行类用肺、鳞片防水；鸟类体表被羽有气囊辅助呼吸；哺乳类用肺、胎生哺乳。",
+      "key_formula": "五类脊椎动物",
+      "common_mistakes": [
+        "把两栖类当成爬行类。"
+      ],
+      "tips": "两栖类“幼鳃成肺兼皮”。"
+    },
+    {
+      "point": "无脊椎动物与分类",
+      "core_concept": "无脊椎动物包括腔肠动物、扁形动物、线形动物、环节动物、软体动物、节肢动物等。分类依据有形态结构、生活习性、亲缘关系。",
+      "key_formula": "节肢动物：外骨骼 + 附肢分节",
+      "common_mistakes": [
+        "把环节动物与节肢动物混淆。"
+      ],
+      "tips": "蚯蚓属环节动物。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "脊椎动物的主要类群",
+        "question": "下列关于两栖动物的叙述，正确的是（　）",
+        "options": [
+          "幼体生活在水中用鳃呼吸，成体用肺兼皮肤呼吸",
+          "一生都生活在水中",
+          "体表被羽毛覆盖",
+          "是恒温动物"
+        ],
+        "answer": "幼体生活在水中用鳃呼吸，成体用肺兼皮肤呼吸",
+        "explanation": "两栖类特点。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "无脊椎动物与分类",
+        "question": "下列动物中属于无脊椎动物的是（　）",
+        "options": [
+          "蟹",
+          "青蛙",
+          "家鸽",
+          "鼠"
+        ],
+        "answer": "蟹",
+        "explanation": "蟹是节肢动物，无脊椎。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "脊椎动物的主要类群",
+        "question": "哺乳动物都是胎生、哺乳的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "哺乳类特征。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "无脊椎动物与分类",
+        "question": "蚯蚓属于环节动物。",
+        "options": [],
+        "answer": "对",
+        "explanation": "环节动物。"
+      }
+    ]
+  }
+}

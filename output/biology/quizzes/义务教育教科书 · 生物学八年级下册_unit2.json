@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "健康生活与医疗急救",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「健康生活与医疗急救」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "健康的生活方式",
+        "question": "下列属于健康生活方式的是（　）",
+        "options": [
+          "每天保证充足睡眠",
+          "经常熬夜",
+          "暴饮暴食",
+          "吸烟饮酒"
+        ],
+        "answer": "每天保证充足睡眠",
+        "explanation": "充足睡眠是健康基础。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "急救常识与用药安全",
+        "question": "毛细血管出血的特点是（　）",
+        "options": [
+          "血液从伤口渗出，止血容易",
+          "血液呈鲜红色，涌出较快",
+          "血色暗红，流出缓慢",
+          "出血量很大"
+        ],
+        "answer": "血液从伤口渗出，止血容易",
+        "explanation": "毛细血管出血特征。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "健康的生活方式",
+        "question": "合理营养不挑食不偏食。",
+        "options": [],
+        "answer": "对",
+        "explanation": "合理膳食。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "急救常识与用药安全",
+        "question": "服药必须遵医嘱。",
+        "options": [],
+        "answer": "对",
+        "explanation": "用药安全。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "健康的生活方式",
+      "core_concept": "健康生活方式包括合理膳食、适量运动、充足睡眠、拒绝烟酒、心理平衡。注意合理营养不暴饮暴食。",
+      "key_formula": "合理膳食 + 适量运动 + 充足睡眠",
+      "common_mistakes": [
+        "认为吃得越多越健康。"
+      ],
+      "tips": "营养要均衡合理。"
+    },
+    {
+      "point": "急救常识与用药安全",
+      "core_concept": "出血可分为动脉血、静脉血和毛细血管出血，止血方法各异。创伤出血先止血再消毒包扎。用药要遵医嘱，不能自行服用。",
+      "key_formula": "止血 → 消毒 → 包扎",
+      "common_mistakes": [
+        "伤口先包扎不止血。"
+      ],
+      "tips": "先止血。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "健康的生活方式",
+        "question": "青少年生长发育期需要（　）",
+        "options": [
+          "充足的营养和适当运动",
+          "大量甜食",
+          "长期熬夜",
+          "减肥节食"
+        ],
+        "answer": "充足的营养和适当运动",
+        "explanation": "青春期需营养均衡。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "急救常识与用药安全",
+        "question": "动脉出血的止血方法正确的是（　）",
+        "options": [
+          "在伤口近心端压迫止血",
+          "在伤口远心端压迫止血",
+          "直接冲洗伤口",
+          "不作处理"
+        ],
+        "answer": "在伤口近心端压迫止血",
+        "explanation": "动脉近心端止血。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "健康的生活方式",
+        "question": "保持心理健康也是健康的重要组成部分。",
+        "options": [],
+        "answer": "对",
+        "explanation": "心理健康是健康的一部分。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "急救常识与用药安全",
+        "question": "创伤出血的处理顺序是先止血、再消毒、后包扎。",
+        "options": [],
+        "answer": "对",
+        "explanation": "急救处理顺序。"
+      }
+    ]
+  }
+}

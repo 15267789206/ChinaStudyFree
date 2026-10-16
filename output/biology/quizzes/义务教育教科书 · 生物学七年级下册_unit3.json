@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级下册",
+  "unit": "人体的调节与健康生活",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「人体的调节与健康生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "神经系统与反射",
+        "question": "神经调节的基本方式是（　）",
+        "options": [
+          "反射",
+          "应激性",
+          "适应",
+          "代谢"
+        ],
+        "answer": "反射",
+        "explanation": "反射是神经调节基本方式。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "神经系统与反射",
+        "question": "反射弧的组成不包括（　）",
+        "options": [
+          "感受器",
+          "神经中枢",
+          "效应器",
+          "红细胞"
+        ],
+        "answer": "红细胞",
+        "explanation": "红细胞不属反射弧。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "激素调节与健康生活",
+        "question": "胰岛素能降低血糖浓度。",
+        "options": [],
+        "answer": "对",
+        "explanation": "胰岛素调节血糖。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "激素调节与健康生活",
+        "question": "内分泌腺没有导管，分泌物直接进入血液。",
+        "options": [],
+        "answer": "对",
+        "explanation": "内分泌腺特点。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "神经系统与反射",
+      "core_concept": "神经系统由脑、脊髓和神经组成。反射是神经调节的基本方式，反射弧包括感受器、传入神经、神经中枢、传出神经和效应器五部分。",
+      "key_formula": "反射弧五部分",
+      "common_mistakes": [
+        "把感受器与效应器颠倒。"
+      ],
+      "tips": "先感受后效应。"
+    },
+    {
+      "point": "激素调节与健康生活",
+      "core_concept": "激素由内分泌腺分泌，直接进入血液运输。胰岛素能调节血糖，分泌不足可致糖尿病。青春期要养成健康的生活方式。",
+      "key_formula": "胰岛素降低血糖",
+      "common_mistakes": [
+        "认为激素由导管输送。"
+      ],
+      "tips": "内分泌腺无导管。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "神经系统与反射",
+        "question": "神经冲动在反射弧中的传导方向是（　）",
+        "options": [
+          "感受器→传入神经→神经中枢→传出神经→效应器",
+          "效应器→传出神经→神经中枢",
+          "神经中枢→感受器",
+          "传入神经→感受器"
+        ],
+        "answer": "感受器→传入神经→神经中枢→传出神经→效应器",
+        "explanation": "信号传导方向。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "激素调节与健康生活",
+        "question": "幼年时生长激素分泌不足会患侏儒症。",
+        "options": [],
+        "answer": "对",
+        "explanation": "生长激素作用。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "神经系统与反射",
+        "question": "大脑皮层是调节人体生理活动的最高级中枢。",
+        "options": [],
+        "answer": "对",
+        "explanation": "大脑皮层功能。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "激素调节与健康生活",
+        "question": "糖尿病患者可通过注射胰岛素治疗，是因为胰岛素（　）",
+        "options": [
+          "能降低血糖",
+          "能升高血糖",
+          "能被消化",
+          "无作用"
+        ],
+        "answer": "能降低血糖",
+        "explanation": "胰岛素降血糖。"
+      }
+    ]
+  }
+}

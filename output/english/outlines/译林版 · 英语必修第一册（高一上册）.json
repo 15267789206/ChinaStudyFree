@@ -1,0 +1,57 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Extended reading 与牛津版块学习法",
+      "knowledge_points": [
+        {
+          "name": "牛津版块结构",
+          "description": "了解译林版教材的栏目特色。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "主旨大意与细节",
+          "description": "掌握主旨与细节的读法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "语法与词汇拓展",
+      "knowledge_points": [
+        {
+          "name": "时态复习与语篇填空",
+          "description": "巩固基本时态应对语篇填空。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "词汇积累与运用",
+          "description": "积累高频词汇并正确运用。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

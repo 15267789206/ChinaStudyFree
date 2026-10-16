@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 3 Places and activities — In my room 在我的房间",
+  "unit_number": 9,
+  "unit_test": {
+    "title": "第9单元「Module 3 Places and activities — In my room 在我的房间」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "房间物品 bed / table / lamp / toy",
+        "question": "「床」的英文是（　）",
+        "options": [
+          "bed",
+          "bad",
+          "bid",
+          "bud"
+        ],
+        "answer": "bed",
+        "explanation": "bed = 床。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "房间物品 bed / table / lamp / toy",
+        "question": "「台灯」的英文是（　）",
+        "options": [
+          "lamp",
+          "lampy",
+          "light",
+          "lantern"
+        ],
+        "answer": "lamp",
+        "explanation": "lamp = 台灯。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问位置 Where's my…?",
+        "question": "「我的书包在哪里？」的英文是（　）",
+        "options": [
+          "Where's my bag?",
+          "Where's my bags?",
+          "What's my bag?",
+          "Where are my bag?"
+        ],
+        "answer": "Where's my bag?",
+        "explanation": "单数用 Where's。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "房间物品 bed / table / lamp / toy",
+        "question": "room 的意思是「房间」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "room = 房间。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "房间物品 bed / table / lamp / toy",
+      "core_concept": "bed 床、table 桌子、lamp 台灯、toy 玩具。",
+      "key_formula": "in my room 在我的房间",
+      "common_mistakes": [
+        "lamp 与 light 混淆。"
+      ],
+      "tips": "lamp 指灯具本身。"
+    },
+    {
+      "point": "询问位置 Where's my…?",
+      "core_concept": "询问单数物品位置用 Where's my…?（Where is 的缩写），回答 It's…",
+      "key_formula": "Where's my bag? — It's on the bed.",
+      "common_mistakes": [
+        "Where's 后面接复数物品。"
+      ],
+      "tips": "复数用 Where are…?"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "房间物品 bed / table / lamp / toy",
+        "question": "「玩具」的英文是（　）",
+        "options": [
+          "toy",
+          "boy",
+          "toyy",
+          "joy"
+        ],
+        "answer": "toy",
+        "explanation": "toy = 玩具。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问位置 Where's my…?",
+        "question": "— Where's my cap? — ___",
+        "options": [
+          "It's on the bed.",
+          "It's on the beds.",
+          "Yes, it is.",
+          "I'm fine."
+        ],
+        "answer": "It's on the bed.",
+        "explanation": "回答位置用 It's…"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "询问位置 Where's my…?",
+        "question": "询问多个物品的位置要用 Where are…?",
+        "options": [],
+        "answer": "对",
+        "explanation": "复数配 are。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "询问位置 Where's my…?",
+        "question": "想知道玩具在哪里，应问（　）",
+        "options": [
+          "Where's my toy?",
+          "What's my toy?",
+          "Who's my toy?",
+          "How's my toy?"
+        ],
+        "answer": "Where's my toy?",
+        "explanation": "where 问地点。"
+      }
+    ]
+  }
+}

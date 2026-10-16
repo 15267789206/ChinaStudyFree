@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "法律与生活（续）",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「法律与生活（续）」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "合同与家庭婚姻",
+        "question": "订立合同应遵循的基本原则不包括（　）",
+        "options": [
+          "过错推定",
+          "自愿原则",
+          "平等原则",
+          "诚实信用原则"
+        ],
+        "answer": "过错推定",
+        "explanation": "合同四原则。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "诉讼与非诉讼解决方式",
+        "question": "下列不属于非诉讼解决方式的是（　）",
+        "options": [
+          "诉讼",
+          "调解",
+          "仲裁",
+          "和解"
+        ],
+        "answer": "诉讼",
+        "explanation": "诉讼是诉讼方式。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "合同与家庭婚姻",
+        "question": "合同是民事主体之间设立、变更、终止民事法律关系的协议。",
+        "options": [],
+        "answer": "对",
+        "explanation": "合同定义。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "诉讼与非诉讼解决方式",
+        "question": "我国实行两审终审制。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两审终审。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "合同与家庭婚姻",
+      "core_concept": "合同订立需遵循自愿、平等、公平、诚实信用原则。结婚要达到法定婚龄，禁止包办买卖婚姻。",
+      "key_formula": "合同五原则",
+      "common_mistakes": [
+        "认为合同可以口头随意订立。"
+      ],
+      "tips": "有约定可口头。"
+    },
+    {
+      "point": "诉讼与非诉讼解决方式",
+      "core_concept": "纠纷解决有和解、调解、仲裁、诉讼等方式。诉讼要符合法定管辖与程序要求。",
+      "key_formula": "和解 / 调解 / 仲裁 / 诉讼",
+      "common_mistakes": [
+        "认为诉讼是唯一途径。"
+      ],
+      "tips": "有多种途径。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "合同与家庭婚姻",
+        "question": "我国禁止的婚姻陋习是（　）",
+        "options": [
+          "包办、买卖婚姻",
+          "自由恋爱",
+          "依法登记",
+          "尊重他人"
+        ],
+        "answer": "包办、买卖婚姻",
+        "explanation": "陋习禁止。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "诉讼与非诉讼解决方式",
+        "question": "纠纷发生后较为便捷的解决方式是（　）",
+        "options": [
+          "协商和解",
+          "直接诉讼",
+          "回避",
+          "拖延"
+        ],
+        "answer": "协商和解",
+        "explanation": "和解最便捷。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "合同与家庭婚姻",
+        "question": "结婚必须符合法定条件并办理登记。",
+        "options": [],
+        "answer": "对",
+        "explanation": "结婚法定条件。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "诉讼与非诉讼解决方式",
+        "question": "选择非诉讼方式解决纠纷成本较低、方式灵活。",
+        "options": [],
+        "answer": "对",
+        "explanation": "非诉讼优势。"
+      }
+    ]
+  }
+}

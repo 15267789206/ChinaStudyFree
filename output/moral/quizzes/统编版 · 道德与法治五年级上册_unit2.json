@@ -1,0 +1,144 @@
+{
+  "textbook": "五年级上册",
+  "unit": "情感与家庭",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「情感与家庭」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "亲情与沟通",
+        "question": "与父母产生分歧时，最好的做法是（　）",
+        "options": [
+          "冷静沟通说出理由",
+          "赌气不理",
+          "摔东西",
+          "离家出走"
+        ],
+        "answer": "冷静沟通说出理由",
+        "explanation": "沟通化解代沟。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "感恩与回报",
+        "question": "下面哪种做法最能体现感恩（　）",
+        "options": [
+          "理解父母的辛劳并主动分担家务",
+          "买昂贵的礼物",
+          "经常要零花钱",
+          "不听话让他们操心"
+        ],
+        "answer": "理解父母的辛劳并主动分担家务",
+        "explanation": "用心感恩。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "亲情与沟通",
+        "question": "父母的付出不是理所当然的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "要懂得回报。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "感恩与回报",
+        "question": "感恩父母要从身边小事做起。",
+        "options": [],
+        "answer": "对",
+        "explanation": "小事见真心。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "亲情与沟通",
+      "core_concept": "父母给予我们生命与养育之爱。随着年龄增长，亲子之间需要更多理解与沟通，尊重与关爱是相互的。",
+      "key_formula": "关爱 + 理解",
+      "common_mistakes": [
+        "认为父母的付出理所当然。"
+      ],
+      "tips": "主动沟通增进理解。"
+    },
+    {
+      "point": "感恩与回报",
+      "core_concept": "感恩要落到行动：帮父母分担家务、体谅辛苦、用优异成绩回报。不能盲目攀比物质。",
+      "key_formula": "感恩在行动",
+      "common_mistakes": [
+        "只送昂贵礼物表心意。"
+      ],
+      "tips": "用心胜过用钱。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "亲情与沟通",
+        "question": "父母工作忙时，我们应当（　）",
+        "options": [
+          "体谅并自己做力所能及的事",
+          "无理取闹",
+          "故意添乱",
+          "不写作业"
+        ],
+        "answer": "体谅并自己做力所能及的事",
+        "explanation": "体谅父母。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "感恩与回报",
+        "question": "感恩不一定要用昂贵的东西表达。",
+        "options": [],
+        "answer": "对",
+        "explanation": "贵在心意。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "感恩与回报",
+        "question": "我们应该用（　）来回报父母",
+        "options": [
+          "优异成绩与懂事",
+          "攀比消费",
+          "顶撞他们",
+          "任性要求"
+        ],
+        "answer": "优异成绩与懂事",
+        "explanation": "懂事是最好的回报。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "亲情与沟通",
+        "question": "家庭成员之间应该相互尊重。",
+        "options": [],
+        "answer": "对",
+        "explanation": "相互尊重。"
+      }
+    ]
+  }
+}

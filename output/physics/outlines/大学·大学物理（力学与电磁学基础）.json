@@ -1,0 +1,57 @@
+{
+  "textbook": "大学物理（力学与电磁学基础）",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "质点力学",
+      "knowledge_points": [
+        {
+          "name": "运动学与牛顿定律",
+          "description": "掌握运动学量与牛顿定律应用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "功、能与守恒定律",
+          "description": "掌握动能定理与机械能守恒。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "静电场",
+      "knowledge_points": [
+        {
+          "name": "库仑定律与电场强度",
+          "description": "掌握库仑定律与电场强度概念。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "电势能与电势",
+          "description": "理解电势能与电势差。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "textbook": "八年级上册",
+  "unit": "物态变化",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「物态变化」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "温度与温度计",
+        "question": "摄氏温度中，冰水混合物的温度是（　）",
+        "options": [
+          "0℃",
+          "100℃",
+          "-10℃",
+          "常温"
+        ],
+        "answer": "0℃",
+        "explanation": "摄氏温度规定。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "熔化和凝固",
+        "question": "晶体在熔化过程中温度保持不变。",
+        "options": [],
+        "answer": "对",
+        "explanation": "晶体有固定熔点。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "汽化、液化与升华、凝华",
+        "question": "夏天从冰箱取出的饮料瓶外壁出现小水珠，这是（　）",
+        "options": [
+          "熔化",
+          "液化",
+          "升华",
+          "凝华"
+        ],
+        "answer": "液化",
+        "explanation": "空气中水蒸气遇冷液化。"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "熔化和凝固",
+        "question": "物质从液态变为固态的过程叫 ___。",
+        "options": [],
+        "answer": "凝固",
+        "explanation": "凝固定义，且放热。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "汽化、液化与升华、凝华",
+        "question": "冬天窗玻璃上的“冰花”出现在玻璃的（　）",
+        "options": [
+          "内表面",
+          "外表面",
+          "内外都有",
+          "无法确定"
+        ],
+        "answer": "内表面",
+        "explanation": "室内水蒸气遇冷凝华在玻璃内表面。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "汽化、液化与升华、凝华",
+        "question": "蒸发在任何温度下都能进行。",
+        "options": [],
+        "answer": "对",
+        "explanation": "蒸发是缓慢的汽化。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "温度与温度计",
+      "core_concept": "常用液体温度计利用液体热胀冷缩原理；摄氏温度规定冰水混合物为 0℃、标准大气压下沸水为 100℃。",
+      "key_formula": "1 标准大气压：冰点 0℃ / 沸点 100℃",
+      "common_mistakes": [
+        "读数时视线不水平。"
+      ],
+      "tips": "读数时玻璃泡不能离开被测液体。"
+    },
+    {
+      "point": "熔化和凝固",
+      "core_concept": "晶体熔化时吸热但温度保持在熔点不变；非晶体没有固定熔点。熔化吸热、凝固放热。",
+      "key_formula": "晶体熔化时温度不变",
+      "common_mistakes": [
+        "认为熔化过程温度持续升高。"
+      ],
+      "tips": "晶体熔化图象有一段水平线。"
+    },
+    {
+      "point": "汽化、液化与升华、凝华",
+      "core_concept": "蒸发和沸腾是汽化的两种方式，汽化吸热、液化放热。升华（固→气）吸热，凝华（气→固）放热。",
+      "key_formula": "汽化吸热 / 液化放热",
+      "common_mistakes": [
+        "把“白气”当作水蒸气。"
+      ],
+      "tips": "“白气”是小水珠，属液化。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "熔化和凝固",
+        "question": "下列属于晶体的是（　）",
+        "options": [
+          "玻璃",
+          "松香",
+          "冰",
+          "沥青"
+        ],
+        "answer": "冰",
+        "explanation": "冰有固定熔点。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "温度与温度计",
+        "question": "某温度计读数为 -8℃，若温度升高 20℃，读数变为多少℃？",
+        "options": [],
+        "answer": "12",
+        "explanation": "$-8+20=12$℃。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "汽化、液化与升华、凝华",
+        "question": "下列物态变化中吸热的是（　）",
+        "options": [
+          "液化",
+          "凝固",
+          "升华",
+          "凝华"
+        ],
+        "answer": "升华",
+        "explanation": "升华吸热。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "汽化、液化与升华、凝华",
+        "question": "水沸腾时温度一定为 100℃。",
+        "options": [],
+        "answer": "错",
+        "explanation": "沸点与气压有关，气压变化时沸点改变。"
+      }
+    ]
+  }
+}

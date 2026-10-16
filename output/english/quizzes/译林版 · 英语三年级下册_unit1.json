@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "Unit 1 Hello! 问候与课堂用语",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Unit 1 Hello! 问候与课堂用语」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "课堂用语",
+        "question": "老师说“起立”，学生应该说（　）",
+        "options": [
+          "Stand up",
+          "Sit down",
+          "Open the book",
+          "Listen"
+        ],
+        "answer": "Stand up",
+        "explanation": "Stand up 起立。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "问候与介绍",
+        "question": "— Nice to meet you. — ___",
+        "options": [
+          "Nice to meet you, too.",
+          "Thank you.",
+          "I'm fine.",
+          "Goodbye."
+        ],
+        "answer": "Nice to meet you, too.",
+        "explanation": "回答加 too。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "课堂用语",
+        "question": "Open your book. 表示打开书。",
+        "options": [],
+        "answer": "对",
+        "explanation": "课堂指令。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "问候与介绍",
+        "question": "I'm… 可以用来介绍自己。",
+        "options": [],
+        "answer": "对",
+        "explanation": "自我介绍。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "课堂用语",
+      "core_concept": "译林版 Unit 1 侧重课堂用语：Good morning/afternoon. Stand up. Sit down. Open your book. Close the door.",
+      "key_formula": "课堂用语",
+      "common_mistakes": [
+        "Sit down 说成 Stand down。"
+      ],
+      "tips": "Stand up 站起来。"
+    },
+    {
+      "point": "问候与介绍",
+      "core_concept": "Hello! I'm… / What's your name? — I'm… / Nice to meet you. — Nice to meet you, too.",
+      "key_formula": "I'm + 名字",
+      "common_mistakes": [
+        "Nice to meet you. 回答漏掉 too。"
+      ],
+      "tips": "回答加 too。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "课堂用语",
+        "question": "老师说“坐下”，学生应该说（　）",
+        "options": [
+          "Sit down",
+          "Stand up",
+          "Look at me",
+          "Come here"
+        ],
+        "answer": "Sit down",
+        "explanation": "Sit down 坐下。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "问候与介绍",
+        "question": "— What's your name? — ___",
+        "options": [
+          "I'm eight.",
+          "My name is Tom.",
+          "I'm fine.",
+          "He's Tom."
+        ],
+        "answer": "My name is Tom.",
+        "explanation": "问姓名答姓名。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "课堂用语",
+        "question": "Close the door. 表示关门。",
+        "options": [],
+        "answer": "对",
+        "explanation": "课堂指令。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "问候与介绍",
+        "question": "Hello! 是通用的问候语。",
+        "options": [],
+        "answer": "对",
+        "explanation": "通用问候。"
+      }
+    ]
+  }
+}

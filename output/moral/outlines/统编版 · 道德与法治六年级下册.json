@@ -1,0 +1,57 @@
+{
+  "textbook": "六年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "小学毕业与中学衔接",
+      "knowledge_points": [
+        {
+          "name": "珍惜小学时光",
+          "description": "珍惜小学生活，做好总结。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "中学生活的准备",
+          "description": "做好小升初的心理与学习准备。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "法律与责任启蒙",
+      "knowledge_points": [
+        {
+          "name": "法律保护我们",
+          "description": "理解法律的保护作用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "责任与诚信",
+          "description": "增强责任意识，做诚信的人。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

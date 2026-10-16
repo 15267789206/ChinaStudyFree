@@ -1,0 +1,145 @@
+{
+  "textbook": "必修第一册",
+  "unit": "物质的量",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「物质的量」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "物质的量与摩尔质量",
+        "question": "18 g 水的物质的量是多少 mol？（$M$=18 g/mol）",
+        "options": [],
+        "answer": "1",
+        "explanation": "$n=\\frac{18}{18}=1$ mol。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "气体摩尔体积与物质的量浓度",
+        "question": "标准状况下 11.2 L 气体的物质的量是多少 mol？",
+        "options": [],
+        "answer": "0.5",
+        "explanation": "$n=\\frac{11.2}{22.4}=0.5$ mol。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "气体摩尔体积与物质的量浓度",
+        "question": "1 mol NaCl 溶于水配成 2 L 溶液，物质的量浓度是多少 mol/L？",
+        "options": [],
+        "answer": "0.5",
+        "explanation": "$c=\\frac12=0.5$ mol/L。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "物质的量与摩尔质量",
+        "question": "1 mol 任何粒子所含粒子数约为 $6.02\\times10^{23}$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "阿伏加德罗常数。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "气体摩尔体积与物质的量浓度",
+        "question": "标准状况下 22.4 L 氧气中含氧分子数约为（　）",
+        "options": [
+          "$6.02\\times10^{23}$",
+          "$1.204\\times10^{24}$",
+          "$3.01\\times10^{23}$",
+          "$6.02\\times10^{22}$"
+        ],
+        "answer": "$6.02\\times10^{23}$",
+        "explanation": "1 mol 气体含 $N_A$ 个分子。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "物质的量与摩尔质量",
+      "core_concept": "物质的量是衡量粒子数目多少的物理量，单位摩尔(mol)。1 mol 粒子含 $6.02\\times10^{23}$ 个粒子。$n=\\frac m M$。",
+      "key_formula": "$n=\\frac m M=\\frac N{N_A}$",
+      "common_mistakes": [
+        "忽略粒子的种类（原子/分子）。"
+      ],
+      "tips": "看清是分子还是原子。"
+    },
+    {
+      "point": "气体摩尔体积与物质的量浓度",
+      "core_concept": "标准状况下，1 mol 任何气体的体积约为 22.4 L。$c=\\frac nV$。",
+      "key_formula": "$V_m=22.4\\ \\text{L/mol}$",
+      "common_mistakes": [
+        "非标准状况下直接用 22.4。"
+      ],
+      "tips": "标准状况才可用 22.4。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "物质的量与摩尔质量",
+        "question": "44 g 二氧化碳的物质的量是多少 mol？",
+        "options": [],
+        "answer": "1",
+        "explanation": "$n=\\frac{44}{44}=1$ mol。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "气体摩尔体积与物质的量浓度",
+        "question": "标准状况下 4.48 L CO₂ 的物质的量是多少 mol？",
+        "options": [],
+        "answer": "0.2",
+        "explanation": "$n=\\frac{4.48}{22.4}=0.2$ mol。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "气体摩尔体积与物质的量浓度",
+        "question": "标准状况下 1 mol 任何气体的体积都约为 22.4 L。",
+        "options": [],
+        "answer": "对",
+        "explanation": "气体摩尔体积。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "物质的量与摩尔质量",
+        "question": "1 mol 硫酸中含氧原子多少 mol？（　）",
+        "options": [
+          "1",
+          "2",
+          "4",
+          "7"
+        ],
+        "answer": "4",
+        "explanation": "H₂SO₄ 中有 4 个 O。"
+      }
+    ]
+  }
+}

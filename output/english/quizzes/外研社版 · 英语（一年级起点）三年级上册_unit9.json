@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 9 I'm going to do the long jump 打算与志向",
+  "unit_number": 9,
+  "unit_test": {
+    "title": "第9单元「Module 9 I'm going to do the long jump 打算与志向」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be going to 表将来",
+        "question": "「我打算参加跳远。」的英文是（　）",
+        "options": [
+          "I'm going to do the long jump.",
+          "I going to do the long jump.",
+          "I'm going to does the long jump.",
+          "I'm go to do the long jump."
+        ],
+        "answer": "I'm going to do the long jump.",
+        "explanation": "be going to + 原形。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be going to 表将来",
+        "question": "be going to 中的 to 后面接（　）",
+        "options": [
+          "动词原形",
+          "动词三单",
+          "动词过去式",
+          "动词 -ing"
+        ],
+        "answer": "动词原形",
+        "explanation": "to 后接原形。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "运动与职业词汇",
+        "question": "「赛跑」的英文是（　）",
+        "options": [
+          "race",
+          "rice",
+          "raise",
+          "rase"
+        ],
+        "answer": "race",
+        "explanation": "race = 赛跑。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be going to 表将来",
+        "question": "be going to 表示「打算、将要」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表将来计划。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "be going to 表将来",
+      "core_concept": "be going to + 动词原形，表示打算/将要做的事。主语决定 be：I am going to… / He is going to…",
+      "key_formula": "I'm going to do the long jump.",
+      "common_mistakes": [
+        "going to 后接三单或过去式。"
+      ],
+      "tips": "to 后面永远用原形。"
+    },
+    {
+      "point": "运动与职业词汇",
+      "core_concept": "long jump 跳远、high jump 跳高、race 赛跑、driver 司机、sports day 运动会。",
+      "key_formula": "do the long jump 参加跳远",
+      "common_mistakes": [
+        "long jump 漏掉 the。"
+      ],
+      "tips": "do the long jump 要加 the。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "运动与职业词汇",
+        "question": "「跳高」的英文是（　）",
+        "options": [
+          "high jump",
+          "tall jump",
+          "high jumps",
+          "jump high"
+        ],
+        "answer": "high jump",
+        "explanation": "high jump 跳高。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "be going to 表将来",
+        "question": "「我打算成为一名司机。」的英文是（　）",
+        "options": [
+          "I'm going to be a driver.",
+          "I going to be a driver.",
+          "I'm going to a driver.",
+          "I'm go to be a driver."
+        ],
+        "answer": "I'm going to be a driver.",
+        "explanation": "be going to be 将成为。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "be going to 表将来",
+        "question": "He is going to visit his uncle. 表示他打算去看叔叔。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表打算。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "运动与职业词汇",
+        "question": "「运动会」的英文是（　）",
+        "options": [
+          "sports day",
+          "sport day",
+          "sports days",
+          "sport's day"
+        ],
+        "answer": "sports day",
+        "explanation": "固定表达。"
+      }
+    ]
+  }
+}

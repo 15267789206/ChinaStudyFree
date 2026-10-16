@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "文言文与古代散文",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「文言文与古代散文」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "文言实词与虚词",
+        "question": "“予独爱莲之出淤泥而不染”中“之”的用法是（　）",
+        "options": [
+          "取取消句子独立性",
+          "结构助词“的”",
+          "代词",
+          "动词"
+        ],
+        "answer": "取取消句子独立性",
+        "explanation": "此处“之”用于主谓之间。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "文言句子翻译",
+        "question": "文言文翻译的最高要求是（　）",
+        "options": [
+          "字字落实、句句准确",
+          "只要大概意思对",
+          "可以增删原文",
+          "用现代口语替代"
+        ],
+        "answer": "字字落实、句句准确",
+        "explanation": "翻译要落实字词。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "文言实词与虚词",
+        "question": "“其”字在文中可能作代词，也可能作语气词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "一词多义。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "文言句子翻译",
+        "question": "翻译时要把省略的成分补出来。",
+        "options": [],
+        "answer": "对",
+        "explanation": "补全省略成分。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "文言实词与虚词",
+      "core_concept": "常见实词有“之、其、而、以、于、乃”等不同用法；虚词“而”表并列、承接、转折、修饰。",
+      "key_formula": "之：代词/助词/取消句子独立性",
+      "common_mistakes": [
+        "把所有“之”都解释为“的”。"
+      ],
+      "tips": "看上下文定词义。"
+    },
+    {
+      "point": "文言句子翻译",
+      "core_concept": "翻译要字字落实、句句准确，做到信、达、雅。省略的成分要补出，词类活用要调整。",
+      "key_formula": "留删补换调",
+      "common_mistakes": [
+        "只意译不落实到字词。"
+      ],
+      "tips": "关键实词必须准确。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "文言实词与虚词",
+        "question": "“水陆草木之花”中的“之”是（　）",
+        "options": [
+          "结构助词“的”",
+          "取消句子独立性",
+          "代词",
+          "动词"
+        ],
+        "answer": "结构助词“的”",
+        "explanation": "此处为“的”。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "文言句子翻译",
+        "question": "翻译时遇到词类活用，应该（　）",
+        "options": [
+          "调整成现代汉语的词性",
+          "保留原词性硬译",
+          "删掉该词",
+          "加括号跳过"
+        ],
+        "answer": "调整成现代汉语的词性",
+        "explanation": "活用需调整。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "文言实词与虚词",
+        "question": "“而”字在“溪深而鱼肥”中表并列。",
+        "options": [],
+        "answer": "对",
+        "explanation": "并列关系。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "文言句子翻译",
+        "question": "翻译要力求做到信、达、雅。",
+        "options": [],
+        "answer": "对",
+        "explanation": "翻译三标准。"
+      }
+    ]
+  }
+}

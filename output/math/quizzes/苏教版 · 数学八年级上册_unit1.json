@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "全等三角形",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「全等三角形」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的性质与判定",
+        "question": "判定两个三角形全等的依据不包括（　）",
+        "options": [
+          "AAA",
+          "SSS",
+          "SAS",
+          "ASA"
+        ],
+        "answer": "AAA",
+        "explanation": "AAA 只能判定相似。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的应用",
+        "question": "利用全等三角形证明线段相等，关键是先（　）",
+        "options": [
+          "证明两个三角形全等",
+          "确定两个线段",
+          "画辅助线",
+          "设未知数"
+        ],
+        "answer": "证明两个三角形全等",
+        "explanation": "全等是核心。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的性质与判定",
+        "question": "SSS、SAS、ASA、AAS 均可判定三角形全等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "全等判定。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的应用",
+        "question": "书写全等三角形时对应顶点顺序要一致。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对应顺序。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "全等三角形的性质与判定",
+      "core_concept": "全等三角形对应边相等、对应角相等。判定：SSS、SAS、ASA、AAS。苏教版强调“对应”的规范书写。",
+      "key_formula": "SSS / SAS / ASA / AAS",
+      "common_mistakes": [
+        "对应顶点写错顺序。"
+      ],
+      "tips": "对应字母顺序一致。"
+    },
+    {
+      "point": "全等三角形的应用",
+      "core_concept": "证明思路：找出全等三角形 → 由全等得到对应边/角相等 → 完成证明。",
+      "key_formula": "找全等 → 得相等 → 证结论",
+      "common_mistakes": [
+        "未写对应边就下结论。"
+      ],
+      "tips": "先证全等再得相等。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的性质与判定",
+        "question": "若 $\\triangle ABC \\cong \\triangle DEF$，则 $AB = $ （　）",
+        "options": [
+          "DE",
+          "EF",
+          "FD",
+          "无法确定"
+        ],
+        "answer": "DE",
+        "explanation": "AB 对应 DE。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的应用",
+        "question": "要证明线段 $AB=CD$，若找到 $\\triangle ABE \\cong $ （　），即可完成",
+        "options": [
+          "$\\triangle DCE$",
+          "$\\triangle CDE$",
+          "$\\triangle DEC$",
+          "$\\triangle EDC$"
+        ],
+        "answer": "$\\triangle DCE$",
+        "explanation": "对应顶点 A→D、B→C。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的性质与判定",
+        "question": "全等三角形的面积相等、周长相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "全等性质。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的应用",
+        "question": "证明题中必须先说明所依据的全等判定方法。",
+        "options": [],
+        "answer": "对",
+        "explanation": "判定方法要写明。"
+      }
+    ]
+  }
+}

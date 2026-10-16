@@ -1,0 +1,144 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Module 1 校园生活与自我介绍",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 校园生活与自我介绍」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "自我介绍与信息询问",
+        "question": "— Which class are you in? — ___",
+        "options": [
+          "Class Two, Grade One.",
+          "I'm fine.",
+          "My name is Tom.",
+          "It's five o'clock."
+        ],
+        "answer": "Class Two, Grade One.",
+        "explanation": "问班级答班级。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与一般现在时",
+        "question": "She ___ from Beijing.",
+        "options": [
+          "is",
+          "are",
+          "am",
+          "be"
+        ],
+        "answer": "is",
+        "explanation": "She 用 is。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "自我介绍与信息询问",
+        "question": "How old 用来问年龄。",
+        "options": [],
+        "answer": "对",
+        "explanation": "问年龄。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与一般现在时",
+        "question": "主语是第三人称单数时，一般现在时动词加 -s/-es。",
+        "options": [],
+        "answer": "对",
+        "explanation": "主谓一致。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "自我介绍与信息询问",
+      "core_concept": "外研版必修一以 Module 组织。Name/Grade/Class/Subject/School 等信息用 What / How / Where 提问。",
+      "key_formula": "What's your name? / Which class are you in?",
+      "common_mistakes": [
+        "把 which 与 what 混用。"
+      ],
+      "tips": "问具体项用 what/which。"
+    },
+    {
+      "point": "be 动词与一般现在时",
+      "core_concept": "be 动词表示身份、地点、状态；一般现在时表经常性动作，主语第三人称单数动词加 -s/-es。",
+      "key_formula": "I am… / He is… / She goes…",
+      "common_mistakes": [
+        "第三人称单数漏 -s。"
+      ],
+      "tips": "主谓一致。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "自我介绍与信息询问",
+        "question": "— What's your name? — ___",
+        "options": [
+          "I'm Class One.",
+          "My name is Wang Ming.",
+          "I'm from Beijing.",
+          "I'm sixteen."
+        ],
+        "answer": "My name is Wang Ming.",
+        "explanation": "问姓名答姓名。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与一般现在时",
+        "question": "My father ___ English.",
+        "options": [
+          "teach",
+          "teaches",
+          "teaching",
+          "taught"
+        ],
+        "answer": "teaches",
+        "explanation": "第三人称单数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "自我介绍与信息询问",
+        "question": "Where 引导的特殊疑问句后面用陈述语序。",
+        "options": [],
+        "answer": "对",
+        "explanation": "特殊疑问句语序。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与一般现在时",
+        "question": "be 动词后面可以接形容词或名词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "be 的用法。"
+      }
+    ]
+  }
+}

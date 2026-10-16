@@ -1,0 +1,145 @@
+{
+  "textbook": "选择性必修第二册",
+  "unit": "一元函数的导数及其应用",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「一元函数的导数及其应用」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "导数的概念与运算",
+        "question": "已知 $f(x)=x^3+0x^2+0x$，则 $f'(2)=$ ？",
+        "options": [],
+        "answer": "12",
+        "explanation": "$f'(x)=3x^2+0x+0$，代入 $x=2$ 得 $12$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "导数的概念与运算",
+        "question": "函数 $f(x)=x^2$ 的导函数 $f'(x)=2x$，则 $f'(3)=$ ？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$2\\times3=6$。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "导数与函数单调性、极值",
+        "question": "函数 $f(x)=x^3-3x$ 的单调递增区间是（　）",
+        "options": [
+          "$(-1,1)$",
+          "$(-\\infty,-1)\\cup(1,+\\infty)$",
+          "$(0,+\\infty)$",
+          "$(-\\infty,0)$"
+        ],
+        "answer": "$(-\\infty,-1)\\cup(1,+\\infty)$",
+        "explanation": "$f'=3x^2-3>0$，得 $|x|>1$。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "导数与函数单调性、极值",
+        "question": "若 $f'(x_0)=0$，则 $x_0$ 一定是极值点。",
+        "options": [],
+        "answer": "错",
+        "explanation": "如 $f(x)=x^3$ 在 $x=0$ 处。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "导数的概念与运算",
+        "question": "函数 $f(x)=x^3$ 在 $x=2$ 处的导数值是多少？",
+        "options": [],
+        "answer": "12",
+        "explanation": "$f'(x)=3x^2$，$f'(2)=12$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "导数的概念与运算",
+      "core_concept": "导数刻画瞬时变化率，几何意义是切线斜率。$(x^n)'=nx^{n-1}$，$(\\sin x)'=\\cos x$，$(e^x)'=e^x$，$(\\ln x)'=\\frac1x$。",
+      "key_formula": "$(x^n)'=nx^{n-1}$",
+      "common_mistakes": [
+        "$(\\ln x)'$ 记成 $\\frac{1}{x\\ln a}$。"
+      ],
+      "tips": "熟记基本求导公式。"
+    },
+    {
+      "point": "导数与函数单调性、极值",
+      "core_concept": "$f'(x)>0$ 时 $f(x)$ 递增，$f'(x)<0$ 时递减。$f'(x_0)=0$ 且左右异号时 $x_0$ 为极值点。",
+      "key_formula": "$f'(x)>0\\Rightarrow$ 递增",
+      "common_mistakes": [
+        "把 $f'(x_0)=0$ 直接当作极值点。"
+      ],
+      "tips": "需检验左右符号变化。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "导数的概念与运算",
+        "question": "计算定积分 $\\int_0^{3} x^2\\,dx=$ ？",
+        "options": [],
+        "answer": "9",
+        "explanation": "$\\int_0^{3}x^2\\,dx=\\frac{x^3}{3}\\Big|_0^{3}=\\frac{27}{3}=9$。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "导数与函数单调性、极值",
+        "question": "函数 $f(x)=x^2-4x$ 的最小值是多少？",
+        "options": [],
+        "answer": "-4",
+        "explanation": "顶点 $x=2$，$f(2)=4-8=-4$。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "导数与函数单调性、极值",
+        "question": "函数在某区间上可导且 $f'(x)<0$，则它在该区间上单调递减。",
+        "options": [],
+        "answer": "对",
+        "explanation": "导数与单调性关系。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "导数的概念与运算",
+        "question": "$(\\sin x)'=$（　）",
+        "options": [
+          "$\\cos x$",
+          "$-\\cos x$",
+          "$\\sin x$",
+          "$-\\sin x$"
+        ],
+        "answer": "$\\cos x$",
+        "explanation": "基本求导公式。"
+      }
+    ]
+  }
+}

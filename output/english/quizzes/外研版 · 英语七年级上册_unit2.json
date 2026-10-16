@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 2 My family 我的家庭",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 2 My family 我的家庭」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "指示代词 this / these",
+        "question": "「这是我妈妈。」的英文是（　）",
+        "options": [
+          "This is my mother.",
+          "These is my mother.",
+          "This are my mother.",
+          "This my mother."
+        ],
+        "answer": "This is my mother.",
+        "explanation": "单数用 this is。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "指示代词 this / these",
+        "question": "指近处的多个物体，用（　）",
+        "options": [
+          "these",
+          "this",
+          "that",
+          "those"
+        ],
+        "answer": "these",
+        "explanation": "复近 these。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家庭称谓 parents / family",
+        "question": "「我的父母」的英文是（　）",
+        "options": [
+          "my parents",
+          "my parent",
+          "my parentes",
+          "my parenting"
+        ],
+        "answer": "my parents",
+        "explanation": "parents 复数。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "指示代词 this / these",
+        "question": "this 指近处的单个事物。",
+        "options": [],
+        "answer": "对",
+        "explanation": "单近 this。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "指示代词 this / these",
+      "core_concept": "this 这个（单数近指）、these 这些（复数近指）；that/those 表远指。",
+      "key_formula": "This is my mother. / These are my parents.",
+      "common_mistakes": [
+        "this 后接复数。"
+      ],
+      "tips": "单近 this，复近 these。"
+    },
+    {
+      "point": "家庭称谓 parents / family",
+      "core_concept": "parents 父母（两人）、family 家庭；there are…people in my family。",
+      "key_formula": "There are three people in my family.",
+      "common_mistakes": [
+        "parents 当单数。"
+      ],
+      "tips": "parents 本身是复数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家庭称谓 parents / family",
+        "question": "「我家有三口人。」的英文是（　）",
+        "options": [
+          "There are three people in my family.",
+          "There is three people in my family.",
+          "There are three people in my familyy.",
+          "It has three people in my family."
+        ],
+        "answer": "There are three people in my family.",
+        "explanation": "复数用 there are。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "指示代词 this / these",
+        "question": "「那些」的英文是（　）",
+        "options": [
+          "those",
+          "these",
+          "this",
+          "that"
+        ],
+        "answer": "those",
+        "explanation": "复远 those。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "家庭称谓 parents / family",
+        "question": "family 的意思是「家庭」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "family 家庭。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "指示代词 this / these",
+        "question": "介绍多个家人应说（　）",
+        "options": [
+          "These are my parents.",
+          "This is my parents.",
+          "These is my parent.",
+          "This are my parents."
+        ],
+        "answer": "These are my parents.",
+        "explanation": "复数 these are。"
+      }
+    ]
+  }
+}

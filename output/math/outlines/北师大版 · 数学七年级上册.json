@@ -1,0 +1,221 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "第一章 丰富的图形世界",
+      "knowledge_points": [
+        {
+          "name": "几何体与展开图",
+          "description": "认识常见几何体并会判断展开图。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "从三个方向看与截面",
+          "description": "掌握三视图与截面形状判断。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "点、线、面、体",
+          "description": "理解点线面体的关系。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "第二章 有理数及其运算",
+      "knowledge_points": [
+        {
+          "name": "有理数与数轴",
+          "description": "理解有理数概念与数轴。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "相反数与绝对值",
+          "description": "掌握相反数与绝对值。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "有理数的运算与科学记数法",
+          "description": "掌握四则运算与乘方。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "第三章 整式及其加减",
+      "knowledge_points": [
+        {
+          "name": "字母表示数与代数式求值",
+          "description": "会用字母表示数并求值。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "整式与合并同类项",
+          "description": "掌握整式加减运算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "去括号与整式加减",
+          "description": "掌握去括号法则。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "第四章 基本平面图形",
+      "knowledge_points": [
+        {
+          "name": "线段、射线与直线",
+          "description": "掌握三种线的表示与性质。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "角的认识与度量",
+          "description": "认识角并会表示与度量。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "角的比较与运算",
+          "description": "会比较角的大小并进行和差运算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "第五章 一元一次方程",
+      "knowledge_points": [
+        {
+          "name": "方程与一元一次方程",
+          "description": "理解方程意义，会判断一元一次方程。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "等式的性质与解方程",
+          "description": "掌握等式性质，会移项、合并解方程。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "列方程解应用题",
+          "description": "用一元一次方程解决和差倍分、行程等实际问题。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "第六章 数据的收集与整理",
+      "knowledge_points": [
+        {
+          "name": "数据的收集与表示",
+          "description": "掌握数据收集方法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "普查与抽样调查",
+          "description": "理解两种调查方式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "统计图的选择",
+          "description": "会根据目的选统计图。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

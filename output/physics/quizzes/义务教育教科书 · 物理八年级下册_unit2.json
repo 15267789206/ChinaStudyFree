@@ -1,0 +1,170 @@
+{
+  "textbook": "八年级下册",
+  "unit": "压强与浮力",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「压强与浮力」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "压强",
+        "question": "受力面积 $2\\ \\text{m}^2$、压力 200 N，压强是多少 Pa？",
+        "options": [],
+        "answer": "100",
+        "explanation": "$p=\\frac{200}{2}=100$ Pa。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "液体的压强",
+        "question": "水深 5 m 处水的压强是多少 Pa？（水密度 $1.0\\times10^3\\ \\text{kg/m}^3$，$g$ 取 10 N/kg）",
+        "options": [],
+        "answer": "50000",
+        "explanation": "$p=\\rho gh=1000\\times10\\times5=50000$ Pa。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "阿基米德原理与浮沉条件",
+        "question": "物体漂浮在水面上时，浮力（　）重力",
+        "options": [
+          "大于",
+          "小于",
+          "等于",
+          "无关"
+        ],
+        "answer": "等于",
+        "explanation": "漂浮时二力平衡。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "阿基米德原理与浮沉条件",
+        "question": "物体排开水的体积为 $0.002\\ \\text{m}^3$，所受浮力是多少 N？（水密度 $1.0\\times10^3\\ \\text{kg/m}^3$，$g$ 取 10 N/kg）",
+        "options": [],
+        "answer": "20",
+        "explanation": "$F=\\rho gV=1000\\times10\\times0.002=20$ N。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "液体的压强",
+        "question": "液体压强只与液体密度和深度有关，与容器形状无关。",
+        "options": [],
+        "answer": "对",
+        "explanation": "液体压强规律。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "压强",
+        "question": "下列属于增大压强的是（　）",
+        "options": [
+          "书包宽带",
+          "刀刃磨锋利",
+          "滑雪板",
+          "履带"
+        ],
+        "answer": "刀刃磨锋利",
+        "explanation": "减小受力面积以增大压强。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "压强",
+      "core_concept": "物体所受压力与受力面积之比叫压强。增大压强可减小受力面积或增大压力。",
+      "key_formula": "$p=\\frac FS$",
+      "common_mistakes": [
+        "受力面积用错（应为接触面积）。"
+      ],
+      "tips": "单位 Pa = N/m²。"
+    },
+    {
+      "point": "液体的压强",
+      "core_concept": "液体内部向各个方向都有压强，压强随深度增加而增大；同一深度处各方向压强相等。",
+      "key_formula": "$p=\\rho gh$",
+      "common_mistakes": [
+        "把 $h$ 当成容器高度。"
+      ],
+      "tips": "$h$ 是液面到该点的竖直深度。"
+    },
+    {
+      "point": "阿基米德原理与浮沉条件",
+      "core_concept": "浮力等于物体排开液体所受的重力。$F_\\text{浮}>G$ 上浮，$=$ 悬浮，$<$ 下沉。",
+      "key_formula": "$F_\\text{浮}=\\rho_\\text{液}gV_\\text{排}$",
+      "common_mistakes": [
+        "把 $V_\\text{排}$ 当成物体总体积。"
+      ],
+      "tips": "漂浮时 $V_\\text{排}<V_\\text{物}$。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "压强",
+        "question": "质量 60 kg 的人双脚站立，受力面积 $0.04\\ \\text{m}^2$，对地压强是多少 Pa？（$g$ 取 10 N/kg）",
+        "options": [],
+        "answer": "15000",
+        "explanation": "$F=600$ N，$p=\\frac{600}{0.04}=15000$ Pa。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "阿基米德原理与浮沉条件",
+        "question": "物体浸没在水中下沉时，浮力（　）",
+        "options": [
+          "大于重力",
+          "小于重力",
+          "等于重力",
+          "为零"
+        ],
+        "answer": "小于重力",
+        "explanation": "下沉条件。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "液体的压强",
+        "question": "液体压强公式 $p=$ ___",
+        "options": [],
+        "answer": "ρgh",
+        "explanation": "$p=\\rho gh$。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "阿基米德原理与浮沉条件",
+        "question": "浸在液体中的物体所受浮力等于它排开液体所受的重力。",
+        "options": [],
+        "answer": "对",
+        "explanation": "阿基米德原理。"
+      }
+    ]
+  }
+}

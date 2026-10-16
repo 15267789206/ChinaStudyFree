@@ -1,0 +1,144 @@
+{
+  "textbook": "二年级上册",
+  "unit": "我们的班级",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「我们的班级」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "班级生活与集体荣誉",
+        "question": "班里获得流动红旗，同学们应该（　）",
+        "options": [
+          "觉得与自已无关",
+          "共同珍惜这份荣誉",
+          "嘲笑其他班",
+          "不以为然"
+        ],
+        "answer": "共同珍惜这份荣誉",
+        "explanation": "班级荣誉要共同珍惜。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "值日与责任",
+        "question": "轮到你擦黑板，你应该（　）",
+        "options": [
+          "偷偷溜走",
+          "认真擦干净",
+          "让别人全擦",
+          "画一笔就算"
+        ],
+        "answer": "认真擦干净",
+        "explanation": "值日要认真负责。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "班级生活与集体荣誉",
+        "question": "每个人都可以为班级出力。",
+        "options": [],
+        "answer": "对",
+        "explanation": "人人都能为班级做事。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "值日与责任",
+        "question": "值日生要按时到岗。",
+        "options": [],
+        "answer": "对",
+        "explanation": "按时到岗是责任。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "班级生活与集体荣誉",
+      "core_concept": "班级是共同的大家庭，每个同学都是班级的一员。班级取得成绩时大家共同自豪，班级需要时主动出力。",
+      "key_formula": "班集体荣誉感",
+      "common_mistakes": [
+        "认为班级荣誉只与班干部有关。"
+      ],
+      "tips": "人人都能为班级出力。"
+    },
+    {
+      "point": "值日与责任",
+      "core_concept": "值日生要按时到岗、认真完成扫地、擦黑板等任务。责任就是把自己分内的事做好。",
+      "key_formula": "做好分内事",
+      "common_mistakes": [
+        "值日时敷衍了事。"
+      ],
+      "tips": "认真完成自己的任务。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "班级生活与集体荣誉",
+        "question": "看到地上有纸屑，正确的做法是（　）",
+        "options": [
+          "跨过去不管",
+          "主动捡起来",
+          "让别人捡",
+          "踩一脚"
+        ],
+        "answer": "主动捡起来",
+        "explanation": "主动维护班级卫生。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "值日与责任",
+        "question": "把分内的事做好就是有责任心的表现。",
+        "options": [],
+        "answer": "对",
+        "explanation": "做好分内事是有责任心。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "值日与责任",
+        "question": "下面哪种行为不利于班集体（　）",
+        "options": [
+          "主动打扫卫生",
+          "欺负同学",
+          "积极参加活动",
+          "帮助同学"
+        ],
+        "answer": "欺负同学",
+        "explanation": "欺负同学破坏集体。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "班级生活与集体荣誉",
+        "question": "班级的事要靠大家共同做好。",
+        "options": [],
+        "answer": "对",
+        "explanation": "班级靠大家。"
+      }
+    ]
+  }
+}

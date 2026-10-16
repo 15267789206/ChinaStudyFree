@@ -1,0 +1,57 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "记叙文阅读",
+      "knowledge_points": [
+        {
+          "name": "记叙文的要素与线索",
+          "description": "掌握记叙文六要素与线索作用。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "人物描写与表达效果",
+          "description": "掌握描写方法及其作用。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "说明文与写作",
+      "knowledge_points": [
+        {
+          "name": "说明文阅读",
+          "description": "掌握说明对象、说明方法与语言特点。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "记叙文写作",
+          "description": "掌握记叙文写作要点。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

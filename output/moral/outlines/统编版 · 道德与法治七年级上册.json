@@ -1,0 +1,93 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "成长的节拍",
+      "knowledge_points": [
+        {
+          "name": "中学时代与自我认识",
+          "description": "理解中学生活新变化与正确认识自我。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "梦想与学习",
+          "description": "理解梦想的意义与学会学习。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "友谊与师生交往",
+          "description": "理解友谊特质与师生交往。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "青春与情绪",
+      "knowledge_points": [
+        {
+          "name": "青春期的变化与调控情绪",
+          "description": "理解青春期身心变化与情绪管理。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "集体与团队意识",
+          "description": "理解集体的力量与建设良好集体。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "法律与法治初步",
+      "knowledge_points": [
+        {
+          "name": "法律与生活",
+          "description": "理解法律的特征与作用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "未成年人的法律保护",
+          "description": "了解对未成年人的特殊保护。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "textbook": "八年级上册",
+  "unit": "近代侵略与民族危机",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「近代侵略与民族危机」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "鸦片战争与《南京条约》",
+        "question": "鸦片战争爆发于（　）",
+        "options": [
+          "1839 年",
+          "1840 年",
+          "1842 年",
+          "1856 年"
+        ],
+        "answer": "1840 年",
+        "explanation": "1840 年爆发。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "鸦片战争与《南京条约》",
+        "question": "《南京条约》中被割让给英国的是（　）",
+        "options": [
+          "台湾岛",
+          "香港岛",
+          "九龙",
+          "澳门"
+        ],
+        "answer": "香港岛",
+        "explanation": "南京条约割香港岛。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "第二次鸦片战争与甲午战争",
+        "question": "火烧圆明园发生在（　）",
+        "options": [
+          "鸦片战争",
+          "第二次鸦片战争",
+          "甲午战争",
+          "八国联军侵华"
+        ],
+        "answer": "第二次鸦片战争",
+        "explanation": "1860 年英法联军火烧圆明园。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "第二次鸦片战争与甲午战争",
+        "question": "《马关条约》大大加深了中国的半殖民地化程度。",
+        "options": [],
+        "answer": "对",
+        "explanation": "马关条约影响。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "鸦片战争与《南京条约》",
+      "core_concept": "1840—1842 年鸦片战争，清政府战败签订《南京条约》，割香港岛、赔款 2100 万银元、开五处通商口岸、协定关税，中国开始沦为半殖民地半封建社会。",
+      "key_formula": "1840 年鸦片战争",
+      "common_mistakes": [
+        "把割香港岛写成割九龙。"
+      ],
+      "tips": "南京条约割香港岛。"
+    },
+    {
+      "point": "第二次鸦片战争与甲午战争",
+      "core_concept": "第二次鸦片战争中英法联军火烧圆明园。1894—1895 年甲午中日战争后签订《马关条约》，大大加深了中国的半殖民地化程度。",
+      "key_formula": "1860 年火烧圆明园",
+      "common_mistakes": [
+        "混淆两次战争的时间。"
+      ],
+      "tips": "1856—1860 是第二次鸦片战争。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "第二次鸦片战争与甲午战争",
+        "question": "《马关条约》中开放的通商口岸不包括（　）",
+        "options": [
+          "沙市",
+          "重庆",
+          "苏州",
+          "广州"
+        ],
+        "answer": "广州",
+        "explanation": "广州是南京条约开放的口岸。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "鸦片战争与《南京条约》",
+        "question": "《南京条约》规定中国赔款 2100 万银元。",
+        "options": [],
+        "answer": "对",
+        "explanation": "南京条约内容。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "第二次鸦片战争与甲午战争",
+        "question": "甲午中日战争中北洋舰队全军覆没。",
+        "options": [],
+        "answer": "对",
+        "explanation": "威海卫战役北洋舰队覆灭。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "鸦片战争与《南京条约》",
+        "question": "鸦片战争爆发的根本原因是（　）",
+        "options": [
+          "英国为打开中国市场",
+          "林则徐禁烟",
+          "虎门销烟",
+          "清政府闭关锁国"
+        ],
+        "answer": "英国为打开中国市场",
+        "explanation": "根本原因是打开市场。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "一次函数与全等",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「一次函数与全等」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形",
+        "question": "下列不能判定两个三角形全等的是（　）",
+        "options": [
+          "SSA",
+          "SSS",
+          "SAS",
+          "ASA"
+        ],
+        "answer": "SSA",
+        "explanation": "SSA 不能判定。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一次函数初步",
+        "question": "一次函数 $y = -2x + 1$ 中，$k = $ （　）",
+        "options": [
+          "1",
+          "−2",
+          "2",
+          "−1"
+        ],
+        "answer": "−2",
+        "explanation": "k 为 −2。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形",
+        "question": "全等三角形的对应边相等、对应角相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "全等性质。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一次函数初步",
+        "question": "一次函数的图像是一条直线。",
+        "options": [],
+        "answer": "对",
+        "explanation": "图像是直线。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "全等三角形",
+      "core_concept": "全等三角形对应边相等、对应角相等。判定方法有 SSS、SAS、ASA、AAS、HHL。",
+      "key_formula": "SSS / SAS / ASA / AAS",
+      "common_mistakes": [
+        "把 SSA 当作判定。"
+      ],
+      "tips": "SSA 不能判定。"
+    },
+    {
+      "point": "一次函数初步",
+      "core_concept": "一次函数 $y = kx + b$（$k \\ne 0$），图像是直线，$k$ 决定倾斜方向，$b$ 是纵截距。",
+      "key_formula": "$y = kx + b$（$k \\ne 0$）",
+      "common_mistakes": [
+        "认为 $k$ 不影响图像方向。"
+      ],
+      "tips": "k 定方向。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形",
+        "question": "两三角形三边对应相等，则它们（　）",
+        "options": [
+          "全等",
+          "不相似",
+          "无法确定",
+          "面积相等但不全等"
+        ],
+        "answer": "全等",
+        "explanation": "SSS 判定。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一次函数初步",
+        "question": "在一次函数 $y = kx + b$ 中，$b$ 表示（　）",
+        "options": [
+          "纵截距",
+          "斜率",
+          "x 轴截距",
+          "自变量"
+        ],
+        "answer": "纵截距",
+        "explanation": "b 是纵截距。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形",
+        "question": "对应顶点、对应边、对应角必须一一对应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对应关系。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一次函数初步",
+        "question": "当 $k > 0$ 时，直线从左下向右上倾斜。",
+        "options": [],
+        "answer": "对",
+        "explanation": "k 正则上升。"
+      }
+    ]
+  }
+}

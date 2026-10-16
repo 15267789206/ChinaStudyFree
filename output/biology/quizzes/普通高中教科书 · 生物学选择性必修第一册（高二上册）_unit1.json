@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "稳态与调节",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「稳态与调节」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "人体的内环境与稳态",
+        "question": "人体内环境由（　）组成",
+        "options": [
+          "血浆、组织液和淋巴",
+          "血液和淋巴",
+          "细胞内液和组织液",
+          "血浆和组织细胞"
+        ],
+        "answer": "血浆、组织液和淋巴",
+        "explanation": "内环境三成分。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "神经与体液调节",
+        "question": "神经调节的特点不包括（　）",
+        "options": [
+          "反应迅速",
+          "作用范围准确",
+          "作用时间较长",
+          "时间短暂"
+        ],
+        "answer": "作用时间较长",
+        "explanation": "神经调节时间短暂。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "人体的内环境与稳态",
+        "question": "内环境是细胞与外界环境进行物质交换的媒介。",
+        "options": [],
+        "answer": "对",
+        "explanation": "内环境作用。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "神经与体液调节",
+        "question": "神经调节和体液调节相辅相成。",
+        "options": [],
+        "answer": "对",
+        "explanation": "二者关系。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "人体的内环境与稳态",
+      "core_concept": "内环境由血浆、组织液和淋巴组成，是细胞与外界环境进行物质交换的媒介。稳态是指内环境的成分和理化性质保持相对稳定。",
+      "key_formula": "内环境 = 血浆 + 组织液 + 淋巴",
+      "common_mistakes": [
+        "把细胞内液算作内环境。"
+      ],
+      "tips": "内环境指细胞外液。"
+    },
+    {
+      "point": "神经与体液调节",
+      "core_concept": "神经调节反射迅速、作用范围准确、时间短暂；体液调节通过激素运输，作用较缓慢、范围较广、时间较长。二者相辅相成。",
+      "key_formula": "神经调节 + 体液调节",
+      "common_mistakes": [
+        "认为神经调节比体液调节高级。"
+      ],
+      "tips": "二者相辅相成。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "人体的内环境与稳态",
+        "question": "稳态的实质是内环境的（　）",
+        "options": [
+          "成分和理化性质保持相对稳定",
+          "温度永远不变",
+          "pH 恒定为 7",
+          "渗透压不变"
+        ],
+        "answer": "成分和理化性质保持相对稳定",
+        "explanation": "稳态是相对稳定。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "神经与体液调节",
+        "question": "激素调节的特点是（　）",
+        "options": [
+          "通过体液运输，作用较缓慢而范围广",
+          "反应迅速",
+          "作用范围准确",
+          "不需要 receptors"
+        ],
+        "answer": "通过体液运输，作用较缓慢而范围广",
+        "explanation": "体液调节特点。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "人体的内环境与稳态",
+        "question": "细胞内液不属于内环境。",
+        "options": [],
+        "answer": "对",
+        "explanation": "内环境范围。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "神经与体液调节",
+        "question": "下丘脑是体温调节中枢。",
+        "options": [],
+        "answer": "对",
+        "explanation": "下丘脑中枢。"
+      }
+    ]
+  }
+}

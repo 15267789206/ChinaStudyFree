@@ -1,0 +1,175 @@
+{
+  "textbook": "九年级上册",
+  "unit": "电流和电路",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「电流和电路」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "电荷与电流",
+        "question": "电流方向的规定是（　）",
+        "options": [
+          "正电荷定向移动的方向",
+          "负电荷移动方向",
+          "电子移动方向",
+          "无规定"
+        ],
+        "answer": "正电荷定向移动的方向",
+        "explanation": "电流方向约定。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "串联与并联电路",
+        "question": "串联电路中 $I_1=0.3$ A，则总电流是多少 A？",
+        "options": [],
+        "answer": "0.3",
+        "explanation": "串联电流处处相等。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "串联与并联电路",
+        "question": "并联电路中两支路电流分别为 0.2 A 和 0.3 A，干路电流是多少 A？",
+        "options": [],
+        "answer": "0.5",
+        "explanation": "$I=0.2+0.3=0.5$ A。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "电流表与电压表的使用",
+        "question": "电流表应串联在电路中使用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "电流表串联。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "电荷与电流",
+        "question": "10 s 内通过导体横截面的电荷量为 20 C，电流是多少 A？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$I=\\frac Qt=\\frac{20}{10}=2$ A。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "电流表与电压表的使用",
+        "question": "电压表应（　）在电路中",
+        "options": [
+          "串联",
+          "并联",
+          "串联或并联",
+          "不能接入"
+        ],
+        "answer": "并联",
+        "explanation": "电压表并联。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "电荷与电流",
+      "core_concept": "电荷的定向移动形成电流，规定正电荷定向移动的方向为电流方向。电流是表示电流强弱的物理量。",
+      "key_formula": "$I=\\frac Qt$",
+      "common_mistakes": [
+        "认为电子移动方向即电流方向。"
+      ],
+      "tips": "电流方向与电子定向移动方向相反。"
+    },
+    {
+      "point": "串联与并联电路",
+      "core_concept": "串联电路电流处处相等，总电压等于各部分电压之和；并联电路各支路电压相等，干路电流等于各支路电流之和。",
+      "key_formula": "串联：$I=I_1=I_2$；并联：$U=U_1=U_2$",
+      "common_mistakes": [
+        "把并联电流规律套用到串联。"
+      ],
+      "tips": "串联分压、并联分流。"
+    },
+    {
+      "point": "电流表与电压表的使用",
+      "core_concept": "电流表串联接入、内阻很小；电压表并联接入、内阻很大。接线时电流必须从正接线柱流入。",
+      "key_formula": "电流表串联 / 电压表并联",
+      "common_mistakes": [
+        "把电流表直接接在电源两极。"
+      ],
+      "tips": "电流表不能直接并联在电源上。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "串联与并联电路",
+        "question": "串联电路总电压 6 V，$U_1=2.5$ V，则 $U_2$ 是多少 V？",
+        "options": [],
+        "answer": "3.5",
+        "explanation": "$U_2=6-2.5=3.5$ V。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "串联与并联电路",
+        "question": "关于并联电路，正确的是（　）",
+        "options": [
+          "各支路电压相等",
+          "各支路电流相等",
+          "总电压等于各支路之和",
+          "总电流等于各支路之和"
+        ],
+        "answer": "各支路电压相等",
+        "explanation": "并联电压相等。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "电荷与电流",
+        "question": "金属导体中定向移动形成电流的是自由电子。",
+        "options": [],
+        "answer": "对",
+        "explanation": "金属靠自由电子导电。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "电流表与电压表的使用",
+        "question": "使用电流表时，若量程选大了，指针偏转（　）",
+        "options": [
+          "角度较大",
+          "角度较小",
+          "不变",
+          "反而向左"
+        ],
+        "answer": "角度较小",
+        "explanation": "量程过大读数不精确。"
+      }
+    ]
+  }
+}

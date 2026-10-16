@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 7 Have you got a headache? 健康",
+  "unit_number": 7,
+  "unit_test": {
+    "title": "第7单元「Module 7 Have you got a headache? 健康」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+        "question": "「你头痛吗？」的英文是（　）",
+        "options": [
+          "Have you got a headache?",
+          "Have you got a head ache?",
+          "Do you have headache?",
+          "Are you headache?"
+        ],
+        "answer": "Have you got a headache?",
+        "explanation": "headache 合写。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "Have you got…? 问答",
+        "question": "否定回答 Have you got…?，应说（　）",
+        "options": [
+          "No, I haven't.",
+          "No, I don't.",
+          "No, I'm not.",
+          "No, I have."
+        ],
+        "answer": "No, I haven't.",
+        "explanation": "have 问 haven't 答。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+        "question": "「感冒」的英文是（　）",
+        "options": [
+          "a cold",
+          "a cool",
+          "a cough",
+          "a feverr"
+        ],
+        "answer": "a cold",
+        "explanation": "have got a cold 感冒。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+        "question": "cough 的意思是「咳嗽」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "cough = 咳嗽。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "疾病词汇 headache / stomach ache / cold / cough",
+      "core_concept": "headache 头痛、stomach ache 肚子痛、cold 感冒、cough 咳嗽；have got a cold 感冒了。",
+      "key_formula": "Have you got a headache?",
+      "common_mistakes": [
+        "头痛说成 head ache 分开。"
+      ],
+      "tips": "headache 合起来写。"
+    },
+    {
+      "point": "Have you got…? 问答",
+      "core_concept": "have got 变疑问句把 have/has 提前：Have you got…? Has she got…? 否定 No, I haven't. / No, she hasn't.",
+      "key_formula": "Have you got a test today? — Yes, I have.",
+      "common_mistakes": [
+        "回答写成 Yes, I've.（×）"
+      ],
+      "tips": "简答不能缩写。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "Have you got…? 问答",
+        "question": "— Has she got a cold? — ___",
+        "options": [
+          "Yes, she has.",
+          "Yes, she have.",
+          "Yes, she is.",
+          "No, she hasn't got."
+        ],
+        "answer": "Yes, she has.",
+        "explanation": "has 问 has 答。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+        "question": "「考试」的英文是（　）",
+        "options": [
+          "test",
+          "text",
+          "tast",
+          "tests"
+        ],
+        "answer": "test",
+        "explanation": "test = 考试。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "Have you got…? 问答",
+        "question": "have got 的疑问句把 have / has 提到句首。",
+        "options": [],
+        "answer": "对",
+        "explanation": "提前构成疑问。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "疾病词汇 headache / stomach ache / cold / cough",
+        "question": "你肚子痛，应说（　）",
+        "options": [
+          "I've got a stomach ache.",
+          "I've got a head ache.",
+          "I've got a cold.",
+          "I'm stomach ache."
+        ],
+        "answer": "I've got a stomach ache.",
+        "explanation": "肚子痛 stomach ache。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "textbook": "八年级下册",
+  "unit": "平行四边形",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「平行四边形」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平行四边形的性质",
+        "question": "平行四边形相邻两角之和为（　）",
+        "options": [
+          "90°",
+          "180°",
+          "270°",
+          "360°"
+        ],
+        "answer": "180°",
+        "explanation": "两直线平行，同旁内角互补。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "平行四边形的性质",
+        "question": "平行四边形的对角线互相平分。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平行四边形基本性质。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "平行四边形的性质",
+        "question": "平行四边形一边长 8，其邻边长是？",
+        "options": [],
+        "answer": "条件不足，无法确定",
+        "explanation": "题目未给出邻边信息。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平行四边形的判定",
+        "question": "下列不能判定四边形是平行四边形的是（　）",
+        "options": [
+          "两组对边分别平行",
+          "一组对边平行且相等",
+          "对角线互相平分",
+          "一组对边平行，另一组对边相等"
+        ],
+        "answer": "一组对边平行，另一组对边相等",
+        "explanation": "该条件可能是等腰梯形。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "特殊平行四边形",
+        "question": "菱形对角线分别为 6 和 8，面积是多少？",
+        "options": [],
+        "answer": "24",
+        "explanation": "$S=\\frac12\\times6\\times8=24$。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "特殊平行四边形",
+        "question": "正方形的对角线互相垂直平分且相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "正方形同时具有矩形与菱形性质。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "平行四边形的性质",
+      "core_concept": "平行四边形对边平行且相等、对角相等、对角线互相平分。",
+      "key_formula": "对角线互相平分",
+      "common_mistakes": [
+        "把对角线相等当作性质。"
+      ],
+      "tips": "对角线相等是矩形特有。"
+    },
+    {
+      "point": "平行四边形的判定",
+      "core_concept": "两组对边分别平行（或相等）、一组对边平行且相等、对角线互相平分的四边形都是平行四边形。",
+      "key_formula": "一组对边平行且相等 ⇒ 平行四边形",
+      "common_mistakes": [
+        "只用一组对边平行判定。"
+      ],
+      "tips": "“平行且相等”缺一不可。"
+    },
+    {
+      "point": "特殊平行四边形",
+      "core_concept": "矩形四角为直角、对角线相等；菱形四边相等、对角线互相垂直；正方形兼具两者性质。",
+      "key_formula": "菱形面积 $=\\frac12 d_1d_2$",
+      "common_mistakes": [
+        "混淆矩形与菱形的性质。"
+      ],
+      "tips": "先判断属于哪一类特殊平行四边形。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "平行四边形的性质",
+        "question": "平行四边形中一个内角为 65°，它的对角是（　）",
+        "options": [
+          "25°",
+          "65°",
+          "115°",
+          "无法确定"
+        ],
+        "answer": "65°",
+        "explanation": "平行四边形对角相等。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "特殊平行四边形",
+        "question": "矩形对角线为 10，则它的另一条对角线长为？",
+        "options": [],
+        "answer": "10",
+        "explanation": "矩形对角线相等且互相平分。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "特殊平行四边形",
+        "question": "菱形边长 5，一条对角线为 8，另一条对角线是多少？",
+        "options": [],
+        "answer": "6",
+        "explanation": "对角线互相垂直平分：$\\sqrt{5^2-4^2}=3$，故另一条为 6。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "平行四边形的判定",
+        "question": "对角线互相平分的四边形是平行四边形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平行四边形的判定定理。"
+      }
+    ]
+  }
+}

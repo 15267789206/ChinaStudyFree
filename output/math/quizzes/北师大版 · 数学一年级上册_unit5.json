@@ -1,0 +1,154 @@
+{
+  "textbook": "一年级上册",
+  "unit": "位置与顺序",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「位置与顺序」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "前后与上下",
+        "question": "我在妈妈的前面，妈妈就在我的（　）",
+        "options": [
+          "后面",
+          "前面",
+          "上面",
+          "下面"
+        ],
+        "answer": "后面",
+        "explanation": "前后相对。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "前后与上下",
+        "question": "书在桌子上，桌子就在书的（　）",
+        "options": [
+          "下面",
+          "上面",
+          "前面",
+          "后面"
+        ],
+        "answer": "下面",
+        "explanation": "上下相对。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "左右",
+        "question": "通常我们写字的手是（　）",
+        "options": [
+          "右手",
+          "左手",
+          "两只手",
+          "不一定"
+        ],
+        "answer": "右手",
+        "explanation": "大多数人右手写字。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "前后与上下",
+        "question": "上和下是相对的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "相对位置。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "前后与上下",
+      "core_concept": "前后：面向的方向是前，背对的是后；上下：高处为上，低处为下。位置是相对的。",
+      "key_formula": "前 / 后 / 上 / 下",
+      "common_mistakes": [
+        "不先说清参照物就说前后。"
+      ],
+      "tips": "先说「谁」再说位置。"
+    },
+    {
+      "point": "左右",
+      "core_concept": "通常写字的手是右手，另一端是左手；左右也是相对的，会随面向改变。",
+      "key_formula": "左 / 右",
+      "common_mistakes": [
+        "以为左右永远固定。"
+      ],
+      "tips": "左右会随方向变。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "左右",
+        "question": "面对国旗，你的左手边是（　）",
+        "options": [
+          "东",
+          "西",
+          "南",
+          "北"
+        ],
+        "answer": "西",
+        "explanation": "面北背南左西右东（坐向北方时）。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "前后与上下",
+        "question": "排队时，小明前面有 2 人，后面有 3 人，这排共（　）人",
+        "options": [
+          "6",
+          "5",
+          "7",
+          "4"
+        ],
+        "answer": "6",
+        "explanation": "2 + 1 + 3 = 6。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "左右",
+        "question": "左右是相对的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "相对位置。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "前后与上下",
+        "question": "小鸟在云朵下面，云朵就在小鸟的（　）",
+        "options": [
+          "上面",
+          "下面",
+          "前面",
+          "后面"
+        ],
+        "answer": "上面",
+        "explanation": "上下相对。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "textbook": "七年级上册",
+  "unit": "细胞与生物体的结构层次",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「细胞与生物体的结构层次」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "细胞的结构与功能",
+        "question": "植物细胞特有的结构不包括（　）",
+        "options": [
+          "细胞壁",
+          "液泡",
+          "叶绿体",
+          "细胞膜"
+        ],
+        "answer": "细胞膜",
+        "explanation": "细胞膜是动植物共有的。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "细胞的结构与功能",
+        "question": "细胞核是遗传信息库。",
+        "options": [],
+        "answer": "对",
+        "explanation": "细胞核含遗传物质。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "细胞的分裂与分化",
+        "question": "一个细胞连续分裂 3 次，可得到多少个细胞？",
+        "options": [],
+        "answer": "8",
+        "explanation": "$2^3=8$ 个。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "细胞的分裂与分化",
+        "question": "细胞分裂前后染色体的数目（　）",
+        "options": [
+          "加倍",
+          "减半",
+          "不变",
+          "随机变化"
+        ],
+        "answer": "不变",
+        "explanation": "染色体先复制再均分。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "生物体的结构层次",
+        "question": "植物体的结构层次不包括（　）",
+        "options": [
+          "细胞",
+          "组织",
+          "器官",
+          "系统"
+        ],
+        "answer": "系统",
+        "explanation": "植物无系统层次。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "细胞的分裂与分化",
+        "question": "细胞分化形成了不同的组织。",
+        "options": [],
+        "answer": "对",
+        "explanation": "分化形成组织。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "细胞的结构与功能",
+      "core_concept": "动物细胞有细胞膜、细胞质、细胞核；植物细胞还有细胞壁、液泡和叶绿体。细胞核是遗传信息库。",
+      "key_formula": "植物细胞特有：细胞壁、液泡、叶绿体",
+      "common_mistakes": [
+        "认为动物细胞有细胞壁。"
+      ],
+      "tips": "记住三处差异。"
+    },
+    {
+      "point": "细胞的分裂与分化",
+      "core_concept": "细胞分裂使细胞数目增多，染色体先复制再均分；细胞分化形成不同组织。分裂前后遗传物质不变。",
+      "key_formula": "$n$ 次分裂细胞数为 $2^n$",
+      "common_mistakes": [
+        "认为分化改变遗传物质。"
+      ],
+      "tips": "分化是基因选择性表达。"
+    },
+    {
+      "point": "生物体的结构层次",
+      "core_concept": "植物体层次：细胞→组织→器官→植物体；动物体层次：细胞→组织→器官→系统→动物体。",
+      "key_formula": "动物多“系统”层次",
+      "common_mistakes": [
+        "把植物也说成有系统层次。"
+      ],
+      "tips": "植物无系统层次。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "细胞的分裂与分化",
+        "question": "一个细胞分裂 4 次后共有多少个细胞？",
+        "options": [],
+        "answer": "16",
+        "explanation": "$2^4=16$ 个。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "细胞的结构与功能",
+        "question": "下列说法正确的是（　）",
+        "options": [
+          "动物细胞有细胞壁",
+          "植物细胞没有细胞核",
+          "叶绿体是光合作用场所",
+          "液泡是能量转换器"
+        ],
+        "answer": "叶绿体是光合作用场所",
+        "explanation": "叶绿体进行光合作用。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "生物体的结构层次",
+        "question": "血液属于结缔组织。",
+        "options": [],
+        "answer": "对",
+        "explanation": "血液是结缔组织。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "生物体的结构层次",
+        "question": "绿色开花植物的六大器官不包括（　）",
+        "options": [
+          "根",
+          "茎",
+          "叶",
+          "毛发"
+        ],
+        "answer": "毛发",
+        "explanation": "毛发不是植物器官。"
+      }
+    ]
+  }
+}

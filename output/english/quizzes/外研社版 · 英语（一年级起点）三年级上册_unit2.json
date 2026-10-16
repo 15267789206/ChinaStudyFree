@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 2 Making a cake and watching TV 做蛋糕与看电视",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 2 Making a cake and watching TV 做蛋糕与看电视」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家务词汇 make / clean / wash",
+        "question": "「做蛋糕」的英文是（　）",
+        "options": [
+          "make a cake",
+          "do a cake",
+          "making cake",
+          "make cake"
+        ],
+        "answer": "make a cake",
+        "explanation": "做蛋糕用 make。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "现在进行时的疑问句",
+        "question": "— What are you doing? — ___",
+        "options": [
+          "We're making a cake.",
+          "We make a cake.",
+          "We're make a cake.",
+          "Yes, we are."
+        ],
+        "answer": "We're making a cake.",
+        "explanation": "be + doing。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家务词汇 make / clean / wash",
+        "question": "「请保持安静」的英文是（　）",
+        "options": [
+          "Please be quiet.",
+          "Please be quite.",
+          "Please is quiet.",
+          "Quiet please be."
+        ],
+        "answer": "Please be quiet.",
+        "explanation": "quiet 是安静的。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "现在进行时的疑问句",
+        "question": "现在进行时的结构是 be + 动词 -ing。",
+        "options": [],
+        "answer": "对",
+        "explanation": "be + doing。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "家务词汇 make / clean / wash",
+      "core_concept": "make a cake 做蛋糕、clean the room 打扫房间、wash clothes 洗衣服。",
+      "key_formula": "We're making a cake.",
+      "common_mistakes": [
+        "make 与 doing 混用。"
+      ],
+      "tips": "做蛋糕用 make，不用 cook。"
+    },
+    {
+      "point": "现在进行时的疑问句",
+      "core_concept": "问正在做什么：What are you doing? 答 I'm… / We're…；提醒安静 Please be quiet.",
+      "key_formula": "What are you doing? — We're making a cake.",
+      "common_mistakes": [
+        "回答时态不一致。"
+      ],
+      "tips": "问句进行时，答句也要进行时。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家务词汇 make / clean / wash",
+        "question": "「打扫房间」的英文是（　）",
+        "options": [
+          "clean the room",
+          "clean room",
+          "cleaning the room",
+          "make the room"
+        ],
+        "answer": "clean the room",
+        "explanation": "clean 打扫。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "现在进行时的疑问句",
+        "question": "妈妈在看书，应说（　）",
+        "options": [
+          "Mum is reading.",
+          "Mum reads.",
+          "Mum is read.",
+          "Mum are reading."
+        ],
+        "answer": "Mum is reading.",
+        "explanation": "第三人称单数用 is。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "家务词汇 make / clean / wash",
+        "question": "wash 的意思是「洗」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "wash = 洗。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "现在进行时的疑问句",
+        "question": "问别人正在做什么，应说（　）",
+        "options": [
+          "What are you doing?",
+          "What do you do?",
+          "What are you do?",
+          "How are you doing?"
+        ],
+        "answer": "What are you doing?",
+        "explanation": "进行时特殊疑问句。"
+      }
+    ]
+  }
+}

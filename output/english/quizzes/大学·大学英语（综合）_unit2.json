@@ -1,0 +1,144 @@
+{
+  "textbook": "大学英语（综合）",
+  "unit": "写作与翻译",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「写作与翻译」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "英文写作结构",
+        "question": "英语段落中起概括作用的是（　）",
+        "options": [
+          "主题句",
+          "支持句",
+          "结论句",
+          "过渡句"
+        ],
+        "answer": "主题句",
+        "explanation": "主题句概括段落中心。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "英文写作结构",
+        "question": "短文写作通常采用“引言—主体—结论”的结构。",
+        "options": [],
+        "answer": "对",
+        "explanation": "三段式结构。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "英汉互译技巧",
+        "question": "英译汉时，通常需要把英语的被动句译为（　）",
+        "options": [
+          "汉语的主动句",
+          "汉语的被动句",
+          "汉语的疑问句",
+          "汉语的祈使句"
+        ],
+        "answer": "汉语的主动句",
+        "explanation": "汉语多用主动。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "英汉互译技巧",
+        "question": "翻译时可以根据需要调整语序和词性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "翻译技巧。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "英文写作结构",
+      "core_concept": "英语段落通常由主题句、支持句和结论句组成。短文写作遵循“引言—主体—结论”三段式，注意衔接词的使用。",
+      "key_formula": "topic sentence + supporting details + conclusion",
+      "common_mistakes": [
+        "段落无主题句。"
+      ],
+      "tips": "一段一个中心。"
+    },
+    {
+      "point": "英汉互译技巧",
+      "core_concept": "英汉互译需注意语序调整、词性转换与增删词。英语多被动、汉语多主动；翻译时以达意为先，避免逐字硬译。",
+      "key_formula": "语序调整 + 词性转换",
+      "common_mistakes": [
+        "逐字直译造成语义不通。"
+      ],
+      "tips": "先理解句意再翻译。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "英文写作结构",
+        "question": "衔接词 however 表示（　）",
+        "options": [
+          "转折",
+          "并列",
+          "因果",
+          "举例"
+        ],
+        "answer": "转折",
+        "explanation": "however 表转折。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "英文写作结构",
+        "question": "一个段落应围绕一个中心展开。",
+        "options": [],
+        "answer": "对",
+        "explanation": "段落统一性。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "英汉互译技巧",
+        "question": "翻译时“增词”的目的是（　）",
+        "options": [
+          "使译文表达完整通顺",
+          "增加字数",
+          "改变原意",
+          "逐字对应"
+        ],
+        "answer": "使译文表达完整通顺",
+        "explanation": "增词为使表达自然。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "英汉互译技巧",
+        "question": "翻译以达意为先，避免逐字硬译。",
+        "options": [],
+        "answer": "对",
+        "explanation": "翻译原则。"
+      }
+    ]
+  }
+}

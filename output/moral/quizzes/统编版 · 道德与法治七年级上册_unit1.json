@@ -1,0 +1,158 @@
+{
+  "textbook": "七年级上册",
+  "unit": "成长的节拍",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「成长的节拍」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "中学时代与自我认识",
+        "question": "认识自己的途径不包括（　）",
+        "options": [
+          "自我评价",
+          "他人评价",
+          "心理测试",
+          "凭空想象"
+        ],
+        "answer": "凭空想象",
+        "explanation": "认识自己需以事实为依据。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "梦想与学习",
+        "question": "学会学习需要（　）",
+        "options": [
+          "只靠老师讲",
+          "掌握科学方法",
+          "拒绝合作",
+          "放弃问题"
+        ],
+        "answer": "掌握科学方法",
+        "explanation": "学习方法很重要。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "友谊与师生交往",
+        "question": "友谊是平等的、双向的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "友谊的特质。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "友谊与师生交往",
+        "question": "对待老师的批评，正确态度是（　）",
+        "options": [
+          "顶撞老师",
+          "理解老师的良苦用心并改正",
+          "置之不理",
+          "背后抱怨"
+        ],
+        "answer": "理解老师的良苦用心并改正",
+        "explanation": "正确对待批评。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "中学时代与自我认识",
+      "core_concept": "中学时代是人生发展的新阶段。正确认识自己要做到用全面的、发展的眼光看待自己，可以通过自我评价和他人评价来认识自己。",
+      "key_formula": "全面 + 发展地看自己",
+      "common_mistakes": [
+        "只看缺点或只看优点。"
+      ],
+      "tips": "自我认识要客观全面。"
+    },
+    {
+      "point": "梦想与学习",
+      "core_concept": "少年的梦想与时代脉搏、与中国梦紧密相连。学习是苦乐交织的过程，要培养学习兴趣、掌握科学的学习方法。",
+      "key_formula": "梦想 + 努力 = 可能",
+      "common_mistakes": [
+        "把学习仅看作痛苦。"
+      ],
+      "tips": "学习既有辛苦也有快乐。"
+    },
+    {
+      "point": "友谊与师生交往",
+      "core_concept": "友谊是平等的、双向的，需要用心呵护；友谊不能没有原则。师生交往要主动沟通、尊重老师，正确对待老师的表扬和批评。",
+      "key_formula": "平等、双向、有原则",
+      "common_mistakes": [
+        "认为友谊就是无条件支持。"
+      ],
+      "tips": "友谊需要原则。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "梦想与学习",
+        "question": "学习是苦乐交织的过程。",
+        "options": [],
+        "answer": "对",
+        "explanation": "学习有苦也有乐。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "友谊与师生交往",
+        "question": "朋友请你帮忙隐瞒违纪行为，你的正确做法是（　）",
+        "options": [
+          "答应朋友",
+          "拒绝并劝其认错",
+          "告诉所有人",
+          "一起隐瞒"
+        ],
+        "answer": "拒绝并劝其认错",
+        "explanation": "友谊不能没有原则。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "中学时代与自我认识",
+        "question": "正确认识自己应该（　）",
+        "options": [
+          "只看优点",
+          "只看缺点",
+          "用发展的眼光看自己",
+          "只在意他人评价"
+        ],
+        "answer": "用发展的眼光看自己",
+        "explanation": "发展地看待自己。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "梦想与学习",
+        "question": "少年的梦想与中国梦紧密相连。",
+        "options": [],
+        "answer": "对",
+        "explanation": "个人梦想与国家梦想相连。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级上册",
+  "unit": "一般现在时与一般过去时复习",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「一般现在时与一般过去时复习」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "时态综合复习",
+        "question": "She ___ to the museum last week.",
+        "options": [
+          "go",
+          "goes",
+          "went",
+          "will go"
+        ],
+        "answer": "went",
+        "explanation": "last week 用过去时。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "人称代词、物主代词与冠词",
+        "question": "This is ___ book; the one over there is ___ .",
+        "options": [
+          "my; my",
+          "my; mine",
+          "mine; my",
+          "mine; mine"
+        ],
+        "answer": "my; mine",
+        "explanation": "my 后接名词，mine 单独用。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "时态综合复习",
+        "question": "客观事实常用一般现在时表述。",
+        "options": [],
+        "answer": "对",
+        "explanation": "客观事实用现在时。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "人称代词、物主代词与冠词",
+        "question": "there be 句型遵循就近原则。",
+        "options": [],
+        "answer": "对",
+        "explanation": "就近原则。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "时态综合复习",
+      "core_concept": "一般现在时表经常性或客观事实，一般过去时表过去发生且已结束的动作，二者常需通过时间状语与语境区分。",
+      "key_formula": "现在 vs 过去",
+      "common_mistakes": [
+        "过去发生的事用现在时。"
+      ],
+      "tips": "抓时间状语。"
+    },
+    {
+      "point": "人称代词、物主代词与冠词",
+      "core_concept": "形容词性物主代词后接名词，名词性物主代词单独使用；a/an 看读音，the 表特指；there be 遵循就近原则。",
+      "key_formula": "物主代词后接名词",
+      "common_mistakes": [
+        "my 与 mine 混用。"
+      ],
+      "tips": "后接名词用形容词性。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "时态综合复习",
+        "question": "He usually ___ to school by bus, but yesterday he ___ a taxi.",
+        "options": [
+          "go; took",
+          "goes; takes",
+          "went; took",
+          "goes; took"
+        ],
+        "answer": "goes; took",
+        "explanation": "usually 用现在时，yesterday 用过去时。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "人称代词、物主代词与冠词",
+        "question": "___ apple is ___ apple on the plate.",
+        "options": [
+          "a; the",
+          "an; a",
+          "the; an",
+          "an; the"
+        ],
+        "answer": "an; the",
+        "explanation": "an apple 泛指，the apple 特指。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "时态综合复习",
+        "question": "时态选择要结合时间状语和上下文。",
+        "options": [],
+        "answer": "对",
+        "explanation": "语境加状语。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "人称代词、物主代词与冠词",
+        "question": "不可数名词前一般不用 a/an 计量。",
+        "options": [],
+        "answer": "对",
+        "explanation": "不可数名词。"
+      }
+    ]
+  }
+}

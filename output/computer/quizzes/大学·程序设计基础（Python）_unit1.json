@@ -1,0 +1,160 @@
+{
+  "textbook": "程序设计基础（Python）",
+  "unit": "基础语法与数据类型",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「基础语法与数据类型」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "变量与数据类型",
+        "question": "Python 中 7 // 2 的结果是（　）",
+        "options": [
+          "3.5",
+          "3",
+          "4",
+          "2"
+        ],
+        "answer": "3",
+        "explanation": "整除向下取整。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "变量与数据类型",
+        "question": "表达式 2 ** 3 的值是（　）",
+        "options": [
+          "6",
+          "8",
+          "9",
+          "5"
+        ],
+        "answer": "8",
+        "explanation": "** 表示幂运算。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "变量与数据类型",
+        "question": "Python 是动态类型语言，变量无需声明类型。",
+        "options": [],
+        "answer": "对",
+        "explanation": "动态类型。"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "列表与字典",
+        "question": "列表 [1,2,3] 的最后一个元素写作 ___（用索引表达式）",
+        "options": [],
+        "answer": "[2] 或 [-1]",
+        "explanation": "索引 -1 表示最后一个。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "列表与字典",
+        "question": "'abc' * 2 的结果是（　）",
+        "options": [
+          "'abcabc'",
+          "'abc2'",
+          "报错",
+          "'aabbcc'"
+        ],
+        "answer": "'abcabc'",
+        "explanation": "字符串重复。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "变量与数据类型",
+      "core_concept": "Python 常用类型：int、float、str、bool。整数除法 //、取余 %、幂 **。字符串可用 + 拼接、* 重复。",
+      "key_formula": "$7//2=3$，$7\\%2=1$",
+      "common_mistakes": [
+        "把 / 与 // 混淆。"
+      ],
+      "tips": "/ 得浮点，// 向下取整。"
+    },
+    {
+      "point": "列表与字典",
+      "core_concept": "列表有序可重复，支持索引与切片；字典以键值对存储，键必须可哈希且唯一。",
+      "key_formula": "list[0]、dict['key']",
+      "common_mistakes": [
+        "字典中用不存在的键直接取值。"
+      ],
+      "tips": "用 get() 更安全。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "变量与数据类型",
+        "question": "下列是 Python 合法变量名的是（　）",
+        "options": [
+          "2num",
+          "my_var",
+          "class",
+          "my-var"
+        ],
+        "answer": "my_var",
+        "explanation": "不能以数字开头、不能是关键字、不能含连字符。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "列表与字典",
+        "question": "len([1,2,3]) 的值是（　）",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "报错"
+        ],
+        "answer": "3",
+        "explanation": "len 返回元素个数。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "列表与字典",
+        "question": "字典的键必须是不可变类型。",
+        "options": [],
+        "answer": "对",
+        "explanation": "键需可哈希。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "变量与数据类型",
+        "question": "type(3.14) 的结果是 ___",
+        "options": [],
+        "answer": "float",
+        "explanation": "3.14 是浮点数。"
+      }
+    ]
+  }
+}

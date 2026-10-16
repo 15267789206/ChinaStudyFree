@@ -1,0 +1,156 @@
+{
+  "textbook": "九年级上册",
+  "unit": "化学方程式",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「化学方程式」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "质量守恒定律",
+        "question": "化学反应前后原子的种类和数目不变。",
+        "options": [],
+        "answer": "对",
+        "explanation": "质量守恒的微观解释。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "质量守恒定律",
+        "question": "对质量守恒定律解释正确的是（　）",
+        "options": [
+          "反应前后物质总质量不变",
+          "反应前后分子种类不变",
+          "反应前后分子数目不变",
+          "反应前后体积不变"
+        ],
+        "answer": "反应前后物质总质量不变",
+        "explanation": "质量守恒含义。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "化学方程式的书写与计算",
+        "question": "12 g 碳完全燃烧生成二氧化碳，需要多少 g 氧气？（$\\text{C}+\\text{O}_2\\xrightarrow{\\text{点燃}}\\text{CO}_2$）",
+        "options": [],
+        "answer": "32",
+        "explanation": "$\\frac{12}{12}=\\frac{32}{x}$，$x=32$ g。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "化学方程式的书写与计算",
+        "question": "电解 36 g 水，理论上得到氢气多少 g？[$2\\text{H}_2\\text{O}\\xrightarrow{\\text{通电}}2\\text{H}_2\\uparrow+\\text{O}_2\\uparrow$]",
+        "options": [],
+        "answer": "4",
+        "explanation": "$\\frac{36}{36}=\\frac{x}{4}$，$x=4$ g。"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "化学方程式的书写与计算",
+        "question": "配平：$\\_\\!\\text{Fe}+\\_\\!\\text{O}_2\\xrightarrow{\\text{点燃}}\\text{Fe}_3\\text{O}_4$，$\\text{Fe}$ 前的系数是 ___。",
+        "options": [],
+        "answer": "3",
+        "explanation": "铁前面系数为 3。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "化学方程式的书写与计算",
+        "question": "书写化学方程式时可以在化学式前加系数，但不能改变化学式。",
+        "options": [],
+        "answer": "对",
+        "explanation": "书写原则。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "质量守恒定律",
+      "core_concept": "参加化学反应的各物质质量总和等于反应后生成的各物质质量总和。本质原因是原子的种类、数目、质量均不变。",
+      "key_formula": "反应前后原子种类、数目不变",
+      "common_mistakes": [
+        "认为 1 g 碳与 1 g 氧气生成 2 g 二氧化碳。"
+      ],
+      "tips": "按化学计量比计算。"
+    },
+    {
+      "point": "化学方程式的书写与计算",
+      "core_concept": "书写要遵循以客观事实为基础、遵守质量守恒定律两条原则，需配平、标条件和气体沉淀符号。计算按化学计量数之比与实际质量比成正比。",
+      "key_formula": "化学计量数之比 = 物质的量之比",
+      "common_mistakes": [
+        "配平后随意改动化学式。"
+      ],
+      "tips": "先配平再计算。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "质量守恒定律",
+        "question": "8 g 硫完全燃烧生成二氧化硫，需要氧气多少 g？（生成 $\\text{SO}_2$ 为 16 g）",
+        "options": [],
+        "answer": "8",
+        "explanation": "由质量守恒：$16-8=8$ g。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "化学方程式的书写与计算",
+        "question": "6 g 镁完全燃烧，生成氧化镁多少 g？[$2\\text{Mg}+\\text{O}_2\\xrightarrow{\\text{点燃}}2\\text{MgO}$，Mg 为 24，MgO 为 40]",
+        "options": [],
+        "answer": "10",
+        "explanation": "$\\frac{6}{48}=\\frac{x}{80}$，$x=10$ g。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "质量守恒定律",
+        "question": "蜡烛燃烧后质量变小，说明质量守恒定律不成立。",
+        "options": [],
+        "answer": "错",
+        "explanation": "生成的气体逸散，计入后质量守恒。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "化学方程式的书写与计算",
+        "question": "化学方程式中“$\\uparrow$”表示（　）",
+        "options": [
+          "气体生成",
+          "沉淀生成",
+          "加热",
+          "催化剂"
+        ],
+        "answer": "气体生成",
+        "explanation": "气体符号。"
+      }
+    ]
+  }
+}

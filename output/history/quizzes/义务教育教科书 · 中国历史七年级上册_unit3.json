@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级上册",
+  "unit": "三国两晋南北朝",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「三国两晋南北朝」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "三国鼎立与西晋统一",
+        "question": "为三国鼎立局面奠定基础的战役是（　）",
+        "options": [
+          "官渡之战",
+          "赤壁之战",
+          "巨鹿之战",
+          "淝水之战"
+        ],
+        "answer": "赤壁之战",
+        "explanation": "赤壁之战奠定三国鼎立。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "江南开发与民族交融",
+        "question": "推动北魏民族交融的重要改革是（　）",
+        "options": [
+          "商鞅变法",
+          "孝文帝改革",
+          "王安石变法",
+          "戊戌变法"
+        ],
+        "answer": "孝文帝改革",
+        "explanation": "孝文帝改革推动交融。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "江南开发与民族交融",
+        "question": "北方人口南迁促进了江南地区的开发。",
+        "options": [],
+        "answer": "对",
+        "explanation": "北民南迁带来技术与劳动力。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "三国鼎立与西晋统一",
+        "question": "220 年曹丕建立魏国，定都洛阳。",
+        "options": [],
+        "answer": "对",
+        "explanation": "魏国定都洛阳。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "三国鼎立与西晋统一",
+      "core_concept": "官渡之战为曹操统一北方奠定基础，赤壁之战奠定三国鼎立局面。220 年曹丕称帝建立魏，之后蜀、吴相继建立。",
+      "key_formula": "官渡之战—赤壁之战",
+      "common_mistakes": [
+        "把赤壁之战当作统一之战。"
+      ],
+      "tips": "赤壁之战奠定三分局面。"
+    },
+    {
+      "point": "江南开发与民族交融",
+      "core_concept": "北方人口大量南迁带来劳动力与技术，促进江南地区开发。孝文帝改革推动民族交融，北魏时期推行汉化措施。",
+      "key_formula": "北人南迁 → 江南开发",
+      "common_mistakes": [
+        "认为江南开发始于南方人口增长本身。"
+      ],
+      "tips": "北民南迁是主因。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "江南开发与民族交融",
+        "question": "《齐民要术》的作者是（　）",
+        "options": [
+          "祖冲之",
+          "贾思勰",
+          "郦道元",
+          "王羲之"
+        ],
+        "answer": "贾思勰",
+        "explanation": "《齐民要术》作者贾思勰。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "三国鼎立与西晋统一",
+        "question": "三国指的是魏、蜀、吴。",
+        "options": [],
+        "answer": "对",
+        "explanation": "三国为魏蜀吴。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "江南开发与民族交融",
+        "question": "南朝时期江南经济得到进一步发展。",
+        "options": [],
+        "answer": "对",
+        "explanation": "江南经济开发。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "三国鼎立与西晋统一",
+        "question": "结束三国分裂局面、实现短期统一的是（　）",
+        "options": [
+          "西晋",
+          "东晋",
+          "北魏",
+          "隋朝"
+        ],
+        "answer": "西晋",
+        "explanation": "西晋实现短期统一。"
+      }
+    ]
+  }
+}

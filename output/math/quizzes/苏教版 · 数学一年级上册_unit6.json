@@ -1,0 +1,149 @@
+{
+  "textbook": "一年级上册",
+  "unit": "认识图形（一）",
+  "unit_number": 6,
+  "unit_test": {
+    "title": "第6单元「认识图形（一）」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "立体图形",
+        "question": "粉笔盒的形状大概是（　）",
+        "options": [
+          "长方体",
+          "正方体",
+          "球",
+          "圆柱"
+        ],
+        "answer": "长方体",
+        "explanation": "粉笔盒近长方体。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "立体图形",
+        "question": "足球的形状是（　）",
+        "options": [
+          "球",
+          "圆",
+          "圆柱",
+          "正方体"
+        ],
+        "answer": "球",
+        "explanation": "足球是球体。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "立体图形",
+        "question": "圆柱的上下两个面一样大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "底面全等。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "立体图形",
+        "question": "正方体有（　）个面",
+        "options": [
+          "6",
+          "4",
+          "8",
+          "12"
+        ],
+        "answer": "6",
+        "explanation": "6 个面。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "立体图形",
+      "core_concept": "长方体 6 个面、正方体 6 个面一样大、圆柱上下一样粗、球没有平面会滚动。",
+      "key_formula": "长方体 / 正方体 / 圆柱 / 球",
+      "common_mistakes": [
+        "把球说成圆。"
+      ],
+      "tips": "球是立体，圆是平面。"
+    },
+    {
+      "point": "有趣的拼搭",
+      "core_concept": "同样的立体图形可以拼搭成新形状；圆柱和球容易滚动，长方体、正方体容易堆稳。",
+      "key_formula": "拼搭 / 滚动 / 堆积",
+      "common_mistakes": [
+        "认为球能稳稳堆高。"
+      ],
+      "tips": "球爱滚，方体稳。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "立体图形",
+        "question": "球没有平平的面。",
+        "options": [],
+        "answer": "对",
+        "explanation": "球面是曲面。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "立体图形",
+        "question": "易拉罐的形状大概是（　）",
+        "options": [
+          "圆柱",
+          "球",
+          "正方体",
+          "长方体"
+        ],
+        "answer": "圆柱",
+        "explanation": "上下一样粗。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "有趣的拼搭",
+        "question": "堆得最稳的图形是（　）",
+        "options": [
+          "正方体",
+          "球",
+          "圆柱",
+          "一样稳"
+        ],
+        "answer": "正方体",
+        "explanation": "方体有平面好堆。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "有趣的拼搭",
+        "question": "圆柱躺着放容易滚动。",
+        "options": [],
+        "answer": "对",
+        "explanation": "侧面是曲面。"
+      }
+    ]
+  }
+}

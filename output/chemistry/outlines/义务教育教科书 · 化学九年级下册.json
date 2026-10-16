@@ -1,0 +1,109 @@
+{
+  "textbook": "九年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "金属和金属材料",
+      "knowledge_points": [
+        {
+          "name": "金属的化学性质与活动性顺序",
+          "description": "掌握金属与酸、盐溶液的反应及活动性顺序。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "金属资源的利用与保护",
+          "description": "了解铁的冶炼与金属防锈。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "溶液",
+      "knowledge_points": [
+        {
+          "name": "溶液的形成与溶解度",
+          "description": "理解溶液、饱和溶液与溶解度概念。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "溶质质量分数",
+          "description": "掌握溶质质量分数的计算与配制。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "酸和碱",
+      "knowledge_points": [
+        {
+          "name": "常见的酸及其性质",
+          "description": "掌握盐酸、硫酸的性质与用途。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "常见的碱与中和反应",
+          "description": "掌握碱的性质与中和反应、pH。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "盐 化肥",
+      "knowledge_points": [
+        {
+          "name": "常见的盐与复分解反应",
+          "description": "掌握常见盐的性质与复分解反应条件。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "化学肥料与粗盐提纯",
+          "description": "了解常见化肥与提纯操作。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

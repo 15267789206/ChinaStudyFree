@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "抗日战争与新中国成立",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「抗日战争与新中国成立」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "中华民族的抗日战争",
+        "question": "中国抗日战争全面爆发的标志是（　）",
+        "options": [
+          "1937 年七七事变",
+          "1931 年九一八事变",
+          "1936 年西安事变",
+          "1945 年抗战胜利"
+        ],
+        "answer": "1937 年七七事变",
+        "explanation": "七七事变全面抗战。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "内战与新中国成立",
+        "question": "中华人民共和国成立于（　）",
+        "options": [
+          "1949 年 10 月 1 日",
+          "1945 年 9 月",
+          "1921 年 7 月",
+          "1912 年 1 月"
+        ],
+        "answer": "1949 年 10 月 1 日",
+        "explanation": "1949 年 10 月 1 日成立。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "中华民族的抗日战争",
+        "question": "九一八事变是中国人民抗日战争的起点。",
+        "options": [],
+        "answer": "对",
+        "explanation": "九一八是起点。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "内战与新中国成立",
+        "question": "新中国成立标志着新民主主义革命取得基本胜利。",
+        "options": [],
+        "answer": "对",
+        "explanation": "基本胜利。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "中华民族的抗日战争",
+      "core_concept": "1931 年九一八事变是中国人民抗日战争的起点，1937 年七七事变后进入全民族抗战。1945 年抗日战争胜利，是近代以来中国反抗外敌入侵的第一次完全胜利。",
+      "key_formula": "1931 九一八 → 1937 七七 → 1945 胜利",
+      "common_mistakes": [
+        "把九一八当作全面抗战开始。"
+      ],
+      "tips": "九一八是起点，七七是全面抗战。"
+    },
+    {
+      "point": "内战与新中国成立",
+      "core_concept": "1949 年中华人民共和国成立，标志着新民主主义革命取得基本胜利。中国人民从此站起来了，实现了民族独立和人民解放。",
+      "key_formula": "1949 年新中国成立",
+      "common_mistakes": [
+        "认为新中国成立标志着社会主义制度确立。"
+      ],
+      "tips": "1956 年才确立社会主义制度。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "中华民族的抗日战争",
+        "question": "抗日战争中彭德怀指挥的著名战役是（　）",
+        "options": [
+          "百团大战",
+          "平型关大捷",
+          "台儿庄战役",
+          "淞沪会战"
+        ],
+        "answer": "百团大战",
+        "explanation": "彭德怀指挥百团大战。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "内战与新中国成立",
+        "question": "新中国的成立意味着中国（　）",
+        "options": [
+          "实现了民族独立和人民解放",
+          "已成为世界第一大经济体",
+          "已完成社会主义改造",
+          "已解决所有矛盾"
+        ],
+        "answer": "实现了民族独立和人民解放",
+        "explanation": "独立与解放。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "中华民族的抗日战争",
+        "question": "抗日战争的胜利是近代以来中国反抗外敌入侵的第一次完全胜利。",
+        "options": [],
+        "answer": "对",
+        "explanation": "抗战胜利意义。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "内战与新中国成立",
+        "question": "中华人民共和国的成立结束了中国半殖民地半封建社会的历史。",
+        "options": [],
+        "answer": "对",
+        "explanation": "结束半殖民地历史。"
+      }
+    ]
+  }
+}

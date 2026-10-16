@@ -1,0 +1,83 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "地球和地图",
+      "knowledge_points": [
+        {
+          "name": "地球与经纬网",
+          "description": "掌握地球形状、经纬度与半球划分。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "地图三要素与等高线地形图",
+          "description": "掌握比例尺、方向、图例与等高线判读。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "陆地和海洋",
+      "knowledge_points": [
+        {
+          "name": "大洲与大洋",
+          "description": "掌握七大洲、四大洋的分布。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "海陆变迁与板块构造",
+          "description": "理解板块构造学说与海陆变迁。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "天气与气候",
+      "knowledge_points": [
+        {
+          "name": "天气与气温、降水",
+          "description": "掌握天气与气候区别及气温降水分布规律。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "世界主要气候类型",
+          "description": "掌握主要气候类型分布与特征。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

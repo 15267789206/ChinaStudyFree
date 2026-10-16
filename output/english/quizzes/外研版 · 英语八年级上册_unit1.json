@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "Module 1 我的校园生活",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 我的校园生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "校园与方位",
+        "question": "The library is next ___ the classroom.",
+        "options": [
+          "of",
+          "to",
+          "in",
+          "on"
+        ],
+        "answer": "to",
+        "explanation": "next to 表紧邻。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "校园活动与时间表达",
+        "question": "The class begins ___ eight o'clock.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "at 8"
+        ],
+        "answer": "at",
+        "explanation": "具体时刻前用 at。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "校园与方位",
+        "question": "in front of 表示在外部的前面。",
+        "options": [],
+        "answer": "对",
+        "explanation": "in front of。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "校园活动与时间表达",
+        "question": "When 问时间，What time 问具体时刻。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两个疑问词。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "校园与方位",
+      "core_concept": "外研版按 Module—Unit 组织。常用方位介词有 in、on、under、behind、next to、in front of。",
+      "key_formula": "in + 地点 / on + 表面",
+      "common_mistakes": [
+        "in front of 与 in the front of 混淆。"
+      ],
+      "tips": "注意三组介词差别。"
+    },
+    {
+      "point": "校园活动与时间表达",
+      "core_concept": "时间表达用 What time? / When? 具体时刻前用 at，整点可用 o'clock。",
+      "key_formula": "at + 具体时刻",
+      "common_mistakes": [
+        "在具体时刻前用 on。"
+      ],
+      "tips": "at + 时刻。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "校园与方位",
+        "question": "There is a map ___ the wall.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "to"
+        ],
+        "answer": "on",
+        "explanation": "墙面用 on。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "校园活动与时间表达",
+        "question": "We have four classes ___ the morning.",
+        "options": [
+          "in",
+          "on",
+          "at",
+          "of"
+        ],
+        "answer": "in",
+        "explanation": "in the morning。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "校园与方位",
+        "question": "under 表示在……下面，直接接触。",
+        "options": [],
+        "answer": "对",
+        "explanation": "under 与 below。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "校园活动与时间表达",
+        "question": "上午、下午用 in the morning / afternoon，晚上用 at night。",
+        "options": [],
+        "answer": "对",
+        "explanation": "时间介词。"
+      }
+    ]
+  }
+}

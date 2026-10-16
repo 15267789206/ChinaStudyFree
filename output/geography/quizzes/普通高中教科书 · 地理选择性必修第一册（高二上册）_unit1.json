@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "国土安全与地理信息技术",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「国土安全与地理信息技术」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "国土安全与资源保障",
+        "question": "实现人地协调的核心理念是（　）",
+        "options": [
+          "人地协调观",
+          "人定胜天观",
+          "地理环境决定论",
+          "中心论"
+        ],
+        "answer": "人地协调观",
+        "explanation": "人地协调。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "地理信息技术",
+        "question": "获取大范围地表信息的核心技术是（　）",
+        "options": [
+          "遥感（RS）",
+          "GIS",
+          "GPS",
+          "数字地球"
+        ],
+        "answer": "遥感（RS）",
+        "explanation": "RS 获取信息。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "国土安全与资源保障",
+        "question": "我国坚持节约资源与保护环境的基本国策。",
+        "options": [],
+        "answer": "对",
+        "explanation": "资源环境国策。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "地理信息技术",
+        "question": "GIS 能够对地理空间数据进行分析与处理。",
+        "options": [],
+        "answer": "对",
+        "explanation": "GIS 功能。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "国土安全与资源保障",
+      "core_concept": "我国国土安全面临资源、环境、海洋、边疆等挑战。要坚持节约资源、保护环境的基本国策，坚持人地协调。",
+      "key_formula": "人地协调观",
+      "common_mistakes": [
+        "认为资源无限可用。"
+      ],
+      "tips": "资源有限。"
+    },
+    {
+      "point": "地理信息技术",
+      "core_concept": "RS（遥感）获取地表信息，GIS（地理信息系统）处理分析空间数据，GPS（全球定位系统）定位导航。三者常结合使用。",
+      "key_formula": "RS 采集 + GIS 分析 + GPS 定位",
+      "common_mistakes": [
+        "把 GPS 当成遥感。"
+      ],
+      "tips": "三技术各有分工。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "国土安全与资源保障",
+        "question": "保障国家粮食安全的重要措施是（　）",
+        "options": [
+          "保护耕地、推进科技增产",
+          "大量进口粮食",
+          "放弃农业",
+          "占用耕地建城"
+        ],
+        "answer": "保护耕地、推进科技增产",
+        "explanation": "粮食安全。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "地理信息技术",
+        "question": "在手机上导航主要用到的技术是（　）",
+        "options": [
+          "GPS",
+          "RS",
+          "GIS 分析建模",
+          "人工测量"
+        ],
+        "answer": "GPS",
+        "explanation": "GPS 定位导航。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "国土安全与资源保障",
+        "question": "海洋权益是国家国土安全的重要组成部分。",
+        "options": [],
+        "answer": "对",
+        "explanation": "海洋权益。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "地理信息技术",
+        "question": "监测台风移动可利用遥感技术。",
+        "options": [],
+        "answer": "对",
+        "explanation": "RS 监测台风。"
+      }
+    ]
+  }
+}

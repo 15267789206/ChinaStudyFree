@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "法律与生活",
+      "knowledge_points": [
+        {
+          "name": "民事权利与义务",
+          "description": "理解民事权利与义务的关系。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "公民与法治国家",
+          "description": "认识公民与法治国家的关系。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "法律与生活（续）",
+      "knowledge_points": [
+        {
+          "name": "合同与家庭婚姻",
+          "description": "掌握合同与婚姻家庭法律规定。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "诉讼与非诉讼解决方式",
+          "description": "了解纠纷解决途径。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

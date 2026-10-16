@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "Unit 2 Family 家庭与身体",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Unit 2 Family 家庭与身体」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员",
+        "question": "“奶奶”的英文是（　）",
+        "options": [
+          "grandma",
+          "grandpa",
+          "aunt",
+          "mother"
+        ],
+        "answer": "grandma",
+        "explanation": "奶奶 grandma。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "身体部位",
+        "question": "“眼睛”的英文是（　）",
+        "options": [
+          "eye",
+          "ear",
+          "nose",
+          "mouth"
+        ],
+        "answer": "eye",
+        "explanation": "眼睛 eye。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员",
+        "question": "family 指家庭。",
+        "options": [],
+        "answer": "对",
+        "explanation": "家庭。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "身体部位",
+        "question": "foot 的复数形式是 feet。",
+        "options": [],
+        "answer": "对",
+        "explanation": "不规则复数。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "家庭成员",
+      "core_concept": "family 单元集中学习 father, mother, grandpa, grandma, brother, sister。",
+      "key_formula": "This is my…",
+      "common_mistakes": [
+        "把 grandpa 与 grandma 混淆。"
+      ],
+      "tips": "注意对应。"
+    },
+    {
+      "point": "身体部位",
+      "core_concept": "head, face, eye, ear, nose, mouth, hand, arm, leg, foot。",
+      "key_formula": "身体部位",
+      "common_mistakes": [
+        "foot 的复数是 feet。"
+      ],
+      "tips": "不规则复数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员",
+        "question": "“哥哥/弟弟”的英文是（　）",
+        "options": [
+          "brother",
+          "sister",
+          "uncle",
+          "aunt"
+        ],
+        "answer": "brother",
+        "explanation": "兄弟 brother。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "身体部位",
+        "question": "“鼻子”的英文是（　）",
+        "options": [
+          "nose",
+          "eye",
+          "ear",
+          "mouth"
+        ],
+        "answer": "nose",
+        "explanation": "鼻子 nose。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "家庭成员",
+        "question": "uncle 指叔叔/舅舅，aunt 指姑姑/阿姨。",
+        "options": [],
+        "answer": "对",
+        "explanation": "亲属称呼。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "身体部位",
+        "question": "eye 的复数形式是 eyes。",
+        "options": [],
+        "answer": "对",
+        "explanation": "复数。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "textbook": "七年级上册",
+  "unit": "史前时期与早期国家",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「史前时期与早期国家」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "中国境内早期人类",
+        "question": "我国境内目前已确认的最早的古人类之一是（　）",
+        "options": [
+          "北京人",
+          "元谋人",
+          "山顶洞人",
+          "半坡人"
+        ],
+        "answer": "元谋人",
+        "explanation": "元谋人年代最早。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "中国境内早期人类",
+        "question": "半坡居民种植的主要农作物是（　）",
+        "options": [
+          "水稻",
+          "粟",
+          "小麦",
+          "玉米"
+        ],
+        "answer": "粟",
+        "explanation": "北方半坡种粟。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "夏商周与分封制",
+        "question": "我国历史上第一个王朝是（　）",
+        "options": [
+          "夏朝",
+          "商朝",
+          "西周",
+          "秦朝"
+        ],
+        "answer": "夏朝",
+        "explanation": "夏朝是第一个王朝。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "夏商周与分封制",
+        "question": "西周分封制的对象包括宗亲和功臣。",
+        "options": [],
+        "answer": "对",
+        "explanation": "分封对象广泛。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "春秋战国与社会变革",
+        "question": "商鞅变法发生在（　）",
+        "options": [
+          "齐国",
+          "秦国",
+          "楚国",
+          "魏国"
+        ],
+        "answer": "秦国",
+        "explanation": "商鞅在秦国变法。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "春秋战国与社会变革",
+        "question": "孔子是儒家学派创始人。",
+        "options": [],
+        "answer": "对",
+        "explanation": "孔子创立儒家。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "中国境内早期人类",
+      "core_concept": "元谋人是我国境内目前已确认的最早的古人类之一；北京人已会使用火。半坡居民种粟、河姆渡居民种水稻，是我国原始农耕的代表。",
+      "key_formula": "南稻北粟",
+      "common_mistakes": [
+        "把半坡与河姆渡的作物混淆。"
+      ],
+      "tips": "北方粟、南方稻。"
+    },
+    {
+      "point": "夏商周与分封制",
+      "core_concept": "约公元前 2070 年禹建立夏朝，是我国历史上第一个王朝。西周实行分封制，公元前 770 年周平王东迁洛邑，进入东周（春秋战国）。",
+      "key_formula": "夏→商→西周→东周",
+      "common_mistakes": [
+        "把分封制的对象说成只封给平民。"
+      ],
+      "tips": "分封对象为宗亲、功臣等。"
+    },
+    {
+      "point": "春秋战国与社会变革",
+      "core_concept": "春秋时期铁器牛耕出现推动生产力发展；战国时期商鞅变法使秦国富强。百家争鸣中孔子创立儒家、老子创立道家。",
+      "key_formula": "商鞅变法：废井田、开阡陌、奖励耕战",
+      "common_mistakes": [
+        "把孔子主张说成“法治”"
+      ],
+      "tips": "孔子讲“仁”，法家讲“法治”。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "春秋战国与社会变革",
+        "question": "春秋战国时期铁制农具和牛耕得到推广。",
+        "options": [],
+        "answer": "对",
+        "explanation": "生产力发展的重要标志。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "夏商周与分封制",
+        "question": "西周实行分封制的目的是（　）",
+        "options": [
+          "稳定统治",
+          "发展农业",
+          "奖励军功",
+          "推行儒学"
+        ],
+        "answer": "稳定统治",
+        "explanation": "分封以巩固统治。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "春秋战国与社会变革",
+        "question": "主张“无为而治”的学派是（　）",
+        "options": [
+          "儒家",
+          "道家",
+          "法家",
+          "墨家"
+        ],
+        "answer": "道家",
+        "explanation": "道家主张无为。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "中国境内早期人类",
+        "question": "河姆渡居民居住的房屋主要是（　）",
+        "options": [
+          "半地穴式",
+          "干栏式",
+          "窑洞",
+          "石屋"
+        ],
+        "answer": "干栏式",
+        "explanation": "南方潮湿，住干栏式房屋。"
+      }
+    ]
+  }
+}

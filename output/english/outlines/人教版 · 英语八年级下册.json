@@ -1,0 +1,83 @@
+{
+  "textbook": "八年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "现在完成时",
+      "knowledge_points": [
+        {
+          "name": "现在完成时的构成与用法",
+          "description": "掌握 have/has + 过去分词。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "非延续性动词与延续性动词",
+          "description": "区分两类动词与 for/since 的用法。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "被动语态",
+      "knowledge_points": [
+        {
+          "name": "一般现在时与一般过去时的被动语态",
+          "description": "掌握 be + 过去分词。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "情态动词与被动语态",
+          "description": "掌握含情态动词的被动语态。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "比较级与宾语从句",
+      "knowledge_points": [
+        {
+          "name": "形容词与副词比较级复习",
+          "description": "综合运用比较级与最高级。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "宾语从句",
+          "description": "掌握宾语从句的三要素与语序。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

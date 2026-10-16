@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级上册",
+  "unit": "法律与法治初步",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「法律与法治初步」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "法律与生活",
+        "question": "法律区别于道德的最主要特征是（　）",
+        "options": [
+          "靠国家强制力保证实施",
+          "由国家制定",
+          "内容广泛",
+          "历史悠久"
+        ],
+        "answer": "靠国家强制力保证实施",
+        "explanation": "强制力是主要特征。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "未成年人的法律保护",
+        "question": "我国对未成年人的保护不包括（　）",
+        "options": [
+          "家庭保护",
+          "学校保护",
+          "网络保护",
+          "企业保护"
+        ],
+        "answer": "企业保护",
+        "explanation": "六大保护中无企业保护。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "法律与生活",
+        "question": "法律对全体社会成员具有普遍约束力。",
+        "options": [],
+        "answer": "对",
+        "explanation": "法律具有普遍约束力。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "未成年人的法律保护",
+        "question": "未成年人应增强自我保护意识。",
+        "options": [],
+        "answer": "对",
+        "explanation": "自我保护很重要。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "法律与生活",
+      "core_concept": "法律是由国家制定或认可、靠国家强制力保证实施、对全体社会成员具有普遍约束力的行为规范。法律既规范行为也保护权益。",
+      "key_formula": "法律三大特征",
+      "common_mistakes": [
+        "把法律与道德完全等同。"
+      ],
+      "tips": "法律靠国家强制力。"
+    },
+    {
+      "point": "未成年人的法律保护",
+      "core_concept": "未成年人保护法规定了家庭保护、学校保护、社会保护、网络保护、政府保护、司法保护六大保护。未成年人要增强自我保护意识。",
+      "key_formula": "六大保护",
+      "common_mistakes": [
+        "只知家庭保护。"
+      ],
+      "tips": "六大保护缺一不可。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "未成年人的法律保护",
+        "question": "学校开展法治安全教育属于（　）",
+        "options": [
+          "学校保护",
+          "家庭保护",
+          "司法保护",
+          "网络保护"
+        ],
+        "answer": "学校保护",
+        "explanation": "学校开展的教育属学校保护。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "法律与生活",
+        "question": "法律既规范人们的行为，也保护人们的合法权益。",
+        "options": [],
+        "answer": "对",
+        "explanation": "法律的双重作用。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "未成年人的法律保护",
+        "question": "网络保护要求为未成年人提供安全的网络环境。",
+        "options": [],
+        "answer": "对",
+        "explanation": "网络保护内容。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "法律与生活",
+        "question": "下列行为属于违法行为的是（　）",
+        "options": [
+          "遵守交通规则",
+          "故意损坏公共设施",
+          "参加志愿活动",
+          "认真学习"
+        ],
+        "answer": "故意损坏公共设施",
+        "explanation": "损坏公物违法。"
+      }
+    ]
+  }
+}

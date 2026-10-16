@@ -1,0 +1,144 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Module 2 家庭与日常生活",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 2 家庭与日常生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家庭成员与描述",
+        "question": "My mother ___ a nurse.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "is",
+        "explanation": "主语 My mother 用 is。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "日常作息与频率",
+        "question": "I usually ___ up at six.",
+        "options": [
+          "get",
+          "gets",
+          "getting",
+          "got"
+        ],
+        "answer": "get",
+        "explanation": "主语 I 用原形。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "家庭成员与描述",
+        "question": "描述性格可用 kind、strict 等形容词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "性格形容词。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "日常作息与频率",
+        "question": "频度副词 usually 放在实义动词之前。",
+        "options": [],
+        "answer": "对",
+        "explanation": "频度副词位置。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "家庭成员与描述",
+      "core_concept": "介绍家人常用 My father is… / My mother is…；描述性格用形容词，如 kind、strict、patient。",
+      "key_formula": "My father is a doctor.",
+      "common_mistakes": [
+        "a/an 用错。"
+      ],
+      "tips": "看读音选 a/an。"
+    },
+    {
+      "point": "日常作息与频率",
+      "core_concept": "用 usually、often、sometimes 描述频率；用 at + 时刻、in the morning 等时间状语。",
+      "key_formula": "频度副词 + 一般现在时",
+      "common_mistakes": [
+        "频度副词位置放错。"
+      ],
+      "tips": "放实义动词前。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "家庭成员与描述",
+        "question": "My father is ___ engineer.",
+        "options": [
+          "a",
+          "an",
+          "the",
+          "/"
+        ],
+        "answer": "an",
+        "explanation": "engineer 以元音音素开头。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "日常作息与频率",
+        "question": "She often ___ to school by bike.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "answer": "goes",
+        "explanation": "第三人称单数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "家庭成员与描述",
+        "question": "介绍家人可以用 My…is… 句型。",
+        "options": [],
+        "answer": "对",
+        "explanation": "介绍句型。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "日常作息与频率",
+        "question": "sometimes 表示有时候。",
+        "options": [],
+        "answer": "对",
+        "explanation": "频率副词。"
+      }
+    ]
+  }
+}

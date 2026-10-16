@@ -1,0 +1,171 @@
+{
+  "textbook": "九年级下册",
+  "unit": "金属和金属材料",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「金属和金属材料」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "金属的化学性质与活动性顺序",
+        "question": "下列金属中能与稀盐酸反应放出氢气的是（　）",
+        "options": [
+          "铜",
+          "银",
+          "铁",
+          "金"
+        ],
+        "answer": "铁",
+        "explanation": "铁在氢之前。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "金属的化学性质与活动性顺序",
+        "question": "金属活动性顺序中，排在氢前面的金属能与稀酸反应产生氢气。",
+        "options": [],
+        "answer": "对",
+        "explanation": "金属活动性顺序规律。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "金属资源的利用与保护",
+        "question": "用 160 g 氧化铁炼铁，理论上可得铁多少 g？[$\\text{Fe}_2\\text{O}_3+3\\text{CO}\\xrightarrow{\\text{高温}}2\\text{Fe}+3\\text{CO}_2$，$\\text{Fe}_2\\text{O}_3$ 为 160，Fe 为 56]",
+        "options": [],
+        "answer": "112",
+        "explanation": "$\\frac{160}{160}=\\frac{x}{112}$，$x=112$ g。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "金属的化学性质与活动性顺序",
+        "question": "将铜丝浸入硝酸银溶液中，现象是（　）",
+        "options": [
+          "无变化",
+          "铜丝表面出现银白色物质",
+          "溶液变蓝绿",
+          "产生气泡"
+        ],
+        "answer": "铜丝表面出现银白色物质",
+        "explanation": "铜置换出银（溶液也会变蓝）。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "金属资源的利用与保护",
+        "question": "铁制品在干燥环境中比潮湿环境中更易生锈。",
+        "options": [],
+        "answer": "错",
+        "explanation": "潮湿环境更易生锈。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "金属资源的利用与保护",
+        "question": "下列做法不能防止铁生锈的是（　）",
+        "options": [
+          "刷油漆",
+          "涂油",
+          "放在潮湿处",
+          "镀锌"
+        ],
+        "answer": "放在潮湿处",
+        "explanation": "潮湿加速生锈。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "金属的化学性质与活动性顺序",
+      "core_concept": "金属活动性顺序：钾钙钠镁铝锌铁锡铅(氢)铜汞银铂金。位于氢前的金属能与稀酸反应放出氢气，位于前面的金属能把后面的金属从其盐溶液中置换出来。",
+      "key_formula": "$\\text{Fe}+2\\text{HCl}=\\text{FeCl}_2+\\text{H}_2\\uparrow$",
+      "common_mistakes": [
+        "认为铁与酸反应生成 $\\text{FeCl}_3$。"
+      ],
+      "tips": "铁与酸反应生成亚铁（+2）。"
+    },
+    {
+      "point": "金属资源的利用与保护",
+      "core_concept": "工业炼铁的原理是用一氧化碳还原氧化铁。铁生锈是铁与氧气和水共同作用的结果，防锈可用刷漆、涂油、镀层。",
+      "key_formula": "$\\text{Fe}_2\\text{O}_3+3\\text{CO}\\xrightarrow{\\text{高温}}2\\text{Fe}+3\\text{CO}_2$",
+      "common_mistakes": [
+        "认为只有氧气就生锈。"
+      ],
+      "tips": "铁生锈需氧气和水同时存在。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "金属的化学性质与活动性顺序",
+        "question": "下列金属活动性由强到弱排列正确的是（　）",
+        "options": [
+          "镁>锌>铁>铜",
+          "铜>铁>锌>镁",
+          "铁>镁>铜>锌",
+          "锌>镁>铁>铜"
+        ],
+        "answer": "镁>锌>铁>铜",
+        "explanation": "金属活动性顺序。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "金属资源的利用与保护",
+        "question": "56 g 铁与足量稀盐酸反应，生成氢气多少 g？[$\\text{Fe}+2\\text{HCl}=\\text{FeCl}_2+\\text{H}_2\\uparrow$，Fe 为 56，$\\text{H}_2$ 为 2]",
+        "options": [],
+        "answer": "2",
+        "explanation": "$\\frac{56}{56}=\\frac{x}{2}$，$x=2$ g。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "金属的化学性质与活动性顺序",
+        "question": "铝制品耐腐蚀是因为表面生成致密的氧化铝薄膜。",
+        "options": [],
+        "answer": "对",
+        "explanation": "氧化膜保护作用。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "金属资源的利用与保护",
+        "question": "工业炼铁的主要还原剂是（　）",
+        "options": [
+          "碳",
+          "一氧化碳",
+          "氢气",
+          "氧气"
+        ],
+        "answer": "一氧化碳",
+        "explanation": "CO 作还原剂。"
+      }
+    ]
+  }
+}

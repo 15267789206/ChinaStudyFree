@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "Module 1 认识新朋友 / Making new friends",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 认识新朋友 / Making new friends」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "问候与自我介绍",
+        "question": "— How are you? — ___",
+        "options": [
+          "I'm fine, thank you.",
+          "I'm Tom.",
+          "I'm eight.",
+          "He's my friend."
+        ],
+        "answer": "I'm fine, thank you.",
+        "explanation": "问候后问状态。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数字与年龄",
+        "question": "the number 7 的英语是（　）",
+        "options": [
+          "seven",
+          "eleven",
+          "seventeen",
+          "six"
+        ],
+        "answer": "seven",
+        "explanation": "7 = seven。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "问候与自我介绍",
+        "question": "My name is… 用于自我介绍姓名。",
+        "options": [],
+        "answer": "对",
+        "explanation": "介绍姓名。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "数字与年龄",
+        "question": "How old 用来问年龄。",
+        "options": [],
+        "answer": "对",
+        "explanation": "问年龄。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "问候与自我介绍",
+      "core_concept": "沪教版 Module 1 围绕认识新朋友展开。How are you? — I'm fine, thank you. What's your name? — My name is…",
+      "key_formula": "How are you? — I'm fine.",
+      "common_mistakes": [
+        "把 Good night 当问候语。"
+      ],
+      "tips": "问候按时段。"
+    },
+    {
+      "point": "数字与年龄",
+      "core_concept": "数字 1-10 的英语：one, two, three, four, five, six, seven, eight, nine, ten。问年龄用 How old are you?",
+      "key_formula": "How old…?",
+      "common_mistakes": [
+        "把 seven 与 eleven 混淆。"
+      ],
+      "tips": "注意 -teen 与 -ty。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "问候与自我介绍",
+        "question": "— What's your name? — ___",
+        "options": [
+          "I'm fine.",
+          "My name is Lily.",
+          "I'm nine.",
+          "Thank you."
+        ],
+        "answer": "My name is Lily.",
+        "explanation": "问姓名答姓名。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数字与年龄",
+        "question": "the number 10 的英语是（　）",
+        "options": [
+          "ten",
+          "nine",
+          "twelve",
+          "teen"
+        ],
+        "answer": "ten",
+        "explanation": "10 = ten。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "问候与自我介绍",
+        "question": "别人问好时要礼貌回应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "礼貌回应。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "数字与年龄",
+        "question": "eleven 是 11，twelve 是 12。",
+        "options": [],
+        "answer": "对",
+        "explanation": "易混数字。"
+      }
+    ]
+  }
+}

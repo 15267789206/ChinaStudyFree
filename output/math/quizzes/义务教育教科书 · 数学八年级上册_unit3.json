@@ -1,0 +1,165 @@
+{
+  "textbook": "八年级上册",
+  "unit": "轴对称",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「轴对称」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "轴对称与轴对称图形",
+        "question": "下列图形是轴对称图形的是（　）",
+        "options": [
+          "平行四边形",
+          "等腰三角形",
+          "一般梯形",
+          "不等边三角形"
+        ],
+        "answer": "等腰三角形",
+        "explanation": "等腰三角形有一条对称轴。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "线段垂直平分线",
+        "question": "线段垂直平分线上的点到线段两端距离相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "垂直平分线性质。"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "等腰三角形",
+        "question": "等腰三角形的两个底角 ___。",
+        "options": [],
+        "answer": "相等",
+        "explanation": "等边对等角。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等腰三角形",
+        "question": "等腰三角形顶角为 40°，每个底角是多少度？",
+        "options": [],
+        "answer": "70",
+        "explanation": "$(180°-40°)\\div2=70°$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等腰三角形",
+        "question": "等腰三角形一个底角为 50°，顶角是多少度？",
+        "options": [],
+        "answer": "80",
+        "explanation": "$180°-50°\\times2=80°$。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "轴对称与轴对称图形",
+        "question": "轴对称图形的对称轴一定是直线。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对称轴是直线。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "轴对称与轴对称图形",
+      "core_concept": "沿一条直线折叠，两部分能重合的图形是轴对称图形，这条直线是对称轴。轴对称的两个图形全等。",
+      "key_formula": "对称轴垂直平分对称点连线",
+      "common_mistakes": [
+        "混淆轴对称图形与两个图形成轴对称。"
+      ],
+      "tips": "对称轴是直线不是线段。"
+    },
+    {
+      "point": "线段垂直平分线",
+      "core_concept": "线段垂直平分线上的点到线段两端距离相等；反之，到两端距离相等的点在垂直平分线上。",
+      "key_formula": "PA=PB ⇔ P 在垂直平分线上",
+      "common_mistakes": [
+        "把垂直平分线与角平分线混淆。"
+      ],
+      "tips": "抓住“到两端等距”。"
+    },
+    {
+      "point": "等腰三角形",
+      "core_concept": "等腰三角形两腰相等、两底角相等（等边对等角）；顶角平分线、底边中线、底边高互相重合（三线合一）。",
+      "key_formula": "等边对等角；三线合一",
+      "common_mistakes": [
+        "忘记分类讨论顶角与底角。"
+      ],
+      "tips": "遇等腰先考虑顶角、底角两种情形。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "轴对称与轴对称图形",
+        "question": "等边三角形有几条对称轴（　）",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "无数"
+        ],
+        "answer": "3",
+        "explanation": "等边三角形有三条对称轴。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "等腰三角形",
+        "question": "等腰三角形两边为 3 和 7，周长是多少？",
+        "options": [],
+        "answer": "17",
+        "explanation": "腰只能是7（若腰为3则 $3+3<7$ 不成立），$7+7+3=17$。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "线段垂直平分线",
+        "question": "到线段两端距离相等的点在 ___ 上。",
+        "options": [],
+        "answer": "垂直平分线",
+        "explanation": "逆定理。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "等腰三角形",
+        "question": "等腰三角形“三线合一”指顶角平分线、底边中线、底边高互相重合。",
+        "options": [],
+        "answer": "对",
+        "explanation": "等腰三角形重要性质。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "必修下册",
+  "unit": "古诗文与文学创作",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「古诗文与文学创作」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古诗词鉴赏",
+        "question": "鉴赏古诗词首先要（　）",
+        "options": [
+          "抓住意象把握意境",
+          "数一数有多少句",
+          "查作者生平",
+          "看有没有典故"
+        ],
+        "answer": "抓住意象把握意境",
+        "explanation": "意象是鉴赏切入点。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "文学写作与修改",
+        "question": "修改文章时首先要检查（　）",
+        "options": [
+          "立意是否明确深刻",
+          "字迹是否工整",
+          "字数是否够多",
+          "有没有引用"
+        ],
+        "answer": "立意是否明确深刻",
+        "explanation": "立意优先。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古诗词鉴赏",
+        "question": "古诗词鉴赏必须结合全诗语境。",
+        "options": [],
+        "answer": "对",
+        "explanation": "结合语境。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "文学写作与修改",
+        "question": "写作文选材应力求真实、典型。",
+        "options": [],
+        "answer": "对",
+        "explanation": "材料真实典型。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "古诗词鉴赏",
+      "core_concept": "鉴赏要从意象入手，结合全诗把握意境，品味语言的表现力，体会作者情感。",
+      "key_formula": "意象 + 意境 + 情感 + 语言",
+      "common_mistakes": [
+        "脱离文本套用情感。"
+      ],
+      "tips": "一切景语皆情语。"
+    },
+    {
+      "point": "文学写作与修改",
+      "core_concept": "写作要有真情实感，材料要典型。修改文章要查立意是否深刻、结构是否完整、语言是否准确。",
+      "key_formula": "立意 + 材料 + 结构 + 语言",
+      "common_mistakes": [
+        "只重辞藻不顾立意。"
+      ],
+      "tips": "立意是文章灵魂。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "古诗词鉴赏",
+        "question": "“明月松间照，清泉石上流”主要描绘的是（　）",
+        "options": [
+          "清幽宁静的山林月夜",
+          "热闹的集市",
+          "战场",
+          "田园丰收"
+        ],
+        "answer": "清幽宁静的山林月夜",
+        "explanation": "诗句意境。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "文学写作与修改",
+        "question": "议论文写作要（　）",
+        "options": [
+          "提出明确观点并用事例论证",
+          "只抒情不讲理",
+          "堆砌辞藻",
+          "结构松散"
+        ],
+        "answer": "提出明确观点并用事例论证",
+        "explanation": "议论文要素。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "古诗词鉴赏",
+        "question": "炼字题要答出字义、妙处与情感。",
+        "options": [],
+        "answer": "对",
+        "explanation": "炼字答题规范。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "文学写作与修改",
+        "question": "文章结构应完整、条理清晰。",
+        "options": [],
+        "answer": "对",
+        "explanation": "结构完整。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Unit 3 Sports and Fitness 运动与健康",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「Unit 3 Sports and Fitness 运动与健康」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "运动词汇 athlete / master / strength",
+        "question": "「运动员」的英文是（　）",
+        "options": [
+          "athlete",
+          "athelete",
+          "athlet",
+          "athletee"
+        ],
+        "answer": "athlete",
+        "explanation": "athlete 运动员。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "运动词汇 athlete / master / strength",
+        "question": "「力量」的英文是（　）",
+        "options": [
+          "strength",
+          "strongth",
+          "strenght",
+          "strenth"
+        ],
+        "answer": "strength",
+        "explanation": "strength 力量。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "同意与不同意表达",
+        "question": "「我同意你。」的英文是（　）",
+        "options": [
+          "I agree with you.",
+          "I agree to you.",
+          "I agree you.",
+          "I'm agree with you."
+        ],
+        "answer": "I agree with you.",
+        "explanation": "agree with sb."
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "运动词汇 athlete / master / strength",
+        "question": "fitness 的意思是「健康、健身」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "fitness 健康。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "运动词汇 athlete / master / strength",
+      "core_concept": "athlete 运动员、master 大师/精通、strength 力量、grace 优雅、injury 损伤。",
+      "key_formula": "a sports legend 体育传奇",
+      "common_mistakes": [
+        "athlete 发音与拼写不一致。"
+      ],
+      "tips": "athlete 两个音节。"
+    },
+    {
+      "point": "同意与不同意表达",
+      "core_concept": "I agree with you. 我同意你。I disagree. 我不同意。That's a good idea. 好主意。",
+      "key_formula": "I agree with you.",
+      "common_mistakes": [
+        "agree 后接 to。"
+      ],
+      "tips": "agree with sb."
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "同意与不同意表达",
+        "question": "「我不同意。」的英文是（　）",
+        "options": [
+          "I disagree.",
+          "I disagree with you. agree.",
+          "I don't agree with.",
+          "I'm not agree."
+        ],
+        "answer": "I disagree.",
+        "explanation": "dis- 否定前缀。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "运动词汇 athlete / master / strength",
+        "question": "「损伤」的英文是（　）",
+        "options": [
+          "injury",
+          "injur",
+          "injurey",
+          "injurry"
+        ],
+        "answer": "injury",
+        "explanation": "injury 损伤。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "运动词汇 athlete / master / strength",
+        "question": "sportsmanship 的意思是「体育精神」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "sportsmanship。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "同意与不同意表达",
+        "question": "赞同别人想法时应说（　）",
+        "options": [
+          "That's a good idea.",
+          "I don't think so.",
+          "No way.",
+          "Never mind."
+        ],
+        "answer": "That's a good idea.",
+        "explanation": "赞同表达。"
+      }
+    ]
+  }
+}

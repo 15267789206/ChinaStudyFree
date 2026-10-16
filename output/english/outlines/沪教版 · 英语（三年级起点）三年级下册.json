@@ -1,0 +1,57 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 认识新朋友 / Making new friends",
+      "knowledge_points": [
+        {
+          "name": "问候与自我介绍",
+          "description": "掌握问候语与自我介绍。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "数字与年龄",
+          "description": "掌握数字与询问年龄。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 2 我的家人 / My family",
+      "knowledge_points": [
+        {
+          "name": "家庭成员称呼",
+          "description": "掌握家庭成员的英语称呼。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "形容词描述",
+          "description": "用形容词描述家人。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

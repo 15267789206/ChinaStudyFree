@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "生态与可持续发展",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「生态与可持续发展」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "种群与群落",
+        "question": "种群最基本的数量特征是（　）",
+        "options": [
+          "种群密度",
+          "年龄组成",
+          "性别比例",
+          "迁入迁出率"
+        ],
+        "answer": "种群密度",
+        "explanation": "种群密度是最基本特征。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "生态系统与能量流动",
+        "question": "能量沿食物链传递的特点是（　）",
+        "options": [
+          "单向流动、逐级递减",
+          "循环流动",
+          "双向流动",
+          "保持不变"
+        ],
+        "answer": "单向流动、逐级递减",
+        "explanation": "能量流动特点。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "种群与群落",
+        "question": "在理想条件下种群呈 $J$ 型增长。",
+        "options": [],
+        "answer": "对",
+        "explanation": "J 型增长。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "生态系统与能量流动",
+        "question": "分解者是生态系统中物质循环的关键环节。",
+        "options": [],
+        "answer": "对",
+        "explanation": "分解者作用。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "种群与群落",
+      "core_concept": "种群具有数量、性别、年龄、出生率死亡率、迁入迁出率等特征。$J$ 型增长在理想条件下呈指数增长，$S$ 型增长受环境阻力限制。群落有垂直与水平结构。",
+      "key_formula": "$\\dfrac{N_t}{N_0} = \\lambda^t$",
+      "common_mistakes": [
+        "认为种间都是竞争关系。"
+      ],
+      "tips": "还有捕食、寄生、共生。"
+    },
+    {
+      "point": "生态系统与能量流动",
+      "core_concept": "生态系统由非生物物质和能量、生产者、消费者、分解者组成。能量流动沿食物链逐级递减，传递效率为 10%-20%。",
+      "key_formula": "能量传递效率 = $\\dfrac{\\text{下一营养级同化量}}{\\text{上一营养级同化量}}\\times 100\\%$",
+      "common_mistakes": [
+        "认为能量流动是循环的。"
+      ],
+      "tips": "能量单向流动、逐级递减。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "种群与群落",
+        "question": "在自然条件下，种群通常呈（　）",
+        "options": [
+          "$S$ 型增长",
+          "$J$ 型增长",
+          "直线增长",
+          "无规律"
+        ],
+        "answer": "$S$ 型增长",
+        "explanation": "受环境阻力。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "生态系统与能量流动",
+        "question": "能量传递效率一般为（　）",
+        "options": [
+          "10%-20%",
+          "50%-70%",
+          "80%-90%",
+          "100%"
+        ],
+        "answer": "10%-20%",
+        "explanation": "能量传递效率。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "种群与群落",
+        "question": "群落有垂直结构和水平结构。",
+        "options": [],
+        "answer": "对",
+        "explanation": "群落结构。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "生态系统与能量流动",
+        "question": "食物链和食物网是生态系统的营养结构。",
+        "options": [],
+        "answer": "对",
+        "explanation": "营养结构。"
+      }
+    ]
+  }
+}

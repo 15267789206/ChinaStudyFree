@@ -1,0 +1,57 @@
+{
+  "textbook": "八年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "坚持与尊严",
+      "knowledge_points": [
+        {
+          "name": "坚持与成功的品质",
+          "description": "理解坚持的意义，学会克服困难。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "维护自身的尊严",
+          "description": "理解尊严与谦卑的关系。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "婚姻家庭与知识产权",
+      "knowledge_points": [
+        {
+          "name": "婚姻家庭关系",
+          "description": "理解家庭关系与法律保障。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "知识产权与创新",
+          "description": "了解知识产权，保护创新成果。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "婚姻家庭与知识产权",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「婚姻家庭与知识产权」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "婚姻家庭关系",
+        "question": "家庭成员之间的关系应当是（　）",
+        "options": [
+          "互相尊重、平等相待",
+          "谁声音大谁有理",
+          "长幼尊卑不可质疑",
+          "各过各的互不相干"
+        ],
+        "answer": "互相尊重、平等相待",
+        "explanation": "家庭关系平等。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "知识产权与创新",
+        "question": "下列属于知识产权的是（　）",
+        "options": [
+          "发明专利",
+          "银行存款",
+          "体力劳动",
+          "普通友情"
+        ],
+        "answer": "发明专利",
+        "explanation": "专利属知识产权。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "婚姻家庭关系",
+        "question": "父母对子女负有抚养教育和保护义务。",
+        "options": [],
+        "answer": "对",
+        "explanation": "父母有义务。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "知识产权与创新",
+        "question": "未经作者许可大量复制其作品属于侵权行为。",
+        "options": [],
+        "answer": "对",
+        "explanation": "侵权行为。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "婚姻家庭关系",
+      "core_concept": "家庭成员之间应当互相尊重、平等相待。婚姻家庭关系受法律保护，父母对子女有抚养教育保护义务。",
+      "key_formula": "家庭成员平等尊重",
+      "common_mistakes": [
+        "认为家长可以随意侵犯子女权利。"
+      ],
+      "tips": "家庭关系平等。"
+    },
+    {
+      "point": "知识产权与创新",
+      "core_concept": "知识产权包括著作权、专利权、商标权等。尊重知识产权、鼓励创新，是建设创新型国家的要求。",
+      "key_formula": "著作权 + 专利权 + 商标权",
+      "common_mistakes": [
+        "认为引用不需要注明来源。"
+      ],
+      "tips": "使用他人作品要注明。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "婚姻家庭关系",
+        "question": "下列做法不正确的是（　）",
+        "options": [
+          "父母打骂子女",
+          "子女孝敬父母",
+          "互相尊重",
+          "平等交流"
+        ],
+        "answer": "父母打骂子女",
+        "explanation": "打骂子女不合法。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "知识产权与创新",
+        "question": "写作文时引用别人的文章，应当（　）",
+        "options": [
+          "注明来源",
+          "直接当自己的",
+          "不署名",
+          "改几个字就说是自己的"
+        ],
+        "answer": "注明来源",
+        "explanation": "引用要注明来源。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "婚姻家庭关系",
+        "question": "家庭成员之间的矛盾应通过沟通化解。",
+        "options": [],
+        "answer": "对",
+        "explanation": "沟通化解矛盾。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "知识产权与创新",
+        "question": "保护知识产权就是保护创新。",
+        "options": [],
+        "answer": "对",
+        "explanation": "知识产权保护创新。"
+      }
+    ]
+  }
+}

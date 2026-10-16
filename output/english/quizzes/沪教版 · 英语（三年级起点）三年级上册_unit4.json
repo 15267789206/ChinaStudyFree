@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 2 My family, my friends and me — My friends 我的朋友",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「Module 2 My family, my friends and me — My friends 我的朋友」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "介绍朋友 This is my friend…",
+        "question": "把朋友汤姆介绍给别人，应说（　）",
+        "options": [
+          "This is my friend, Tom.",
+          "He is Tom friend.",
+          "This is Tom friend.",
+          "I am Tom."
+        ],
+        "answer": "This is my friend, Tom.",
+        "explanation": "介绍他人用 This is…"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "人称代词 he / she",
+        "question": "Tom 是男孩名，句子中用 ___ 代替 Tom。",
+        "options": [
+          "He",
+          "She",
+          "It",
+          "His"
+        ],
+        "answer": "He",
+        "explanation": "男性用 he。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "人称代词 he / she",
+        "question": "Lily 是女孩名，句子中用 ___ 代替 Lily。",
+        "options": [
+          "She",
+          "He",
+          "It",
+          "Her"
+        ],
+        "answer": "She",
+        "explanation": "女性用 she。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "介绍朋友 This is my friend…",
+        "question": "This is… 用于把某人介绍给别人。",
+        "options": [],
+        "answer": "对",
+        "explanation": "介绍用语。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "介绍朋友 This is my friend…",
+      "core_concept": "介绍他人用 This is…（这是……）。介绍朋友：This is my friend, Tom.",
+      "key_formula": "This is my friend, Tom.",
+      "common_mistakes": [
+        "介绍时说 He is my friend 而不先用 This is。"
+      ],
+      "tips": "当面介绍首选 This is…"
+    },
+    {
+      "point": "人称代词 he / she",
+      "core_concept": "男性用 he（他），女性用 she（她）；he's = he is，she's = she is。",
+      "key_formula": "Tom is a boy. He's my friend.",
+      "common_mistakes": [
+        "男女代词混用。"
+      ],
+      "tips": "先看性别再选代词。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "介绍朋友 This is my friend…",
+        "question": "「她是我的朋友。」的英文是（　）",
+        "options": [
+          "She's my friend.",
+          "She my friend.",
+          "Her is my friend.",
+          "She's my friends."
+        ],
+        "answer": "She's my friend.",
+        "explanation": "she's = she is。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "人称代词 he / she",
+        "question": "he's 是 he is 的缩写。",
+        "options": [],
+        "answer": "对",
+        "explanation": "缩写规则。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "介绍朋友 This is my friend…",
+        "question": "— This is my friend, Amy. — ___",
+        "options": [
+          "Nice to meet you, Amy.",
+          "Goodbye, Amy.",
+          "How old are you?",
+          "I'm fine."
+        ],
+        "answer": "Nice to meet you, Amy.",
+        "explanation": "被介绍后应问好。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "人称代词 he / she",
+        "question": "___ is my friend. ___ name is Tom.",
+        "options": [
+          "He; His",
+          "His; He",
+          "He; He",
+          "She; Her"
+        ],
+        "answer": "He; His",
+        "explanation": "主语用主格，名词前用物主代词。"
+      }
+    ]
+  }
+}

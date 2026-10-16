@@ -1,0 +1,317 @@
+{
+  "textbook": "三年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 Getting to know you — Hello! 见面问候",
+      "knowledge_points": [
+        {
+          "name": "问候语 Hello / Hi / Good morning",
+          "description": "掌握不同时段的问候语。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "道别 Goodbye / Good night",
+          "description": "掌握告别用语。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 1 Getting to know you — How are you? 你好吗",
+      "knowledge_points": [
+        {
+          "name": "询问身体与情绪 How are you?",
+          "description": "掌握 How are you? 及回答。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "情绪表达 happy / sad / tired",
+          "description": "会用英语表达基本情绪。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "Module 1 Getting to know you — Are you Kitty? 你是谁",
+      "knowledge_points": [
+        {
+          "name": "一般疑问句 Are you…?",
+          "description": "掌握 Are you…? 及其回答。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "询问姓名 What's your name?",
+          "description": "掌握询问与回答姓名。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "Module 2 My family, my friends and me — My friends 我的朋友",
+      "knowledge_points": [
+        {
+          "name": "介绍朋友 This is my friend…",
+          "description": "会把朋友介绍给别人。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "人称代词 he / she",
+          "description": "会按性别选用 he / she。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "Module 2 My family, my friends and me — My family 我的家庭",
+      "knowledge_points": [
+        {
+          "name": "家庭成员 father / mother / brother / sister",
+          "description": "掌握家庭成员的英文表达。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "介绍家人 This is my…",
+          "description": "会向别人介绍自己的家人。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "Module 2 My family, my friends and me — Me 我自己",
+      "knowledge_points": [
+        {
+          "name": "自我介绍 I'm…",
+          "description": "会用 I'm… 介绍姓名与身份。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "表达年龄 I'm nine (years old)",
+          "description": "会用英语表达年龄。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "Module 3 Places and activities — In the classroom 在教室里",
+      "knowledge_points": [
+        {
+          "name": "教室词汇 classroom / desk / chair / blackboard",
+          "description": "掌握教室物品词汇。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "方位介词 on / in / under",
+          "description": "会用介词表达位置。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "Module 3 Places and activities — At the fruit shop 在水果店",
+      "knowledge_points": [
+        {
+          "name": "水果词汇 apple / banana / orange / pear",
+          "description": "掌握常见水果词汇。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "表达喜好 I like…",
+          "description": "会用英语表达喜欢的水果。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 9,
+      "title": "Module 3 Places and activities — In my room 在我的房间",
+      "knowledge_points": [
+        {
+          "name": "房间物品 bed / table / lamp / toy",
+          "description": "掌握房间物品词汇。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "询问位置 Where's my…?",
+          "description": "会用 Where's…? 询问位置。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 10,
+      "title": "Module 4 The world around us — Numbers 数字",
+      "knowledge_points": [
+        {
+          "name": "数字 1-12 与 eleven / twelve",
+          "description": "掌握 1-12 的英文表达。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "询问数量 How many…?",
+          "description": "会用 How many 询问数量。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 11,
+      "title": "Module 4 The world around us — Small animals 小动物",
+      "knowledge_points": [
+        {
+          "name": "动物词汇 cat / dog / bird / rabbit / fish",
+          "description": "掌握常见小动物词汇。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "表达拥有 I have a…",
+          "description": "会用 I have… 表达拥有。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 12,
+      "title": "Module 4 The world around us — The four seasons 四季",
+      "knowledge_points": [
+        {
+          "name": "季节 spring / summer / autumn / winter",
+          "description": "掌握四季的英文表达。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "表达最喜欢 I like… best",
+          "description": "会用 best 表达「最」。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

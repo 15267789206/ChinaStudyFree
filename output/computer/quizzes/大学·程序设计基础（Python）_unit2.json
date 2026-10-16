@@ -1,0 +1,160 @@
+{
+  "textbook": "程序设计基础（Python）",
+  "unit": "流程控制与函数",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「流程控制与函数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "条件与循环",
+        "question": "range(3) 生成的整数是（　）",
+        "options": [
+          "1,2,3",
+          "0,1,2",
+          "0,1,2,3",
+          "1,2"
+        ],
+        "answer": "0,1,2",
+        "explanation": "range 从 0 开始。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "条件与循环",
+        "question": "循环中跳过本次剩余语句应使用（　）",
+        "options": [
+          "break",
+          "continue",
+          "pass",
+          "return"
+        ],
+        "answer": "continue",
+        "explanation": "continue 跳过本次循环。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "函数与模块",
+        "question": "Python 使用缩进来表示代码块。",
+        "options": [],
+        "answer": "对",
+        "explanation": "缩进是语法的一部分。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "函数与模块",
+        "question": "定义函数使用的关键字是（　）",
+        "options": [
+          "function",
+          "def",
+          "func",
+          "define"
+        ],
+        "answer": "def",
+        "explanation": "Python 用 def。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "条件与循环",
+        "question": "break 可以结束当前循环。",
+        "options": [],
+        "answer": "对",
+        "explanation": "break 跳出循环。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "条件与循环",
+      "core_concept": "Python 用缩进表示代码块。for 常用于遍历序列，range(n) 生成 0 到 n-1；while 在条件为真时循环。break 结束循环、continue 跳过本次。",
+      "key_formula": "range(5) → 0,1,2,3,4",
+      "common_mistakes": [
+        "忘写冒号或缩进错误。"
+      ],
+      "tips": "注意缩进为 4 空格。"
+    },
+    {
+      "point": "函数与模块",
+      "core_concept": "用 def 定义函数，return 返回值。import 导入模块，如 math、random。函数参数可有默认值。",
+      "key_formula": "def f(x): return x*2",
+      "common_mistakes": [
+        "函数中修改全局变量未声明 global。"
+      ],
+      "tips": "尽量用参数与返回值传递数据。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "函数与模块",
+        "question": "导入 math 模块并求平方根应写（　）",
+        "options": [
+          "import math; math.sqrt(4)",
+          "sqrt(4)",
+          "math(4).sqrt",
+          "import sqrt"
+        ],
+        "answer": "import math; math.sqrt(4)",
+        "explanation": "需先导入模块。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "函数与模块",
+        "question": "函数可以返回多个值（以元组形式）。",
+        "options": [],
+        "answer": "对",
+        "explanation": "返回元组。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "条件与循环",
+        "question": "while 循环可能出现的错误是（　）",
+        "options": [
+          "死循环",
+          "语法错误",
+          "类型错误",
+          "缩进错误"
+        ],
+        "answer": "死循环",
+        "explanation": "条件恒真导致死循环。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "条件与循环",
+        "question": "for 循环可以遍历字符串。",
+        "options": [],
+        "answer": "对",
+        "explanation": "字符串可迭代。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "textbook": "九年级上册",
+  "unit": "电压、电阻与欧姆定律",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「电压、电阻与欧姆定律」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "欧姆定律",
+        "question": "导体两端电压 6 V、电阻 3 Ω，电流是多少 A？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$I=\\frac63=2$ A。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "欧姆定律",
+        "question": "电阻 10 Ω 的导体中通过 0.2 A 电流，两端电压是多少 V？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$U=IR=0.2\\times10=2$ V。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "电阻与变阻器",
+        "question": "决定导体电阻大小的因素不包括（　）",
+        "options": [
+          "材料",
+          "长度",
+          "横截面积",
+          "电流"
+        ],
+        "answer": "电流",
+        "explanation": "电阻与电流无关。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "电阻与变阻器",
+        "question": "同种材料、长度相同的导体，横截面积越大电阻越小。",
+        "options": [],
+        "answer": "对",
+        "explanation": "电阻影响因素。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "欧姆定律",
+        "question": "电压 12 V、电流 0.4 A，电阻是多少 Ω？",
+        "options": [],
+        "answer": "30",
+        "explanation": "$R=\\frac UI=\\frac{12}{0.4}=30$ Ω。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "伏安法测电阻与安全用电",
+        "question": "连接电路时开关应处于断开状态。",
+        "options": [],
+        "answer": "对",
+        "explanation": "安全操作规范。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "电阻与变阻器",
+      "core_concept": "电阻表示导体对电流的阻碍作用，大小与材料、长度、横截面积和温度有关。同种材料、长度相同时，横截面积越大电阻越小。",
+      "key_formula": "$R=\\frac UI$",
+      "common_mistakes": [
+        "认为电阻与电压、电流有关。"
+      ],
+      "tips": "电阻由导体自身决定。"
+    },
+    {
+      "point": "欧姆定律",
+      "core_concept": "导体中的电流跟导体两端电压成正比，跟导体的电阻成反比。",
+      "key_formula": "$I=\\frac UR$",
+      "common_mistakes": [
+        "把三个量对应关系搞错。"
+      ],
+      "tips": "同一导体、同一时刻的三个量。"
+    },
+    {
+      "point": "伏安法测电阻与安全用电",
+      "core_concept": "伏安法测电阻用电压表测电压、电流表测电流，多次测量取平均值减小误差；家庭电路中用电器并联，开关接在火线上。",
+      "key_formula": "$R=\\frac UI$",
+      "common_mistakes": [
+        "连接电路时开关未断开。"
+      ],
+      "tips": "连接电路前开关必须断开。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "欧姆定律",
+        "question": "电阻 20 Ω，电压 5 V，电流是多少 A？",
+        "options": [],
+        "answer": "0.25",
+        "explanation": "$I=\\frac{5}{20}=0.25$ A。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "伏安法测电阻与安全用电",
+        "question": "家庭电路中用电器之间的连接方式是（　）",
+        "options": [
+          "串联",
+          "并联",
+          "混联",
+          "无法确定"
+        ],
+        "answer": "并联",
+        "explanation": "用电器并联，互不影响。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "欧姆定律",
+        "question": "导体电阻一定时，电流与电压成正比。",
+        "options": [],
+        "answer": "对",
+        "explanation": "欧姆定律。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "欧姆定律",
+        "question": "某导体两端加 3 V 电压时电流为 0.5 A，则其电阻是多少 Ω？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$R=\\frac{3}{0.5}=6$ Ω。"
+      }
+    ]
+  }
+}

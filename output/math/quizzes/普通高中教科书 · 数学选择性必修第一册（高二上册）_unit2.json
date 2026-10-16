@@ -1,0 +1,145 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "圆锥曲线",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「圆锥曲线」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "椭圆",
+        "question": "椭圆 $\\frac{x^2}{25}+\\frac{y^2}{9}=1$ 的 $a$ 等于多少？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$a^2=25$，$a=5$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "椭圆",
+        "question": "椭圆 $\\frac{x^2}{25}+\\frac{y^2}{9}=1$ 的焦距（$2c$）是多少？",
+        "options": [],
+        "answer": "8",
+        "explanation": "$c^2=25-9=16$，$c=4$，$2c=8$。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "双曲线与抛物线",
+        "question": "抛物线 $y^2=8x$ 的焦点横坐标是（　）",
+        "options": [
+          "1",
+          "2",
+          "4",
+          "8"
+        ],
+        "answer": "2",
+        "explanation": "$2p=8$，$p=4$，焦点 $(2,0)$。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "椭圆",
+        "question": "椭圆的离心率取值范围是 $(0,1)$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "$e=\\frac ca$ 且 $0<c<a$。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "双曲线与抛物线",
+        "question": "双曲线 $\\frac{x^2}{9}-\\frac{y^2}{16}=1$ 中 $c$ 等于（　）",
+        "options": [
+          "5",
+          "7",
+          "25",
+          "3"
+        ],
+        "answer": "5",
+        "explanation": "$c^2=9+16=25$，$c=5$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "椭圆",
+      "core_concept": "平面内到两定点距离之和等于常数（大于两定点距离）的点的轨迹是椭圆。$a^2=b^2+c^2$，离心率 $e=\\frac ca\\in(0,1)$。",
+      "key_formula": "$\\frac{x^2}{a^2}+\\frac{y^2}{b^2}=1$",
+      "common_mistakes": [
+        "把 $a^2=b^2+c^2$ 记成 $c^2=a^2+b^2$。"
+      ],
+      "tips": "椭圆中 $a$ 最大。"
+    },
+    {
+      "point": "双曲线与抛物线",
+      "core_concept": "双曲线：到两定点距离之差的绝对值为常数，$c^2=a^2+b^2$。抛物线 $y^2=2px$ 的焦点为 $(\\frac p2,0)$，准线 $x=-\\frac p2$。",
+      "key_formula": "$y^2=2px$",
+      "common_mistakes": [
+        "双曲线中 $a$ 与 $c$ 关系记混。"
+      ],
+      "tips": "双曲线中 $c$ 最大。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "双曲线与抛物线",
+        "question": "抛物线 $y^2=4x$ 的准线方程是 $x=$ ？（填整数）",
+        "options": [],
+        "answer": "-1",
+        "explanation": "$p=2$，准线 $x=-1$。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "椭圆",
+        "question": "椭圆 $\\frac{x^2}{16}+\\frac{y^2}{7}=1$ 的离心率是多少（填分数如 3/4）？",
+        "options": [],
+        "answer": "3/4",
+        "explanation": "$c^2=9$，$c=3$，$e=\\frac34$。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "双曲线与抛物线",
+        "question": "双曲线中 $c^2=a^2+b^2$ 成立。",
+        "options": [],
+        "answer": "对",
+        "explanation": "双曲线基本关系。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "椭圆",
+        "question": "椭圆 $a=5$、$c=3$，离心率是多少（填小数）？",
+        "options": [],
+        "answer": "0.6",
+        "explanation": "$e=\\frac35=0.6$。"
+      }
+    ]
+  }
+}

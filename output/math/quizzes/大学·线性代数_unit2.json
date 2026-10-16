@@ -1,0 +1,134 @@
+{
+  "textbook": "线性代数",
+  "unit": "线性方程组",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「线性方程组」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "线性方程组的解法",
+        "question": "方程组有唯一解的充要条件是（　）",
+        "options": [
+          "$r(A)=r(A|b)=n$",
+          "$r(A)<n$",
+          "$r(A)<r(A|b)$",
+          "$|A|=0$"
+        ],
+        "answer": "$r(A)=r(A|b)=n$",
+        "explanation": "唯一解判定。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "线性方程组的解法",
+        "question": "解方程组 $\\begin{cases}x+y=3\\\\x-y=1\\end{cases}$，$x=$ ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "两式相加 $2x=4$，$x=2$。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "向量组与向量空间",
+        "question": "含零向量的向量组一定线性相关。",
+        "options": [],
+        "answer": "对",
+        "explanation": "零向量使相关性成立。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "线性方程组的解法",
+        "question": "齐次线性方程组一定有解。",
+        "options": [],
+        "answer": "对",
+        "explanation": "至少有零解。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "线性方程组的解法",
+      "core_concept": "用初等行变换把增广矩阵化为行阶梯形求解。$r(A)=r(A|b)=n$ 有唯一解；$r(A)=r(A|b)<n$ 有无穷多解；$r(A)<r(A|b)$ 无解。",
+      "key_formula": "$r(A)=r(A|b)=n$ ⇒ 唯一解",
+      "common_mistakes": [
+        "忘记比较秩与未知数个数。"
+      ],
+      "tips": "先求秩再判断。"
+    },
+    {
+      "point": "向量组与向量空间",
+      "core_concept": "若存在不全为零的系数使 $k_1\\alpha_1+\\cdots+k_s\\alpha_s=0$，则向量组线性相关；向量组的秩等于其最大无关组所含向量个数。",
+      "key_formula": "线性相关 ⇔ 存在非零解",
+      "common_mistakes": [
+        "把含零向量的向量组当作线性无关。"
+      ],
+      "tips": "含零向量必线性相关。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "线性方程组的解法",
+        "question": "解方程组 $\\begin{cases}2x+y=5\\\\x-y=1\\end{cases}$，$y=$ ？",
+        "options": [],
+        "answer": "1",
+        "explanation": "$x=2$，$y=1$。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "向量组与向量空间",
+        "question": "向量组的秩是指（　）",
+        "options": [
+          "最大无关组中向量的个数",
+          "向量的个数",
+          "向量的维数",
+          "零向量的个数"
+        ],
+        "answer": "最大无关组中向量的个数",
+        "explanation": "秩的定义。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "向量组与向量空间",
+        "question": "n 维单位向量组线性无关。",
+        "options": [],
+        "answer": "对",
+        "explanation": "单位向量组无关。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "线性方程组的解法",
+        "question": "方程组 $\\begin{cases}x+y+z=6\\\\x=1\\\\y=2\\end{cases}$ 中 $z=$ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$z=6-1-2=3$。"
+      }
+    ]
+  }
+}

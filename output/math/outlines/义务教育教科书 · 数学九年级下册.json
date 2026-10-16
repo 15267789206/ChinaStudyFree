@@ -1,0 +1,93 @@
+{
+  "textbook": "九年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "反比例函数",
+      "knowledge_points": [
+        {
+          "name": "反比例函数的概念与图象",
+          "description": "理解概念，掌握双曲线的图象特征。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "反比例函数的性质与应用",
+          "description": "掌握增减性与 $k$ 的几何意义。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "相似",
+      "knowledge_points": [
+        {
+          "name": "比例线段与相似三角形判定",
+          "description": "掌握比例性质与相似判定定理。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "相似三角形的性质",
+          "description": "掌握周比、面积比与对应线段比的关系。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "位似",
+          "description": "理解位似图形与坐标变化。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "锐角三角函数",
+      "knowledge_points": [
+        {
+          "name": "锐角三角函数定义",
+          "description": "理解正弦、余弦、正切的定义。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "特殊角三角函数值与解直角三角形",
+          "description": "掌握 30°、45°、60° 的函数值并会解直角三角形。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

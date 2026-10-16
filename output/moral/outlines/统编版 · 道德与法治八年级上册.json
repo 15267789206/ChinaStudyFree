@@ -1,0 +1,83 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "走进社会与规则",
+      "knowledge_points": [
+        {
+          "name": "个人的成长与社会",
+          "description": "理解个人成长与社会进步的关系。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "规则与自由",
+          "description": "理解规则与自由的关系。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "网络生活与社会诚信",
+      "knowledge_points": [
+        {
+          "name": "合理利用网络",
+          "description": "提高媒介素养，学会理性上网。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "诚信与失信后果",
+          "description": "认识诚信价值，了解失信惩戒。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "维护国家利益与安全",
+      "knowledge_points": [
+        {
+          "name": "国家利益与公民利益",
+          "description": "理解国家利益与人民利益的关系。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "维护国家安全",
+          "description": "了解国家安全的内容与维护方式。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "textbook": "必修2",
+  "unit": "基因与染色体的关系",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「基因与染色体的关系」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "减数分裂",
+        "question": "减数分裂中染色体数目减半发生在（　）",
+        "options": [
+          "减数第一次分裂",
+          "减数第二次分裂",
+          "有丝分裂",
+          "受精作用"
+        ],
+        "answer": "减数第一次分裂",
+        "explanation": "减Ⅰ后染色体数目减半。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "伴性遗传",
+        "question": "红绿色盲的遗传方式是（　）",
+        "options": [
+          "伴 X 隐性",
+          "伴 X 显性",
+          "常染色体隐性",
+          "伴 Y"
+        ],
+        "answer": "伴 X 隐性",
+        "explanation": "红绿色盲为伴 X 隐性。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "减数分裂",
+        "question": "一个精原细胞经减数分裂产生 4 个精子。",
+        "options": [],
+        "answer": "对",
+        "explanation": "产生 4 个精子。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "减数分裂",
+        "question": "某生物体细胞染色体数为 8，其配子染色体数是多少？",
+        "options": [],
+        "answer": "4",
+        "explanation": "减半为 4。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "伴性遗传",
+        "question": "伴 X 隐性遗传病男性患者多于女性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "男性更易患病。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "减数分裂",
+      "core_concept": "减数分裂中染色体复制 1 次、细胞分裂 2 次，形成 4 个配子，染色体数目减半。同源染色体联会形成四分体，可发生交叉互换。",
+      "key_formula": "$2n\\to n$",
+      "common_mistakes": [
+        "认为减数第二次分裂有同源染色体。"
+      ],
+      "tips": "减Ⅱ无同源染色体。"
+    },
+    {
+      "point": "伴性遗传",
+      "core_concept": "伴 X 隐性遗传病男性患者多于女性，具有隔代交叉遗传的特点。如红绿色盲、血友病。",
+      "key_formula": "XᵃY 患病男性",
+      "common_mistakes": [
+        "认为男性患病概率与女性相同。"
+      ],
+      "tips": "男性只需一个致病基因即患病。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "伴性遗传",
+        "question": "父母均正常，儿子患红绿色盲，母亲的基因型是（　）",
+        "options": [
+          "$X^BX^B$",
+          "$X^BX^b$",
+          "$X^bX^b$",
+          "$X^BY$"
+        ],
+        "answer": "$X^BX^b$",
+        "explanation": "母亲为携带者。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "减数分裂",
+        "question": "减数分裂过程中同源染色体联会发生在减数第一次分裂前期。",
+        "options": [],
+        "answer": "对",
+        "explanation": "联会发生在减Ⅰ前期。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "减数分裂",
+        "question": "同源染色体是指（　）",
+        "options": [
+          "形状大小一般相同、一条来自父方一条来自母方",
+          "完全相同的两条染色体",
+          "复制形成的两条染色体",
+          "任意两条染色体"
+        ],
+        "answer": "形状大小一般相同、一条来自父方一条来自母方",
+        "explanation": "同源染色体定义。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "伴性遗传",
+        "question": "伴 X 显性遗传病女性患者多于男性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "伴 X 显性特点。"
+      }
+    ]
+  }
+}

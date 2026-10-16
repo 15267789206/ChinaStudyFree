@@ -1,0 +1,150 @@
+{
+  "textbook": "必修第二册",
+  "unit": "立体几何初步",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「立体几何初步」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "空间几何体与表面积、体积",
+        "question": "底面边长 2、高 3 的正三棱柱体积是多少？",
+        "options": [],
+        "answer": "3\\sqrt3",
+        "explanation": "$S=\\frac{\\sqrt3}{4}\\times4=\\sqrt3$，$V=\\sqrt3\\times3=3\\sqrt3$。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "空间几何体与表面积、体积",
+        "question": "半径为 3 的球体积是多少（结果保留 $\\pi$，填 $\\pi$ 的系数）？",
+        "options": [],
+        "answer": "36",
+        "explanation": "$V=\\frac43\\pi\\times27=36\\pi$。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "空间点、线、面的位置关系",
+        "question": "若直线垂直于平面内两条相交直线，则该直线垂直于该平面。",
+        "options": [],
+        "answer": "对",
+        "explanation": "线面垂直判定。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "空间点、线、面的位置关系",
+        "question": "两条异面直线是指（　）",
+        "options": [
+          "不同在任何一个平面内的两条直线",
+          "不平行的两条直线",
+          "不相交的两条直线",
+          "分别在两个平面内的两条直线"
+        ],
+        "answer": "不同在任何一个平面内的两条直线",
+        "explanation": "异面直线定义。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "空间几何体与表面积、体积",
+        "question": "圆锥的体积公式是（　）",
+        "options": [
+          "$\\frac13\\pi r^2h$",
+          "$\\pi r^2h$",
+          "$\\frac43\\pi r^3$",
+          "$\\pi rl$"
+        ],
+        "answer": "$\\frac13\\pi r^2h$",
+        "explanation": "锥体体积公式。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "空间几何体与表面积、体积",
+      "core_concept": "柱体体积 $V=Sh$；锥体 $V=\\frac13Sh$；球 $V=\\frac43\\pi R^3$，$S=4\\pi R^2$。",
+      "key_formula": "$V_\\text{锥}=\\frac13Sh$",
+      "common_mistakes": [
+        "锥体体积漏乘 $\\frac13$。"
+      ],
+      "tips": "锥体别忘了三分之一。"
+    },
+    {
+      "point": "空间点、线、面的位置关系",
+      "core_concept": "直线与平面平行的判定：平面外一条直线与平面内一条直线平行，则该直线与平面平行。线面垂直的判定：直线垂直于平面内两条相交直线。",
+      "key_formula": "线线平行 ⇒ 线面平行",
+      "common_mistakes": [
+        "忽略“相交直线”这一条件。"
+      ],
+      "tips": "垂直判定要两条相交直线。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "空间几何体与表面积、体积",
+        "question": "半径为 2 的球表面积是多少（填 $\\pi$ 的系数）？",
+        "options": [],
+        "answer": "16",
+        "explanation": "$S=4\\pi\\times4=16\\pi$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "空间点、线、面的位置关系",
+        "question": "若 $a\\parallel\\alpha$，$b\\subset\\alpha$，则 $a$ 与 $b$ 的位置关系是（　）",
+        "options": [
+          "一定平行",
+          "一定异面",
+          "平行或异面",
+          "一定相交"
+        ],
+        "answer": "平行或异面",
+        "explanation": "线面平行不能推出线线平行。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "空间几何体与表面积、体积",
+        "question": "棱柱的侧面都是平行四边形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "棱柱侧面性质。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "空间几何体与表面积、体积",
+        "question": "底面积 6、高 4 的三棱锥体积是多少？",
+        "options": [],
+        "answer": "8",
+        "explanation": "$V=\\frac13\\times6\\times4=8$。"
+      }
+    ]
+  }
+}

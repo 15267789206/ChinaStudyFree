@@ -1,0 +1,149 @@
+{
+  "textbook": "一年级上册",
+  "unit": "认识10以内的数",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「认识10以内的数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "1~10 的认识与顺序",
+        "question": "「0」表示（　）",
+        "options": [
+          "一个也没有",
+          "1 个",
+          "很多",
+          "最大"
+        ],
+        "answer": "一个也没有",
+        "explanation": "0 表示没有。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "0 的认识与大小比较",
+        "question": "5 ○ 3，○ 里应填（　）",
+        "options": [
+          ">",
+          "<",
+          "=",
+          "无法确定"
+        ],
+        "answer": ">",
+        "explanation": "5 > 3。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "1~10 的认识与顺序",
+        "question": "按顺序填数：7、8、___、10，横线上是几？",
+        "options": [],
+        "answer": "9",
+        "explanation": "8 后面是 9。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "0 的认识与大小比较",
+        "question": "0 比 1 小。",
+        "options": [],
+        "answer": "对",
+        "explanation": "0 < 1。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "1~10 的认识与顺序",
+      "core_concept": "1~10 依次增大；后面的数比前面的数大，前面的数比后面的数小。",
+      "key_formula": "1 < 2 < 3 < … < 10",
+      "common_mistakes": [
+        "顺序记混。"
+      ],
+      "tips": "顺着数越来越大。"
+    },
+    {
+      "point": "0 的认识与大小比较",
+      "core_concept": "0 表示没有，也表示起点，比 1 小；用 =、>、< 比较两数大小，开口朝大数。",
+      "key_formula": "$=$ / $>$ / $<$",
+      "common_mistakes": [
+        "> 与 < 方向写反。"
+      ],
+      "tips": "开口朝大数，尖尖朝小数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "0 的认识与大小比较",
+        "question": "8 ○ 8，○ 里应填（　）",
+        "options": [
+          "=",
+          ">",
+          "<",
+          "无法确定"
+        ],
+        "answer": "=",
+        "explanation": "两边相等。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "1~10 的认识与顺序",
+        "question": "10 是 1~10 中最大的数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "10 最大。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "1~10 的认识与顺序",
+        "question": "「几」表示（　）",
+        "options": [
+          "数量",
+          "顺序",
+          "位置",
+          "方向"
+        ],
+        "answer": "数量",
+        "explanation": "几表数量。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "0 的认识与大小比较",
+        "question": "下面最大的是（　）",
+        "options": [
+          "9",
+          "8",
+          "10",
+          "1"
+        ],
+        "answer": "10",
+        "explanation": "10 最大。"
+      }
+    ]
+  }
+}

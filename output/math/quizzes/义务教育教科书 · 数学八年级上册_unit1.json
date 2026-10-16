@@ -1,0 +1,165 @@
+{
+  "textbook": "八年级上册",
+  "unit": "三角形",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「三角形」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "三角形边角关系",
+        "question": "三角形内角和等于 ___°。",
+        "options": [],
+        "answer": "180",
+        "explanation": "内角和定理。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "三角形边角关系",
+        "question": "以下三边能构成三角形的是（　）",
+        "options": [
+          "1,2,3",
+          "2,3,5",
+          "3,4,5",
+          "1,1,3"
+        ],
+        "answer": "3,4,5",
+        "explanation": "$3+4>5$，满足两边之和大于第三边。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "三角形边角关系",
+        "question": "三角形中两角分别为 50° 和 60°，第三角是多少度？",
+        "options": [],
+        "answer": "70",
+        "explanation": "$180°-50°-60°=70°$。"
+      },
+      {
+        "id": 4,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "多边形及其内角和",
+        "question": "四边形的内角和为 ___°。",
+        "options": [],
+        "answer": "360",
+        "explanation": "$(4-2)\\times180°=360°$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "多边形及其内角和",
+        "question": "五边形的内角和是多少度？",
+        "options": [],
+        "answer": "540",
+        "explanation": "$(5-2)\\times180°=540°$。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "三角形的重要线段",
+        "question": "三角形的三条中线交于一点。",
+        "options": [],
+        "answer": "对",
+        "explanation": "三中线交于重心。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "三角形边角关系",
+      "core_concept": "三角形任意两边之和大于第三边，任意两边之差小于第三边；内角和为180°。",
+      "key_formula": "$a+b>c$；内角和 $=180°$",
+      "common_mistakes": [
+        "忽略“任意”二字。"
+      ],
+      "tips": "判断能否成三角形，只需检验两较小边之和是否大于最长边。"
+    },
+    {
+      "point": "三角形的重要线段",
+      "core_concept": "三角形有三条中线、三条高、三条角平分线，它们分别交于重心、垂心、内心。",
+      "key_formula": "中线把三角形分成面积相等的两部分",
+      "common_mistakes": [
+        "把高画到延长线外。"
+      ],
+      "tips": "钝角三角形的高可能在形外。"
+    },
+    {
+      "point": "多边形及其内角和",
+      "core_concept": "$n$ 边形内角和为 $(n-2)\\times180°$，外角和恒为360°。",
+      "key_formula": "$(n-2)\\times180°$",
+      "common_mistakes": [
+        "把外角和与内角和混淆。"
+      ],
+      "tips": "外角和与边数无关。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "三角形边角关系",
+        "question": "三角形中最大的角是 100°，它是（　）",
+        "options": [
+          "锐角三角形",
+          "直角三角形",
+          "钝角三角形",
+          "无法确定"
+        ],
+        "answer": "钝角三角形",
+        "explanation": "有一个钝角即为钝角三角形。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "多边形及其内角和",
+        "question": "正六边形的每个内角是多少度？",
+        "options": [],
+        "answer": "120",
+        "explanation": "$(6-2)\\times180°\\div6=120°$。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "多边形及其内角和",
+        "question": "任意多边形的外角和为 ___°。",
+        "options": [],
+        "answer": "360",
+        "explanation": "外角和恒为360°。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "三角形重要线段",
+        "question": "三角形面积为 24，某条中线把三角形分成的两部分各是多少面积？",
+        "options": [],
+        "answer": "12",
+        "explanation": "中线平分面积，$24\\div2=12$。"
+      }
+    ]
+  }
+}

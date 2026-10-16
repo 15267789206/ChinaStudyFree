@@ -1,0 +1,57 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "中国的疆域与自然环境",
+      "knowledge_points": [
+        {
+          "name": "中国的疆域与行政区划",
+          "description": "了解中国的疆域、邻国与行政区划。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "中国的地形与气候",
+          "description": "掌握地势特征与气候特征。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "中国的自然资源与经济发展",
+      "knowledge_points": [
+        {
+          "name": "自然资源与土地利用",
+          "description": "了解自然资源的分类与土地资源特点。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "中国的经济发展",
+          "description": "了解农业、工业与交通发展差异。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

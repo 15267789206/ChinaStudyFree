@@ -1,0 +1,180 @@
+{
+  "textbook": "八年级上册",
+  "unit": "声现象",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「声现象」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "声音的产生与传播",
+        "question": "关于声音的产生，正确的是（　）",
+        "options": [
+          "声音由振动产生",
+          "声音由温度产生",
+          "声音由空气流动产生",
+          "声音不需要介质"
+        ],
+        "answer": "声音由振动产生",
+        "explanation": "一切发声体都在振动。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "声音的产生与传播",
+        "question": "声音不能在真空中传播。",
+        "options": [],
+        "answer": "对",
+        "explanation": "真空不能传声。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "声音的产生与传播",
+        "question": "声音在空气中传播 1.7 s，传播距离是多少米？（声速取 340 m/s）",
+        "options": [],
+        "answer": "578",
+        "explanation": "$s=vt=340\\times1.7=578$ m。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "声音的特性",
+        "question": "“闻其声知其人”主要依据（　）",
+        "options": [
+          "音调",
+          "响度",
+          "音色",
+          "频率"
+        ],
+        "answer": "音色",
+        "explanation": "音色由发声体决定。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "声音的特性",
+        "question": "调节音箱音量旋钮，改变的是声音的（　）",
+        "options": [
+          "音调",
+          "响度",
+          "音色",
+          "速度"
+        ],
+        "answer": "响度",
+        "explanation": "改变振幅即响度。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "噪声与声的利用",
+        "question": "在公路旁植树可以减弱噪声，属于在传播过程中控制噪声。",
+        "options": [],
+        "answer": "对",
+        "explanation": "传播过程控制。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "声音的产生与传播",
+      "core_concept": "声音由物体振动产生，靠介质（固、液、气）传播，真空不能传声。声音在 15℃ 空气中的传播速度约 340 m/s。",
+      "key_formula": "$v=\\frac st$（声速约 340 m/s）",
+      "common_mistakes": [
+        "认为真空也能传声。"
+      ],
+      "tips": "一切发声体都在振动。"
+    },
+    {
+      "point": "声音的特性",
+      "core_concept": "音调由频率决定（频率越高音调越高）；响度由振幅和距离决定；音色由发声体材料和结构决定。",
+      "key_formula": "频率越高 ⇒ 音调越高",
+      "common_mistakes": [
+        "把响度当作音调。"
+      ],
+      "tips": "音调看频率，响度看振幅。"
+    },
+    {
+      "point": "噪声与声的利用",
+      "core_concept": "控制噪声从声源处、传播过程中、人耳处三个环节入手。声可传递信息（回声定位、B 超）和能量（超声波清洗）。",
+      "key_formula": "分贝(dB)衡量噪声强弱",
+      "common_mistakes": [
+        "混淆声传递信息与能量。"
+      ],
+      "tips": "清洗、碎石属于传递能量。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "声音的产生与传播",
+        "question": "声音在 15℃ 空气中传播 680 m 需要多少秒？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$t=\\frac{680}{340}=2$ s。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "声音的特性",
+        "question": "下列声音中音调最高的是（　）",
+        "options": [
+          "男低音",
+          "女高音",
+          "闷雷声",
+          "鼓声"
+        ],
+        "answer": "女高音",
+        "explanation": "频率最高。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "声音的特性",
+        "question": "频率越高，音调越高。",
+        "options": [],
+        "answer": "对",
+        "explanation": "音调由频率决定。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "噪声与声的利用",
+        "question": "下列属于利用声传递能量的是（　）",
+        "options": [
+          "回声定位",
+          "B 超检查",
+          "超声波清洗眼镜",
+          "听诊器"
+        ],
+        "answer": "超声波清洗眼镜",
+        "explanation": "清洗利用声的能量。"
+      }
+    ]
+  }
+}

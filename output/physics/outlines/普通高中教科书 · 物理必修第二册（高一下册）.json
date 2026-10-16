@@ -1,0 +1,83 @@
+{
+  "textbook": "必修第二册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "抛体运动与圆周运动",
+      "knowledge_points": [
+        {
+          "name": "平抛运动",
+          "description": "掌握平抛运动的分解与计算。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "圆周运动与向心力",
+          "description": "掌握线速度、角速度与向心加速度。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "万有引力与宇宙航行",
+      "knowledge_points": [
+        {
+          "name": "万有引力定律",
+          "description": "掌握万有引力定律与天体质量计算。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "宇宙速度与卫星",
+          "description": "了解三个宇宙速度与同步卫星。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "机械能守恒定律",
+      "knowledge_points": [
+        {
+          "name": "功、功率与动能定理",
+          "description": "掌握动能定理的应用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "机械能守恒定律",
+          "description": "掌握机械能守恒的条件与应用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

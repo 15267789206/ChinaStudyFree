@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Unit 2 Let's play sports! 运动",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Unit 2 Let's play sports! 运动」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "运动词汇 football / basketball / swimming / running",
+        "question": "「足球」的英文是（　）",
+        "options": [
+          "football",
+          "foot ball",
+          "footballs",
+          "fotball"
+        ],
+        "answer": "football",
+        "explanation": "football 足球。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "运动词汇 football / basketball / swimming / running",
+        "question": "「游泳」的英文是（　）",
+        "options": [
+          "swimming",
+          "swim",
+          "swiming",
+          "swimmm"
+        ],
+        "answer": "swimming",
+        "explanation": "双写 m 加 -ing。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "实义动词 like 的一般现在时",
+        "question": "「我喜欢打篮球。」的英文是（　）",
+        "options": [
+          "I like playing basketball.",
+          "I like play basketball.",
+          "I likes playing basketball.",
+          "I like to playing basketball."
+        ],
+        "answer": "I like playing basketball.",
+        "explanation": "like doing。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "运动词汇 football / basketball / swimming / running",
+        "question": "play sports 的意思是「做运动」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "play sports。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "运动词汇 football / basketball / swimming / running",
+      "core_concept": "football 足球、basketball 篮球、swimming 游泳、running 跑步；play football 踢足球。",
+      "key_formula": "play football / play basketball",
+      "common_mistakes": [
+        "play the football（球类不加 the）。"
+      ],
+      "tips": "球类运动前不加 the。"
+    },
+    {
+      "point": "实义动词 like 的一般现在时",
+      "core_concept": "like doing / like to do 表示喜欢；三单 likes。",
+      "key_formula": "I like playing basketball.",
+      "common_mistakes": [
+        "like 后接 to 而不用原形混用。"
+      ],
+      "tips": "like doing 表爱好。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "运动词汇 football / basketball / swimming / running",
+        "question": "「跑步」的英文是（　）",
+        "options": [
+          "running",
+          "runing",
+          "run",
+          "runn"
+        ],
+        "answer": "running",
+        "explanation": "双写 n。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "实义动词 like 的一般现在时",
+        "question": "「他喜欢踢足球。」的英文是（　）",
+        "options": [
+          "He likes playing football.",
+          "He like playing football.",
+          "He likes play football.",
+          "He liking playing football."
+        ],
+        "answer": "He likes playing football.",
+        "explanation": "三单 likes。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "运动词汇 football / basketball / swimming / running",
+        "question": "favourite 的意思是「最喜欢的」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "favourite 最爱。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "运动词汇 football / basketball / swimming / running",
+        "question": "「我们做运动吧！」的英文是（　）",
+        "options": [
+          "Let's play sports!",
+          "Let play sports!",
+          "Lets play sport!",
+          "Let's playing sports!"
+        ],
+        "answer": "Let's play sports!",
+        "explanation": "Let's + 原形。"
+      }
+    ]
+  }
+}

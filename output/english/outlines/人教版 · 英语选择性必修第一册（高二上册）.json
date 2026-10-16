@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "被动语态与虚拟语气",
+      "knowledge_points": [
+        {
+          "name": "被动语态综合",
+          "description": "综合运用被动语态。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "虚拟语气",
+          "description": "掌握虚拟语气三种时态。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "状语从句与名词性从句",
+      "knowledge_points": [
+        {
+          "name": "三大从句综合",
+          "description": "综合运用定语从句、名词性从句与状语从句。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "语序与一致",
+          "description": "掌握主谓一致与倒装。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "textbook": "必修1",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "组成细胞的分子",
+      "knowledge_points": [
+        {
+          "name": "蛋白质与核酸",
+          "description": "掌握蛋白质结构多样性与核酸功能。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "糖类、脂质与水盐",
+          "description": "掌握四大类有机物与无机物的功能。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "细胞的基本结构与物质运输",
+      "knowledge_points": [
+        {
+          "name": "细胞器与细胞核",
+          "description": "掌握主要细胞器功能与细胞核结构。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "物质跨膜运输",
+          "description": "掌握被动运输、主动运输与胞吞胞吐。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "细胞的能量供应和利用",
+      "knowledge_points": [
+        {
+          "name": "酶与ATP",
+          "description": "掌握酶的特性与 ATP 的作用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "光合作用与细胞呼吸",
+          "description": "掌握两大代谢过程及关系。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

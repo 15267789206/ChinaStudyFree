@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "勾股定理",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「勾股定理」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "勾股定理及其证明",
+        "question": "直角三角形两直角边为 3、4，斜边为（　）",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "$\\sqrt{7}$"
+        ],
+        "answer": "5",
+        "explanation": "3-4-5 勾股数。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "勾股定理及其证明",
+        "question": "勾股定理的逆定理可以判定（　）",
+        "options": [
+          "直角三角形",
+          "等腰三角形",
+          "等边三角形",
+          "锐角三角形"
+        ],
+        "answer": "直角三角形",
+        "explanation": "逆定理判直角。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "勾股定理及其证明",
+        "question": "勾股定理中 $c$ 是直角三角形的斜边。",
+        "options": [],
+        "answer": "对",
+        "explanation": "斜边对应。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "勾股定理及其证明",
+        "question": "直角三角形两直角边平方和等于斜边平方。",
+        "options": [],
+        "answer": "对",
+        "explanation": "勾股定理。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "勾股定理及其证明",
+      "core_concept": "在直角三角形中，两直角边的平方和等于斜边的平方。$a^2 + b^2 = c^2$（$c$ 为斜边）。逆定理可判定直角三角形。",
+      "key_formula": "$a^2+b^2=c^2$",
+      "common_mistakes": [
+        "把斜边对应的平方写错。"
+      ],
+      "tips": "斜边对应最大边的平方。"
+    },
+    {
+      "point": "勾股定理的应用",
+      "core_concept": "实际问题是直角三角形模型（梯子、楼梯、勾股数的实际距离、立体展开图）。",
+      "key_formula": "找直角三角形 → 代入公式",
+      "common_mistakes": [
+        "不在同一平面找对应边。"
+      ],
+      "tips": "画图找直角边。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "勾股定理及其证明",
+        "question": "直角三角形两直角边为 5、12，斜边为（　）",
+        "options": [
+          "13",
+          "17",
+          "15",
+          "$\\sqrt{169}$"
+        ],
+        "answer": "13",
+        "explanation": "5-12-13 勾股数。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "勾股定理及其证明",
+        "question": "三边满足 $a^2+b^2=c^2$ 的三角形是直角三角形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "逆定理。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "勾股定理及其证明",
+        "question": "下列各组数中能构成直角三角形三边的是（　）",
+        "options": [
+          "3, 4, 5",
+          "2, 3, 4",
+          "1, 2, 3",
+          "4, 5, 6"
+        ],
+        "answer": "3, 4, 5",
+        "explanation": "3-4-5 构成直角三角形。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "勾股定理及其证明",
+        "question": "面积相等的两个直角三角形不一定全等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "面积相等是全等条件之一但需另加条件。"
+      }
+    ]
+  }
+}

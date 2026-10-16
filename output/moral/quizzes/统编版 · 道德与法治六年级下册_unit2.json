@@ -1,0 +1,144 @@
+{
+  "textbook": "六年级下册",
+  "unit": "法律与责任启蒙",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「法律与责任启蒙」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "法律保护我们",
+        "question": "当自己的合法权益受到侵害时，应该（　）",
+        "options": [
+          "通过合法途径维权",
+          "以暴制暴",
+          "放弃不管",
+          "报复对方"
+        ],
+        "answer": "通过合法途径维权",
+        "explanation": "依法维权。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "责任与诚信",
+        "question": "考试作弊被发现，要（　）",
+        "options": [
+          "承担相应责任并改正",
+          "继续作弊",
+          "怪老师不公平",
+          "销毁试卷"
+        ],
+        "answer": "承担相应责任并改正",
+        "explanation": "勇于担责。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "法律保护我们",
+        "question": "法律保护未成年人的合法权益。",
+        "options": [],
+        "answer": "对",
+        "explanation": "法律保护未成年人。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "责任与诚信",
+        "question": "失信要承担相应的法律责任。",
+        "options": [],
+        "answer": "对",
+        "explanation": "失信有后果。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "法律保护我们",
+      "core_concept": "法律保护公民的生命健康、人身自由、名誉、财产等合法权益。对未成年人提供家庭、学校、社会、网络、政府、司法多方保护。",
+      "key_formula": "法律是维权的有力武器",
+      "common_mistakes": [
+        "权益受损也不维权。"
+      ],
+      "tips": "敢于依法维权。"
+    },
+    {
+      "point": "责任与诚信",
+      "core_concept": "责任贯穿学习生活每个细节。做错事要承担相应后果。诚信是为人之本，失信要承担法律责任。",
+      "key_formula": "责任重于泰山",
+      "common_mistakes": [
+        "抄袭作业逃避责任。"
+      ],
+      "tips": "勇于承担责任。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "法律保护我们",
+        "question": "我国对未成年人的保护包括家庭保护、学校保护、社会保护、网络保护、政府保护和（　）",
+        "options": [
+          "司法保护",
+          "经济保护",
+          "军事保护",
+          "外交保护"
+        ],
+        "answer": "司法保护",
+        "explanation": "六大保护含司法保护。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "责任与诚信",
+        "question": "一个人做了错事就要承担责任。",
+        "options": [],
+        "answer": "对",
+        "explanation": "有责必担。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "责任与诚信",
+        "question": "下列行为体现诚信的是（　）",
+        "options": [
+          "考试不作弊",
+          "考试作弊",
+          "抄袭作业",
+          "虚报成绩"
+        ],
+        "answer": "考试不作弊",
+        "explanation": "诚信体现在日常。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "法律保护我们",
+        "question": "尊纪守法是每个公民的基本义务。",
+        "options": [],
+        "answer": "对",
+        "explanation": "守法是义务。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "textbook": "必修上册",
+  "unit": "隋唐至明清的繁荣与危机",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「隋唐至明清的繁荣与危机」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "隋唐制度与繁荣",
+        "question": "科举制正式确立于（　）",
+        "options": [
+          "汉朝",
+          "隋朝",
+          "唐朝",
+          "宋朝"
+        ],
+        "answer": "隋朝",
+        "explanation": "隋朝开创科举制。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "宋元明清的制度与社会变化",
+        "question": "元朝在地方实行的制度是（　）",
+        "options": [
+          "郡县制",
+          "行省制",
+          "分封制",
+          "三省六部制"
+        ],
+        "answer": "行省制",
+        "explanation": "元朝行省制。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "宋元明清的制度与社会变化",
+        "question": "清朝设立军机处，标志君主专制发展到顶峰。",
+        "options": [],
+        "answer": "对",
+        "explanation": "军机处标志专制顶峰。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "隋唐制度与繁荣",
+        "question": "三省六部制中负责执行的机构是（　）",
+        "options": [
+          "中书省",
+          "门下省",
+          "尚书省",
+          "御史台"
+        ],
+        "answer": "尚书省",
+        "explanation": "尚书省负责执行。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "隋唐制度与繁荣",
+        "question": "科举制扩大了统治基础，促进了社会阶层流动。",
+        "options": [],
+        "answer": "对",
+        "explanation": "科举制的影响。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "隋唐制度与繁荣",
+      "core_concept": "隋唐确立三省六部制，分工明确、相互制约。科举制以考试选官，打破门第限制。唐朝出现贞观之治、开元盛世，对外交流活跃。",
+      "key_formula": "三省六部：决策—审议—执行",
+      "common_mistakes": [
+        "认为科举制始于宋朝。"
+      ],
+      "tips": "科举制隋朝开创。"
+    },
+    {
+      "point": "宋元明清的制度与社会变化",
+      "core_concept": "宋朝加强中央集权（分割相权、设转运使）。元朝实行行省制。明朝废丞相、设内阁，清朝设立军机处，君主专制达到顶峰。明清时期出现资本主义萌芽。",
+      "key_formula": "明废丞相，清设军机处",
+      "common_mistakes": [
+        "把内阁当作法定行政机构。"
+      ],
+      "tips": "内阁是顾问机构。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "宋元明清的制度与社会变化",
+        "question": "明朝废除丞相的皇帝是（　）",
+        "options": [
+          "朱元璋",
+          "朱棣",
+          "赵匡胤",
+          "康熙"
+        ],
+        "answer": "朱元璋",
+        "explanation": "明太祖废丞相。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "隋唐制度与繁荣",
+        "question": "唐朝的对外交往促进了中外文化交流。",
+        "options": [],
+        "answer": "对",
+        "explanation": "唐对外交流活跃。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "宋元明清的制度与社会变化",
+        "question": "明清时期中国社会出现的新现象是（　）",
+        "options": [
+          "资本主义萌芽",
+          "行省制",
+          "科举制",
+          "三省六部制"
+        ],
+        "answer": "资本主义萌芽",
+        "explanation": "明清出现资本主义萌芽。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "宋元明清的制度与社会变化",
+        "question": "军机大臣只是跪受笔录、传达皇帝旨意。",
+        "options": [],
+        "answer": "对",
+        "explanation": "军机处职能。"
+      }
+    ]
+  }
+}

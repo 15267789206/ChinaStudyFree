@@ -1,0 +1,145 @@
+{
+  "textbook": "必修第二册",
+  "unit": "抛体运动与圆周运动",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「抛体运动与圆周运动」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "平抛运动",
+        "question": "小球以 5 m/s 水平抛出，离地高度 20 m，落地时间是多少 s？（$g$ 取 10 m/s²）",
+        "options": [],
+        "answer": "2",
+        "explanation": "$20=\\frac12\\times10t^2$，$t=2$ s。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "平抛运动",
+        "question": "上题中小球的水平射程是多少 m？",
+        "options": [],
+        "answer": "10",
+        "explanation": "$x=v_0t=5\\times2=10$ m。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆周运动与向心力",
+        "question": "半径 2 m、线速度 4 m/s 的圆周运动，向心加速度是多少 m/s²？",
+        "options": [],
+        "answer": "8",
+        "explanation": "$a=\\frac{16}{2}=8$ m/s²。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "圆周运动与向心力",
+        "question": "做匀速圆周运动的物体，其合外力（　）",
+        "options": [
+          "为零",
+          "沿切线方向",
+          "指向圆心",
+          "背离圆心"
+        ],
+        "answer": "指向圆心",
+        "explanation": "提供向心力。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "平抛运动",
+        "question": "平抛运动的落地时间只与抛出高度有关。",
+        "options": [],
+        "answer": "对",
+        "explanation": "竖直分运动决定时间。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "平抛运动",
+      "core_concept": "平抛运动可分解为水平方向匀速直线运动和竖直方向自由落体运动。$x=v_0t$，$y=\\frac12gt^2$，落地时间只由高度决定。",
+      "key_formula": "$t=\\sqrt{\\frac{2h}{g}}$",
+      "common_mistakes": [
+        "认为平抛落地时间与初速度有关。"
+      ],
+      "tips": "分运动独立。"
+    },
+    {
+      "point": "圆周运动与向心力",
+      "core_concept": "$v=\\omega r$，$a=\\frac{v^2}{r}=\\omega^2r$，周期 $T=\\frac{2\\pi r}{v}$。向心力由合外力沿半径方向的分量提供。",
+      "key_formula": "$a=\\frac{v^2}{r}$",
+      "common_mistakes": [
+        "把向心力当作额外的力。"
+      ],
+      "tips": "向心力是效果力。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆周运动与向心力",
+        "question": "半径 0.5 m、周期 2 s 的圆周运动，线速度是多少 m/s？（$\\pi$ 取 3.14）",
+        "options": [],
+        "answer": "1.57",
+        "explanation": "$v=\\frac{2\\pi r}{T}=\\frac{2\\times3.14\\times0.5}{2}=1.57$ m/s。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "平抛运动",
+        "question": "以 10 m/s 水平抛出的物体，1 s 后水平位移是多少 m？",
+        "options": [],
+        "answer": "10",
+        "explanation": "$x=10\\times1=10$ m。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "圆周运动与向心力",
+        "question": "匀速圆周运动是匀速运动。",
+        "options": [],
+        "answer": "错",
+        "explanation": "速度方向不断变化，是变速运动。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "平抛运动",
+        "question": "平抛运动的轨迹是（　）",
+        "options": [
+          "直线",
+          "抛物线",
+          "圆",
+          "椭圆"
+        ],
+        "answer": "抛物线",
+        "explanation": "平抛轨迹为抛物线。"
+      }
+    ]
+  }
+}

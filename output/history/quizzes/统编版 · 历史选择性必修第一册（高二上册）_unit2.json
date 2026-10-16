@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "国家治理与社会变革",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「国家治理与社会变革」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "中国古代的选官与监察",
+        "question": "科举制正式确立的标志是（　）",
+        "options": [
+          "隋文帝设分科考试",
+          "隋炀帝设进士科",
+          "唐太宗扩大国学规模",
+          "武则天创立殿试"
+        ],
+        "answer": "隋炀帝设进士科",
+        "explanation": "进士科确立。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "近代中国社会变革与思想解放",
+        "question": "新文化运动的核心口号是（　）",
+        "options": [
+          "民主与科学",
+          "实业救国",
+          "自强求富",
+          "变法维新"
+        ],
+        "answer": "民主与科学",
+        "explanation": "民主科学。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "中国古代的选官与监察",
+        "question": "科举制打破了世家大族对官场的垄断。",
+        "options": [],
+        "answer": "对",
+        "explanation": "科举意义。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "近代中国社会变革与思想解放",
+        "question": "维新派主张君主立宪，革命派主张民主共和。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两派主张。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "中国古代的选官与监察",
+      "core_concept": "选官制度从察举制、九品中正制到科举制，趋向公开、公平。监察从御史台到都察院，趋向制度化。",
+      "key_formula": "察举 → 九品中正 → 科举",
+      "common_mistakes": [
+        "认为科举制始于宋代。"
+      ],
+      "tips": "隋朝创立。"
+    },
+    {
+      "point": "近代中国社会变革与思想解放",
+      "core_concept": "维新派主张君主立宪，革命派主张民主共和。新文化运动提倡民主与科学，马克思主义传播后中国革命面貌焕然一新。",
+      "key_formula": "改良 → 革命 → 思想启蒙",
+      "common_mistakes": [
+        "把改良与革命混为一谈。"
+      ],
+      "tips": "主张不同。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "中国古代的选官与监察",
+        "question": "九品中正制的缺陷是（　）",
+        "options": [
+          "标准主观、易被门阀控制",
+          "过于公平",
+          "没有标准",
+          "不能选拔人才"
+        ],
+        "answer": "标准主观、易被门阀控制",
+        "explanation": "九品中正制缺陷。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "近代中国社会变革与思想解放",
+        "question": "在中国共产党成立前最早系统介绍马克思主义的是（　）",
+        "options": [
+          "《共产党宣言》",
+          "《新青年》",
+          "《申报》",
+          "《时务报》"
+        ],
+        "answer": "《共产党宣言》",
+        "explanation": "马关条约后传入。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "中国古代的选官与监察",
+        "question": "监察制度在历代不断强化。",
+        "options": [],
+        "answer": "对",
+        "explanation": "监察强化。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "近代中国社会变革与思想解放",
+        "question": "近代中国经历了由改良到革命的转变。",
+        "options": [],
+        "answer": "对",
+        "explanation": "改良到革命。"
+      }
+    ]
+  }
+}

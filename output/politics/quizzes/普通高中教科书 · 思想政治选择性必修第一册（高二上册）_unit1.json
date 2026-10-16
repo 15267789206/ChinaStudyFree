@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "法律与生活",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「法律与生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "民事权利与义务",
+        "question": "关于权利与义务，正确的说法是（　）",
+        "options": [
+          "权利与义务相统一",
+          "只享受权利不履行义务",
+          "只履行义务不享受权利",
+          "两者无关"
+        ],
+        "answer": "权利与义务相统一",
+        "explanation": "权责统一。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "公民与法治国家",
+        "question": "有法可依、有法必依、执法必严、违法必究指的是（　）",
+        "options": [
+          "建设社会主义法治国家的要求",
+          "经济发展目标",
+          "文化繁荣路径",
+          "国际关系准则"
+        ],
+        "answer": "建设社会主义法治国家的要求",
+        "explanation": "法治国家要求。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "民事权利与义务",
+        "question": "没有无义务的权利，也没有无权利的义务。",
+        "options": [],
+        "answer": "对",
+        "explanation": "权责统一。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "公民与法治国家",
+        "question": "公民要自觉履行法定义务。",
+        "options": [],
+        "answer": "对",
+        "explanation": "履行义务。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "民事权利与义务",
+      "core_concept": "公民的民事权利受法律保护，履行民事义务是法定义务。权利与义务相统一，没有无义务的权利，也没有无权利的义务。",
+      "key_formula": "权利与义务相统一",
+      "common_mistakes": [
+        "认为权利与义务可以分离。"
+      ],
+      "tips": "权责统一。"
+    },
+    {
+      "point": "公民与法治国家",
+      "core_concept": "法治国家要求有法可依、有法必依、执法必严、违法必究。公民要增强法治意识，自觉履行义务。",
+      "key_formula": "依法治国，建设社会主义法治国家",
+      "common_mistakes": [
+        "认为法治只约束他人。"
+      ],
+      "tips": "人人都在法律之内。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "民事权利与义务",
+        "question": "公民在行使自由和权利时，不得损害（　）",
+        "options": [
+          "国家的、社会的、集体的利益和其他公民合法的自由和权利",
+          "自己的利益",
+          "家人利益",
+          "个人爱好"
+        ],
+        "answer": "国家的、社会的、集体的利益和其他公民合法的自由和权利",
+        "explanation": "不得损害他人权利。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "公民与法治国家",
+        "question": "法治国家建设要求公民（　）",
+        "options": [
+          "增强法治意识、依法办事",
+          "按人情办事",
+          "避开法律",
+          "只追求经济利益"
+        ],
+        "answer": "增强法治意识、依法办事",
+        "explanation": "依法办事。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "民事权利与义务",
+        "question": "公民的合法财产和财产权利受法律保护。",
+        "options": [],
+        "answer": "对",
+        "explanation": "财产权受保护。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "公民与法治国家",
+        "question": "依法治国是党领导人民治理国家的基本方式。",
+        "options": [],
+        "answer": "对",
+        "explanation": "依法治国。"
+      }
+    ]
+  }
+}

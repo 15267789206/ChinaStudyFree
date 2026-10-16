@@ -1,0 +1,144 @@
+{
+  "textbook": "二年级上册",
+  "unit": "安全与健康",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「安全与健康」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "居家与出行安全",
+        "question": "一个人在家时，有陌生人敲门应该（　）",
+        "options": [
+          "直接开门",
+          "不开门并告诉家长",
+          "请他进屋坐",
+          "跟他走"
+        ],
+        "answer": "不开门并告诉家长",
+        "explanation": "不给陌生人开门。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "居家与出行安全",
+        "question": "发生火灾应该拨打（　）",
+        "options": [
+          "110",
+          "119",
+          "120",
+          "114"
+        ],
+        "answer": "119",
+        "explanation": "119 是火警电话。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "居家与出行安全",
+        "question": "过马路要走斑马线，看红绿灯。",
+        "options": [],
+        "answer": "对",
+        "explanation": "遵守交通规则。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "锻炼与作息",
+        "question": "每天坚持锻炼身体很重要。",
+        "options": [],
+        "answer": "对",
+        "explanation": "锻炼增强体质。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "居家与出行安全",
+      "core_concept": "不给陌生人开门，不玩火玩电，过马路走斑马线看红绿灯。记住 110、119、120 等紧急电话。",
+      "key_formula": "红灯停、绿灯行",
+      "common_mistakes": [
+        "给陌生人开门。"
+      ],
+      "tips": "遇到危险及时求助。"
+    },
+    {
+      "point": "锻炼与作息",
+      "core_concept": "每天坚持体育锻炼，保证充足睡眠，才能身体健康、精力充沛。",
+      "key_formula": "每天锻炼一小时",
+      "common_mistakes": [
+        "长时间玩手机不运动。"
+      ],
+      "tips": "运动让人更健康。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "居家与出行安全",
+        "question": "有人受伤需要急救，应拨打（　）",
+        "options": [
+          "110",
+          "119",
+          "120",
+          "122"
+        ],
+        "answer": "120",
+        "explanation": "120 是急救电话。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "居家与出行安全",
+        "question": "不能玩火和触摸电源插座。",
+        "options": [],
+        "answer": "对",
+        "explanation": "玩火触电很危险。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "锻炼与作息",
+        "question": "下面哪种做法有利于健康（　）",
+        "options": [
+          "熬夜打游戏",
+          "每天跑步半小时",
+          "不吃饭减肥",
+          "长时间看手机"
+        ],
+        "answer": "每天跑步半小时",
+        "explanation": "适量运动有益健康。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "锻炼与作息",
+        "question": "小学生每天要保证充足睡眠。",
+        "options": [],
+        "answer": "对",
+        "explanation": "充足睡眠助成长。"
+      }
+    ]
+  }
+}

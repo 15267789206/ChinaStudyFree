@@ -1,0 +1,67 @@
+{
+  "textbook": "选择性必修第二册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "数列",
+      "knowledge_points": [
+        {
+          "name": "等差数列",
+          "description": "掌握通项公式与前 n 项和。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "等比数列",
+          "description": "掌握通项公式与前 n 项和。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "数列求和与递推",
+          "description": "掌握常用求和方法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "一元函数的导数及其应用",
+      "knowledge_points": [
+        {
+          "name": "导数的概念与运算",
+          "description": "理解导数意义并掌握求导公式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "导数与函数单调性、极值",
+          "description": "会用导数研究函数性质。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

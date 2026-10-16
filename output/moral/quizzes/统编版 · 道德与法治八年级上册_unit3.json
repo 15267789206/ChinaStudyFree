@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "维护国家利益与安全",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「维护国家利益与安全」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "国家利益与公民利益",
+        "question": "我国的国家性质是（　）",
+        "options": [
+          "人民民主专政的社会主义国家",
+          "君主立宪国家",
+          "联邦制国家",
+          "议会共和国家"
+        ],
+        "answer": "人民民主专政的社会主义国家",
+        "explanation": "我国国体。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "维护国家安全",
+        "question": "发现危害国家安全的行为，正确做法是（　）",
+        "options": [
+          "及时向公安机关或国家安全机关报告",
+          "视而不见",
+          "上网传播",
+          "自己追查打斗"
+        ],
+        "answer": "及时向公安机关或国家安全机关报告",
+        "explanation": "及时报告。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "国家利益与公民利益",
+        "question": "国家利益与人民利益在根本上是一致的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "根本一致。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "维护国家安全",
+        "question": "国家安全包括网络信息安全。",
+        "options": [],
+        "answer": "对",
+        "explanation": "总体国家安全观。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "国家利益与公民利益",
+      "core_concept": "我国是人民民主专政的社会主义国家，人民是国家的主人。国家利益与人民利益在根本上是一致的。",
+      "key_formula": "国家利益与人民利益相一致",
+      "common_mistakes": [
+        "认为二者总是对立。"
+      ],
+      "tips": "根本上一致。"
+    },
+    {
+      "point": "维护国家安全",
+      "core_concept": "国家安全包括政治、军事、国土、经济、文化、网络等方面。作为公民要树立国家安全意识，发现危害国家安全行为要及时报告。",
+      "key_formula": "总体国家安全观",
+      "common_mistakes": [
+        "认为国家安全与我无关。"
+      ],
+      "tips": "人人都有维护义务。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "国家利益与公民利益",
+        "question": "当个人利益与国家利益发生冲突时，应该（　）",
+        "options": [
+          "把国家利益放在首位",
+          "只顾个人利益",
+          "放弃国家利益",
+          "两者都不管"
+        ],
+        "answer": "把国家利益放在首位",
+        "explanation": "国家利益至上。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "维护国家安全",
+        "question": "下列不属于维护国家安全做法的是（　）",
+        "options": [
+          "不泄露国家秘密",
+          "发现可疑情况及时报告",
+          "随意传播军事机密",
+          "不参与危害国家安全活动"
+        ],
+        "answer": "随意传播军事机密",
+        "explanation": "泄密危害国家安全。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "国家利益与公民利益",
+        "question": "我国国家的一切权力属于人民。",
+        "options": [],
+        "answer": "对",
+        "explanation": "人民是国家主人。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "维护国家安全",
+        "question": "树立国家安全意识是每个公民的责任。",
+        "options": [],
+        "answer": "对",
+        "explanation": "国家安全人人有责。"
+      }
+    ]
+  }
+}

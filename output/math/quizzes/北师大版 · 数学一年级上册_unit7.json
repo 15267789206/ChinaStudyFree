@@ -1,0 +1,139 @@
+{
+  "textbook": "一年级上册",
+  "unit": "加与减（二）",
+  "unit_number": 7,
+  "unit_test": {
+    "title": "第7单元「加与减（二）」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "11~20 各数的组成",
+        "question": "15 里面有 1 个十和几个一？（　）",
+        "options": [
+          "5",
+          "1",
+          "4",
+          "6"
+        ],
+        "answer": "5",
+        "explanation": "15 = 10 + 5。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "20 以内的加减法",
+        "question": "9 + 5 = ？",
+        "options": [],
+        "answer": "14",
+        "explanation": "把 5 分成 1 和 4，9+1=10，10+4=14。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "20 以内的加减法",
+        "question": "13 − 6 = ？",
+        "options": [],
+        "answer": "7",
+        "explanation": "想 6 + 7 = 13，所以 13 − 6 = 7。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "11~20 各数的组成",
+        "question": "十几都是由 1 个十和几个一组成的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "十位是 1。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "11~20 各数的组成",
+      "core_concept": "11~19 都由 1 个十和几个一组成；20 由 2 个十组成。十位上的 1 表示 1 个十。",
+      "key_formula": "15 = 10 + 5",
+      "common_mistakes": [
+        "把 15 读成「一五」。"
+      ],
+      "tips": "先读十位再读个位。"
+    },
+    {
+      "point": "20 以内的加减法",
+      "core_concept": "20 以内加法可用凑十法；减法可用「想加算减」：想几加几得被减数。",
+      "key_formula": "凑十法 / 想加算减",
+      "common_mistakes": [
+        "进位加法忘记进位。"
+      ],
+      "tips": "看到 9、8 想凑十。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "20 以内的加减法",
+        "question": "8 + 7 = ？",
+        "options": [],
+        "answer": "15",
+        "explanation": "把 7 分成 2 和 5，8+2=10，10+5=15。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "20 以内的加减法",
+        "question": "16 − 8 = ？",
+        "options": [],
+        "answer": "8",
+        "explanation": "想 8 + 8 = 16。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "11~20 各数的组成",
+        "question": "2 个十是（　）",
+        "options": [
+          "20",
+          "12",
+          "10",
+          "2"
+        ],
+        "answer": "20",
+        "explanation": "2 个十 = 20。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "20 以内的加减法",
+        "question": "计算 9 + 6 时，先想把 6 分成 1 和几？（　）",
+        "options": [
+          "5",
+          "4",
+          "6",
+          "1"
+        ],
+        "answer": "5",
+        "explanation": "9 和 1 凑十，6 分成 1 和 5。"
+      }
+    ]
+  }
+}

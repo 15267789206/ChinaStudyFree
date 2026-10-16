@@ -1,0 +1,144 @@
+{
+  "textbook": "必修第一册",
+  "unit": "语法与词汇拓展",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「语法与词汇拓展」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "时态复习与语篇填空",
+        "question": "做语篇填空时判断时态的主要依据是（　）",
+        "options": [
+          "上下文与时间标志",
+          "单词长度",
+          "句子长短",
+          "标点符号"
+        ],
+        "answer": "上下文与时间标志",
+        "explanation": "上下文判断时态。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "词汇积累与运用",
+        "question": "“参加（某活动）”的英文是（　）",
+        "options": [
+          "take part in",
+          "look after",
+          "be good at",
+          "get up"
+        ],
+        "answer": "take part in",
+        "explanation": "take part in 参加。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "时态复习与语篇填空",
+        "question": "语篇填空要联系全文语境。",
+        "options": [],
+        "answer": "对",
+        "explanation": "联系语境。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "词汇积累与运用",
+        "question": "be good at 表示“擅长”。",
+        "options": [],
+        "answer": "对",
+        "explanation": "be good at。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "时态复习与语篇填空",
+      "core_concept": "语篇填空要结合上下文与语法线索判断时态、人称与数。",
+      "key_formula": "上下文 + 语法线索",
+      "common_mistakes": [
+        "孤立看单句。"
+      ],
+      "tips": "结合上下文判断。"
+    },
+    {
+      "point": "词汇积累与运用",
+      "core_concept": "高频动词短语要整体记忆，如 take part in、look after、be good at。",
+      "key_formula": "短语整体记忆",
+      "common_mistakes": [
+        "只记单词不记搭配。"
+      ],
+      "tips": "整体记忆短语。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "时态复习与语篇填空",
+        "question": "语篇填空中遇到第三人称单数主语，动词通常要（　）",
+        "options": [
+          "加 -s/-es",
+          "保持原形",
+          "加 -ing",
+          "加 -ed"
+        ],
+        "answer": "加 -s/-es",
+        "explanation": "主谓一致。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "词汇积累与运用",
+        "question": "“照顾”的英文是（　）",
+        "options": [
+          "look after",
+          "take part in",
+          "get up",
+          "be good at"
+        ],
+        "answer": "look after",
+        "explanation": "look after 照顾。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "时态复习与语篇填空",
+        "question": "填入动词前要先判断主语的人称和数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "先判断主语。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "词汇积累与运用",
+        "question": "动词短语要整体记忆，避免望文生义。",
+        "options": [],
+        "answer": "对",
+        "explanation": "整体记忆。"
+      }
+    ]
+  }
+}

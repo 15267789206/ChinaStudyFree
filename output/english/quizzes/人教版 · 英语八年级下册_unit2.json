@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "被动语态",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「被动语态」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时与一般过去时的被动语态",
+        "question": "English ___ in many countries.",
+        "options": [
+          "speaks",
+          "is spoken",
+          "spoke",
+          "is speaking"
+        ],
+        "answer": "is spoken",
+        "explanation": "主语是动作承受者。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "情态动词与被动语态",
+        "question": "The work ___ by tomorrow.",
+        "options": [
+          "will finish",
+          "will be finished",
+          "will finishing",
+          "finishes"
+        ],
+        "answer": "will be finished",
+        "explanation": "含 will 的被动。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时与一般过去时的被动语态",
+        "question": "被动语态的主语是动作的承受者。",
+        "options": [],
+        "answer": "对",
+        "explanation": "被动语态特征。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "情态动词与被动语态",
+        "question": "主动变被动时要加 be 并把动词变为过去分词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "变被动要点。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "一般现在时与一般过去时的被动语态",
+      "core_concept": "被动语态表示主语是动作的承受者。一般现在时为 am/is/are + 过去分词，一般过去时为 was/were + 过去分词。",
+      "key_formula": "be + 过去分词",
+      "common_mistakes": [
+        "过去分词形式写错。"
+      ],
+      "tips": "先确定 be 再变分词。"
+    },
+    {
+      "point": "情态动词与被动语态",
+      "core_concept": "含情态动词的被动语态结构为 can/must/should + be + 过去分词，主动变被动要“be 提前、动词变分词”。",
+      "key_formula": "情态动词 + be + 过去分词",
+      "common_mistakes": [
+        "主动语态直接改成被动。"
+      ],
+      "tips": "加 be 并变分词。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "一般现在时与一般过去时的被动语态",
+        "question": "The bridge ___ last year.",
+        "options": [
+          "built",
+          "was built",
+          "is built",
+          "will build"
+        ],
+        "answer": "was built",
+        "explanation": "last year 用过去时被动。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "情态动词与被动语态",
+        "question": "These books ___ be sold in this shop.",
+        "options": [
+          "can",
+          "must",
+          "may",
+          "need"
+        ],
+        "answer": "can",
+        "explanation": "情态动词后接 be + 分词。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "一般现在时与一般过去时的被动语态",
+        "question": "被动语态有时可省略 be 动词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "如 books must be sold 的省略情况需结合语境。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "情态动词与被动语态",
+        "question": "“这座桥是建成的”可用被动语态表示。",
+        "options": [],
+        "answer": "对",
+        "explanation": "被动语态应用。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "词法基础",
+      "knowledge_points": [
+        {
+          "name": "名词与冠词",
+          "description": "掌握名词单复数与 a/an/the 用法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "代词与数词",
+          "description": "掌握人称代词、物主代词与基数序数词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "时态与基本句型",
+      "knowledge_points": [
+        {
+          "name": "一般现在时",
+          "description": "掌握一般现在时的用法与第三人称单数。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "There be 与疑问句",
+          "description": "掌握 There be 句型与一般疑问句。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

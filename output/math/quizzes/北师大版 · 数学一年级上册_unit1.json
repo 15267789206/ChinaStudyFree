@@ -1,0 +1,144 @@
+{
+  "textbook": "一年级上册",
+  "unit": "可爱的校园 · 生活中的数",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「可爱的校园 · 生活中的数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数数 1~10",
+        "question": "数物体的个数时，要（　）",
+        "options": [
+          "按顺序一个一个地数",
+          "随便数",
+          "两个两个数",
+          "跳着数"
+        ],
+        "answer": "按顺序一个一个地数",
+        "explanation": "按顺序数才不漏。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "0 的认识",
+        "question": "盘子里一个苹果也没有，用哪个数表示？（　）",
+        "options": [
+          "0",
+          "1",
+          "10",
+          "2"
+        ],
+        "answer": "0",
+        "explanation": "0 表示没有。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "数数 1~10",
+        "question": "3 添上 1 是几？",
+        "options": [],
+        "answer": "4",
+        "explanation": "3 + 1 = 4。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "0 的认识",
+        "question": "0 也是一个数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "0 比 1 小。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "数数 1~10",
+      "core_concept": "数数要一个一个按顺序数，用数表示物体的个数；数到几，物体的个数就是几。",
+      "key_formula": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10",
+      "common_mistakes": [
+        "数数时漏数或重复数。"
+      ],
+      "tips": "数一个做一个标记。"
+    },
+    {
+      "point": "0 的认识",
+      "core_concept": "0 表示一个物体也没有，也可以表示起点；0 也是数，比 1 小。",
+      "key_formula": "0 表示没有",
+      "common_mistakes": [
+        "认为 0 不是数。"
+      ],
+      "tips": "0 是最小的自然数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "数数 1~10",
+        "question": "数数时不能重复也不能遗漏。",
+        "options": [],
+        "answer": "对",
+        "explanation": "一一对应。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "数数 1~10",
+        "question": "1, 2, 3, ___，横线上应填（　）",
+        "options": [
+          "4",
+          "5",
+          "2",
+          "6"
+        ],
+        "answer": "4",
+        "explanation": "3 后面是 4。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "0 的认识",
+        "question": "0 比 1（　）",
+        "options": [
+          "小",
+          "大",
+          "一样大",
+          "无法比较"
+        ],
+        "answer": "小",
+        "explanation": "0 < 1。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "0 的认识",
+        "question": "直尺上的刻度从 0 开始。",
+        "options": [],
+        "answer": "对",
+        "explanation": "0 可以表示起点。"
+      }
+    ]
+  }
+}

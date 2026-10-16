@@ -1,0 +1,150 @@
+{
+  "textbook": "必修2",
+  "unit": "遗传因子的发现",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「遗传因子的发现」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "孟德尔分离定律",
+        "question": "$Aa\\times Aa$ 后代中显性表现型的比例是（　）",
+        "options": [
+          "$\\frac14$",
+          "$\\frac12$",
+          "$\\frac34$",
+          "1"
+        ],
+        "answer": "$\\frac34$",
+        "explanation": "显性占 3/4。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "孟德尔分离定律",
+        "question": "$Aa\\times aa$ 后代中 aa 的比例是多少（填分数）？",
+        "options": [],
+        "answer": "1/2",
+        "explanation": "测交后代 1:1。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "自由组合定律",
+        "question": "$AaBb\\times AaBb$（独立遗传）后代中 $aabb$ 的比例是（　）",
+        "options": [
+          "$\\frac1{16}$",
+          "$\\frac1{4}$",
+          "$\\frac9{16}$",
+          "$\\frac1{8}$"
+        ],
+        "answer": "$\\frac1{16}$",
+        "explanation": "$\\frac14\\times\\frac14=\\frac1{16}$。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "孟德尔分离定律",
+        "question": "测交是让 F₁ 与隐性纯合子杂交。",
+        "options": [],
+        "answer": "对",
+        "explanation": "测交定义。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "自由组合定律",
+        "question": "自由组合定律适用于位于非同源染色体上的非等位基因。",
+        "options": [],
+        "answer": "对",
+        "explanation": "适用条件。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "孟德尔分离定律",
+      "core_concept": "孟德尔用豌豆杂交实验提出遗传因子假说。F₁ 自交后代性状分离比为 3:1，测交后代为 1:1。分离定律适用于一对等位基因。",
+      "key_formula": "$Aa\\times Aa\\to3:1$",
+      "common_mistakes": [
+        "把表现型比例与基因型比例混淆。"
+      ],
+      "tips": "基因型比 1:2:1，表现型比 3:1。"
+    },
+    {
+      "point": "自由组合定律",
+      "core_concept": "两对相对性状杂交，F₂ 表现型比例为 9:3:3:1，说明非同源染色体上的非等位基因自由组合。",
+      "key_formula": "9:3:3:1",
+      "common_mistakes": [
+        "忽略自由组合的适用条件。"
+      ],
+      "tips": "需位于非同源染色体上。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "自由组合定律",
+        "question": "$AaBb\\times aabb$ 后代中 $Aabb$ 的比例是多少（填分数如 1/4）？",
+        "options": [],
+        "answer": "1/4",
+        "explanation": "$\\frac12\\times\\frac12=\\frac14$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "孟德尔分离定律",
+        "question": "基因型 $Aa$ 的个体自交，后代基因型比例是（　）",
+        "options": [
+          "3:1",
+          "1:2:1",
+          "1:1",
+          "9:3:3:1"
+        ],
+        "answer": "1:2:1",
+        "explanation": "基因型比 1:2:1。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "孟德尔分离定律",
+        "question": "等位基因位于同源染色体的相同位置上。",
+        "options": [],
+        "answer": "对",
+        "explanation": "等位基因定义。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "自由组合定律",
+        "question": "孟德尔实验成功的原因之一是选用了自花传粉的豌豆。",
+        "options": [],
+        "answer": "对",
+        "explanation": "豌豆便于控制杂交。"
+      }
+    ]
+  }
+}

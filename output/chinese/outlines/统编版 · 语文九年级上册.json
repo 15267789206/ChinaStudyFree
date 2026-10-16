@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "现代文阅读与古诗词",
+      "knowledge_points": [
+        {
+          "name": "议论文阅读",
+          "description": "把握论点、论据与论证思路。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "古诗词鉴赏",
+          "description": "鉴赏古诗词的表达手法与情感。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "文言文与古诗",
+      "knowledge_points": [
+        {
+          "name": "文言文阅读",
+          "description": "掌握文言实词、虚词与句式。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "古代诗词默写与赏析",
+          "description": "准确默写并理解诗意。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "现在完成时与被动语态",
+      "knowledge_points": [
+        {
+          "name": "现在完成时",
+          "description": "掌握现在完成时的构成与用法。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "被动语态综合",
+          "description": "综合运用被动语态。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "状语从句",
+      "knowledge_points": [
+        {
+          "name": "时间、条件与结果状语从句",
+          "description": "掌握常用连词与主将从现。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "让步与宾语从句",
+          "description": "掌握让步状语从句与宾语从句。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

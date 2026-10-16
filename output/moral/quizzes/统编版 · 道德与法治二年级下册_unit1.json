@@ -1,0 +1,144 @@
+{
+  "textbook": "二年级下册",
+  "unit": "让我来试试",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「让我来试试」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "勇于尝试与坚持",
+        "question": "第一次做饭做得不好吃，应该（　）",
+        "options": [
+          "再也不做了",
+          "总结经验再做一次",
+          "大哭一场",
+          "怪爸爸妈妈"
+        ],
+        "answer": "总结经验再做一次",
+        "explanation": "失败了要总结再试。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "自己的事情自己做",
+        "question": "下面哪种事应该自己做（　）",
+        "options": [
+          "整理自己的书包",
+          "帮爸爸上班",
+          "替妈妈做饭赚钱",
+          "替同学考试"
+        ],
+        "answer": "整理自己的书包",
+        "explanation": "自己的事自己做。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "勇于尝试与坚持",
+        "question": "敢于第一次尝试就是勇敢的表现。",
+        "options": [],
+        "answer": "对",
+        "explanation": "敢尝试就是勇敢。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "自己的事情自己做",
+        "question": "自己的事情尽量自己做。",
+        "options": [],
+        "answer": "对",
+        "explanation": "自理自立。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "勇于尝试与坚持",
+      "core_concept": "第一次做事可能会失败，但敢于尝试就是进步。失败了不灰心，找到原因再来一次，往往就能成功。",
+      "key_formula": "失败是成功之母",
+      "common_mistakes": [
+        "一次失败就放弃。"
+      ],
+      "tips": "勇敢试一试，再试一次。"
+    },
+    {
+      "point": "自己的事情自己做",
+      "core_concept": "穿衣、洗漱、整理房间、完成作业都要自己做。会做的事坚持做，不会的事学着做。",
+      "key_formula": "自理自立",
+      "common_mistakes": [
+        "事事依赖父母。"
+      ],
+      "tips": "越独立越能干。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "勇于尝试与坚持",
+        "question": "“失败是成功之母”告诉我们（　）",
+        "options": [
+          "失败后要放弃",
+          "失败中能学到经验",
+          "失败很丢人",
+          "成功不需要努力"
+        ],
+        "answer": "失败中能学到经验",
+        "explanation": "从失败中学习。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "自己的事情自己做",
+        "question": "会做的事坚持做，不会的事学着做。",
+        "options": [],
+        "answer": "对",
+        "explanation": "这是自理的好方法。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "自己的事情自己做",
+        "question": "早晨起床后，应该自己（　）",
+        "options": [
+          "穿衣服洗漱",
+          "等着妈妈喂饭",
+          "一直哭",
+          "不起床"
+        ],
+        "answer": "穿衣服洗漱",
+        "explanation": "自己的事自己做。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "勇于尝试与坚持",
+        "question": "遇到困难不要马上求助，先自己动脑筋。",
+        "options": [],
+        "answer": "对",
+        "explanation": "先独立思考。"
+      }
+    ]
+  }
+}

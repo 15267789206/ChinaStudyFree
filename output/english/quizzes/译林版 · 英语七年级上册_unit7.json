@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Unit 7 Shopping 购物",
+  "unit_number": 7,
+  "unit_test": {
+    "title": "第7单元「Unit 7 Shopping 购物」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "购物词汇 shop / mall / price / cheap",
+        "question": "「多少钱」的英文是（　）",
+        "options": [
+          "How much is it?",
+          "How many is it?",
+          "How much it is?",
+          "What price is it?"
+        ],
+        "answer": "How much is it?",
+        "explanation": "how much 问价。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "购物词汇 shop / mall / price / cheap",
+        "question": "「便宜的」的英文是（　）",
+        "options": [
+          "cheap",
+          "chip",
+          "cheep",
+          "sheap"
+        ],
+        "answer": "cheap",
+        "explanation": "cheap 便宜。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "购物句型 How much…? / try on",
+        "question": "「购物中心」的英文是（　）",
+        "options": [
+          "shopping mall",
+          "shop mall",
+          "shopping malls",
+          "shopping maul"
+        ],
+        "answer": "shopping mall",
+        "explanation": "shopping mall。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "购物词汇 shop / mall / price / cheap",
+        "question": "expensive 的意思是「昂贵的」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "expensive 贵。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "购物词汇 shop / mall / price / cheap",
+      "core_concept": "shop 商店、shopping mall 购物中心、price 价格、cheap 便宜的、expensive 昂贵的。",
+      "key_formula": "go shopping 去购物",
+      "common_mistakes": [
+        "cheap 与 chip 混淆。"
+      ],
+      "tips": "cheap 便宜。"
+    },
+    {
+      "point": "购物句型 How much…? / try on",
+      "core_concept": "How much is it? 多少钱；try on 试穿；I'd like to buy… 我想买……",
+      "key_formula": "Can I try it on? 我可以试穿吗？",
+      "common_mistakes": [
+        "try on 代词要放中间：try it on。"
+      ],
+      "tips": "代词必须放中间。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "购物句型 How much…? / try on",
+        "question": "「我想买这件 T 恤。」的英文是（　）",
+        "options": [
+          "I'd like to buy this T-shirt.",
+          "I'd like buy this T-shirt.",
+          "I'd like to buying this T-shirt.",
+          "I like to buy this T-shirt."
+        ],
+        "answer": "I'd like to buy this T-shirt.",
+        "explanation": "would like to + 原形。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "购物句型 How much…? / try on",
+        "question": "「我可以试穿吗？」的英文是（　）",
+        "options": [
+          "Can I try it on?",
+          "Can I try on it?",
+          "Can I try it?",
+          "Can I trying it on?"
+        ],
+        "answer": "Can I try it on?",
+        "explanation": "代词放中间。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "购物词汇 shop / mall / price / cheap",
+        "question": "price 的意思是「价格」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "price 价格。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "购物词汇 shop / mall / price / cheap",
+        "question": "「去购物」的英文是（　）",
+        "options": [
+          "go shopping",
+          "go shop",
+          "go to shopping",
+          "going shopping"
+        ],
+        "answer": "go shopping",
+        "explanation": "go shopping。"
+      }
+    ]
+  }
+}

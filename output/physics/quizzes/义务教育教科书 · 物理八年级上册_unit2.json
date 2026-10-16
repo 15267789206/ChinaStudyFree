@@ -1,0 +1,175 @@
+{
+  "textbook": "八年级上册",
+  "unit": "光现象",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「光现象」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "光的直线传播与反射",
+        "question": "下列现象由光的直线传播形成的是（　）",
+        "options": [
+          "影子的形成",
+          "彩虹",
+          "平面镜成像",
+          "海市蜃楼"
+        ],
+        "answer": "影子的形成",
+        "explanation": "光沿直线传播被遮挡形成影子。"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "光的直线传播与反射",
+        "question": "入射角为 30°，反射角为 ___°。",
+        "options": [],
+        "answer": "30",
+        "explanation": "反射角等于入射角。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "平面镜成像",
+        "question": "平面镜成的是等大的虚像。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平面镜成像特点。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "平面镜成像",
+        "question": "人距平面镜 2 m，像与人之间的距离是多少米？",
+        "options": [],
+        "answer": "4",
+        "explanation": "像距等于物距，共 4 m。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "光的折射",
+        "question": "光从空气斜射入水中，折射角（　）入射角",
+        "options": [
+          "大于",
+          "小于",
+          "等于",
+          "无关"
+        ],
+        "answer": "小于",
+        "explanation": "入水后向法线偏折。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "光的折射",
+        "question": "我们看到水中的鱼比实际位置浅，是光的折射造成的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "折射使像上浮。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "光的直线传播与反射",
+      "core_concept": "光在同种均匀介质中沿直线传播。反射定律：反射光线、入射光线、法线在同一平面内，反射光线与入射光线分居法线两侧，反射角等于入射角。",
+      "key_formula": "反射角 = 入射角",
+      "common_mistakes": [
+        "把入射角当作与镜面的夹角。"
+      ],
+      "tips": "角一律与法线比较。"
+    },
+    {
+      "point": "平面镜成像",
+      "core_concept": "平面镜成正立、等大的虚像，像与物到镜面距离相等，像与物关于镜面对称。",
+      "key_formula": "像距 = 物距",
+      "common_mistakes": [
+        "认为像会随距离变小。"
+      ],
+      "tips": "像与物大小始终相等。"
+    },
+    {
+      "point": "光的折射",
+      "core_concept": "光从空气斜射入水或玻璃时，折射光线向法线偏折，折射角小于入射角；反之折射角大于入射角。",
+      "key_formula": "空气→水：折射角 < 入射角",
+      "common_mistakes": [
+        "认为折射角总是小于入射角。"
+      ],
+      "tips": "光在空气中那侧的角更大。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "光的直线传播与反射",
+        "question": "光线与镜面夹角为 40°，则反射角是多少度？",
+        "options": [],
+        "answer": "50",
+        "explanation": "入射角 $=90°-40°=50°$，反射角为 50°。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "平面镜成像",
+        "question": "人向平面镜靠近时，像的大小（　）",
+        "options": [
+          "变大",
+          "变小",
+          "不变",
+          "先大后小"
+        ],
+        "answer": "不变",
+        "explanation": "像与物始终等大。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "光的直线传播与反射",
+        "question": "反射光线、入射光线和法线在同一平面内。",
+        "options": [],
+        "answer": "对",
+        "explanation": "反射定律。"
+      },
+      {
+        "id": 10,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "光的折射",
+        "question": "下列属于光的折射现象的是（　）",
+        "options": [
+          "水中筷子看起来弯折",
+          "水中倒影",
+          "影子",
+          "小孔成像"
+        ],
+        "answer": "水中筷子看起来弯折",
+        "explanation": "折射造成视觉偏折。"
+      }
+    ]
+  }
+}

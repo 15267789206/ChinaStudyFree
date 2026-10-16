@@ -1,0 +1,155 @@
+{
+  "textbook": "必修2",
+  "unit": "基因的本质与表达",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「基因的本质与表达」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "DNA 的结构与复制",
+        "question": "DNA 复制的方式是（　）",
+        "options": [
+          "全保留复制",
+          "半保留复制",
+          "分散复制",
+          "随机复制"
+        ],
+        "answer": "半保留复制",
+        "explanation": "半保留复制。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "DNA 的结构与复制",
+        "question": "一个 DNA 分子复制 3 次后共有多少个 DNA 分子？",
+        "options": [],
+        "answer": "8",
+        "explanation": "$2^3=8$ 个。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "基因的表达与变异",
+        "question": "翻译的场所是（　）",
+        "options": [
+          "细胞核",
+          "核糖体",
+          "线粒体",
+          "高尔基体"
+        ],
+        "answer": "核糖体",
+        "explanation": "翻译在核糖体。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "基因的表达与变异",
+        "question": "基因突变是指 DNA 分子中碱基对的替换、增添或缺失。",
+        "options": [],
+        "answer": "对",
+        "explanation": "基因突变定义。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "DNA 的结构与复制",
+        "question": "DNA 中 A 与 T 配对、G 与 C 配对。",
+        "options": [],
+        "answer": "对",
+        "explanation": "碱基互补配对原则。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "DNA 的结构与复制",
+      "core_concept": "DNA 是规则的双螺旋结构，碱基遵循 A-T、G-C 互补配对。复制方式为半保留复制，需要模板、原料、能量和酶。",
+      "key_formula": "$n$ 次复制后 DNA 数为 $2^n$",
+      "common_mistakes": [
+        "认为复制是全保留。"
+      ],
+      "tips": "每个子代 DNA 含一条母链。"
+    },
+    {
+      "point": "基因的表达与变异",
+      "core_concept": "转录在细胞核中以 DNA 为模板合成 mRNA；翻译在核糖体上以 mRNA 为模板合成蛋白质。基因突变是指 DNA 分子中碱基对的替换、增添或缺失。",
+      "key_formula": "DNA → mRNA → 蛋白质",
+      "common_mistakes": [
+        "把转录与翻译场所混淆。"
+      ],
+      "tips": "转录在核，翻译在核糖体。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "DNA 的结构与复制",
+        "question": "一个 DNA 分子复制 4 次，共需新合成多少条子链？",
+        "options": [],
+        "answer": "30",
+        "explanation": "共 $2\\times(2^4-1)=30$ 条新链。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "基因的表达与变异",
+        "question": "基因突变的特点是（　）",
+        "options": [
+          "普遍性、随机性、低频性",
+          "只发生在生殖细胞",
+          "频率很高",
+          "只改变表现型"
+        ],
+        "answer": "普遍性、随机性、低频性",
+        "explanation": "基因突变特点。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "基因的表达与变异",
+        "question": "转录是以 DNA 的一条链为模板合成 RNA 的过程。",
+        "options": [],
+        "answer": "对",
+        "explanation": "转录定义。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "DNA 的结构与复制",
+        "question": "DNA 的基本组成单位是（　）",
+        "options": [
+          "核糖核苷酸",
+          "脱氧核苷酸",
+          "氨基酸",
+          "葡萄糖"
+        ],
+        "answer": "脱氧核苷酸",
+        "explanation": "DNA 由脱氧核苷酸构成。"
+      }
+    ]
+  }
+}

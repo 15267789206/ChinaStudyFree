@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级上册",
+  "unit": "秦汉时期",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「秦汉时期」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "秦的统一与中央集权",
+        "question": "秦朝完成统一的时间是（　）",
+        "options": [
+          "公元前 221 年",
+          "公元前 202 年",
+          "公元前 207 年",
+          "公元前 770 年"
+        ],
+        "answer": "公元前 221 年",
+        "explanation": "公元前 221 年统一。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "汉朝巩固统一",
+        "question": "汉武帝为削弱诸侯王势力采取的措施是（　）",
+        "options": [
+          "推恩令",
+          "郡县制",
+          "分封制",
+          "科举制"
+        ],
+        "answer": "推恩令",
+        "explanation": "推恩令削弱王国。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "秦的统一与中央集权",
+        "question": "秦朝统一了文字、货币和度量衡。",
+        "options": [],
+        "answer": "对",
+        "explanation": "秦朝统一措施。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "汉朝巩固统一",
+        "question": "张骞出使西域为丝绸之路的开辟奠定了基础。",
+        "options": [],
+        "answer": "对",
+        "explanation": "张骞通西域的意义。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "秦的统一与中央集权",
+      "core_concept": "公元前 221 年秦灭六国完成统一，建立中央集权制度：皇帝制度、三公九卿、地方推行郡县制。统一文字为小篆、统一货币与度量衡。",
+      "key_formula": "公元前 221 年统一",
+      "common_mistakes": [
+        "把郡县制当作汉朝首创。"
+      ],
+      "tips": "秦首创郡县制。"
+    },
+    {
+      "point": "汉朝巩固统一",
+      "core_concept": "汉武帝政治上颁布推恩令、思想上尊崇儒术、经济上盐铁官营、对外派张骞出使西域，开辟丝绸之路。",
+      "key_formula": "推恩令 + 尊崇儒术",
+      "common_mistakes": [
+        "忽略丝绸之路的开辟意义。"
+      ],
+      "tips": "张骞通西域开辟丝绸之路。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "汉朝巩固统一",
+        "question": "丝绸之路的最早开辟者（出使西域）是（　）",
+        "options": [
+          "卫青",
+          "张骞",
+          "班超",
+          "甘英"
+        ],
+        "answer": "张骞",
+        "explanation": "张骞出使西域。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "秦的统一与中央集权",
+        "question": "秦始皇统一全国后推行郡县制，加强了中央集权。",
+        "options": [],
+        "answer": "对",
+        "explanation": "郡县制意义。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "汉朝巩固统一",
+        "question": "汉武帝时期“罢黜百家、尊崇儒术”的建议提出者是（　）",
+        "options": [
+          "董仲舒",
+          "司马迁",
+          "主父偃",
+          "桑弘羊"
+        ],
+        "answer": "董仲舒",
+        "explanation": "董仲舒提出该建议。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "秦汉时期",
+        "question": "汉朝时期造纸术得到改进，对世界文明作出贡献。",
+        "options": [],
+        "answer": "对",
+        "explanation": "东汉蔡伦改进造纸术。"
+      }
+    ]
+  }
+}

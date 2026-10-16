@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "说明文与议论文",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「说明文与议论文」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "说明文阅读",
+        "question": "“珠穆朗玛峰海拔约 8848 米”运用的说明方法是（　）",
+        "options": [
+          "列数字",
+          "举例子",
+          "打比方",
+          "分类别"
+        ],
+        "answer": "列数字",
+        "explanation": "用数字说明。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "议论文基本要素",
+        "question": "作者提出的观点是（　）",
+        "options": [
+          "论点",
+          "论题",
+          "论据",
+          "结论"
+        ],
+        "answer": "论点",
+        "explanation": "论点是作者的观点。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "说明文阅读",
+        "question": "说明文要求语言准确、严密、有条理。",
+        "options": [],
+        "answer": "对",
+        "explanation": "说明文语言特点。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "议论文基本要素",
+        "question": "举例论证的作用是用具体事例证明观点。",
+        "options": [],
+        "answer": "对",
+        "explanation": "举例论证作用。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "说明文阅读",
+      "core_concept": "说明顺序有时间、空间、逻辑三种。说明方法有举例子、列数字、分类别、作比较、打比方、列图表。",
+      "key_formula": "说明方法 + 表达效果",
+      "common_mistakes": [
+        "把打比方与修辞比喻混为一谈。"
+      ],
+      "tips": "说明方法重在准确说明。"
+    },
+    {
+      "point": "议论文基本要素",
+      "core_concept": "议论文三要素是论点、论据、论证。论证方法有举例论证、道理论证、对比论证、比喻论证。",
+      "key_formula": "论点 + 论据 + 论证",
+      "common_mistakes": [
+        "把论题当成论点。"
+      ],
+      "tips": "论点是作者明确的观点。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "说明文阅读",
+        "question": "逻辑顺序是按照（　）来安排的",
+        "options": [
+          "事物内部的联系",
+          "时间先后",
+          "空间方位",
+          "由主到次"
+        ],
+        "answer": "事物内部的联系",
+        "explanation": "逻辑顺序按内在联系。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "议论文基本要素",
+        "question": "用正反两方面的事例说明观点的方法叫（　）",
+        "options": [
+          "对比论证",
+          "举例论证",
+          "道理论证",
+          "比喻论证"
+        ],
+        "answer": "对比论证",
+        "explanation": "正反对照是对比论证。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "议论文基本要素",
+        "question": "议论文必须有明确的论点。",
+        "options": [],
+        "answer": "对",
+        "explanation": "论点是议论文核心。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "说明文阅读",
+        "question": "打比方能使说明更生动形象。",
+        "options": [],
+        "answer": "对",
+        "explanation": "打比方作用。"
+      }
+    ]
+  }
+}

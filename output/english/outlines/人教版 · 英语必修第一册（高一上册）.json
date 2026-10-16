@@ -1,0 +1,135 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Unit 1 Teenage Life 青少年生活",
+      "knowledge_points": [
+        {
+          "name": "高中生活词汇 freshman / club / challenge",
+          "description": "掌握高中生活核心词汇。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "提建议句型",
+          "description": "掌握 advice 相关表达。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Unit 2 Travelling Around 旅行",
+      "knowledge_points": [
+        {
+          "name": "旅行词汇 travel plan / transport",
+          "description": "掌握旅行核心词汇。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "预订与计划表达",
+          "description": "掌握预订相关表达。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "Unit 3 Sports and Fitness 运动与健康",
+      "knowledge_points": [
+        {
+          "name": "运动词汇 athlete / master / strength",
+          "description": "掌握运动健康词汇。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "同意与不同意表达",
+          "description": "掌握交际用语。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "Unit 4 Natural Disasters 自然灾害",
+      "knowledge_points": [
+        {
+          "name": "灾害词汇 flood / earthquake / tsunami",
+          "description": "掌握灾害核心词汇。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "新闻与指令表达",
+          "description": "掌握防灾指令。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "Unit 5 Languages Around the World 世界语言",
+      "knowledge_points": [
+        {
+          "name": "语言词汇 dialect / character",
+          "description": "掌握语言相关词汇。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "英语的传播与变体",
+          "description": "了解英语的世界地位。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

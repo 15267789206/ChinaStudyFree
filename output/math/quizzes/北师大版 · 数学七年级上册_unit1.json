@@ -1,0 +1,174 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第一章 丰富的图形世界",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「第一章 丰富的图形世界」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "几何体与展开图",
+        "question": "下列几何体中，表面都是平面的是（　）",
+        "options": [
+          "正方体",
+          "球",
+          "圆柱",
+          "圆锥"
+        ],
+        "answer": "正方体",
+        "explanation": "正方体的面都是平面。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "几何体与展开图",
+        "question": "正方体的展开图共有（　）种",
+        "options": [
+          "11",
+          "6",
+          "8",
+          "12"
+        ],
+        "answer": "11",
+        "explanation": "正方体有 11 种展开图。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "从三个方向看与截面",
+        "question": "球从任何方向看到的形状都是圆。",
+        "options": [],
+        "answer": "对",
+        "explanation": "三视图均为圆。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "从三个方向看与截面",
+        "question": "用平面截一个正方体，截面不可能是（　）",
+        "options": [
+          "三角形",
+          "五边形",
+          "六边形",
+          "七边形"
+        ],
+        "answer": "七边形",
+        "explanation": "正方体只有 6 个面，截面最多六边形。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "点、线、面、体",
+        "question": "点动成线，线动成面，面动成体。",
+        "options": [],
+        "answer": "对",
+        "explanation": "点线面体的关系。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "几何体与展开图",
+      "core_concept": "棱柱、棱锥、圆柱、圆锥、球是最基本的几何体。正方体有 11 种展开图，相对的两个面在展开图中隔一个正方形。",
+      "key_formula": "正方体有 11 种展开图",
+      "common_mistakes": [
+        "把「田」字形展开当作正方体展开图。"
+      ],
+      "tips": "「田」字形与「凹」字形不能折成正方体。"
+    },
+    {
+      "point": "从三个方向看与截面",
+      "core_concept": "从正面、左面、上面三个方向看到的图形叫三视图。用平面截几何体，截面形状与截法有关：截正方体可得到三角形、四边形、五边形、六边形。",
+      "key_formula": "截面边数 ≤ 面数",
+      "common_mistakes": [
+        "认为球的截面是圆以外的形状。"
+      ],
+      "tips": "球的任何截面都是圆。"
+    },
+    {
+      "point": "点、线、面、体",
+      "core_concept": "点动成线、线动成面、面动成体；几何体由面围成，面与面相交成线，线与线相交成点。",
+      "key_formula": "点动成线，线动成面，面动成体",
+      "common_mistakes": [
+        "把「点」当成有大小。"
+      ],
+      "tips": "点没有大小，只有位置。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "几何体与展开图",
+        "question": "圆柱的侧面展开图是（　）",
+        "options": [
+          "长方形",
+          "三角形",
+          "圆形",
+          "扇形"
+        ],
+        "answer": "长方形",
+        "explanation": "圆柱侧面展开为长方形。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "几何体与展开图",
+        "question": "一个棱柱有 12 个顶点，它是（　）",
+        "options": [
+          "六棱柱",
+          "五棱柱",
+          "七棱柱",
+          "十二棱柱"
+        ],
+        "answer": "六棱柱",
+        "explanation": "12 个顶点 ÷ 2 = 6 条侧棱。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "从三个方向看与截面",
+        "question": "圆锥的侧面展开图是扇形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "圆锥侧面展开为扇形。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "点、线、面、体",
+        "question": "「面动成」的几何现象是（　）",
+        "options": [
+          "体",
+          "线",
+          "点",
+          "角"
+        ],
+        "answer": "体",
+        "explanation": "面动成体。"
+      }
+    ]
+  }
+}

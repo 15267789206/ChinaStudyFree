@@ -1,0 +1,160 @@
+{
+  "textbook": "必修第一册",
+  "unit": "宇宙中的地球",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「宇宙中的地球」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "地球的宇宙环境与太阳活动",
+        "question": "太阳活动的主要标志是（　）",
+        "options": [
+          "黑子和耀斑",
+          "极光和流星",
+          "日食和月食",
+          "潮汐"
+        ],
+        "answer": "黑子和耀斑",
+        "explanation": "黑子、耀斑是主要标志。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "地球的历史与圈层结构",
+        "question": "地壳与地幔的分界面是莫霍界面。",
+        "options": [],
+        "answer": "对",
+        "explanation": "莫霍界面分地壳地幔。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "地球的历史与圈层结构",
+        "question": "划分地球内部圈层的依据是（　）",
+        "options": [
+          "地震波速度变化",
+          "温度变化",
+          "密度变化",
+          "物质成分"
+        ],
+        "answer": "地震波速度变化",
+        "explanation": "依据地震波。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "地球的宇宙环境与太阳活动",
+        "question": "太阳辐射是地球上水循环、大气运动和生物活动的主要能量来源。",
+        "options": [],
+        "answer": "对",
+        "explanation": "太阳辐射的重要性。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "地球的宇宙环境与太阳活动",
+        "question": "地球所在的天体系统由小到大排列正确的是（　）",
+        "options": [
+          "地月系→太阳系→银河系",
+          "太阳系→地月系→银河系",
+          "银河系→太阳系→地月系",
+          "地月系→银河系→太阳系"
+        ],
+        "answer": "地月系→太阳系→银河系",
+        "explanation": "层次由小到大。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "地球的宇宙环境与太阳活动",
+      "core_concept": "天体系统层次：可观测宇宙→银河系→太阳系→地月系。太阳辐射是地球的主要能量来源；太阳活动（黑子、耀斑）会影响无线电通信与磁场。",
+      "key_formula": "太阳辐射 = 地球主要能量来源",
+      "common_mistakes": [
+        "认为太阳黑子与降水无关。"
+      ],
+      "tips": "黑子出现在光球层。"
+    },
+    {
+      "point": "地球的历史与圈层结构",
+      "core_concept": "地层中化石可确定地质年代。地球内部圈层由地壳、地幔、地核组成，划分依据是地震波传播速度的变化。",
+      "key_formula": "地壳—地幔—地核",
+      "common_mistakes": [
+        "把莫霍界面与古登堡界面颠倒。"
+      ],
+      "tips": "莫霍在约 33 km，古登堡在约 2900 km。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "地球的历史与圈层结构",
+        "question": "地质年代中，恐龙繁盛的时代是（　）",
+        "options": [
+          "古生代",
+          "中生代",
+          "新生代",
+          "元古代"
+        ],
+        "answer": "中生代",
+        "explanation": "中生代是恐龙时代。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "地球的历史与圈层结构",
+        "question": "地震波中横波不能通过液体。",
+        "options": [],
+        "answer": "对",
+        "explanation": "横波不能在液体中传播。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "地球的宇宙环境与太阳活动",
+        "question": "太阳活动会使地球上出现“磁暴”现象。",
+        "options": [],
+        "answer": "对",
+        "explanation": "干扰磁场。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "地球的宇宙环境与太阳活动",
+        "question": "地球上存在生命的条件不包括（　）",
+        "options": [
+          "适宜的温度",
+          "液态水",
+          "适合呼吸的大气",
+          "强烈的太阳活动"
+        ],
+        "answer": "强烈的太阳活动",
+        "explanation": "强太阳活动不利。"
+      }
+    ]
+  }
+}

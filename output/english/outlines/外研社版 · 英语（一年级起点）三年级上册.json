@@ -1,0 +1,265 @@
+{
+  "textbook": "三年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 Food and table manners 饮食与餐具",
+      "knowledge_points": [
+        {
+          "name": "食物与餐具词汇",
+          "description": "掌握 rice / noodles / hamburger / chips 与 chopsticks / knife / fork。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "现在进行时 be + doing",
+          "description": "掌握现在进行时的基本用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 2 Making a cake and watching TV 做蛋糕与看电视",
+      "knowledge_points": [
+        {
+          "name": "家务词汇 make / clean / wash",
+          "description": "掌握常见家务动词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "现在进行时的疑问句",
+          "description": "掌握 What are you doing? 问答。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "Module 3 These ducks are very naughty 淘气的鸭子",
+      "knowledge_points": [
+        {
+          "name": "指示代词 this / that / these / those",
+          "description": "掌握四个指示代词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "动物词汇 duck / naughty",
+          "description": "掌握 duck 与描述动物的形容词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "Module 4 I can jump 我能行",
+      "knowledge_points": [
+        {
+          "name": "情态动词 can / can't",
+          "description": "掌握 can 表示能力。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "动作词汇 jump / run / swim / fly",
+          "description": "掌握常见动作词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "Module 5 Can I have an ice cream? 请求与许可",
+      "knowledge_points": [
+        {
+          "name": "请求用语 Can I…?",
+          "description": "掌握礼貌请求的表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "购物与场所词汇",
+          "description": "掌握 shop / ice cream / library。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "Module 6 I've got new shorts and new shoes 衣物与拥有",
+      "knowledge_points": [
+        {
+          "name": "have got 表示拥有",
+          "description": "掌握 have got 的用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "衣物词汇 shorts / shoes / shirt / trousers",
+          "description": "掌握常见衣物词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "Module 7 Have you got a headache? 健康",
+      "knowledge_points": [
+        {
+          "name": "疾病词汇 headache / stomach ache / cold / cough",
+          "description": "掌握常见病痛表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "Have you got…? 问答",
+          "description": "掌握 have got 疑问句。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "Module 8 This is Sam's book 物品归属",
+      "knowledge_points": [
+        {
+          "name": "名词所有格 's",
+          "description": "掌握 's 表示所属。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "物主代词 my / your / his / her",
+          "description": "掌握形容词性物主代词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 9,
+      "title": "Module 9 I'm going to do the long jump 打算与志向",
+      "knowledge_points": [
+        {
+          "name": "be going to 表将来",
+          "description": "掌握 be going to 结构。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "运动与职业词汇",
+          "description": "掌握 long jump / high jump / race / driver。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 10,
+      "title": "Module 10 Are you going to Hong Kong? 旅行计划",
+      "knowledge_points": [
+        {
+          "name": "be going to 疑问句",
+          "description": "掌握 be going to 的一般疑问句。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "旅行词汇 travel / see / visit",
+          "description": "掌握旅行相关词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 1 Getting to know you — How are you? 你好吗",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「Module 1 Getting to know you — How are you? 你好吗」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问身体与情绪 How are you?",
+        "question": "— How are you? — ___",
+        "options": [
+          "I'm fine, thank you.",
+          "I'm nine.",
+          "My name is Tom.",
+          "Yes, I am."
+        ],
+        "answer": "I'm fine, thank you.",
+        "explanation": "问好坏答 I'm fine。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "情绪表达 happy / sad / tired",
+        "question": "「我很开心」的英文是（　）",
+        "options": [
+          "I'm happy.",
+          "I'm sad.",
+          "I'm tired.",
+          "I'm fine."
+        ],
+        "answer": "I'm happy.",
+        "explanation": "happy 表示开心。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问身体与情绪 How are you?",
+        "question": "回答别人的关心后，应说（　）",
+        "options": [
+          "Thank you.",
+          "Hello.",
+          "Goodbye.",
+          "Sorry."
+        ],
+        "answer": "Thank you.",
+        "explanation": "对关心表示感谢。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "情绪表达 happy / sad / tired",
+        "question": "tired 的意思是「疲倦的」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "tired = 累的。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "询问身体与情绪 How are you?",
+      "core_concept": "询问身体/情绪用 How are you?，回答 I'm fine, thank you. / Very well, thanks. 反问 And you?",
+      "key_formula": "How are you? — I'm fine, thank you. And you?",
+      "common_mistakes": [
+        "把 How are you? 当成「你是谁」。"
+      ],
+      "tips": "问「好不好」不是问「是谁」。"
+    },
+    {
+      "point": "情绪表达 happy / sad / tired",
+      "core_concept": "happy 开心、sad 难过、tired 累、hungry 饿。表达：I'm happy. / I'm tired.",
+      "key_formula": "I'm happy. / I'm tired.",
+      "common_mistakes": [
+        "漏掉 be 动词：I happy（×）。"
+      ],
+      "tips": "情绪前要有 am/is/are。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "询问身体与情绪 How are you?",
+        "question": "见到朋友，想问他好不好，应说（　）",
+        "options": [
+          "How are you?",
+          "How old are you?",
+          "Who are you?",
+          "What's this?"
+        ],
+        "answer": "How are you?",
+        "explanation": "问身体/情绪用 How are you。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "询问身体与情绪 How are you?",
+        "question": "I'm fine 表示「我很好」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "fine = 好的。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "情绪表达 happy / sad / tired",
+        "question": "「我很难过」的英文是（　）",
+        "options": [
+          "I'm sad.",
+          "I'm happy.",
+          "I'm hungry.",
+          "I'm fine."
+        ],
+        "answer": "I'm sad.",
+        "explanation": "sad = 难过。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "询问身体与情绪 How are you?",
+        "question": "— I'm fine, thank you. And you? — ___",
+        "options": [
+          "I'm fine too.",
+          "I'm nine.",
+          "My name is Lily.",
+          "Goodbye."
+        ],
+        "answer": "I'm fine too.",
+        "explanation": "反问 And you? 也要回答。"
+      }
+    ]
+  }
+}

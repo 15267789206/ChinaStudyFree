@@ -1,0 +1,144 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Unit 1 人物与职业",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Unit 1 人物与职业」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "职业名称",
+        "question": "“护士”的英文是（　）",
+        "options": [
+          "nurse",
+          "doctor",
+          "teacher",
+          "driver"
+        ],
+        "answer": "nurse",
+        "explanation": "护士 nurse。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与一般现在时",
+        "question": "He ___ as a teacher.",
+        "options": [
+          "work",
+          "works",
+          "working",
+          "worked"
+        ],
+        "answer": "works",
+        "explanation": "第三人称单数。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "职业名称",
+        "question": "engineer 以元音音素开头，用 an。",
+        "options": [],
+        "answer": "对",
+        "explanation": "a/an 选择。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与一般现在时",
+        "question": "职业身份通常用一般现在时表达。",
+        "options": [],
+        "answer": "对",
+        "explanation": "客观事实。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "职业名称",
+      "core_concept": "doctor, nurse, teacher, driver, worker, farmer, engineer, reporter。注意 a/an 的选择。",
+      "key_formula": "a doctor / an engineer",
+      "common_mistakes": [
+        "a engineer。"
+      ],
+      "tips": "看读音用 a/an。"
+    },
+    {
+      "point": "be 动词与一般现在时",
+      "core_concept": "一般现在时表示职业、身份等客观事实。主语第三人称单数时动词加 -s/-es。",
+      "key_formula": "He works as a doctor.",
+      "common_mistakes": [
+        "第三人称单数漏 -s。"
+      ],
+      "tips": "主谓一致。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "职业名称",
+        "question": "“司机”的英文是（　）",
+        "options": [
+          "driver",
+          "farmer",
+          "worker",
+          "reporter"
+        ],
+        "answer": "driver",
+        "explanation": "司机 driver。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与一般现在时",
+        "question": "My mother ___ in a hospital.",
+        "options": [
+          "work",
+          "works",
+          "working",
+          "are working"
+        ],
+        "answer": "works",
+        "explanation": "第三人称单数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "职业名称",
+        "question": "reporter 指记者。",
+        "options": [],
+        "answer": "对",
+        "explanation": "记者。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与一般现在时",
+        "question": "表示习惯性动作用一般现在时。",
+        "options": [],
+        "answer": "对",
+        "explanation": "习惯性动作。"
+      }
+    ]
+  }
+}

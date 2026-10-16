@@ -1,0 +1,144 @@
+{
+  "textbook": "六年级上册",
+  "unit": "阅读与成长",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「阅读与成长」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "阅读习惯与读书方法",
+        "question": "做读书笔记有助于（　）",
+        "options": [
+          "加深理解、积累素材",
+          "加快写作业速度",
+          "让书变薄",
+          "替代阅读"
+        ],
+        "answer": "加深理解、积累素材",
+        "explanation": "读书笔记助理解。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "学习中的思考",
+        "question": "小组讨论时正确做法是（　）",
+        "options": [
+          "认真倾听并补充他人观点",
+          "各说各的乱成一团",
+          "只听不说",
+          "嘲笑发言同学"
+        ],
+        "answer": "认真倾听并补充他人观点",
+        "explanation": "合作要有效倾听。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "阅读习惯与读书方法",
+        "question": "读书要动笔，摘抄好词好句。",
+        "options": [],
+        "answer": "对",
+        "explanation": "摘抄助积累。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "学习中的思考",
+        "question": "敢于提问是主动学习的表现。",
+        "options": [],
+        "answer": "对",
+        "explanation": "问题意识重要。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "阅读习惯与读书方法",
+      "core_concept": "阅读要读懂内容、理清思路、品味语言、体验情感。方法有精读、略读、批注、摘抄与做读书笔记。",
+      "key_formula": "不动笔墨不读书",
+      "common_mistakes": [
+        "读书只翻页不走心。"
+      ],
+      "tips": "做读书笔记效果好。"
+    },
+    {
+      "point": "学习中的思考",
+      "core_concept": "学习要善于提出问题、分析问题、解决问题。小组合作要分工明确、各抒己见、求同存异。",
+      "key_formula": "问题 + 思考 + 探究",
+      "common_mistakes": [
+        "人云亦云，不加思考。"
+      ],
+      "tips": "敢于质疑是可贵品质。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "阅读习惯与读书方法",
+        "question": "略读的方法主要用于（　）",
+        "options": [
+          "快速把握文章大意",
+          "逐字逐句分析",
+          "背诵全文",
+          "抄写全文"
+        ],
+        "answer": "快速把握文章大意",
+        "explanation": "略读重在抓大意。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "学习中的思考",
+        "question": "合作探究要各抒己见、求同存异。",
+        "options": [],
+        "answer": "对",
+        "explanation": "求同存异。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "学习中的思考",
+        "question": "遇到学习困难，正确的态度是（　）",
+        "options": [
+          "主动请教并分析原因",
+          "放弃科目",
+          "抄作业",
+          "怪老师"
+        ],
+        "answer": "主动请教并分析原因",
+        "explanation": "主动求解。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "阅读习惯与读书方法",
+        "question": "广泛阅读有助于拓宽视野。",
+        "options": [],
+        "answer": "对",
+        "explanation": "阅读拓视野。"
+      }
+    ]
+  }
+}

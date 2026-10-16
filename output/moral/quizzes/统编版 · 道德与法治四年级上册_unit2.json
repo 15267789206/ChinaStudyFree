@@ -1,0 +1,144 @@
+{
+  "textbook": "四年级上册",
+  "unit": "信息与传媒",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「信息与传媒」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "正确使用网络",
+        "question": "关于上网，下面做法正确的是（　）",
+        "options": [
+          "把姓名学校住址都告诉网友",
+          "控制时间不沉迷游戏",
+          "随便点击陌生链接",
+          "相信网友借钱请求"
+        ],
+        "answer": "控制时间不沉迷游戏",
+        "explanation": "健康上网不沉迷。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "辨别信息真伪",
+        "question": "看到“某食物能治百病”的消息，应该（　）",
+        "options": [
+          "马上转发",
+          "查证来源再判断",
+          "照着吃",
+          "告诉所有人"
+        ],
+        "answer": "查证来源再判断",
+        "explanation": "要先查证再判断。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "正确使用网络",
+        "question": "不能把个人信息随意透露给网友。",
+        "options": [],
+        "answer": "对",
+        "explanation": "保护个人隐私。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "辨别信息真伪",
+        "question": "不造谣、不信谣、不传谣。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对谣言三不。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "正确使用网络",
+      "core_concept": "上网要有明确目的，控制时间，不沉迷游戏；不轻信陌生网友，不随意透露个人信息，不传播不实信息。",
+      "key_formula": "文明上网、保护隐私",
+      "common_mistakes": [
+        "把家庭住址告诉网友。"
+      ],
+      "tips": "网络世界也要守规则。"
+    },
+    {
+      "point": "辨别信息真伪",
+      "core_concept": "面对网络信息要动脑判断：查来源、看证据、多方验证，不造谣不信谣不传谣。",
+      "key_formula": "不信谣、不传谣",
+      "common_mistakes": [
+        "看到惊人消息就转发。"
+      ],
+      "tips": "转发前先想一想。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "正确使用网络",
+        "question": "长时间上网玩游戏会影响（　）",
+        "options": [
+          "视力和学习",
+          "身高",
+          "听力",
+          "食欲"
+        ],
+        "answer": "视力和学习",
+        "explanation": "沉迷网游伤眼误学。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "辨别信息真伪",
+        "question": "遇到可疑信息可以向家长老师求证。",
+        "options": [],
+        "answer": "对",
+        "explanation": "求证可靠的人。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "辨别信息真伪",
+        "question": "判断网络信息真假，可靠的办法是（　）",
+        "options": [
+          "看点赞多不多",
+          "查权威来源多方验证",
+          "看标题吓不吓人",
+          "听同学说"
+        ],
+        "answer": "查权威来源多方验证",
+        "explanation": "权威来源更可靠。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "正确使用网络",
+        "question": "网上交友要谨慎。",
+        "options": [],
+        "answer": "对",
+        "explanation": "网络交友需谨慎。"
+      }
+    ]
+  }
+}

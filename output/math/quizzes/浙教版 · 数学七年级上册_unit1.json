@@ -1,0 +1,164 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第1章 有理数",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「第1章 有理数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "从自然数到有理数",
+        "question": "下列各数中属于有理数的是（　）",
+        "options": [
+          "$-3$",
+          "$\\pi$",
+          "$\\sqrt2$",
+          "无限不循环小数"
+        ],
+        "answer": "$-3$",
+        "explanation": "$-3$ 是负整数，属于有理数。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "从自然数到有理数",
+        "question": "0 是正数。",
+        "options": [],
+        "answer": "错",
+        "explanation": "0 既不是正数也不是负数。"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "绝对值与有理数大小比较",
+        "question": "$-7$ 的绝对值是 ___。",
+        "options": [],
+        "answer": "7",
+        "explanation": "$|-7|=7$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "绝对值与有理数大小比较",
+        "question": "数轴上表示 $-3$ 的点与表示 $2$ 的点之间的距离是多少？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$2-(-3)=5$。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "绝对值与有理数大小比较",
+        "question": "$-5$ 与 $-3$ 比较，较大的是（　）",
+        "options": [
+          "$-3$",
+          "$-5$",
+          "一样大",
+          "无法比较"
+        ],
+        "answer": "$-3$",
+        "explanation": "两个负数，绝对值大的反而小。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "从自然数到有理数",
+      "core_concept": "整数和分数统称有理数。有理数可按正负分类：正有理数、0、负有理数。",
+      "key_formula": "整数 + 分数 = 有理数",
+      "common_mistakes": [
+        "认为 0 是正数或负数。"
+      ],
+      "tips": "0 既不是正数也不是负数。"
+    },
+    {
+      "point": "数轴",
+      "core_concept": "规定了原点、正方向、单位长度的直线叫数轴。数轴上右边的数总比左边的大。",
+      "key_formula": "数轴三要素",
+      "common_mistakes": [
+        "画数轴漏标单位长度。"
+      ],
+      "tips": "原点、正方向、单位长度缺一不可。"
+    },
+    {
+      "point": "绝对值与有理数大小比较",
+      "core_concept": "$|a|$ 表示数轴上 $a$ 到原点的距离。正数 > 0 > 负数；两个负数比较，绝对值大的反而小。",
+      "key_formula": "$|a|\\ge0$",
+      "common_mistakes": [
+        "比较负数时认为绝对值大的更大。"
+      ],
+      "tips": "负数比较：绝对值大的反而小。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "从自然数到有理数",
+        "question": "下列说法正确的是（　）",
+        "options": [
+          "整数和分数统称有理数",
+          "0 是正有理数",
+          "负数都是分数",
+          "有理数不含 0"
+        ],
+        "answer": "整数和分数统称有理数",
+        "explanation": "有理数定义。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "数轴",
+        "question": "数轴的三要素是（　）",
+        "options": [
+          "原点、正方向、单位长度",
+          "原点、正负、长度",
+          "方向、长度、数字",
+          "原点、方向、数字"
+        ],
+        "answer": "原点、正方向、单位长度",
+        "explanation": "三要素缺一不可。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "绝对值与有理数大小比较",
+        "question": "绝对值等于本身的数是非负数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "$|a|=a$ 当 $a\\ge0$。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "绝对值与有理数大小比较",
+        "question": "$|0|=$ ___。",
+        "options": [],
+        "answer": "0",
+        "explanation": "0 的绝对值是 0。"
+      }
+    ]
+  }
+}

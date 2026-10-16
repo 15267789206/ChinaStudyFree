@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级下册",
+  "unit": "小说与回忆性散文",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「小说与回忆性散文」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "小说阅读",
+        "question": "小说塑造人物最常用的方法不包括（　）",
+        "options": [
+          "动作描写",
+          "心理描写",
+          "新闻标题",
+          "外貌描写"
+        ],
+        "answer": "新闻标题",
+        "explanation": "新闻标题不是描写方法。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "回忆性散文与抒情",
+        "question": "散文的特点是（　）",
+        "options": [
+          "形散神聚",
+          "形散神也散",
+          "严格对仗",
+          "只叙事不抒情"
+        ],
+        "answer": "形散神聚",
+        "explanation": "形散神聚。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "小说阅读",
+        "question": "人物形象应结合具体事件来分析。",
+        "options": [],
+        "answer": "对",
+        "explanation": "结合事件分析。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "回忆性散文与抒情",
+        "question": "回忆性散文常抒发对往事的追思。",
+        "options": [],
+        "answer": "对",
+        "explanation": "追思是常见情感。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "小说阅读",
+      "core_concept": "小说三要素是人物、情节、环境。分析人物形象要综合事件、描写与侧面衬托，注意人物的多面性与复杂性。",
+      "key_formula": "人物 + 情节 + 环境",
+      "common_mistakes": [
+        "把人物简单脸谱化。"
+      ],
+      "tips": "人物形象有复杂性。"
+    },
+    {
+      "point": "回忆性散文与抒情",
+      "core_concept": "回忆性散文以回忆往事为主线，形散而神聚，表达对往事的追思与对人物的怀念。",
+      "key_formula": "形散神聚",
+      "common_mistakes": [
+        "误以为散文形散神不聚。"
+      ],
+      "tips": "形散神聚是散文特点。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "小说阅读",
+        "question": "下列关于人物形象分析的做法，正确的是（　）",
+        "options": [
+          "联系情节与描写综合概括",
+          "只看外貌",
+          "凭个人好恶贴标签",
+          "只看结尾"
+        ],
+        "answer": "联系情节与描写综合概括",
+        "explanation": "综合分析。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "回忆性散文与抒情",
+        "question": "回忆性散文的线索一般是（　）",
+        "options": [
+          "回忆的往事",
+          "时间倒流",
+          "景物变化",
+          "对话推进"
+        ],
+        "answer": "回忆的往事",
+        "explanation": "往事是线索。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "小说阅读",
+        "question": "环境描写能衬托人物、渲染气氛、推动情节。",
+        "options": [],
+        "answer": "对",
+        "explanation": "环境描写作用。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "回忆性散文与抒情",
+        "question": "散文选材可以广泛，但要有贯穿的情感线索。",
+        "options": [],
+        "answer": "对",
+        "explanation": "形散神聚。"
+      }
+    ]
+  }
+}

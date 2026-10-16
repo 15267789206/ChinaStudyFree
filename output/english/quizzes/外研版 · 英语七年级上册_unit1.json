@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 1 My classmates 我的同学",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Module 1 My classmates 我的同学」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词 am / is / are",
+        "question": "I ___ Wang Lingling.",
+        "options": [
+          "am",
+          "is",
+          "are",
+          "be"
+        ],
+        "answer": "am",
+        "explanation": "I 配 am。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词 am / is / are",
+        "question": "He ___ thirteen.",
+        "options": [
+          "is",
+          "am",
+          "are",
+          "be"
+        ],
+        "answer": "is",
+        "explanation": "三单用 is。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "介绍姓名与年龄",
+        "question": "「你叫什么名字？」的英文是（　）",
+        "options": [
+          "What's your name?",
+          "How are you?",
+          "What are you name?",
+          "Who are you?"
+        ],
+        "answer": "What's your name?",
+        "explanation": "问姓名。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be 动词 am / is / are",
+        "question": "be 动词的人称形式会变化。",
+        "options": [],
+        "answer": "对",
+        "explanation": "am/is/are。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "be 动词 am / is / are",
+      "core_concept": "I 用 am，he/she/it 用 is，you/we/they 用 are。缩写 I'm / he's / they're。",
+      "key_formula": "I am… / He is… / They are…",
+      "common_mistakes": [
+        "I 搭配 is/are。"
+      ],
+      "tips": "I 配 am 永远不变。"
+    },
+    {
+      "point": "介绍姓名与年龄",
+      "core_concept": "介绍姓名 I'm… / My name is…；年龄 I'm thirteen (years old)。",
+      "key_formula": "I'm Wang Lingling and I'm thirteen years old.",
+      "common_mistakes": [
+        "thirteen 拼写错误。"
+      ],
+      "tips": "thirteen 不是 threeteen。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词 am / is / are",
+        "question": "They ___ my classmates.",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "be"
+        ],
+        "answer": "are",
+        "explanation": "复数用 are。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "介绍姓名与年龄",
+        "question": "「我十三岁。」的英文是（　）",
+        "options": [
+          "I'm thirteen.",
+          "I'm threeteen.",
+          "I thirteen.",
+          "I have thirteen."
+        ],
+        "answer": "I'm thirteen.",
+        "explanation": "thirteen = 13。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be 动词 am / is / are",
+        "question": "am 只能与 I 连用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "I am。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "介绍姓名与年龄",
+        "question": "「很高兴见到你。」的英文是（　）",
+        "options": [
+          "Nice to meet you.",
+          "Nice meet you.",
+          "Nice to meet your.",
+          "Nice meeting you too."
+        ],
+        "answer": "Nice to meet you.",
+        "explanation": "固定表达。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级上册",
+  "unit": "说明文与写作",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「说明文与写作」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "说明文阅读",
+        "question": "下列不属于说明方法的是（　）",
+        "options": [
+          "举例子",
+          "列数字",
+          "打比方",
+          "象征"
+        ],
+        "answer": "象征",
+        "explanation": "象征是表现手法。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "说明文阅读",
+        "question": "“赵州桥长约 50 米”运用的说明方法是（　）",
+        "options": [
+          "列数字",
+          "作比较",
+          "分类别",
+          "举例子"
+        ],
+        "answer": "列数字",
+        "explanation": "用具体数字说明。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "说明文阅读",
+        "question": "说明文的语言要求准确、严密。",
+        "options": [],
+        "answer": "对",
+        "explanation": "说明文语言特点。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "记叙文写作",
+        "question": "记叙文写作要围绕中心选材、详略得当。",
+        "options": [],
+        "answer": "对",
+        "explanation": "写作要点。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "说明文阅读",
+      "core_concept": "说明文以说明为主要表达方式，常见说明方法有举例子、列数字、打比方、作比较、分类别。说明文语言讲究准确性。",
+      "key_formula": "说明方法 + 作用",
+      "common_mistakes": [
+        "把说明方法当作修辞。"
+      ],
+      "tips": "列数字使说明准确。"
+    },
+    {
+      "point": "记叙文写作",
+      "core_concept": "记叙文写作要中心明确、详略得当、线索清晰，善用描写使内容生动，结尾要有真情实感的升华。",
+      "key_formula": "中心 + 详略 + 描写",
+      "common_mistakes": [
+        "流水账、无中心。"
+      ],
+      "tips": "围绕中心选材。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "记叙文写作",
+        "question": "记叙文开头常用的方法是（　）",
+        "options": [
+          "开门见山",
+          "直接议论",
+          "大量抒情",
+          "并列结构"
+        ],
+        "answer": "开门见山",
+        "explanation": "开头宜开门见山。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "说明文阅读",
+        "question": "打比方的说明方法能形象地说明事物特征。",
+        "options": [],
+        "answer": "对",
+        "explanation": "打比方使说明生动。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "说明文阅读",
+        "question": "说明文的说明顺序不包含（　）",
+        "options": [
+          "时间顺序",
+          "空间顺序",
+          "逻辑顺序",
+          "情感顺序"
+        ],
+        "answer": "情感顺序",
+        "explanation": "说明顺序为时空逻辑。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "记叙文写作",
+        "question": "细节描写能增强记叙文的感染力。",
+        "options": [],
+        "answer": "对",
+        "explanation": "细节使文章生动。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "一次函数初步",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「一次函数初步」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "函数的概念与自变量",
+        "question": "函数是（　）",
+        "options": [
+          "变量之间的对应关系",
+          "一个固定数值",
+          "一种运算",
+          "一条直线"
+        ],
+        "answer": "变量之间的对应关系",
+        "explanation": "函数定义。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "函数与图表",
+        "question": "表示函数关系的方式不包括（　）",
+        "options": [
+          "故事",
+          "表格",
+          "图象",
+          "解析式"
+        ],
+        "answer": "故事",
+        "explanation": "三种表示法。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "函数的概念与自变量",
+        "question": "自变量每取一个值，函数值是唯一确定的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "函数定义。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "函数与图表",
+        "question": "同一个函数可用表格、图象和解析式表示。",
+        "options": [],
+        "answer": "对",
+        "explanation": "三种表示法。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "函数的概念与自变量",
+      "core_concept": "在一个变化过程中，如果给定一个自变量的值，就有一个确定的值与它对应，就构成函数。",
+      "key_formula": "x → f(x)",
+      "common_mistakes": [
+        "认为函数值可以不唯一。"
+      ],
+      "tips": "一对一对应。"
+    },
+    {
+      "point": "函数与图表",
+      "core_concept": "函数关系可以用表格、解析式和图象三种方式表示，三者互相转化。",
+      "key_formula": "表格 ↔ 图象 ↔ 解析式",
+      "common_mistakes": [
+        "认为只有解析式能表示函数。"
+      ],
+      "tips": "三种表示法。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "函数的概念与自变量",
+        "question": "下列对应关系中，$y$ 是 $x$ 的函数的是（　）",
+        "options": [
+          "$y=x^2$",
+          "$x^2+y^2=1$ 中的 $y$",
+          "$x=1$ 中任意的 $y$",
+          "无规则变化的 $y$"
+        ],
+        "answer": "$y=x^2$",
+        "explanation": "$x$ 定值时 $y$ 唯一。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "函数与图表",
+        "question": "在表格表示的函数中找对应关系，应（　）",
+        "options": [
+          "先找到 $x$ 再看对应的 $y$",
+          "先找 $y$ 再猜 $x$",
+          "按大小猜",
+          "看题目长度"
+        ],
+        "answer": "先找到 $x$ 再看对应的 $y$",
+        "explanation": "先 $x$ 后 $y$。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "函数的概念与自变量",
+        "question": "判断是否函数，关键是看 $x$ 唯一确定时 $y$ 是否唯一。",
+        "options": [],
+        "answer": "对",
+        "explanation": "判断依据。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "函数与图表",
+        "question": "从图象读取信息要读清坐标轴的含义。",
+        "options": [],
+        "answer": "对",
+        "explanation": "读图要素。"
+      }
+    ]
+  }
+}

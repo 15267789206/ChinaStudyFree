@@ -1,0 +1,170 @@
+{
+  "textbook": "九年级上册",
+  "unit": "圆",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「圆」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "圆的基本性质",
+        "question": "同圆中，相等的圆心角所对的弦（　）",
+        "options": [
+          "相等",
+          "不相等",
+          "互补",
+          "无法确定"
+        ],
+        "answer": "相等",
+        "explanation": "同圆等圆心角对等弦。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆的基本性质",
+        "question": "半径为 5 的圆中，弦心距为 3，则弦长是多少？",
+        "options": [],
+        "answer": "8",
+        "explanation": "半弦 $=\\sqrt{25-9}=4$，弦长 8。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "点、直线与圆的位置关系",
+        "question": "圆的切线垂直于过切点的半径。",
+        "options": [],
+        "answer": "对",
+        "explanation": "切线性质定理。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "点、直线与圆的位置关系",
+        "question": "圆心到直线距离 4，圆半径 4，则直线与圆（　）",
+        "options": [
+          "相交",
+          "相切",
+          "相离",
+          "无法确定"
+        ],
+        "answer": "相切",
+        "explanation": "$d=r$ 相切。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆中的计算",
+        "question": "半径为 6、圆心角为 60° 的弧长是多少（结果保留 $\\pi$）？填数字部分（如 2π 则填 2）",
+        "options": [],
+        "answer": "2",
+        "explanation": "$l=\\frac{60\\pi\\times6}{180}=2\\pi$。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆中的计算",
+        "question": "半径为 3、圆心角为 120° 的扇形面积是多少（结果保留 $\\pi$，填 $\\pi$ 的系数）？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$S=\\frac{120\\pi\\times9}{360}=3\\pi$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "圆的基本性质",
+      "core_concept": "同圆或等圆中，相等的圆心角所对的弧相等、弦相等。垂直于弦的直径平分这条弦，并平分弦所对的两条弧。",
+      "key_formula": "垂径定理：$d^2+(\\frac l2)^2=r^2$",
+      "common_mistakes": [
+        "忘记垂径定理要求直径垂直于弦。"
+      ],
+      "tips": "作弦心距是常见辅助线。"
+    },
+    {
+      "point": "点、直线与圆的位置关系",
+      "core_concept": "设圆心到直线距离为 $d$、半径 $r$：$d<r$ 相交，$d=r$ 相切，$d>r$ 相离。切线垂直于过切点的半径。",
+      "key_formula": "切线 $\\Rightarrow$ 垂直于过切点半径",
+      "common_mistakes": [
+        "把“经过半径外端且垂直于半径”漏掉。"
+      ],
+      "tips": "见切点连半径。"
+    },
+    {
+      "point": "圆中的计算",
+      "core_concept": "弧长 $l=\\frac{n\\pi r}{180}$，扇形面积 $S=\\frac{n\\pi r^2}{360}=\\frac12 lr$。",
+      "key_formula": "$l=\\frac{n\\pi r}{180}$",
+      "common_mistakes": [
+        "角度与弧度混用。"
+      ],
+      "tips": "牢记分母 180、360。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆的基本性质",
+        "question": "圆半径为 10，一条弦长为 16，弦心距是多少？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$\\sqrt{100-64}=6$。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "点、直线与圆的位置关系",
+        "question": "三角形的外心是（　）",
+        "options": [
+          "三边垂直平分线交点",
+          "三条中线交点",
+          "三条角平分线交点",
+          "三条高交点"
+        ],
+        "answer": "三边垂直平分线交点",
+        "explanation": "外心到三顶点距离相等。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆中的计算",
+        "question": "扇形弧长为 $4\\pi$、半径为 6，其面积为多少（填 $\\pi$ 的系数）？",
+        "options": [],
+        "answer": "12",
+        "explanation": "$S=\\frac12lr=\\frac12\\times4\\pi\\times6=12\\pi$。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "圆中的计算",
+        "question": "圆锥侧面展开图是扇形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "圆锥侧面展开为扇形。"
+      }
+    ]
+  }
+}

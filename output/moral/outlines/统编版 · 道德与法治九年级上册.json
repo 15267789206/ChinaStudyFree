@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "富强与创新",
+      "knowledge_points": [
+        {
+          "name": "改革开放与创新驱动",
+          "description": "理解改革开放与创新驱动发展。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "中国的发展与民生",
+          "description": "理解发展为了人民、依靠人民。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "民主与法治",
+      "knowledge_points": [
+        {
+          "name": "人民当家作主",
+          "description": "理解人民代表大会制度与协商民主。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "全面依法治国",
+          "description": "理解全面依法治国的要求。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

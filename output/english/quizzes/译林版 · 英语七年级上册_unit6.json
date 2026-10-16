@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Unit 6 Food and lifestyle 饮食与生活方式",
+  "unit_number": 6,
+  "unit_test": {
+    "title": "第6单元「Unit 6 Food and lifestyle 饮食与生活方式」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "食物与健康词汇",
+        "question": "「健康的」的英文是（　）",
+        "options": [
+          "healthy",
+          "health",
+          "healthyy",
+          "healty"
+        ],
+        "answer": "healthy",
+        "explanation": "healthy 健康。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "食物与健康词汇",
+        "question": "「蔬菜」的英文是（　）",
+        "options": [
+          "vegetables",
+          "vegetable",
+          "vegitables",
+          "vegetabls"
+        ],
+        "answer": "vegetables",
+        "explanation": "常用复数。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "生活方式表达",
+        "question": "「保持健康」的英文是（　）",
+        "options": [
+          "keep healthy",
+          "keep health",
+          "keep healthily",
+          "keeping healthy"
+        ],
+        "answer": "keep healthy",
+        "explanation": "keep + 形容词。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "食物与健康词汇",
+        "question": "fast food 的意思是「快餐」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "fast food 快餐。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "食物与健康词汇",
+      "core_concept": "healthy food 健康食品、unhealthy food 不健康食品、vegetables 蔬菜、fruit 水果、too much 太多。",
+      "key_formula": "keep healthy 保持健康",
+      "common_mistakes": [
+        "vegetable 不加 s。"
+      ],
+      "tips": "泛指蔬菜用复数。"
+    },
+    {
+      "point": "生活方式表达",
+      "core_concept": "a balanced diet 均衡饮食、do exercise 做运动、stay up late 熬夜。",
+      "key_formula": "I want to keep healthy.",
+      "common_mistakes": [
+        "too much 修饰可数名词。"
+      ],
+      "tips": "too much + 不可数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "生活方式表达",
+        "question": "「均衡饮食」的英文是（　）",
+        "options": [
+          "a balanced diet",
+          "a balance diet",
+          "a balanced diets",
+          "balance diet"
+        ],
+        "answer": "a balanced diet",
+        "explanation": "balanced 均衡的。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "食物与健康词汇",
+        "question": "「水果」的英文是（　）",
+        "options": [
+          "fruit",
+          "fruits",
+          "friut",
+          "frut"
+        ],
+        "answer": "fruit",
+        "explanation": "泛指用 fruit。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "生活方式表达",
+        "question": "吃太多糖对健康不好。",
+        "options": [],
+        "answer": "对",
+        "explanation": "健康常识。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "生活方式表达",
+        "question": "「我每天做运动。」的英文是（　）",
+        "options": [
+          "I do exercise every day.",
+          "I does exercise every day.",
+          "I do exercises every day.",
+          "I doing exercise every day."
+        ],
+        "answer": "I do exercise every day.",
+        "explanation": "exercise 不可数。"
+      }
+    ]
+  }
+}

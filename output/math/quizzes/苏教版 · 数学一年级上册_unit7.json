@@ -1,0 +1,139 @@
+{
+  "textbook": "一年级上册",
+  "unit": "分与合",
+  "unit_number": 7,
+  "unit_test": {
+    "title": "第7单元「分与合」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "2~10 的分与合",
+        "question": "5 可以分成 2 和 ___。",
+        "options": [],
+        "answer": "3",
+        "explanation": "2 + 3 = 5。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "2~10 的分与合",
+        "question": "7 可以分成 3 和（　）",
+        "options": [
+          "4",
+          "3",
+          "5",
+          "6"
+        ],
+        "answer": "4",
+        "explanation": "3 + 4 = 7。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "2~10 的分与合",
+        "question": "分与合是互逆的。",
+        "options": [],
+        "answer": "对",
+        "explanation": "拆开与合并互逆。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "2~10 的分与合",
+        "question": "10 可以分成 1 和几？",
+        "options": [],
+        "answer": "9",
+        "explanation": "1 + 9 = 10。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "2~10 的分与合",
+      "core_concept": "把一个数分成两部分叫「分」，两部分合成原来的数叫「合」；分与合互逆。",
+      "key_formula": "5 = 1 + 4",
+      "common_mistakes": [
+        "分与合混淆。"
+      ],
+      "tips": "分成是拆开，合成是合并。"
+    },
+    {
+      "point": "分与合的应用",
+      "core_concept": "看到 9、8 想凑十：把其中一个数分成 1 和几，先凑十再算。",
+      "key_formula": "凑十法",
+      "common_mistakes": [
+        "进位加法忘记拆数。"
+      ],
+      "tips": "凑十是关键。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "2~10 的分与合",
+        "question": "8 可以分成 5 和 ___。",
+        "options": [],
+        "answer": "3",
+        "explanation": "5 + 3 = 8。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "分与合的应用",
+        "question": "算 9 + 5 时，把 5 分成 1 和（　）",
+        "options": [
+          "4",
+          "5",
+          "1",
+          "6"
+        ],
+        "answer": "4",
+        "explanation": "9 和 1 凑十，5 分成 1 和 4。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "分与合的应用",
+        "question": "10 的分与合要记熟，能帮助计算。",
+        "options": [],
+        "answer": "对",
+        "explanation": "凑十法基础。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "2~10 的分与合",
+        "question": "哪两个数合成 9？（　）",
+        "options": [
+          "4 和 5",
+          "3 和 4",
+          "5 和 6",
+          "2 和 6"
+        ],
+        "answer": "4 和 5",
+        "explanation": "4 + 5 = 9。"
+      }
+    ]
+  }
+}

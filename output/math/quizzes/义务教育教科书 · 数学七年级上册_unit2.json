@@ -1,0 +1,170 @@
+{
+  "textbook": "七年级上册",
+  "unit": "整式的加减",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「整式的加减」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "单项式与多项式",
+        "question": "单项式 $-3x^2y$ 的系数是（　）",
+        "options": [
+          "3",
+          "-3",
+          "2",
+          "5"
+        ],
+        "answer": "-3",
+        "explanation": "数字因数是 $-3$。"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "单项式与多项式",
+        "question": "单项式 $5a^2b^3$ 的次数是 ___。",
+        "options": [],
+        "answer": "5",
+        "explanation": "$2+3=5$。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "同类项与合并",
+        "question": "下列是同类项的是（　）",
+        "options": [
+          "$3x$ 与 $3y$",
+          "$2a^2b$ 与 $-5a^2b$",
+          "$x^2$ 与 $x$",
+          "$ab$ 与 $abc$"
+        ],
+        "answer": "$2a^2b$ 与 $-5a^2b$",
+        "explanation": "字母相同且指数相同。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "同类项与合并",
+        "question": "合并同类项：$3x+5x-2x=$ ？（填最简形式）",
+        "options": [],
+        "answer": "6x",
+        "explanation": "$(3+5-2)x=6x$。"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "去括号与整式加减",
+        "question": "化简：$a-(b-c)=$ ___",
+        "options": [],
+        "answer": "a-b+c",
+        "explanation": "去括号变号：$a-b+c$。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "去括号与整式加减",
+        "question": "计算：$(2x+3)+(x-5)=$ ？",
+        "options": [],
+        "answer": "3x-2",
+        "explanation": "$2x+x=3x$，$3-5=-2$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "单项式与多项式",
+      "core_concept": "数与字母的积是单项式；数字因数是系数，各字母指数之和是次数。几个单项式的和是多项式。",
+      "key_formula": "单项式次数 = 各字母指数和",
+      "common_mistakes": [
+        "把 $\\pi$ 当字母。"
+      ],
+      "tips": "先写成乘积再数次数。"
+    },
+    {
+      "point": "同类项与合并",
+      "core_concept": "所含字母相同且相同字母指数也相同的项是同类项；合并时系数相加，字母与指数不变。",
+      "key_formula": "$ax+bx=(a+b)x$",
+      "common_mistakes": [
+        "把 $x^2$ 与 $x$ 当同类项。"
+      ],
+      "tips": "先标同类项再合并。"
+    },
+    {
+      "point": "去括号与整式加减",
+      "core_concept": "括号前是“+”，去括号各项不变号；括号前是“−”，去括号各项都变号。整式加减 = 去括号 + 合并同类项。",
+      "key_formula": "$a-(b-c)=a-b+c$",
+      "common_mistakes": [
+        "括号前是减号时只变第一项符号。"
+      ],
+      "tips": "把括号连同前面的符号一起处理。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "单项式与多项式",
+        "question": "单项式 $\\dfrac23ab$ 的系数是 $\\dfrac23$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "数字因数是 $\\frac23$。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "同类项与合并",
+        "question": "合并 $4m-7m$ 得（　）",
+        "options": [
+          "$3m$",
+          "$-3m$",
+          "$11m$",
+          "$-11m$"
+        ],
+        "answer": "$-3m$",
+        "explanation": "$4-7=-3$。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "去括号与整式加减",
+        "question": "化简 $3a-(2a-1)=$ ___",
+        "options": [],
+        "answer": "a+1",
+        "explanation": "$3a-2a+1=a+1$。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "去括号与整式加减",
+        "question": "$2(x+1)-3(x-2)$ 化简后 $x$ 的系数是？",
+        "options": [],
+        "answer": "-1",
+        "explanation": "$2x+2-3x+6=-x+8$。"
+      }
+    ]
+  }
+}

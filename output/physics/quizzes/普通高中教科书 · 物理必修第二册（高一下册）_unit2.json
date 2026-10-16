@@ -1,0 +1,155 @@
+{
+  "textbook": "必修第二册",
+  "unit": "万有引力与宇宙航行",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「万有引力与宇宙航行」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "万有引力定律",
+        "question": "卫星轨道半径增大时，其线速度（　）",
+        "options": [
+          "增大",
+          "减小",
+          "不变",
+          "先增后减"
+        ],
+        "answer": "减小",
+        "explanation": "半径越大线速度越小。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "万有引力定律",
+        "question": "万有引力定律中，引力大小与两物体间距离的平方成反比。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平方反比关系。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "宇宙速度与卫星",
+        "question": "地球同步卫星的周期约为（　）",
+        "options": [
+          "1 h",
+          "12 h",
+          "24 h",
+          "365 天"
+        ],
+        "answer": "24 h",
+        "explanation": "与地球自转周期相同。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "宇宙速度与卫星",
+        "question": "地球同步卫星一定位于赤道的正上方。",
+        "options": [],
+        "answer": "对",
+        "explanation": "同步卫星位置固定。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "万有引力定律",
+        "question": "某星球表面重力加速度为 8 m/s²，质量 2 kg 的物体在该星球表面重力是多少 N？",
+        "options": [],
+        "answer": "16",
+        "explanation": "$G=mg=2\\times8=16$ N。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "万有引力定律",
+      "core_concept": "$F=G\\frac{m_1m_2}{r^2}$。卫星绕行星做圆周运动时，万有引力提供向心力，轨道半径越大，周期越大、线速度越小。",
+      "key_formula": "$F=G\\frac{m_1m_2}{r^2}$",
+      "common_mistakes": [
+        "把轨道半径与星球半径混淆。"
+      ],
+      "tips": "近地卫星轨道半径约等于星球半径。"
+    },
+    {
+      "point": "宇宙速度与卫星",
+      "core_concept": "第一宇宙速度约 7.9 km/s，是环绕地球做圆周运动的最大速度；地球同步卫星周期等于地球自转周期（约 24 h），一定位于赤道正上方。",
+      "key_formula": "$v_1\\approx7.9\\ \\text{km/s}$",
+      "common_mistakes": [
+        "认为同步卫星可在任意纬度。"
+      ],
+      "tips": "同步卫星必在赤道上方。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "万有引力定律",
+        "question": "若两物体间距离增大为原来的 2 倍，万有引力变为原来的（　）",
+        "options": [
+          "$\\frac12$",
+          "$\\frac14$",
+          "2 倍",
+          "4 倍"
+        ],
+        "answer": "$\\frac14$",
+        "explanation": "与距离平方成反比。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "宇宙速度与卫星",
+        "question": "第一宇宙速度是人造地球卫星在地面附近环绕地球做圆周运动的速度。",
+        "options": [],
+        "answer": "对",
+        "explanation": "第一宇宙速度定义。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "宇宙速度与卫星",
+        "question": "关于三个宇宙速度，正确的是（　）",
+        "options": [
+          "第一宇宙速度约为 7.9 km/s",
+          "第二宇宙速度约为 7.9 km/s",
+          "第三宇宙速度最小",
+          "三者相等"
+        ],
+        "answer": "第一宇宙速度约为 7.9 km/s",
+        "explanation": "第一宇宙速度为 7.9 km/s。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "万有引力定律",
+        "question": "万有引力定律适用于任何两个有质量的物体。",
+        "options": [],
+        "answer": "对",
+        "explanation": "普遍适用。"
+      }
+    ]
+  }
+}

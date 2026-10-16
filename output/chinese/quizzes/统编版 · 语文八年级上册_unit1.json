@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "新闻与叙事性作品",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「新闻与叙事性作品」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "新闻类文本阅读",
+        "question": "新闻的六要素不包括（　）",
+        "options": [
+          "标题",
+          "导语",
+          "背景",
+          "插图说明"
+        ],
+        "answer": "插图说明",
+        "explanation": "新闻六要素不含插图说明。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "叙事与人物描写",
+        "question": "“他攥紧了拳头”属于（　）",
+        "options": [
+          "外貌描写",
+          "动作描写",
+          "环境描写",
+          "心理描写"
+        ],
+        "answer": "动作描写",
+        "explanation": "描写动作。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "新闻类文本阅读",
+        "question": "新闻导语通常概括最重要的信息。",
+        "options": [],
+        "answer": "对",
+        "explanation": "导语作用。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "叙事与人物描写",
+        "question": "分析描写作用要结合文本具体内容。",
+        "options": [],
+        "answer": "对",
+        "explanation": "答题要结合内容。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "新闻类文本阅读",
+      "core_concept": "新闻六要素为标题、导语、主体、背景、结语、评论。消息可用倒金字塔结构，把最重要的信息放在导语里。",
+      "key_formula": "标题 + 导语 + 主体 + 结语",
+      "common_mistakes": [
+        "把新闻与通讯混为一谈。"
+      ],
+      "tips": "导语交代最重要事实。"
+    },
+    {
+      "point": "叙事与人物描写",
+      "core_concept": "叙事有第一人称和第三人称。人物描写作用分析要写出「方法 + 内容 + 表现的性格或情感」。",
+      "key_formula": "方法 + 内容 + 作用",
+      "common_mistakes": [
+        "只答“生动形象”。"
+      ],
+      "tips": "答题要落到具体内容。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "新闻类文本阅读",
+        "question": "消息最常用的结构是（　）",
+        "options": [
+          "倒金字塔结构",
+          "总—分—总",
+          "起承转合",
+          "对比结构"
+        ],
+        "answer": "倒金字塔结构",
+        "explanation": "消息常用倒金字塔。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "叙事与人物描写",
+        "question": "第一人称叙述便于表达作者的真实感受。",
+        "options": [],
+        "answer": "对",
+        "explanation": "第一人称的优势。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "叙事与人物描写",
+        "question": "第三人称叙述可以（　）",
+        "options": [
+          "展现更广阔的场景",
+          "只能写一个人的想法",
+          "不能描写景物",
+          "不能写对话"
+        ],
+        "answer": "展现更广阔的场景",
+        "explanation": "第三人称视野更广。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "新闻类文本阅读",
+        "question": "新闻语言要求准确、简洁、客观。",
+        "options": [],
+        "answer": "对",
+        "explanation": "新闻语言特点。"
+      }
+    ]
+  }
+}

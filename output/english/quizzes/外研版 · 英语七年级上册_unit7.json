@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 7 Computers 电脑",
+  "unit_number": 7,
+  "unit_test": {
+    "title": "第7单元「Module 7 Computers 电脑」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "电脑词汇 computer / keyboard / mouse / screen",
+        "question": "「键盘」的英文是（　）",
+        "options": [
+          "keyboard",
+          "keybord",
+          "key bord",
+          "keyboardd"
+        ],
+        "answer": "keyboard",
+        "explanation": "keyboard 键盘。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "电脑词汇 computer / keyboard / mouse / screen",
+        "question": "「鼠标」的英文是（　）",
+        "options": [
+          "mouse",
+          "mice",
+          "mous",
+          "mousse"
+        ],
+        "answer": "mouse",
+        "explanation": "mouse 鼠标。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "指令表达 Turn on / Save",
+        "question": "「打开电脑。」的英文是（　）",
+        "options": [
+          "Turn on the computer.",
+          "Turning on the computer.",
+          "Turn on computer.",
+          "Open the computer."
+        ],
+        "answer": "Turn on the computer.",
+        "explanation": "turn on 打开电器。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "电脑词汇 computer / keyboard / mouse / screen",
+        "question": "screen 的意思是「屏幕」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "screen 屏幕。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "电脑词汇 computer / keyboard / mouse / screen",
+      "core_concept": "computer 电脑、keyboard 键盘、mouse 鼠标、screen 屏幕、printer 打印机。",
+      "key_formula": "on the computer 在电脑上",
+      "common_mistakes": [
+        "keyboard 写成 keybord。"
+      ],
+      "tips": "keyboard 结尾 -oard。"
+    },
+    {
+      "point": "指令表达 Turn on / Save",
+      "core_concept": "Turn on the computer. 打开电脑。Save the file. 保存文件。Click the mouse. 点击鼠标。",
+      "key_formula": "Turn on / Turn off / Save",
+      "common_mistakes": [
+        "指令动词用 -ing 开头。"
+      ],
+      "tips": "指令用动词原形开头。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "指令表达 Turn on / Save",
+        "question": "「保存文件。」的英文是（　）",
+        "options": [
+          "Save the file.",
+          "Saving the file.",
+          "Save file.",
+          "Keep the file."
+        ],
+        "answer": "Save the file.",
+        "explanation": "save 保存。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "电脑词汇 computer / keyboard / mouse / screen",
+        "question": "「打印机」的英文是（　）",
+        "options": [
+          "printer",
+          "printter",
+          "priter",
+          "print"
+        ],
+        "answer": "printer",
+        "explanation": "printer 打印机。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "指令表达 Turn on / Save",
+        "question": "Turn off 的意思是「关闭（电器）」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "turn off 关。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "指令表达 Turn on / Save",
+        "question": "在电脑上写作业，应说（　）",
+        "options": [
+          "write my homework on the computer",
+          "write my homework in the computer",
+          "write my homework at computer",
+          "write my homework by the computer"
+        ],
+        "answer": "write my homework on the computer",
+        "explanation": "on the computer。"
+      }
+    ]
+  }
+}

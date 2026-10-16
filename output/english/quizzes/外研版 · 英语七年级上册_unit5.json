@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 5 My school day 我的学校生活",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「Module 5 My school day 我的学校生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时表习惯",
+        "question": "「我喜欢历史。」的英文是（　）",
+        "options": [
+          "I love history.",
+          "I loves history.",
+          "I loving history.",
+          "I loved history."
+        ],
+        "answer": "I love history.",
+        "explanation": "第一人称原形。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时表习惯",
+        "question": "「我们九点开始上课。」的英文是（　）",
+        "options": [
+          "We start work at nine o'clock.",
+          "We starts work at nine o'clock.",
+          "We starting work at nine o'clock.",
+          "We start work in nine o'clock."
+        ],
+        "answer": "We start work at nine o'clock.",
+        "explanation": "时刻前用 at。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "学校科目与时间",
+        "question": "「星期三」的英文是（　）",
+        "options": [
+          "Wednesday",
+          "Wendsday",
+          "wednesday",
+          "Wenesday"
+        ],
+        "answer": "Wednesday",
+        "explanation": "W-e-d 开头。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时表习惯",
+        "question": "usually 常与一般现在时连用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表频率。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "一般现在时表习惯",
+      "core_concept": "表示经常性、习惯性动作用一般现在时，常与 always/usually/often/sometimes/never 连用。",
+      "key_formula": "We start work at nine o'clock.",
+      "common_mistakes": [
+        "三单主语动词不变。"
+      ],
+      "tips": "he/she/it 动词加 -s/-es。"
+    },
+    {
+      "point": "学校科目与时间",
+      "core_concept": "maths 数学、history 历史、science 科学；Wednesday 星期三。",
+      "key_formula": "I love history. / on Wednesday",
+      "common_mistakes": [
+        "星期首字母不大写。"
+      ],
+      "tips": "星期一律大写。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时表习惯",
+        "question": "He ___ English very much.",
+        "options": [
+          "likes",
+          "like",
+          "liking",
+          "is like"
+        ],
+        "answer": "likes",
+        "explanation": "三单加 -s。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "学校科目与时间",
+        "question": "「数学」的英文是（　）",
+        "options": [
+          "maths",
+          "mathes",
+          "math",
+          "math's"
+        ],
+        "answer": "maths",
+        "explanation": "英式 maths。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时表习惯",
+        "question": "一般现在时可表示习惯性动作。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表习惯。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时表习惯",
+        "question": "「他从不迟到。」的英文是（　）",
+        "options": [
+          "He is never late.",
+          "He never is late.",
+          "He never late.",
+          "He is ever late."
+        ],
+        "answer": "He is never late.",
+        "explanation": "never 放 be 后。"
+      }
+    ]
+  }
+}

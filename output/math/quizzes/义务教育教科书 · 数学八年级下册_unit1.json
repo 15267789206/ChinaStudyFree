@@ -1,0 +1,165 @@
+{
+  "textbook": "八年级下册",
+  "unit": "二次根式",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「二次根式」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "二次根式的概念与性质",
+        "question": "$\\sqrt{9}=$ ___",
+        "options": [],
+        "answer": "3",
+        "explanation": "算术平方根取非负。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "二次根式的概念与性质",
+        "question": "下列式子中一定有意义的是（　）",
+        "options": [
+          "$\\sqrt{-2}$",
+          "$\\sqrt{x}$",
+          "$\\sqrt{x^2+1}$",
+          "$\\sqrt{x-1}$"
+        ],
+        "answer": "$\\sqrt{x^2+1}$",
+        "explanation": "$x^2+1>0$ 恒成立。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "二次根式的乘除",
+        "question": "计算：$\\sqrt{3}\\times\\sqrt{12}=$ ？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$\\sqrt{3\\times12}=\\sqrt{36}=6$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "二次根式的乘除",
+        "question": "计算：$\\sqrt{48}\\div\\sqrt3=$ ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$\\sqrt{48\\div3}=\\sqrt{16}=4$。"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "二次根式的加减",
+        "question": "化简：$\\sqrt8+\\sqrt{18}=$ ___",
+        "options": [],
+        "answer": "5\\sqrt2",
+        "explanation": "$2\\sqrt2+3\\sqrt2=5\\sqrt2$。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "二次根式的加减",
+        "question": "下列与 $\\sqrt2$ 是同类二次根式的是（　）",
+        "options": [
+          "$\\sqrt3$",
+          "$\\sqrt8$",
+          "$\\sqrt{12}$",
+          "$\\sqrt{27}$"
+        ],
+        "answer": "$\\sqrt8$",
+        "explanation": "$\\sqrt8=2\\sqrt2$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "二次根式的概念与性质",
+      "core_concept": "形如 $\\sqrt{a}(a\\ge0)$ 的式子叫二次根式；$\\sqrt{a}\\ge0$，$(\\sqrt{a})^2=a$，$\\sqrt{a^2}=|a|$。",
+      "key_formula": "$\\sqrt{a^2}=|a|$",
+      "common_mistakes": [
+        "忽略被开方数非负的条件。"
+      ],
+      "tips": "先看被开方数是否非负。"
+    },
+    {
+      "point": "二次根式的乘除",
+      "core_concept": "$\\sqrt{a}\\cdot\\sqrt{b}=\\sqrt{ab}(a\\ge0,b\\ge0)$；$\\frac{\\sqrt{a}}{\\sqrt{b}}=\\sqrt{\\frac ab}(a\\ge0,b>0)$。化简结果要求分母不含根号、被开方数不含能开得尽方的因数。",
+      "key_formula": "$\\sqrt{ab}=\\sqrt a\\cdot\\sqrt b$",
+      "common_mistakes": [
+        "化简不彻底。"
+      ],
+      "tips": "把被开方数分解出完全平方因数。"
+    },
+    {
+      "point": "二次根式的加减",
+      "core_concept": "先把各二次根式化为最简二次根式，再合并同类二次根式（被开方数相同）。",
+      "key_formula": "$a\\sqrt m+b\\sqrt m=(a+b)\\sqrt m$",
+      "common_mistakes": [
+        "把 $\\sqrt2+\\sqrt3$ 合并为 $\\sqrt5$。"
+      ],
+      "tips": "只有同类二次根式才能合并。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "二次根式的概念与性质",
+        "question": "$\\sqrt{a^2}=a$ 对任意实数 $a$ 都成立。",
+        "options": [],
+        "answer": "错",
+        "explanation": "应为 $\\sqrt{a^2}=|a|$。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "二次根式的乘除",
+        "question": "计算：$\\sqrt{2}\\times\\sqrt{8}=$ ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$\\sqrt{16}=4$。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "二次根式的加减",
+        "question": "计算：$3\\sqrt2-\\sqrt2=$ ？",
+        "options": [],
+        "answer": "2\\sqrt2",
+        "explanation": "同类二次根式系数相减。"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "二次根式的概念与性质",
+        "question": "当 $x$ ___ 时，$\\sqrt{x-3}$ 有意义。",
+        "options": [],
+        "answer": "≥3",
+        "explanation": "被开方数非负：$x-3\\ge0$。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "textbook": "必修第一册",
+  "unit": "运动的描述",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「运动的描述」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "质点、参考系与位移",
+        "question": "下列可以把物体看作质点的是（　）",
+        "options": [
+          "研究地球公转",
+          "研究地球自转",
+          "研究体操运动员动作",
+          "研究乒乓球旋转"
+        ],
+        "answer": "研究地球公转",
+        "explanation": "公转时地球大小可忽略。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "速度与加速度",
+        "question": "物体速度从 2 m/s 均匀增大到 10 m/s 用时 2 s，加速度是多少 m/s²？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$a=\\frac{10-2}{2}=4$ m/s²。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "速度与加速度",
+        "question": "位移是矢量，路程是标量。",
+        "options": [],
+        "answer": "对",
+        "explanation": "位移有方向。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "速度与加速度",
+        "question": "关于加速度，正确的是（　）",
+        "options": [
+          "加速度大速度一定大",
+          "加速度是速度变化率",
+          "加速度为负则速度一定减小",
+          "加速度不变速度也不变"
+        ],
+        "answer": "加速度是速度变化率",
+        "explanation": "加速度描述变化快慢。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "质点、参考系与位移",
+        "question": "选择不同的参考系，对同一物体运动的描述可能不同。",
+        "options": [],
+        "answer": "对",
+        "explanation": "运动描述的相对性。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "质点、参考系与位移",
+      "core_concept": "当物体的大小和形状对研究问题影响可忽略时，可把物体看作质点。位移是矢量（由初位置指向末位置），路程是标量。",
+      "key_formula": "$\\Delta x=x_2-x_1$",
+      "common_mistakes": [
+        "把路程当位移。"
+      ],
+      "tips": "位移看首尾，路程看路径。"
+    },
+    {
+      "point": "速度与加速度",
+      "core_concept": "加速度是速度变化量与发生这一变化所用时间的比值，方向与速度变化量方向相同。加速度与速度方向相同时加速，相反时减速。",
+      "key_formula": "$a=\\frac{\\Delta v}{\\Delta t}$",
+      "common_mistakes": [
+        "认为加速度大速度就大。"
+      ],
+      "tips": "加速度描述速度变化的快慢。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "速度与加速度",
+        "question": "汽车以 20 m/s 行驶，刹车后 4 s 停止，加速度大小是多少 m/s²？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$a=\\frac{20}{4}=5$ m/s²。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "速度与加速度",
+        "question": "物体做匀减速直线运动时，加速度方向（　）",
+        "options": [
+          "与速度同向",
+          "与速度反向",
+          "与速度垂直",
+          "不确定"
+        ],
+        "answer": "与速度反向",
+        "explanation": "减速时反向。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "速度与加速度",
+        "question": "加速度为零的物体一定静止。",
+        "options": [],
+        "answer": "错",
+        "explanation": "可能做匀速直线运动。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "质点、参考系与位移",
+        "question": "某人沿操场跑一圈回到起点，位移大小是（　）",
+        "options": [
+          "一圈周长",
+          "0",
+          "周长的一半",
+          "无法确定"
+        ],
+        "answer": "0",
+        "explanation": "首尾相同，位移为 0。"
+      }
+    ]
+  }
+}

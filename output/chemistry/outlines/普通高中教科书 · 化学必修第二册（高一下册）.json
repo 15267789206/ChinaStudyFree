@@ -1,0 +1,57 @@
+{
+  "textbook": "必修第二册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "化学反应与能量",
+      "knowledge_points": [
+        {
+          "name": "化学反应与热能、电能",
+          "description": "理解放热、吸热反应与化学电源。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "化学反应速率与限度",
+          "description": "掌握速率表示与影响因素、化学平衡。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "有机化合物",
+      "knowledge_points": [
+        {
+          "name": "甲烷、乙烯与苯",
+          "description": "掌握常见烃的结构与性质。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "乙醇、乙酸与基本营养物质",
+          "description": "掌握乙醇、乙酸性质与糖类、蛋白质。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

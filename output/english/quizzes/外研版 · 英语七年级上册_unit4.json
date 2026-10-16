@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 4 Healthy food 健康饮食",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「Module 4 Healthy food 健康饮食」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "have got 表示拥有",
+        "question": "「我们有很多苹果。」的英文是（　）",
+        "options": [
+          "We've got lots of apples.",
+          "We've get lots of apples.",
+          "We has got lots of apples.",
+          "We've got lot of apples."
+        ],
+        "answer": "We've got lots of apples.",
+        "explanation": "lots of 许多。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "some / any 的用法",
+        "question": "否定句和疑问句中常用（　）",
+        "options": [
+          "any",
+          "some",
+          "many",
+          "much"
+        ],
+        "answer": "any",
+        "explanation": "疑问否定用 any。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "食物与健康词汇",
+        "question": "「健康的」的英文是（　）",
+        "options": [
+          "healthy",
+          "health",
+          "healthyy",
+          "healty"
+        ],
+        "answer": "healthy",
+        "explanation": "healthy 形容词。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "have got 表示拥有",
+        "question": "have got 与 have 意思相同。",
+        "options": [],
+        "answer": "对",
+        "explanation": "= have。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "have got 表示拥有",
+      "core_concept": "have got = have，表示「有」。第三人称用 has got：He's got… / She's got…；否定 haven't got。",
+      "key_formula": "We've got lots of apples.",
+      "common_mistakes": [
+        "第三人称误用 have got。"
+      ],
+      "tips": "he/she 配 has got。"
+    },
+    {
+      "point": "some / any 的用法",
+      "core_concept": "some 多用于肯定句，any 多用于否定句与疑问句；修饰可数/不可数均可。",
+      "key_formula": "We've got lots of apples. / Have you got any milk?",
+      "common_mistakes": [
+        "疑问句中用 some。"
+      ],
+      "tips": "疑问否定优先 any。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "some / any 的用法",
+        "question": "— Has she got ___ pen? — Yes, she has.",
+        "options": [
+          "a",
+          "any",
+          "some",
+          "the"
+        ],
+        "answer": "a",
+        "explanation": "疑问表单数用 a。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "食物与健康词汇",
+        "question": "「不健康食品」的英文是（　）",
+        "options": [
+          "unhealthy food",
+          "healthy food",
+          "health food",
+          "unhealth food"
+        ],
+        "answer": "unhealthy food",
+        "explanation": "un- 表否定。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "some / any 的用法",
+        "question": "some 常用于肯定句。",
+        "options": [],
+        "answer": "对",
+        "explanation": "肯定用 some。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "have got 表示拥有",
+        "question": "— Have you got any milk? — ___",
+        "options": [
+          "Yes, we have.",
+          "Yes, we've.",
+          "Yes, we are.",
+          "No, we haven't got."
+        ],
+        "answer": "Yes, we have.",
+        "explanation": "have 问 have 答。"
+      }
+    ]
+  }
+}

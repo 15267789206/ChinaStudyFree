@@ -1,0 +1,144 @@
+{
+  "textbook": "必修第二册",
+  "unit": "定语从句",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「定语从句」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "限制性定语从句",
+        "question": "The book ___ you lent me is very interesting.",
+        "options": [
+          "who",
+          "which",
+          "whose",
+          "where"
+        ],
+        "answer": "which",
+        "explanation": "先行词指物。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "非限制性定语从句",
+        "question": "非限制性定语从句的特点是（　）",
+        "options": [
+          "用逗号隔开，作补充说明",
+          "不能删去",
+          "一定修饰主语",
+          "没有先行词"
+        ],
+        "answer": "用逗号隔开，作补充说明",
+        "explanation": "逗号标志。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "限制性定语从句",
+        "question": "先行词指人时关系词可用 who。",
+        "options": [],
+        "answer": "对",
+        "explanation": "who 指人。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "非限制性定语从句",
+        "question": "非限制性定语从句删去后主句仍成立。",
+        "options": [],
+        "answer": "对",
+        "explanation": "可删性。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "限制性定语从句",
+      "core_concept": "定语从句修饰先行词，关系词有 who/which/that（指人/物）、whose（所属关系）、where（地点）、when（时间）。先行词指人用 who，物用 which/that。",
+      "key_formula": "先行词 + 关系词 + 从句",
+      "common_mistakes": [
+        "先行词指物却用 who。"
+      ],
+      "tips": "看先行词定关系词。"
+    },
+    {
+      "point": "非限制性定语从句",
+      "core_concept": "限制性从句不能删去，限定范围；非限制性从句是补充说明，逗号隔开，可删去而不影响主句意思。",
+      "key_formula": "有逗号 = 非限制性",
+      "common_mistakes": [
+        "两者混用。"
+      ],
+      "tips": "逗号是关键标志。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "限制性定语从句",
+        "question": "This is the house ___ we lived last year.",
+        "options": [
+          "which",
+          "where",
+          "when",
+          "who"
+        ],
+        "answer": "where",
+        "explanation": "先行词表地点用 where。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "非限制性定语从句",
+        "question": "My brother, ___ is a doctor, works in a big hospital.",
+        "options": [
+          "who",
+          "which",
+          "whose",
+          "what"
+        ],
+        "answer": "who",
+        "explanation": "指人用 who。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "限制性定语从句",
+        "question": "关系词在从句中作宾语时可以省略。",
+        "options": [],
+        "answer": "对",
+        "explanation": "宾语可省。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "非限制性定语从句",
+        "question": "非限制性定语从句不能还原为限制性从句。",
+        "options": [],
+        "answer": "对",
+        "explanation": "不可互换。"
+      }
+    ]
+  }
+}

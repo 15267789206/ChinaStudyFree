@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修下册",
+  "unit": "整本书阅读与思辨表达",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「整本书阅读与思辨表达」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "整本书阅读方法",
+        "question": "整本书阅读的正确顺序是（　）",
+        "options": [
+          "先把握框架主线，再深入细节",
+          "从最后一页往前读",
+          "只读喜欢的章节",
+          "只看目录"
+        ],
+        "answer": "先把握框架主线，再深入细节",
+        "explanation": "先框架后细节。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "思辨性表达",
+        "question": "「冰淇淋好不好吃取决于个人喜好」属于（　）",
+        "options": [
+          "价值判断",
+          "事实判断",
+          "科学结论",
+          "逻辑错误"
+        ],
+        "answer": "价值判断",
+        "explanation": "属价值判断。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "整本书阅读方法",
+        "question": "读整本书应做批注并形成自己的评价。",
+        "options": [],
+        "answer": "对",
+        "explanation": "读后要有评价。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "思辨性表达",
+        "question": "思辨性表达要能回应不同意见。",
+        "options": [],
+        "answer": "对",
+        "explanation": "回应异议。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "整本书阅读方法",
+      "core_concept": "整本书阅读要先把握全书框架与主线，再深入细节与人物，读时可做批注与笔记，读后要有自己的判断与评价。",
+      "key_formula": "框架 → 细节 → 评价",
+      "common_mistakes": [
+        "只读片段不读全书。"
+      ],
+      "tips": "先框架后细节。"
+    },
+    {
+      "point": "思辨性表达",
+      "core_concept": "思辨性表达要求观点明确、论证充分、逻辑严密、能回应不同意见。写作者应区分事实判断与价值判断。",
+      "key_formula": "观点 + 证据 + 推理",
+      "common_mistakes": [
+        "把个人偏好当客观事实。"
+      ],
+      "tips": "区分事实与价值判断。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "整本书阅读方法",
+        "question": "读整本书时做批注的主要作用是（　）",
+        "options": [
+          "记录思考、加深理解",
+          "凑字数",
+          "便于抄答案",
+          "装饰书页"
+        ],
+        "answer": "记录思考、加深理解",
+        "explanation": "批注助理解。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "思辨性表达",
+        "question": "「水在 100℃ 时沸腾」属于（　）",
+        "options": [
+          "事实判断",
+          "价值判断",
+          "审美判断",
+          "道德判断"
+        ],
+        "answer": "事实判断",
+        "explanation": "可验证为事实判断。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "整本书阅读方法",
+        "question": "整本书阅读要把握全书的主线与结构。",
+        "options": [],
+        "answer": "对",
+        "explanation": "抓主线。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "思辨性表达",
+        "question": "论证要靠证据和推理支撑，不能只靠断言。",
+        "options": [],
+        "answer": "对",
+        "explanation": "论证要素。"
+      }
+    ]
+  }
+}

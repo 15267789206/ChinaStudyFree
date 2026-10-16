@@ -1,0 +1,57 @@
+{
+  "textbook": "必修下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "古诗文与文学创作",
+      "knowledge_points": [
+        {
+          "name": "古诗词鉴赏",
+          "description": "鉴赏古诗词的形象意境与语言。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "文学写作与修改",
+          "description": "掌握文学写作与修改要点。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "现代文阅读与语言文字运用",
+      "knowledge_points": [
+        {
+          "name": "小说与戏剧阅读",
+          "description": "把握小说的叙事与戏剧的冲突。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "语言文字积累",
+          "description": "掌握成语、连贯与表达得体。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

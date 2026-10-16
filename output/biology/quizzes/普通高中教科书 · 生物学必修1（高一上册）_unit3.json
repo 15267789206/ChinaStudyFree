@@ -1,0 +1,160 @@
+{
+  "textbook": "必修1",
+  "unit": "细胞的能量供应和利用",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「细胞的能量供应和利用」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "酶与ATP",
+        "question": "关于酶的叙述正确的是（　）",
+        "options": [
+          "酶都是蛋白质",
+          "酶具有专一性",
+          "酶只能催化一次",
+          "酶在高温下活性更高"
+        ],
+        "answer": "酶具有专一性",
+        "explanation": "酶有专一性。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "酶与ATP",
+        "question": "ATP 是细胞的直接能源物质。",
+        "options": [],
+        "answer": "对",
+        "explanation": "ATP 直接供能。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "光合作用与细胞呼吸",
+        "question": "光合作用的暗反应阶段不需要（　）",
+        "options": [
+          "ATP",
+          "NADPH",
+          "CO₂",
+          "光"
+        ],
+        "answer": "光",
+        "explanation": "暗反应不需要光。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "光合作用与细胞呼吸",
+        "question": "有氧呼吸产生 ATP 最多的阶段是（　）",
+        "options": [
+          "第一阶段",
+          "第二阶段",
+          "第三阶段",
+          "都不产生"
+        ],
+        "answer": "第三阶段",
+        "explanation": "第三阶段产生最多。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "光合作用与细胞呼吸",
+        "question": "光合作用只在光照下进行，呼吸作用在有光无光时都进行。",
+        "options": [],
+        "answer": "对",
+        "explanation": "呼吸作用不断进行。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "酶与ATP",
+      "core_concept": "酶是活细胞产生的具有催化作用的有机物，具有高效性、专一性，作用条件温和。ATP 是细胞的直接能源物质，远离腺苷的高能磷酸键易断裂释放能量。",
+      "key_formula": "$\\text{ATP}\\rightleftharpoons\\text{ADP}+\\text{Pi}+$ 能量",
+      "common_mistakes": [
+        "把酶都当作蛋白质（少数为 RNA）。"
+      ],
+      "tips": "绝大多数酶是蛋白质。"
+    },
+    {
+      "point": "光合作用与细胞呼吸",
+      "core_concept": "光合作用把光能转化为化学能储存在有机物中；有氧呼吸把有机物氧化分解并释放能量。光反应需要光，暗反应需要 ATP 与 NADPH。",
+      "key_formula": "$6\\text{CO}_2+12\\text{H}_2\\text{O}\\xrightarrow{\\text{光}}\\text{C}_6\\text{H}_{12}\\text{O}_6+6\\text{O}_2+6\\text{H}_2\\text{O}$",
+      "common_mistakes": [
+        "把暗反应说成只能在夜间进行。"
+      ],
+      "tips": "暗反应有光也能进行。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "酶与ATP",
+        "question": "探究酶的最适温度实验中，应（　）",
+        "options": [
+          "直接加酶后测",
+          "先分别保温再混合",
+          "先混合再保温",
+          "在沸水中进行"
+        ],
+        "answer": "先分别保温再混合",
+        "explanation": "控制单一变量。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "酶与ATP",
+        "question": "酶的作用是降低化学反应的活化能。",
+        "options": [],
+        "answer": "对",
+        "explanation": "酶的催化机理。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "光合作用与细胞呼吸",
+        "question": "把植物置于密闭容器中光照一段时间，CO₂ 浓度下降，说明（　）",
+        "options": [
+          "只进行呼吸作用",
+          "光合作用强度大于呼吸作用强度",
+          "只进行光合作用",
+          "呼吸作用停止"
+        ],
+        "answer": "光合作用强度大于呼吸作用强度",
+        "explanation": "净吸收 CO₂。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "光合作用与细胞呼吸",
+        "question": "叶绿体中的色素能吸收光能用于光反应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "色素吸收光能。"
+      }
+    ]
+  }
+}

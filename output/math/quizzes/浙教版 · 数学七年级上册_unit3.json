@@ -1,0 +1,203 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第3章 实数",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「第3章 实数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "计算：$\\sqrt{16} = $ ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$\\sqrt{16} = 4$（4 的平方是 16）。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "计算：$\\sqrt{25} = $ ？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$\\sqrt{25} = 5$（5 的平方是 25）。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "计算：$\\sqrt{9} = $ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$\\sqrt{9} = 3$（3 的平方是 9）。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "计算：$\\sqrt{49} = $ ？",
+        "options": [],
+        "answer": "7",
+        "explanation": "$\\sqrt{49} = 7$（7 的平方是 49）。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "实数与数轴",
+        "question": "$\\sqrt2$ 属于（　）",
+        "options": [
+          "无理数",
+          "有理数",
+          "整数",
+          "分数"
+        ],
+        "answer": "无理数",
+        "explanation": "$\\sqrt2$ 是无限不循环小数。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "立方根与实数的运算",
+        "question": "计算：$\\sqrt[3]{8} = $ ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$\\sqrt[3]{8} = 2$，因为 2 的立方是 8。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "立方根与实数的运算",
+        "question": "计算：$\\sqrt[3]{27} = $ ？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$\\sqrt[3]{27} = 3$，因为 3 的立方是 27。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "立方根与实数的运算",
+        "question": "计算：$\\sqrt[3]{-27} = $ ？",
+        "options": [],
+        "answer": "-3",
+        "explanation": "$\\sqrt[3]{-27} = -3$，因为 -3 的立方是 -27。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "实数与数轴",
+        "question": "实数与数轴上的点一一对应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "一一对应。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "平方根与算术平方根",
+      "core_concept": "若 $x^2=a$，则 $x$ 叫 $a$ 的平方根；正的非负数平方根记 $\\sqrt a$（算术平方根）。正数有两个互为相反数的平方根，0 的平方根是 0，负数没有平方根。",
+      "key_formula": "$\\sqrt a\\ (a\\ge0)$",
+      "common_mistakes": [
+        "认为负数也有平方根。"
+      ],
+      "tips": "负数没有平方根。"
+    },
+    {
+      "point": "实数与数轴",
+      "core_concept": "无理数是无限不循环小数；有理数与无理数统称实数；实数与数轴上的点一一对应。",
+      "key_formula": "实数 ↔ 数轴上的点",
+      "common_mistakes": [
+        "认为数轴上只有有理数。"
+      ],
+      "tips": "无理数也能在数轴上表示。"
+    },
+    {
+      "point": "立方根与实数的运算",
+      "core_concept": "若 $x^3=a$，则 $x$ 叫 $a$ 的立方根，记 $\\sqrt[3]a$；任何实数都有且只有一个立方根。实数大小比较：正数 > 0 > 负数，原点右边越大。",
+      "key_formula": "$\\sqrt[3]a$",
+      "common_mistakes": [
+        "认为负数没有立方根。"
+      ],
+      "tips": "负数有立方根。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "立方根与实数的运算",
+        "question": "$\\sqrt9+\\sqrt{16}=$ ？",
+        "options": [],
+        "answer": "7",
+        "explanation": "$3+4=7$。"
+      },
+      {
+        "id": 11,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "平方根与算术平方根",
+        "question": "9 的平方根是（　）",
+        "options": [
+          "±3",
+          "3",
+          "-3",
+          "9"
+        ],
+        "answer": "±3",
+        "explanation": "正数有两个互为相反数的平方根。"
+      },
+      {
+        "id": 12,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "立方根与实数的运算",
+        "question": "负数没有平方根，但有立方根。",
+        "options": [],
+        "answer": "对",
+        "explanation": "$\\sqrt[3]{-8}=-2$。"
+      },
+      {
+        "id": 13,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "实数与数轴",
+        "question": "下列数中是无理数的是（　）",
+        "options": [
+          "$\\pi$",
+          "$\\frac12$",
+          "0.333…（循环）",
+          "-5"
+        ],
+        "answer": "$\\pi$",
+        "explanation": "$\\pi$ 无限不循环。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 My life — Making friends 交朋友",
+      "knowledge_points": [
+        {
+          "name": "交朋友表达",
+          "description": "掌握交朋友相关句型。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "自我介绍与来源",
+          "description": "会介绍姓名、年龄与来自哪里。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 1 My life — Daily life 日常生活",
+      "knowledge_points": [
+        {
+          "name": "日常动词短语",
+          "description": "掌握 get up / have breakfast / go to school。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一般现在时第三人称单数",
+          "description": "掌握三单形式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "Module 2 The natural world — The earth 我们的地球",
+      "knowledge_points": [
+        {
+          "name": "环保词汇 protect / pollute / recycle",
+          "description": "掌握环保核心词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "情态动词 should / must",
+          "description": "掌握 should 与 must。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "Module 2 The natural world — Seasons 季节",
+      "knowledge_points": [
+        {
+          "name": "季节与天气词汇",
+          "description": "掌握四季与天气。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "描述天气句型",
+          "description": "会用 It's… 描述天气。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "Module 3 Travels — Visiting the moon 探月",
+      "knowledge_points": [
+        {
+          "name": "太空词汇 moon / space / rocket / astronaut",
+          "description": "掌握太空探索词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "there be 与将来计划",
+          "description": "会用 there be 描述存在。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "Module 3 Travels — Travelling around Asia 环亚旅行",
+      "knowledge_points": [
+        {
+          "name": "旅行词汇 travel / ticket / hotel / visit",
+          "description": "掌握旅行相关词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一般将来时 be going to",
+          "description": "掌握 be going to 表计划。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "Module 4 Fun time — School clubs 学校社团",
+      "knowledge_points": [
+        {
+          "name": "社团词汇 club / join / art / music",
+          "description": "掌握社团相关词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "would like to 表达意愿",
+          "description": "掌握 would like 的用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "Module 4 Fun time — Collecting things 收藏",
+      "knowledge_points": [
+        {
+          "name": "收藏词汇 collect / stamp / coin",
+          "description": "掌握收藏相关词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "爱好表达 hobby",
+          "description": "会谈论个人爱好。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

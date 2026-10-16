@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "温暖的家",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「温暖的家」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "家庭责任与分担",
+        "question": "下面哪种做法能帮助家人（　）",
+        "options": [
+          "吃完饭把碗收到厨房",
+          "把垃圾留在桌上",
+          "故意把地弄脏",
+          "什么都不做"
+        ],
+        "answer": "吃完饭把碗收到厨房",
+        "explanation": "主动分担家务。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "沟通与理解家人",
+        "question": "和父母想法不一致时，应该（　）",
+        "options": [
+          "大哭大闹",
+          "好好沟通说出想法",
+          "摔门而去",
+          "不理他们"
+        ],
+        "answer": "好好沟通说出想法",
+        "explanation": "沟通是解决矛盾的好办法。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "家庭责任与分担",
+        "question": "家务活需要全家人共同分担。",
+        "options": [],
+        "answer": "对",
+        "explanation": "家务要分担。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "沟通与理解家人",
+        "question": "父母的辛苦要体谅。",
+        "options": [],
+        "answer": "对",
+        "explanation": "体谅父母。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "家庭责任与分担",
+      "core_concept": "家庭事务需要每个成员分担。做些力所能及的家务，如扫地、洗碗、整理房间，能让家庭更温馨。",
+      "key_formula": "家务分担",
+      "common_mistakes": [
+        "认为家务只是父母的事。"
+      ],
+      "tips": "从小事做起分担家务。"
+    },
+    {
+      "point": "沟通与理解家人",
+      "core_concept": "与家人有不同想法时，要好好说、不顶撞。理解父母的辛苦，遇到矛盾主动沟通解决。",
+      "key_formula": "好好说话",
+      "common_mistakes": [
+        "和父母赌气不说话。"
+      ],
+      "tips": "沟通化解矛盾。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "家庭责任与分担",
+        "question": "自己能做的事情应该（　）",
+        "options": [
+          "让父母代做",
+          "坚持自己做",
+          "请同学做",
+          "不做"
+        ],
+        "answer": "坚持自己做",
+        "explanation": "自己的事自己做。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "沟通与理解家人",
+        "question": "主动沟通能减少与家人的矛盾。",
+        "options": [],
+        "answer": "对",
+        "explanation": "沟通减少矛盾。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "沟通与理解家人",
+        "question": "父母批评你时，正确的态度是（　）",
+        "options": [
+          "顶撞反驳",
+          "虚心听并改正",
+          "假装听不见",
+          "记恨"
+        ],
+        "answer": "虚心听并改正",
+        "explanation": "虚心接受批评。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "家庭责任与分担",
+        "question": "关心家人要用实际行动。",
+        "options": [],
+        "answer": "对",
+        "explanation": "行动表达关心。"
+      }
+    ]
+  }
+}

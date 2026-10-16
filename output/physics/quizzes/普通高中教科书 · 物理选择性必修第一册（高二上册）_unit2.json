@@ -1,0 +1,145 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "机械振动与机械波",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「机械振动与机械波」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "机械波与波的描述",
+        "question": "波速 20 m/s、频率 5 Hz 的波，波长是多少 m？",
+        "options": [],
+        "answer": "4",
+        "explanation": "$\\lambda=\\frac vf=\\frac{20}{5}=4$ m。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "简谐运动与单摆",
+        "question": "单摆周期与下列哪个量无关（　）",
+        "options": [
+          "摆球质量",
+          "摆长",
+          "重力加速度",
+          "以上都有关"
+        ],
+        "answer": "摆球质量",
+        "explanation": "周期与质量无关。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "机械波与波的描述",
+        "question": "机械波传播的是振动形式和能量。",
+        "options": [],
+        "answer": "对",
+        "explanation": "波传播能量。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "机械波与波的描述",
+        "question": "波长 2 m、频率 10 Hz，波速是多少 m/s？",
+        "options": [],
+        "answer": "20",
+        "explanation": "$v=\\lambda f=20$ m/s。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "简谐运动与单摆",
+        "question": "简谐运动的回复力与位移成正比且方向相反。",
+        "options": [],
+        "answer": "对",
+        "explanation": "$F=-kx$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "简谐运动与单摆",
+      "core_concept": "简谐运动回复力满足 $F=-kx$。单摆周期 $T=2\\pi\\sqrt{\\frac lg}$，与摆球质量、振幅无关。",
+      "key_formula": "$T=2\\pi\\sqrt{\\frac lg}$",
+      "common_mistakes": [
+        "认为单摆周期与振幅有关。"
+      ],
+      "tips": "摆长越长周期越大。"
+    },
+    {
+      "point": "机械波与波的描述",
+      "core_concept": "$v=\\lambda f$，波传播的是振动形式和能量，质点不随波迁移。横波中质点振动方向与传播方向垂直。",
+      "key_formula": "$v=\\lambda f$",
+      "common_mistakes": [
+        "认为质点随波移动。"
+      ],
+      "tips": "波传能量不传物质。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "简谐运动与单摆",
+        "question": "摆长 1 m、$g$ 取 10 m/s²（$\\pi^2\\approx10$），单摆周期约为多少 s？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$T=2\\pi\\sqrt{\\frac{1}{10}}=2\\pi\\times\\frac{1}{\\pi}=2$ s。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "机械波与波的描述",
+        "question": "横波中质点的振动方向与波传播方向（　）",
+        "options": [
+          "垂直",
+          "平行",
+          "成 45°",
+          "无关"
+        ],
+        "answer": "垂直",
+        "explanation": "横波定义。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "机械波与波的描述",
+        "question": "声波是纵波。",
+        "options": [],
+        "answer": "对",
+        "explanation": "声波为纵波。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "机械波与波的描述",
+        "question": "波速 340 m/s、波长 2 m，频率是多少 Hz？",
+        "options": [],
+        "answer": "170",
+        "explanation": "$f=\\frac v\\lambda=\\frac{340}{2}=170$ Hz。"
+      }
+    ]
+  }
+}

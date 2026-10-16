@@ -1,0 +1,221 @@
+{
+  "textbook": "七年级上册",
+  "unit": "有理数",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「有理数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "有理数与数轴",
+        "question": "下列各数中属于负数的是（　）",
+        "options": [
+          "0",
+          "-3",
+          "2.5",
+          "+7"
+        ],
+        "answer": "-3",
+        "explanation": "$-3<0$，是负数。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "有理数与数轴",
+        "question": "在数轴上，$-2$ 对应的点在 $-5$ 对应的点右边。",
+        "options": [],
+        "answer": "对",
+        "explanation": "$-2>-5$，数轴右边更大。"
+      },
+      {
+        "id": 3,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "有理数与数轴",
+        "question": "$-7$ 的绝对值是 ___。",
+        "options": [],
+        "answer": "7",
+        "explanation": "$|-7|=7$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "有理数的加减法",
+        "question": "计算：-3 + 5 = ？",
+        "options": [],
+        "answer": "2",
+        "explanation": "-3 + 5 = 2。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "有理数的加减法",
+        "question": "计算：-8 + -6 = ？",
+        "options": [],
+        "answer": "-14",
+        "explanation": "-8 + -6 = -14。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "有理数的加减法",
+        "question": "计算：7 + -12 = ？",
+        "options": [],
+        "answer": "-5",
+        "explanation": "7 + -12 = -5。"
+      },
+      {
+        "id": 7,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "有理数的加减法",
+        "question": "计算：$5-(-3)=$ ___",
+        "options": [],
+        "answer": "8",
+        "explanation": "减去 $-3$ 等于加 3：$5+3=8$。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "有理数的乘除与乘方",
+        "question": "计算：-4 × 6 = ？",
+        "options": [],
+        "answer": "-24",
+        "explanation": "-4 × 6 = -24。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "有理数的乘除与乘方",
+        "question": "计算：-15 × -3 = ？",
+        "options": [],
+        "answer": "45",
+        "explanation": "-15 × -3 = 45。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "有理数的乘除与乘方",
+        "question": "计算：12 × -4 = ？",
+        "options": [],
+        "answer": "-48",
+        "explanation": "12 × -4 = -48。"
+      },
+      {
+        "id": 11,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的乘除与乘方",
+        "question": "计算：$(-2)^3=$ ？",
+        "options": [],
+        "answer": "-8",
+        "explanation": "$(-2)^3=-8$，负数的奇次幂为负。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "有理数与数轴",
+      "core_concept": "整数和分数统称有理数。规定了原点、正方向、单位长度的直线叫数轴；数轴上右边的数总比左边的大。",
+      "key_formula": "$|a|$ 表示 $a$ 到原点的距离",
+      "common_mistakes": [
+        "误以为0不是有理数。",
+        "比较负数时忽略绝对值：$-5<-3$。"
+      ],
+      "tips": "比较两个负数，绝对值大的反而小。"
+    },
+    {
+      "point": "有理数的加减法",
+      "core_concept": "同号相加取相同符号并把绝对值相加；异号相加取绝对值较大加数的符号，用较大绝对值减较小绝对值。减去一个数等于加上它的相反数。",
+      "key_formula": "$a-b=a+(-b)$",
+      "common_mistakes": [
+        "异号相加符号取错。"
+      ],
+      "tips": "减法统一成加法再算。"
+    },
+    {
+      "point": "有理数的乘除与乘方",
+      "core_concept": "两数相乘同号得正、异号得负，绝对值相乘。除以非零数等于乘它的倒数。$a^n$ 表示 $n$ 个 $a$ 相乘。",
+      "key_formula": "$a\\div b=a\\times\\frac1b\\ (b\\ne0)$",
+      "common_mistakes": [
+        "$-2^2=-4$ 与 $(-2)^2=4$ 混淆。"
+      ],
+      "tips": "先定符号，再算绝对值。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 12,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "有理数与数轴",
+        "question": "最大的负整数是 $-1$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "负整数中绝对值最小的是 $-1$，故最大。"
+      },
+      {
+        "id": 13,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "有理数的加减法",
+        "question": "计算 $-6+9$ 的结果是（　）",
+        "options": [
+          "-15",
+          "3",
+          "-3",
+          "15"
+        ],
+        "answer": "3",
+        "explanation": "异号相加取正号，$9-6=3$。"
+      },
+      {
+        "id": 14,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "有理数的乘除与乘方",
+        "question": "$(-3)\\times(-4)=$ ___",
+        "options": [],
+        "answer": "12",
+        "explanation": "同号相乘得正。"
+      },
+      {
+        "id": 15,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "有理数的加减法",
+        "question": "计算：$-8+3-(-5)=$ ？",
+        "options": [],
+        "answer": "0",
+        "explanation": "$-8+3=-5$，$-5+5=0$。"
+      }
+    ]
+  }
+}

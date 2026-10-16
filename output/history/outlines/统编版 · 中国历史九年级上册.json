@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "古代文明与近代转型",
+      "knowledge_points": [
+        {
+          "name": "古代科技思想文化",
+          "description": "了解古代中国的科技思想成就。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "近代化的艰难起步",
+          "description": "了解近代中国被迫开放与近代化起步。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "近代社会与革命道路",
+      "knowledge_points": [
+        {
+          "name": "近代社会生活与教育文化",
+          "description": "了解近代社会生活变化。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "革命道路的探索",
+          "description": "了解救国救民道路的探索。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

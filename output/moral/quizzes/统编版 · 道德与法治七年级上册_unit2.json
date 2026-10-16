@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级上册",
+  "unit": "青春与情绪",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「青春与情绪」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "青春期的变化与调控情绪",
+        "question": "调节情绪的方法不包括（　）",
+        "options": [
+          "改变认知评价",
+          "转移注意",
+          "合理宣泄",
+          "压抑不表达"
+        ],
+        "answer": "压抑不表达",
+        "explanation": "长期压抑不利健康。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "集体与团队意识",
+        "question": "建设良好集体需要（　）",
+        "options": [
+          "共同目标与团结协作",
+          "各自为政",
+          "只讲个人利益",
+          "互相攀比"
+        ],
+        "answer": "共同目标与团结协作",
+        "explanation": "良好集体需要协作。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "青春期的变化与调控情绪",
+        "question": "青春期身体变化是正常的生理现象。",
+        "options": [],
+        "answer": "对",
+        "explanation": "属正常发育。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "集体与团队意识",
+        "question": "个人与集体相互依存。",
+        "options": [],
+        "answer": "对",
+        "explanation": "个人与集体关系。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "青春期的变化与调控情绪",
+      "core_concept": "青春期身体变化主要表现为身体外形、内部器官和性机能的成熟。情绪受多方面影响，可通过改变认知评价、转移注意、合理宣泄、放松训练等方式调节。",
+      "key_formula": "情绪调节四方法",
+      "common_mistakes": [
+        "认为情绪完全无法控制。"
+      ],
+      "tips": "改变认知是根本方法。"
+    },
+    {
+      "point": "集体与团队意识",
+      "core_concept": "集体是人们联合起来的有组织的整体。良好的集体需要共同目标、团结协作与各尽其能。个人与集体相互依存。",
+      "key_formula": "个人与集体相互依存",
+      "common_mistakes": [
+        "认为个人在集体中无关紧要。"
+      ],
+      "tips": "集体力量源于团结。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "青春期的变化与调控情绪",
+        "question": "当遇到挫折产生消极情绪时，恰当的做法是（　）",
+        "options": [
+          "合理宣泄并寻求帮助",
+          "迁怒他人",
+          "沉溺其中",
+          "拒绝沟通"
+        ],
+        "answer": "合理宣泄并寻求帮助",
+        "explanation": "合理宣泄是正确做法。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "集体与团队意识",
+        "question": "集体的力量来源于成员共同的目标和团结协作。",
+        "options": [],
+        "answer": "对",
+        "explanation": "集体力量来源。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "青春期的变化与调控情绪",
+        "question": "情绪会影响人的行为和身体健康。",
+        "options": [],
+        "answer": "对",
+        "explanation": "情绪的双重影响。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "集体与团队意识",
+        "question": "在集体中，我们应（　）",
+        "options": [
+          "尊重差异、善于合作",
+          "只顾自己",
+          "嘲笑他人",
+          "拒绝参与"
+        ],
+        "answer": "尊重差异、善于合作",
+        "explanation": "集体生活要求合作。"
+      }
+    ]
+  }
+}

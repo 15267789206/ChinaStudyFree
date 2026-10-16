@@ -1,0 +1,155 @@
+{
+  "textbook": "必修第一册",
+  "unit": "物质及其变化",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「物质及其变化」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "物质的分类与离子反应",
+        "question": "下列属于电解质的是（　）",
+        "options": [
+          "铜",
+          "氯化钠",
+          "蔗糖",
+          "酒精"
+        ],
+        "answer": "氯化钠",
+        "explanation": "NaCl 水溶液能导电。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "氧化还原反应",
+        "question": "下列反应属于氧化还原反应的是（　）",
+        "options": [
+          "$\\text{NaOH}+\\text{HCl}$",
+          "$\\text{Fe}+\\text{CuSO}_4$",
+          "$\\text{CaCO}_3\\xrightarrow{\\text{高温}}$",
+          "$\\text{CO}_2+\\text{H}_2\\text{O}$"
+        ],
+        "answer": "$\\text{Fe}+\\text{CuSO}_4$",
+        "explanation": "有化合价变化。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "氧化还原反应",
+        "question": "氧化还原反应中，还原剂被氧化。",
+        "options": [],
+        "answer": "对",
+        "explanation": "还原剂失电子被氧化。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "物质的分类与离子反应",
+        "question": "0.1 mol/L 的 NaCl 溶液 1 L 中含 NaCl 的物质的量是多少 mol？",
+        "options": [],
+        "answer": "0.1",
+        "explanation": "$n=cV=0.1\\times1=0.1$ mol。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "物质的分类与离子反应",
+        "question": "难溶物质在离子方程式中一般写化学式。",
+        "options": [],
+        "answer": "对",
+        "explanation": "难溶物不拆。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "物质的分类与离子反应",
+      "core_concept": "物质按组成分为混合物与纯净物，纯净物分单质与化合物。电解质在水溶液中电离出自由移动的离子。离子方程式要拆强酸、强碱、可溶性盐。",
+      "key_formula": "$\\text{H}^++\\text{OH}^-=\\text{H}_2\\text{O}$",
+      "common_mistakes": [
+        "把难溶物、气体写成离子形式。"
+      ],
+      "tips": "强电解质可拆，弱电解质不拆。"
+    },
+    {
+      "point": "氧化还原反应",
+      "core_concept": "本质是电子转移（得失或偏移）。化合价升高被氧化、作还原剂；化合价降低被还原、作氧化剂。",
+      "key_formula": "升失氧（还原剂）、降得还（氧化剂）",
+      "common_mistakes": [
+        "把氧化剂与还原剂判断颠倒。"
+      ],
+      "tips": "口诀：升失氧还。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "氧化还原反应",
+        "question": "反应 $2\\text{FeCl}_3+\\text{Cu}=2\\text{FeCl}_2+\\text{CuCl}_2$ 中，氧化剂是（　）",
+        "options": [
+          "$\\text{FeCl}_3$",
+          "$\\text{Cu}$",
+          "$\\text{FeCl}_2$",
+          "$\\text{CuCl}_2$"
+        ],
+        "answer": "$\\text{FeCl}_3$",
+        "explanation": "Fe 由 +3 降至 +2，作氧化剂。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "物质的分类与离子反应",
+        "question": "离子方程式可以表示一类反应的实质。",
+        "options": [],
+        "answer": "对",
+        "explanation": "离子方程式表示本质。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "物质的分类与离子反应",
+        "question": "下列离子方程式书写正确的是（　）",
+        "options": [
+          "$\\text{CaCO}_3+2\\text{H}^+=\\text{Ca}^{2+}+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$",
+          "$\\text{CaCO}_3+2\\text{H}^+=\\text{Ca}^{2+}+\\text{H}_2\\text{CO}_3$",
+          "$\\text{CO}_3^{2-}+2\\text{H}^+=\\text{H}_2\\text{CO}_3$",
+          "$\\text{Ca}^{2+}+\\text{CO}_3^{2-}=\\text{CaCO}_3$"
+        ],
+        "answer": "$\\text{CaCO}_3+2\\text{H}^+=\\text{Ca}^{2+}+\\text{H}_2\\text{O}+\\text{CO}_2\\uparrow$",
+        "explanation": "碳酸不稳定分解为水和二氧化碳。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "氧化还原反应",
+        "question": "化合价升高的元素被氧化。",
+        "options": [],
+        "answer": "对",
+        "explanation": "升失氧。"
+      }
+    ]
+  }
+}

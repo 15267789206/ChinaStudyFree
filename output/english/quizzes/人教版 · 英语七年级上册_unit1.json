@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "词法基础",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「词法基础」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "名词与冠词",
+        "question": "There is ___ apple on the table.",
+        "options": [
+          "a",
+          "an",
+          "the",
+          "/"
+        ],
+        "answer": "an",
+        "explanation": "apple 以元音音素开头。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "名词与冠词",
+        "question": "I have three ___.",
+        "options": [
+          "box",
+          "boxs",
+          "boxes",
+          "boxies"
+        ],
+        "answer": "boxes",
+        "explanation": "以 x 结尾加 -es。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "代词与数词",
+        "question": "This book is ___. (我的)",
+        "options": [
+          "I",
+          "me",
+          "my",
+          "mine"
+        ],
+        "answer": "mine",
+        "explanation": "名词性物主代词单独使用。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "代词与数词",
+        "question": "“它的”用 its，“它是”用 it's。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两者区别。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "名词与冠词",
+      "core_concept": "可数名词有单复数形式，一般加 -s/-es。a/an 表示泛指，an 用于元音音素开头的词前；the 表示特指。",
+      "key_formula": "an + 元音音素开头",
+      "common_mistakes": [
+        "a useful book（u 发 /j/，用 a）。"
+      ],
+      "tips": "看读音不看字母。"
+    },
+    {
+      "point": "代词与数词",
+      "core_concept": "人称代词主格作主语、宾格作宾语；形容词性物主代词后接名词，名词性物主代词单独使用。",
+      "key_formula": "my book = mine",
+      "common_mistakes": [
+        "混用 its 与 it's。"
+      ],
+      "tips": "it's = it is。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "名词与冠词",
+        "question": "He is ___ honest boy.",
+        "options": [
+          "a",
+          "an",
+          "the",
+          "/"
+        ],
+        "answer": "an",
+        "explanation": "honest 中 h 不发音，以元音音素开头。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "代词与数词",
+        "question": "Give ___ the book, please. (我)",
+        "options": [
+          "I",
+          "me",
+          "my",
+          "mine"
+        ],
+        "answer": "me",
+        "explanation": "作宾语用宾格。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "名词与冠词",
+        "question": "不可数名词没有复数形式。",
+        "options": [],
+        "answer": "对",
+        "explanation": "如 water。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "代词与数词",
+        "question": "There are ___ students in the room.",
+        "options": [
+          "twelve",
+          "twelveth",
+          "the twelve",
+          "twelfth"
+        ],
+        "answer": "twelve",
+        "explanation": "基数词表示数量。"
+      }
+    ]
+  }
+}

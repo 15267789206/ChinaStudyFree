@@ -1,0 +1,83 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "新闻与叙事性作品",
+      "knowledge_points": [
+        {
+          "name": "新闻类文本阅读",
+          "description": "掌握新闻的要素、结构与语言特点。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "叙事与人物描写",
+          "description": "分析叙事角度与描写作用。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "文言文与古代散文",
+      "knowledge_points": [
+        {
+          "name": "文言实词与虚词",
+          "description": "积累常见文言实词虚词的意义与用法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "文言句子翻译",
+          "description": "掌握直译与意译的翻译方法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "说明文与议论文",
+      "knowledge_points": [
+        {
+          "name": "说明文阅读",
+          "description": "把握说明对象、顺序与说明方法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "议论文基本要素",
+          "description": "掌握论点、论据、论证方法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

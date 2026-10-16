@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "全等三角形与轴对称",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「全等三角形与轴对称」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的判定",
+        "question": "下列不能判定两个三角形全等的是（　）",
+        "options": [
+          "AAA",
+          "SSS",
+          "SAS",
+          "ASA"
+        ],
+        "answer": "AAA",
+        "explanation": "AAA 判相似。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "轴对称与等腰三角形",
+        "question": "等边三角形的每个内角是（　）",
+        "options": [
+          "60°",
+          "90°",
+          "45°",
+          "30°"
+        ],
+        "answer": "60°",
+        "explanation": "等边三角形三角 60°。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的判定",
+        "question": "书写全等三角形时对应顶点顺序要一致。",
+        "options": [],
+        "answer": "对",
+        "explanation": "对应顺序。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "轴对称与等腰三角形",
+        "question": "轴对称图形沿对称轴折叠后能够完全重合。",
+        "options": [],
+        "answer": "对",
+        "explanation": "轴对称定义。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "全等三角形的判定",
+      "core_concept": "判定方法有 SSS、SAS、ASA、AAS。对应顶点书写顺序必须一致。",
+      "key_formula": "SSS / SAS / ASA / AAS",
+      "common_mistakes": [
+        "把 AAA 当作全等判定。"
+      ],
+      "tips": "AAA 只能判相似。"
+    },
+    {
+      "point": "轴对称与等腰三角形",
+      "core_concept": "轴对称图形沿对称轴折叠可重合。等腰三角形两腰相等，两底角相等；等边三角形三边相等、三角相等。",
+      "key_formula": "等边对等角",
+      "common_mistakes": [
+        "认为等腰三角形顶角必为直角。"
+      ],
+      "tips": "顶角 = 180° − 2 底角。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的判定",
+        "question": "在 $\\triangle ABC$ 与 $\\triangle DEF$ 中，$AB=DE$，$\\angle A=\\angle D$，$\\angle B=\\angle E$，则可判定（　）",
+        "options": [
+          "$\\triangle ABC \\cong \\triangle DEF$",
+          "两三角形相似",
+          "两三角形面积相等",
+          "无法判定"
+        ],
+        "answer": "$\\triangle ABC \\cong \\triangle DEF$",
+        "explanation": "ASA 判定全等。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "轴对称与等腰三角形",
+        "question": "等腰三角形顶角为 100°，则底角为（　）",
+        "options": [
+          "40°",
+          "50°",
+          "80°",
+          "45°"
+        ],
+        "answer": "40°",
+        "explanation": "(180−100)/2 = 40。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "全等三角形的判定",
+        "question": "全等三角形的对应边相等、对应角相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "全等性质。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "轴对称与等腰三角形",
+        "question": "等腰三角形的两底角相等。",
+        "options": [],
+        "answer": "对",
+        "explanation": "等边对等角。"
+      }
+    ]
+  }
+}

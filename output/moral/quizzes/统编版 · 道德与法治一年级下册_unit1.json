@@ -1,0 +1,144 @@
+{
+  "textbook": "一年级下册",
+  "unit": "好习惯伴成长",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「好习惯伴成长」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "生活中的好习惯",
+        "question": "下面做法正确的是（　）",
+        "options": [
+          "饭前不洗手",
+          "早晚都刷牙",
+          "挑食只吃肉",
+          "睡前吃糖"
+        ],
+        "answer": "早晚都刷牙",
+        "explanation": "早晚刷牙护牙齿。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "今日事今日毕",
+        "question": "放学回家后，正确的做法是（　）",
+        "options": [
+          "先玩到很晚再写作业",
+          "先完成作业再安排玩耍",
+          "让奶奶替我写",
+          "不写作业"
+        ],
+        "answer": "先完成作业再安排玩耍",
+        "explanation": "先完成作业再去玩。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "生活中的好习惯",
+        "question": "不能挑食偏食，要样样都吃。",
+        "options": [],
+        "answer": "对",
+        "explanation": "挑食影响健康。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "今日事今日毕",
+        "question": "当天的事情应该当天做完。",
+        "options": [],
+        "answer": "对",
+        "explanation": "今日事今日毕。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "生活中的好习惯",
+      "core_concept": "饭前便后洗手、早晚刷牙、按时睡觉起床、不挑食偏食，这些都是生活好习惯。",
+      "key_formula": "讲卫生、不挑食",
+      "common_mistakes": [
+        "饭前不洗手直接吃饭。"
+      ],
+      "tips": "好习惯要坚持。"
+    },
+    {
+      "point": "今日事今日毕",
+      "core_concept": "当天的事情当天做完，不能拖到明天。做事有计划、不拖拉，才能既轻松又有效。",
+      "key_formula": "今日事今日毕",
+      "common_mistakes": [
+        "把作业拖到第二天早上。"
+      ],
+      "tips": "写完作业再去玩更安心。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "生活中的好习惯",
+        "question": "保护牙齿，应该少吃（　）",
+        "options": [
+          "蔬菜",
+          "甜食",
+          "水果",
+          "米饭"
+        ],
+        "answer": "甜食",
+        "explanation": "甜食多吃容易蛀牙。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "今日事今日毕",
+        "question": "做事拖拉会让事情越积越多。",
+        "options": [],
+        "answer": "对",
+        "explanation": "拖拉会积压任务。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "今日事今日毕",
+        "question": "要养成做事有（　）的好习惯",
+        "options": [
+          "计划",
+          "拖拉",
+          "依赖",
+          "随意"
+        ],
+        "answer": "计划",
+        "explanation": "有计划才能不忙乱。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "生活中的好习惯",
+        "question": "饭前便后要洗手。",
+        "options": [],
+        "answer": "对",
+        "explanation": "饭前便后洗手防病。"
+      }
+    ]
+  }
+}

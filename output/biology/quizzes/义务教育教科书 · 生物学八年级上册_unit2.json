@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "动物的运动与行为",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「动物的运动与行为」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "运动系统的组成与功能",
+        "question": "构成人体运动系统的是（　）",
+        "options": [
+          "骨、关节和肌肉",
+          "骨和皮肤",
+          "关节和神经",
+          "肌肉和血液"
+        ],
+        "answer": "骨、关节和肌肉",
+        "explanation": "运动系统三部分。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "动物的行为",
+        "question": "下列属于学习行为的是（　）",
+        "options": [
+          "小狗做算术题",
+          "蜘蛛结网",
+          "母鸡孵蛋",
+          "蜜蜂采蜜"
+        ],
+        "answer": "小狗做算术题",
+        "explanation": "算术题需经训练。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "运动系统的组成与功能",
+        "question": "肌肉附着在骨上，跨过关节牵拉骨运动。",
+        "options": [],
+        "answer": "对",
+        "explanation": "肌肉作用。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "动物的行为",
+        "question": "社会行为通常具有明确的分工和等级。",
+        "options": [],
+        "answer": "对",
+        "explanation": "社会行为特点。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "运动系统的组成与功能",
+      "core_concept": "运动系统由骨、关节和肌肉组成。骨骼支撑人体、保护内脏、协助运动。关节由关节面、关节囊和关节窝组成，肌肉附着在骨上，跨过关节牵拉骨转动。",
+      "key_formula": "骨 + 关节 + 肌肉 = 运动系统",
+      "common_mistakes": [
+        "认为关节是两块骨直接相连。"
+      ],
+      "tips": "关节结构要记牢。"
+    },
+    {
+      "point": "动物的行为",
+      "core_concept": "动物行为分先天性行为和学习行为。先天性行为由遗传物质决定，生来就有；学习行为通过生活经验获得，更适应变化的环境。社会行为具有明确的分工与等级。",
+      "key_formula": "遗传 → 先天性；经验 → 学习性",
+      "common_mistakes": [
+        "把所有行为都当作学习行为。"
+      ],
+      "tips": "看是否需要经验。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "运动系统的组成与功能",
+        "question": "关节的基本结构包括（　）",
+        "options": [
+          "关节面、关节囊、关节窝",
+          "骨和肌肉",
+          "韧带和血管",
+          "皮肤和神经"
+        ],
+        "answer": "关节面、关节囊、关节窝",
+        "explanation": "关节三部分。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "动物的行为",
+        "question": "决定先天性行为的物质基础是（　）",
+        "options": [
+          "遗传物质",
+          "生活经验",
+          "环境因素",
+          "教师训练"
+        ],
+        "answer": "遗传物质",
+        "explanation": "先天性行为由遗传物质决定。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "运动系统的组成与功能",
+        "question": "骨骼具有支撑、杠杆、保持姿态和保护作用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "骨骼功能。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "动物的行为",
+        "question": "学习行为有利于动物适应变化的环境。",
+        "options": [],
+        "answer": "对",
+        "explanation": "学习行为意义。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "走进社会与规则",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「走进社会与规则」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "个人的成长与社会",
+        "question": "人的成长过程本质上是一个（　）",
+        "options": [
+          "不断社会化的过程",
+          "学习知识的过程",
+          "身体发育的过程",
+          "赚钱的过程"
+        ],
+        "answer": "不断社会化的过程",
+        "explanation": "社会化贯穿一生。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "规则与自由",
+        "question": "自由与规则的关系是（　）",
+        "options": [
+          "自由以规则为边界，二者相辅相成",
+          "规则妨碍自由",
+          "自由与规则无关",
+          "有了自由就不需要规则"
+        ],
+        "answer": "自由以规则为边界，二者相辅相成",
+        "explanation": "规则保障自由。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "个人的成长与社会",
+        "question": "个人成长离不开社会提供的条件。",
+        "options": [],
+        "answer": "对",
+        "explanation": "社会提供成长条件。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "规则与自由",
+        "question": "行使自由不能损害国家的、社会的、集体的利益。",
+        "options": [],
+        "answer": "对",
+        "explanation": "自由有边界。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "个人的成长与社会",
+      "core_concept": "人的成长是不断社会化的过程。社会提供成长条件，个人也要主动融入社会、承担责任。",
+      "key_formula": "社会化 = 个人成长必经过程",
+      "common_mistakes": [
+        "认为成长只靠个人努力。"
+      ],
+      "tips": "个人与社会相互塑造。"
+    },
+    {
+      "point": "规则与自由",
+      "core_concept": "社会规则保障自由。自由不是随心所欲，要在法律、道德允许的范围内行使自由。",
+      "key_formula": "自由以规则为边界",
+      "common_mistakes": [
+        "把自由理解为想做什么就做什么。"
+      ],
+      "tips": "自由有边界。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "个人的成长与社会",
+        "question": "积极参与社会公益活动，对个人的意义是（　）",
+        "options": [
+          "提升责任意识和能力",
+          "浪费时间",
+          "可以获得奖品",
+          "与己无关"
+        ],
+        "answer": "提升责任意识和能力",
+        "explanation": "参与公益提升自我。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "规则与自由",
+        "question": "遵守社会规则是公民的基本义务。",
+        "options": [],
+        "answer": "对",
+        "explanation": "守规则是义务。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "规则与自由",
+        "question": "下面哪种行为是在规则允许范围内的自由（　）",
+        "options": [
+          "依法表达自己的意见",
+          "散布谣言扰乱秩序",
+          "损坏公共设施",
+          "闯红灯"
+        ],
+        "answer": "依法表达自己的意见",
+        "explanation": "合法表达是正当自由。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "个人的成长与社会",
+        "question": "养成亲社会行为有利于形成正确价值观。",
+        "options": [],
+        "answer": "对",
+        "explanation": "亲社会行为意义。"
+      }
+    ]
+  }
+}

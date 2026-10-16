@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "稳态与调节",
+      "knowledge_points": [
+        {
+          "name": "人体的内环境与稳态",
+          "description": "理解内环境与稳态的维持机制。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "神经与体液调节",
+          "description": "掌握神经调节与体液调节的关系。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "生态与可持续发展",
+      "knowledge_points": [
+        {
+          "name": "种群与群落",
+          "description": "理解种群数量特征与群落结构。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "生态系统与能量流动",
+          "description": "掌握生态系统的结构与能量流动特点。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

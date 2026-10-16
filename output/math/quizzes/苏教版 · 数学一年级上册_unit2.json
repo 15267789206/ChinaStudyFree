@@ -1,0 +1,154 @@
+{
+  "textbook": "一年级上册",
+  "unit": "比一比",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「比一比」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "比多少",
+        "question": "比较多少最常用的方法是（　）",
+        "options": [
+          "一一对应",
+          "比颜色",
+          "比大小",
+          "比形状"
+        ],
+        "answer": "一一对应",
+        "explanation": "一个对一个。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "比长短、高矮、轻重",
+        "question": "比较两根绳子的长短，要（　）",
+        "options": [
+          "把一端对齐",
+          "比颜色",
+          "比粗细",
+          "随便比"
+        ],
+        "answer": "把一端对齐",
+        "explanation": "一端对齐才公平。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "比长短、高矮、轻重",
+        "question": "比较轻重可以用手掂一掂。",
+        "options": [],
+        "answer": "对",
+        "explanation": "掂一掂估轻重。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "比多少",
+        "question": "小明有 3 支笔，小红有 5 支笔，（　）的笔多",
+        "options": [
+          "小明",
+          "小红",
+          "一样多",
+          "无法比较"
+        ],
+        "answer": "小红",
+        "explanation": "5 > 3。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "比多少",
+      "core_concept": "比较多少把一个对一个地对起来，谁有多出来的部分谁就较多，否则同样多。",
+      "key_formula": "一一对应",
+      "common_mistakes": [
+        "不对齐就比较。"
+      ],
+      "tips": "对齐再比。"
+    },
+    {
+      "point": "比长短、高矮、轻重",
+      "core_concept": "比长短要一端对齐；比高矮要同一平面；比轻重可以用手掂一掂或用简易天平。",
+      "key_formula": "一端对齐 / 同一平面 / 掂一掂",
+      "common_mistakes": [
+        "比较长短没有一端对齐。"
+      ],
+      "tips": "先对齐再比较。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "比多少",
+        "question": "3 和 3 比较，结果是（　）",
+        "options": [
+          "同样多",
+          "多",
+          "少",
+          "无法比较"
+        ],
+        "answer": "同样多",
+        "explanation": "两数相等。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "比长短、高矮、轻重",
+        "question": "比较高矮时两人要站在同一水平面上。",
+        "options": [],
+        "answer": "对",
+        "explanation": "同一平面。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "比长短、高矮、轻重",
+        "question": "一个苹果和一个西瓜比，（　）",
+        "options": [
+          "西瓜重",
+          "苹果重",
+          "一样重",
+          "无法比较"
+        ],
+        "answer": "西瓜重",
+        "explanation": "西瓜更重。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "比多少",
+        "question": "4 个苹果和 6 个梨比，（　）",
+        "options": [
+          "苹果多",
+          "梨多",
+          "同样多",
+          "无法比较"
+        ],
+        "answer": "梨多",
+        "explanation": "6 > 4。"
+      }
+    ]
+  }
+}

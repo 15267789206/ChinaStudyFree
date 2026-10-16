@@ -1,0 +1,57 @@
+{
+  "textbook": "一年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "我是小学生啦",
+      "knowledge_points": [
+        {
+          "name": "开学了与爱上学",
+          "description": "适应小学生活，培养上学兴趣。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "新习惯与守规则",
+          "description": "养成基本的校园好习惯。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "校园与家庭生活",
+      "knowledge_points": [
+        {
+          "name": "校园里的安全",
+          "description": "了解校园安全常识。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "家人与亲情",
+          "description": "感受家人的爱，学会表达。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

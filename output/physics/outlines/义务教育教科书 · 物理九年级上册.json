@@ -1,0 +1,113 @@
+{
+  "textbook": "九年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "内能",
+      "knowledge_points": [
+        {
+          "name": "分子热运动与内能",
+          "description": "理解分子动理论与内能概念。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "比热容与热量的计算",
+          "description": "掌握比热容概念与热量计算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "热机与能量转化",
+          "description": "了解内燃机工作原理与效率。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "电流和电路",
+      "knowledge_points": [
+        {
+          "name": "电荷与电流",
+          "description": "理解电荷、电流的形成与方向。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "串联与并联电路",
+          "description": "掌握两种连接方式的特点。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "电流表与电压表的使用",
+          "description": "掌握电表连接与量程选择。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "电压、电阻与欧姆定律",
+      "knowledge_points": [
+        {
+          "name": "电阻与变阻器",
+          "description": "理解电阻是导体本身的属性。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "欧姆定律",
+          "description": "掌握欧姆定律并进行计算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "伏安法测电阻与安全用电",
+          "description": "掌握测电阻方法并了解安全用电。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

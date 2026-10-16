@@ -1,0 +1,144 @@
+{
+  "textbook": "五年级上册",
+  "unit": "成长与自我管理",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「成长与自我管理」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "认识自我与自我完善",
+        "question": "正确的自我认识应该是（　）",
+        "options": [
+          "只看优点",
+          "既看优点也看缺点并努力改正",
+          "只看缺点",
+          "完全依赖别人评价"
+        ],
+        "answer": "既看优点也看缺点并努力改正",
+        "explanation": "全面看待并改进自己。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "学会管理时间与情绪",
+        "question": "任务很多时，合理的做法是（　）",
+        "options": [
+          "按轻重缓急排序逐项完成",
+          "随便做一件就放弃",
+          "拖到最后一天",
+          "同时开三件事"
+        ],
+        "answer": "按轻重缓急排序逐项完成",
+        "explanation": "分清轻重缓急。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "认识自我与自我完善",
+        "question": "正视自己的缺点有助于进步。",
+        "options": [],
+        "answer": "对",
+        "explanation": "知错能改。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "学会管理时间与情绪",
+        "question": "情绪低落时可以找信任的人倾诉。",
+        "options": [],
+        "answer": "对",
+        "explanation": "倾诉是调节方式。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "认识自我与自我完善",
+      "core_concept": "少年要学会用全面、发展的眼光认识自己，主动发现并改正缺点，提升道德修养。",
+      "key_formula": "认识自己 → 完善自己",
+      "common_mistakes": [
+        "只看优点，不愿承认缺点。"
+      ],
+      "tips": "正视缺点才能进步。"
+    },
+    {
+      "point": "学会管理时间与情绪",
+      "core_concept": "合理安排作息、按轻重缓急做事；情绪波动时用转移注意、合理宣泄、自我安慰等方法调节。",
+      "key_formula": "时间管理四步法",
+      "common_mistakes": [
+        "任务堆积才着急。"
+      ],
+      "tips": "先做重要紧急的事。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "认识自我与自我完善",
+        "question": "别人指出你的缺点时，最好（　）",
+        "options": [
+          "认真反思并改正",
+          "立刻发火",
+          "否认到底",
+          "从此不理他"
+        ],
+        "answer": "认真反思并改正",
+        "explanation": "虚心接受意见。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "学会管理时间与情绪",
+        "question": "拖延只会让事情变得更紧张。",
+        "options": [],
+        "answer": "对",
+        "explanation": "拖延加重负担。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "学会管理时间与情绪",
+        "question": "考试前情绪紧张，较好的做法是（　）",
+        "options": [
+          "深呼吸放松并按计划复习",
+          "放弃复习",
+          "熬夜突击",
+          "抱怨题目太难"
+        ],
+        "answer": "深呼吸放松并按计划复习",
+        "explanation": "调节情绪再复习。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "认识自我与自我完善",
+        "question": "发展地看待自己意味着要用变化的眼光看自己。",
+        "options": [],
+        "answer": "对",
+        "explanation": "发展眼光看自己。"
+      }
+    ]
+  }
+}

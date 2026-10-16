@@ -1,0 +1,57 @@
+{
+  "textbook": "八年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "古诗文与游记",
+      "knowledge_points": [
+        {
+          "name": "古代游记散文",
+          "description": "理解游记中的写景、抒情与主旨。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "古代诗歌鉴赏",
+          "description": "鉴赏诗歌的形象、意境与情感。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "小说与写作",
+      "knowledge_points": [
+        {
+          "name": "小说的三要素",
+          "description": "掌握小说人物、情节、环境三要素。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "小说情节梳理",
+          "description": "梳理情节，赏析伏笔与照应。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

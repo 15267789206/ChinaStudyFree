@@ -1,0 +1,77 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "生物和生物圈",
+      "knowledge_points": [
+        {
+          "name": "生物的特征与调查",
+          "description": "理解生物的共同特征与科学调查方法。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "生物与环境的关系",
+          "description": "理解生态因素与生物适应、影响。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "生态系统与生物圈",
+          "description": "掌握生态系统组成与食物链。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "细胞与生物体的结构层次",
+      "knowledge_points": [
+        {
+          "name": "细胞的结构与功能",
+          "description": "掌握动植物细胞结构差异。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "细胞的分裂与分化",
+          "description": "理解细胞分裂、分化和生长。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "生物体的结构层次",
+          "description": "掌握动植物体结构层次。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

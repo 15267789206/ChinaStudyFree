@@ -1,0 +1,213 @@
+{
+  "textbook": "一年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "可爱的校园 · 生活中的数",
+      "knowledge_points": [
+        {
+          "name": "数数 1~10",
+          "description": "会按顺序数出物体的个数。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "0 的认识",
+          "description": "理解 0 的含义。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "比较",
+      "knowledge_points": [
+        {
+          "name": "比多少",
+          "description": "会用一一对应比较多少。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "比长短、比高矮",
+          "description": "会比较长短与高矮。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "加与减（一）",
+      "knowledge_points": [
+        {
+          "name": "加法的意义",
+          "description": "理解加法表示「合起来」。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "减法的意义",
+          "description": "理解减法表示「去掉一部分」。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "分类",
+      "knowledge_points": [
+        {
+          "name": "按标准分类",
+          "description": "会按给定标准分类。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "分类标准不同结果不同",
+          "description": "理解分类标准的多样性。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "位置与顺序",
+      "knowledge_points": [
+        {
+          "name": "前后与上下",
+          "description": "会用前后、上下描述位置。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "左右",
+          "description": "会辨认左右。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "认识图形",
+      "knowledge_points": [
+        {
+          "name": "立体图形",
+          "description": "认识长方体、正方体、圆柱、球。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "图形的拼搭",
+          "description": "会用积木拼搭图形。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "加与减（二）",
+      "knowledge_points": [
+        {
+          "name": "11~20 各数的组成",
+          "description": "理解十几的组成。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "20 以内的加减法",
+          "description": "会计算 20 以内加减法。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "认识钟表",
+      "knowledge_points": [
+        {
+          "name": "钟面结构",
+          "description": "认识时针与分针。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "整时的认读",
+          "description": "会读、会写整时。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

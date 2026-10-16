@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "国家制度与社会治理",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「国家制度与社会治理」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "国家制度与政治文明",
+        "question": "秦朝在地方推行的制度是（　）",
+        "options": [
+          "郡县制",
+          "分封制",
+          "行省制",
+          "科举制"
+        ],
+        "answer": "郡县制",
+        "explanation": "秦推郡县制。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "基层治理与社会治理",
+        "question": "中国古代基层治理的重要依托是（　）",
+        "options": [
+          "宗族乡里制度",
+          "议会制度",
+          "公司制度",
+          "网络社区"
+        ],
+        "answer": "宗族乡里制度",
+        "explanation": "宗族乡里。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "国家制度与政治文明",
+        "question": "中央集权制度在封建时期不断强化。",
+        "options": [],
+        "answer": "对",
+        "explanation": "集权强化。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "基层治理与社会治理",
+        "question": "基层治理是国家政权的基础。",
+        "options": [],
+        "answer": "对",
+        "explanation": "基层是政权基础。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "国家制度与政治文明",
+      "core_concept": "中国古代从分封制到郡县制再到中央集权，君主专制逐步强化。近代中国从君主专制走向民主共和。",
+      "key_formula": "分封 → 郡县 → 中央集权",
+      "common_mistakes": [
+        "把分封制与郡县制对象混淆。"
+      ],
+      "tips": "分封宗亲，郡县任官。"
+    },
+    {
+      "point": "基层治理与社会治理",
+      "core_concept": "中国古代基层治理依靠宗族乡里与保甲制度；近代中国开始引入近代地方自治。基层治理是国家治理的基础。",
+      "key_formula": "宗族乡里 / 保甲",
+      "common_mistakes": [
+        "认为基层治理与国家治理无关。"
+      ],
+      "tips": "基层是国家治理基础。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "国家制度与政治文明",
+        "question": "君主专制中央集权制度确立的标志是（　）",
+        "options": [
+          "秦朝建立皇帝制度与三公九卿、郡县制",
+          "西周分封",
+          "汉初郡国并行",
+          "行省制确立"
+        ],
+        "answer": "秦朝建立皇帝制度与三公九卿、郡县制",
+        "explanation": "秦确立集权。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "基层治理与社会治理",
+        "question": "近代中国基层治理变革的方向是（　）",
+        "options": [
+          "引入民主与法治的现代方式",
+          "恢复宗族自治",
+          "维持保甲不变",
+          "恢复世袭贵族"
+        ],
+        "answer": "引入民主与法治的现代方式",
+        "explanation": "治理现代化。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "国家制度与政治文明",
+        "question": "行省制是元朝创立的制度。",
+        "options": [],
+        "answer": "对",
+        "explanation": "行省制属元。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "基层治理与社会治理",
+        "question": "新中国成立后基层治理强调人民民主。",
+        "options": [],
+        "answer": "对",
+        "explanation": "人民民主。"
+      }
+    ]
+  }
+}

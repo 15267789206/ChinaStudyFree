@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 3 Places and activities — In the classroom 在教室里",
+  "unit_number": 7,
+  "unit_test": {
+    "title": "第7单元「Module 3 Places and activities — In the classroom 在教室里」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "教室词汇 classroom / desk / chair / blackboard",
+        "question": "「教室」的英文是（　）",
+        "options": [
+          "classroom",
+          "class",
+          "room",
+          "school"
+        ],
+        "answer": "classroom",
+        "explanation": "classroom = 教室。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "方位介词 on / in / under",
+        "question": "「它在桌子上。」的英文是（　）",
+        "options": [
+          "It's on the desk.",
+          "It's in the desk.",
+          "It's under the desk.",
+          "It's a desk."
+        ],
+        "answer": "It's on the desk.",
+        "explanation": "在表面用 on。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "方位介词 on / in / under",
+        "question": "「书包在椅子下面。」应说（　）",
+        "options": [
+          "The bag is under the chair.",
+          "The bag is on the chair.",
+          "The bag is in the chair.",
+          "The bag is a chair."
+        ],
+        "answer": "The bag is under the chair.",
+        "explanation": "under = 在……下面。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "方位介词 on / in / under",
+        "question": "in 表示「在……里面」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "in = 在里面。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "教室词汇 classroom / desk / chair / blackboard",
+      "core_concept": "classroom 教室、desk 课桌、chair 椅子、blackboard 黑板。",
+      "key_formula": "in the classroom 在教室里",
+      "common_mistakes": [
+        "desk 与 chair 混用。"
+      ],
+      "tips": "desk 桌面大，chair 是坐的。"
+    },
+    {
+      "point": "方位介词 on / in / under",
+      "core_concept": "on 在……上面、in 在……里面、under 在……下面。句型 Where is…? It's on the desk.",
+      "key_formula": "It's on the desk. / It's in the bag.",
+      "common_mistakes": [
+        "on 与 in 混用。"
+      ],
+      "tips": "接触表面用 on，包在里面用 in。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "教室词汇 classroom / desk / chair / blackboard",
+        "question": "「黑板」的英文是（　）",
+        "options": [
+          "blackboard",
+          "blackboardd",
+          "board black",
+          "white board"
+        ],
+        "answer": "blackboard",
+        "explanation": "blackboard = 黑板。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "方位介词 on / in / under",
+        "question": "「椅子」的英文是（　）",
+        "options": [
+          "chair",
+          "desk",
+          "door",
+          "window"
+        ],
+        "answer": "chair",
+        "explanation": "chair = 椅子。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "方位介词 on / in / under",
+        "question": "Where is my pen? 是在问「我的钢笔在哪里」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "where 问地点。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "方位介词 on / in / under",
+        "question": "书在书包里，应说（　）",
+        "options": [
+          "The book is in the bag.",
+          "The book is on the bag.",
+          "The book is under the bag.",
+          "The book is a bag."
+        ],
+        "answer": "The book is in the bag.",
+        "explanation": "在里面用 in。"
+      }
+    ]
+  }
+}

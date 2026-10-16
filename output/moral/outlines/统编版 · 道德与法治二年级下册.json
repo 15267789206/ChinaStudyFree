@@ -1,0 +1,57 @@
+{
+  "textbook": "二年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "让我来试试",
+      "knowledge_points": [
+        {
+          "name": "勇于尝试与坚持",
+          "description": "培养勇于尝试、不怕失败的精神。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "自己的事情自己做",
+          "description": "提高生活自理能力。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "我们生活的地方",
+      "knowledge_points": [
+        {
+          "name": "社区与邻里",
+          "description": "了解社区，友善邻里。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "爱护公共环境",
+          "description": "保护身边的环境。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

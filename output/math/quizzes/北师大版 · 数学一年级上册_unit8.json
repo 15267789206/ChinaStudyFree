@@ -1,0 +1,154 @@
+{
+  "textbook": "一年级上册",
+  "unit": "认识钟表",
+  "unit_number": 8,
+  "unit_test": {
+    "title": "第8单元「认识钟表」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "钟面结构",
+        "question": "钟面上又短又粗的针是（　）",
+        "options": [
+          "时针",
+          "分针",
+          "秒针",
+          "长针"
+        ],
+        "answer": "时针",
+        "explanation": "时针短粗。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "钟面结构",
+        "question": "分针走 1 小格是（　）",
+        "options": [
+          "1 分",
+          "1 时",
+          "5 分",
+          "60 分"
+        ],
+        "answer": "1 分",
+        "explanation": "1 小格 1 分钟。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "整时的认读",
+        "question": "整时时针指着几就是几时。",
+        "options": [],
+        "answer": "对",
+        "explanation": "分针指 12。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "钟面结构",
+        "question": "分针走一圈是（　）",
+        "options": [
+          "60 分",
+          "12 分",
+          "1 分",
+          "24 分"
+        ],
+        "answer": "60 分",
+        "explanation": "一圈 60 分钟。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "钟面结构",
+      "core_concept": "钟面上又短又粗的是时针，又长又细的是分针；分针走 1 小格是 1 分，走一圈是 60 分（1 小时）。",
+      "key_formula": "1 时 = 60 分",
+      "common_mistakes": [
+        "把时针分针认反。"
+      ],
+      "tips": "时针短，分针长。"
+    },
+    {
+      "point": "整时的认读",
+      "core_concept": "整时分针指着 12，时针指着几就是几时；记录用 8:00。",
+      "key_formula": "分针指 12，时针指几就几时",
+      "common_mistakes": [
+        "先读分针再读时针。"
+      ],
+      "tips": "先看时针定几时。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "钟面结构",
+        "question": "1 时等于（　）分",
+        "options": [
+          "60",
+          "30",
+          "100",
+          "12"
+        ],
+        "answer": "60",
+        "explanation": "1 时 = 60 分。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "整时的认读",
+        "question": "一天有 24 小时。",
+        "options": [],
+        "answer": "对",
+        "explanation": "24 小时制。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "整时的认读",
+        "question": "时针指 8、分针指 12，是（　）",
+        "options": [
+          "8:00",
+          "12:00",
+          "8:12",
+          "12:08"
+        ],
+        "answer": "8:00",
+        "explanation": "时针定小时。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "钟面结构",
+        "question": "钟面上从 1 到 12 共（　）个数",
+        "options": [
+          "12",
+          "10",
+          "11",
+          "13"
+        ],
+        "answer": "12",
+        "explanation": "1~12 共 12 个。"
+      }
+    ]
+  }
+}

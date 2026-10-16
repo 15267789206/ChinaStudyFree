@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "近代化探索与民族复兴",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「近代化探索与民族复兴」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "近代化探索的历程",
+        "question": "新文化运动兴起的标志是（　）",
+        "options": [
+          "1915 年陈独秀创办《青年杂志》",
+          "1912 年中华民国成立",
+          "1919 年五四运动",
+          "1921 年中共建党"
+        ],
+        "answer": "1915 年陈独秀创办《青年杂志》",
+        "explanation": "《青年杂志》标志兴起。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "五四运动与中国共产党成立",
+        "question": "五四运动爆发于（　）",
+        "options": [
+          "1919 年",
+          "1915 年",
+          "1921 年",
+          "1911 年"
+        ],
+        "answer": "1919 年",
+        "explanation": "1919 年五四运动。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "近代化探索的历程",
+        "question": "近代化探索经历了从器物到制度再到思想文化的历程。",
+        "options": [],
+        "answer": "对",
+        "explanation": "层层深入。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "五四运动与中国共产党成立",
+        "question": "中国共产党成立于 1921 年。",
+        "options": [],
+        "answer": "对",
+        "explanation": "1921 年建党。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "近代化探索的历程",
+      "core_concept": "近代化探索由学习器物（洋务运动）到学习制度（戊戌变法、辛亥革命）再到学习思想文化（新文化运动），层层深入。1915 年陈独秀创办《青年杂志》标志新文化运动兴起。",
+      "key_formula": "器物 → 制度 → 思想",
+      "common_mistakes": [
+        "把顺序记反。"
+      ],
+      "tips": "由表及里、逐步深入。"
+    },
+    {
+      "point": "五四运动与中国共产党成立",
+      "core_concept": "1919 年五四运动是中国近代史上一次彻底的反帝反封建的爱国运动，工人阶级开始登上政治舞台。1921 年中国共产党成立，中国革命面貌焕然一新。",
+      "key_formula": "1919 五四 → 1921 建党",
+      "common_mistakes": [
+        "认为五四运动是资产阶级革命。"
+      ],
+      "tips": "无产阶级领导的开端。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "近代化探索的历程",
+        "question": "在中国近代化历程中，学习制度的主要事件是（　）",
+        "options": [
+          "戊戌变法和辛亥革命",
+          "洋务运动",
+          "新文化运动",
+          "义和团运动"
+        ],
+        "answer": "戊戌变法和辛亥革命",
+        "explanation": "制度学习阶段。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "五四运动与中国共产党成立",
+        "question": "五四运动中开始登上政治舞台的是（　）",
+        "options": [
+          "工人阶级",
+          "资产阶级",
+          "地主阶级",
+          "农民阶级"
+        ],
+        "answer": "工人阶级",
+        "explanation": "工人阶级登上舞台。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "近代化探索的历程",
+        "question": "新文化运动高举民主与科学的旗帜。",
+        "options": [],
+        "answer": "对",
+        "explanation": "民主与科学。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "五四运动与中国共产党成立",
+        "question": "五四运动促进了马克思主义在中国的传播。",
+        "options": [],
+        "answer": "对",
+        "explanation": "传播马克思主义。"
+      }
+    ]
+  }
+}

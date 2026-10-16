@@ -1,0 +1,160 @@
+{
+  "textbook": "必修第一册",
+  "unit": "地球上的大气与水",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「地球上的大气与水」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "大气受热过程与热力环流",
+        "question": "近地面大气主要的直接热源是（　）",
+        "options": [
+          "太阳辐射",
+          "地面辐射",
+          "大气逆辐射",
+          "宇宙辐射"
+        ],
+        "answer": "地面辐射",
+        "explanation": "地面辐射是近地面大气主要直接热源。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "大气受热过程与热力环流",
+        "question": "热力环流中近地面受热处形成低压。",
+        "options": [],
+        "answer": "对",
+        "explanation": "热低压、冷高压。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "水循环与洋流",
+        "question": "寒暖流交汇处易形成（　）",
+        "options": [
+          "沙漠",
+          "大渔场",
+          "强降水带",
+          "高温区"
+        ],
+        "answer": "大渔场",
+        "explanation": "交汇处易形成渔场。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "水循环与洋流",
+        "question": "水循环使陆地上的淡水资源不断更新。",
+        "options": [],
+        "answer": "对",
+        "explanation": "水循环的意义。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "水循环与洋流",
+        "question": "人类活动影响最大的水循环环节是（　）",
+        "options": [
+          "地表径流",
+          "蒸发",
+          "水汽输送",
+          "降水"
+        ],
+        "answer": "地表径流",
+        "explanation": "人类可修水库等影响径流。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "大气受热过程与热力环流",
+      "core_concept": "太阳短波辐射使地面增温，地面长波辐射使大气增温，大气逆辐射对地面起保温作用。热力环流中，地面受热处空气上升、近地面形成低压。",
+      "key_formula": "受热→上升→近地面低压",
+      "common_mistakes": [
+        "把高低压与受热关系颠倒。"
+      ],
+      "tips": "热则上升近地面低压。"
+    },
+    {
+      "point": "水循环与洋流",
+      "core_concept": "水循环环节包括蒸发、水汽输送、降水、径流。洋流对气候、渔场、航运和污染有重要影响，寒暖流交汇处易形成大渔场。",
+      "key_formula": "水循环：蒸发—输送—降水—径流",
+      "common_mistakes": [
+        "把洋流的寒暖性质判断错误。"
+      ],
+      "tips": "由低纬流向高纬为暖流。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "大气受热过程与热力环流",
+        "question": "白天海洋与陆地间的风是由海洋吹向陆地，原因是（　）",
+        "options": [
+          "陆地升温快",
+          "海洋升温快",
+          "海陆温度相同",
+          "陆地气压高"
+        ],
+        "answer": "陆地升温快",
+        "explanation": "陆地升温快形成低压。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "水循环与洋流",
+        "question": "寒流经过的沿岸地区降水一般较少。",
+        "options": [],
+        "answer": "对",
+        "explanation": "寒流降温减湿。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "大气受热过程与热力环流",
+        "question": "大气逆辐射对地面起保温作用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "保温作用。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "水循环与洋流",
+        "question": "南半球中低纬大洋环流呈（　）时针",
+        "options": [
+          "顺",
+          "逆",
+          "先顺后逆",
+          "无规律"
+        ],
+        "answer": "逆",
+        "explanation": "南半球中低纬呈逆时针。"
+      }
+    ]
+  }
+}

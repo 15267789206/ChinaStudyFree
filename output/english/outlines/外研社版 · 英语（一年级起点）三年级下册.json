@@ -1,0 +1,57 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 数字与问候",
+      "knowledge_points": [
+        {
+          "name": "数字 1-10",
+          "description": "掌握 1-10 的英文读写。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "问候语与告别语",
+          "description": "掌握问候与告别。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 2 颜色与物品",
+      "knowledge_points": [
+        {
+          "name": "颜色词",
+          "description": "掌握常用颜色词。",
+          "difficulty": 1,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "物品与指示代词",
+          "description": "用指示代词指认物品。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

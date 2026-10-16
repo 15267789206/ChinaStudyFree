@@ -1,0 +1,171 @@
+{
+  "textbook": "必修第一册",
+  "unit": "集合与常用逻辑用语",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「集合与常用逻辑用语」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "集合的概念与运算",
+        "question": "集合 $\\{1,2,3\\}$ 与 $\\{2,3,4\\}$ 的交集是（　）",
+        "options": [
+          "$\\{1,2,3,4\\}$",
+          "$\\{2,3\\}$",
+          "$\\{1,4\\}$",
+          "$\\varnothing$"
+        ],
+        "answer": "$\\{2,3\\}$",
+        "explanation": "公共元素为 2、3。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "集合的概念与运算",
+        "question": "$A=\\{x\\mid x<3\\}$，$B=\\{x\\mid x>1\\}$，则 $A\\cap B=$（　）",
+        "options": [
+          "$\\{x\\mid1<x<3\\}$",
+          "$\\{x\\mid x<3\\}$",
+          "$\\{x\\mid x>1\\}$",
+          "$\\mathbb R$"
+        ],
+        "answer": "$\\{x\\mid1<x<3\\}$",
+        "explanation": "取公共部分。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "集合的概念与运算",
+        "question": "集合中的元素具有互异性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "集合元素互异。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "充分条件与必要条件",
+        "question": "$x>3$ 是 $x>1$ 的（　）",
+        "options": [
+          "充分不必要条件",
+          "必要不充分条件",
+          "充要条件",
+          "既不充分也不必要"
+        ],
+        "answer": "充分不必要条件",
+        "explanation": "$x>3\\Rightarrow x>1$，反之不成立。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "充分条件与必要条件",
+        "question": "$p\\Rightarrow q$ 时，$q$ 是 $p$ 的必要条件。",
+        "options": [],
+        "answer": "对",
+        "explanation": "充分必要条件定义。"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "集合的概念与运算",
+        "question": "设 $U=\\{1,2,3,4\\}$，$A=\\{1,2\\}$，则 $\\complement_U A=$ ___（用集合表示）",
+        "options": [],
+        "answer": "{3,4}",
+        "explanation": "在全集内去掉 1、2。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "集合的概念与运算",
+      "core_concept": "集合中的元素具有确定性、互异性、无序性。交集取公共元素，并集取所有元素，补集是在全集内去掉该集合元素的剩余部分。",
+      "key_formula": "$A\\cap B$、$A\\cup B$、$\\complement_U A$",
+      "common_mistakes": [
+        "求并集时遗漏元素或重复计数。"
+      ],
+      "tips": "先化简要简单，再求交并。"
+    },
+    {
+      "point": "充分条件与必要条件",
+      "core_concept": "若 $p\\Rightarrow q$，则 $p$ 是 $q$ 的充分条件，$q$ 是 $p$ 的必要条件。判断时可转化为集合的包含关系。",
+      "key_formula": "$p\\Rightarrow q$ ⇔ $p$ 充分、$q$ 必要",
+      "common_mistakes": [
+        "把充分与必要说反。"
+      ],
+      "tips": "小范围推大范围。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "集合的概念与运算",
+        "question": "满足 $\\{1\\}\\subseteq A\\subseteq\\{1,2,3\\}$ 的集合 $A$ 的个数是（　）",
+        "options": [
+          "2",
+          "3",
+          "4",
+          "8"
+        ],
+        "answer": "4",
+        "explanation": "必须含 1，可从 2、3 中任选，共 $2^2=4$ 个。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "充分条件与必要条件",
+        "question": "“$a=0$”是“$ab=0$”的（　）",
+        "options": [
+          "充分不必要条件",
+          "必要不充分条件",
+          "充要条件",
+          "既不充分也不必要"
+        ],
+        "answer": "充分不必要条件",
+        "explanation": "$a=0\\Rightarrow ab=0$，反之需 $b=0$ 也可。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "集合的概念与运算",
+        "question": "空集是任何集合的子集。",
+        "options": [],
+        "answer": "对",
+        "explanation": "空集性质。"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "充分条件与必要条件",
+        "question": "“$x^2=4$”的充要条件是 $|x|=$ ___",
+        "options": [],
+        "answer": "2",
+        "explanation": "$|x|=2$。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "水溶液与电离平衡",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「水溶液与电离平衡」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "弱电解质的电离平衡",
+        "question": "醋酸属于（　）",
+        "options": [
+          "弱电解质",
+          "强电解质",
+          "非电解质",
+          "单质"
+        ],
+        "answer": "弱电解质",
+        "explanation": "醋酸弱电解质。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "水的电离与溶液酸碱性",
+        "question": "25℃ 时 $K_w = $ （　）",
+        "options": [
+          "$10^{-14}$",
+          "$10^{14}$",
+          "$10^{-7}$",
+          "$10^7$"
+        ],
+        "answer": "$10^{-14}$",
+        "explanation": "常温 Kw=10⁻¹⁴。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "弱电解质的电离平衡",
+        "question": "弱电解质在溶液中部分电离。",
+        "options": [],
+        "answer": "对",
+        "explanation": "部分电离。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "水的电离与溶液酸碱性",
+        "question": "升高温度 $K_w$ 增大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "吸热反应升温。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "弱电解质的电离平衡",
+      "core_concept": "强电解质完全电离，弱电解质部分电离并存在电离平衡。用电离常数 $K_a$、$K_b$ 衡量电离程度，温度升高 $K_a$ 增大。",
+      "key_formula": "$K_a = \\dfrac{c(\\text{H}^+)\\cdot c(\\text{A}^-)}{c(\\text{HA})}$",
+      "common_mistakes": [
+        "认为弱电解质不电离。"
+      ],
+      "tips": "部分电离。"
+    },
+    {
+      "point": "水的电离与溶液酸碱性",
+      "core_concept": "水在 25℃ 时 $K_w = 10^{-14}$，溶液酸碱性由 $\\text{pH}$ 判断。酸碱中和的本质是 $\\text{H}^+ + \\text{OH}^- = \\text{H}_2\\text{O}$。",
+      "key_formula": "$\\text{pH} = -\\lg c(\\text{H}^+)$",
+      "common_mistakes": [
+        "温度变化时仍用 $10^{-14}$。"
+      ],
+      "tips": " Kw 随温度变。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "弱电解质的电离平衡",
+        "question": "升高温度，醋酸的电离常数（　）",
+        "options": [
+          "增大",
+          "减小",
+          "不变",
+          "先增后减"
+        ],
+        "answer": "增大",
+        "explanation": "电离吸热。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "水的电离与溶液酸碱性",
+        "question": "pH = 3 的溶液呈（　）",
+        "options": [
+          "酸性",
+          "碱性",
+          "中性",
+          "无法判断"
+        ],
+        "answer": "酸性",
+        "explanation": "pH<7 为酸性。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "弱电解质的电离平衡",
+        "question": "电离平衡是动态平衡。",
+        "options": [],
+        "answer": "对",
+        "explanation": "动态平衡。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "水的电离与溶液酸碱性",
+        "question": "酸碱中和的实质是 $\\text{H}^+$ 与 $\\text{OH}^-$ 结合生成水。",
+        "options": [],
+        "answer": "对",
+        "explanation": "中和实质。"
+      }
+    ]
+  }
+}

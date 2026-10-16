@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "区域发展与地理信息技术",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「区域发展与地理信息技术」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "区域发展特征",
+        "question": "区域发展的基本前提是（　）",
+        "options": [
+          "因地制宜",
+          "照搬先进地区经验",
+          "只看经济数据",
+          "忽略环境"
+        ],
+        "answer": "因地制宜",
+        "explanation": "因地制宜。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "3S 技术的综合应用",
+        "question": "对城市绿地做覆盖率统计分析，最适合用（　）",
+        "options": [
+          "GIS",
+          "RS 获取",
+          "GPS 定位",
+          "人工测量"
+        ],
+        "answer": "GIS",
+        "explanation": "GIS 做空间分析。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "区域发展特征",
+        "question": "不同区域的发展条件和路径存在差异。",
+        "options": [],
+        "answer": "对",
+        "explanation": "区域差异。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "3S 技术的综合应用",
+        "question": "RS 可用于快速获取大范围地表信息。",
+        "options": [],
+        "answer": "对",
+        "explanation": "RS 特点。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "区域发展特征",
+      "core_concept": "区域发展一般经历初期、成长、转型、再生期。区域之间存在自然、经济、社会与文化差异，要因地制宜。",
+      "key_formula": "因地制宜、优势互补",
+      "common_mistakes": [
+        "认为区域发展路径完全相同。"
+      ],
+      "tips": "各有路径。"
+    },
+    {
+      "point": "3S 技术的综合应用",
+      "core_concept": "RS 快速获取地表信息，GIS 进行空间分析与决策支持，GPS 提供定位导航。三者结合可实现动态监测与精准管理。",
+      "key_formula": "监测（RS）→ 分析（GIS）→ 定位（GPS）",
+      "common_mistakes": [
+        "认为 GPS 能直接测出地形。"
+      ],
+      "tips": "各有分工。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "区域发展特征",
+        "question": "关于区域发展阶段，说法正确的是（　）",
+        "options": [
+          "区域发展具有阶段性",
+          "所有区域同步发展",
+          "阶段可任意跨越",
+          "发展阶段是人为强加的"
+        ],
+        "answer": "区域发展具有阶段性",
+        "explanation": "阶段性。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "3S 技术的综合应用",
+        "question": "监测台风移动路径主要依赖（　）",
+        "options": [
+          "RS",
+          "GIS",
+          "GPS",
+          "人工观测"
+        ],
+        "answer": "RS",
+        "explanation": "RS 监测。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "区域发展特征",
+        "question": "区域之间可以优势互补、协同发展。",
+        "options": [],
+        "answer": "对",
+        "explanation": "协同发展。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "3S 技术的综合应用",
+        "question": "GIS 能为决策提供空间分析支持。",
+        "options": [],
+        "answer": "对",
+        "explanation": "GIS 决策支持。"
+      }
+    ]
+  }
+}

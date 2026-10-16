@@ -1,0 +1,170 @@
+{
+  "textbook": "九年级上册",
+  "unit": "物质构成的奥秘",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「物质构成的奥秘」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "分子、原子与离子",
+        "question": "化学变化中的最小粒子是（　）",
+        "options": [
+          "分子",
+          "原子",
+          "电子",
+          "质子"
+        ],
+        "answer": "原子",
+        "explanation": "原子在化学变化中不可再分。"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "元素与元素符号",
+        "question": "氧元素的元素符号是 ___。",
+        "options": [],
+        "answer": "O",
+        "explanation": "氧的元素符号 O。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "元素与元素符号",
+        "question": "地壳中含量最多的金属元素是（　）",
+        "options": [
+          "铁",
+          "铝",
+          "钙",
+          "钠"
+        ],
+        "answer": "铝",
+        "explanation": "地壳中铝含量最多。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "分子、原子与离子",
+        "question": "在原子中，质子数一定等于中子数。",
+        "options": [],
+        "answer": "错",
+        "explanation": "质子数等于核外电子数，不一定等于中子数。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "化学式与化合价",
+        "question": "在 $\\text{H}_2\\text{O}$ 中氢元素的化合价是多少？（填 +1 或 -1）",
+        "options": [],
+        "answer": "+1",
+        "explanation": "氢通常为 +1 价。"
+      },
+      {
+        "id": 6,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "化学式与化合价",
+        "question": "二氧化碳的化学式是 ___。",
+        "options": [],
+        "answer": "CO2",
+        "explanation": "碳 +4 价，氧 -2 价，写作 $\\text{CO}_2$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "分子、原子与离子",
+      "core_concept": "分子是保持物质化学性质的最小粒子，原子是化学变化中的最小粒子。原子由质子、中子、电子构成，核电荷数=质子数=核外电子数。",
+      "key_formula": "核电荷数 = 质子数 = 核外电子数",
+      "common_mistakes": [
+        "认为原子不可再分（化学变化中不可分）。"
+      ],
+      "tips": "化学变化中原子种类不变。"
+    },
+    {
+      "point": "元素与元素符号",
+      "core_concept": "元素是具有相同核电荷数（即质子数）的一类原子的总称。地壳中含量最多的元素是氧，含量最多的金属元素是铝。",
+      "key_formula": "元素周期表：7 个周期、16 个族",
+      "common_mistakes": [
+        "把元素与原子概念混淆。"
+      ],
+      "tips": "元素讲种类不讲个数。"
+    },
+    {
+      "point": "化学式与化合价",
+      "core_concept": "化合物中各元素化合价的代数和为零。化合物化学式书写时正价元素在左、负价元素在右，并交叉配平。",
+      "key_formula": "化合价代数和 = 0",
+      "common_mistakes": [
+        "单质化合价写错（单质为 0）。"
+      ],
+      "tips": "先定化合价再交叉写。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "化学式与化合价",
+        "question": "下列化学式书写正确的是（　）",
+        "options": [
+          "$\\text{NaCl}_2$",
+          "$\\text{NaCl}$",
+          "$\\text{Na}_2\\text{Cl}$",
+          "$\\text{NaCl}_3$"
+        ],
+        "answer": "$\\text{NaCl}$",
+        "explanation": "钠 +1 价、氯 -1 价，化简为 NaCl。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "分子、原子与离子",
+        "question": "某原子核外电子数为 17，则其质子数是多少？",
+        "options": [],
+        "answer": "17",
+        "explanation": "原子中质子数 = 核外电子数。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "元素与元素符号",
+        "question": "同种元素的原子核电荷数相同。",
+        "options": [],
+        "answer": "对",
+        "explanation": "元素定义。"
+      },
+      {
+        "id": 10,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "化学式与化合价",
+        "question": "在 $\\text{Na}_2\\text{CO}_3$ 中碳元素的化合价是 ___。",
+        "options": [],
+        "answer": "+4",
+        "explanation": "$2\\times(+1)+x+3\\times(-2)=0$，$x=+4$。"
+      }
+    ]
+  }
+}

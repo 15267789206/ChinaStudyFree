@@ -1,0 +1,221 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "第1章 有理数",
+      "knowledge_points": [
+        {
+          "name": "从自然数到有理数",
+          "description": "理解有理数的概念与分类。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "数轴",
+          "description": "会用数轴表示有理数。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "绝对值与有理数大小比较",
+          "description": "掌握绝对值与大小比较。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "第2章 有理数的运算",
+      "knowledge_points": [
+        {
+          "name": "有理数的加减乘除",
+          "description": "掌握有理数四则运算法则。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "有理数的乘方与混合运算",
+          "description": "掌握乘方与运算顺序。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "近似数",
+          "description": "理解近似数与四舍五入。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "第3章 实数",
+      "knowledge_points": [
+        {
+          "name": "平方根与算术平方根",
+          "description": "掌握平方根概念。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "实数与数轴",
+          "description": "理解实数与数轴对应。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "立方根与实数的运算",
+          "description": "掌握立方根与实数运算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "第4章 代数式",
+      "knowledge_points": [
+        {
+          "name": "列代数式与代数式的值",
+          "description": "会用字母表示数量关系并求值。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "整式与合并同类项",
+          "description": "掌握整式概念与合并。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "整式的加减",
+          "description": "掌握去括号与整式加减。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "第5章 一元一次方程",
+      "knowledge_points": [
+        {
+          "name": "认识方程与等式的性质",
+          "description": "理解方程意义与等式性质。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一元一次方程的解法",
+          "description": "掌握解方程的一般步骤。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "一元一次方程的应用",
+          "description": "会用方程解决实际问题。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "第6章 图形的初步知识",
+      "knowledge_points": [
+        {
+          "name": "几何图形与线",
+          "description": "认识几何图形与线段射线直线。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "线段的长短比较与和差",
+          "description": "会比较线段并进行和差计算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "角与角的度量、余角和补角",
+          "description": "掌握角的度量与运算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

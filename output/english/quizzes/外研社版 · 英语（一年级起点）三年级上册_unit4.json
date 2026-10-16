@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 4 I can jump 我能行",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「Module 4 I can jump 我能行」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "情态动词 can / can't",
+        "question": "— Can you run fast? — ___",
+        "options": [
+          "Yes, I can.",
+          "Yes, I do.",
+          "Yes, I am.",
+          "Yes, I can't."
+        ],
+        "answer": "Yes, I can.",
+        "explanation": "can 问 can 答。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "情态动词 can / can't",
+        "question": "「我不会跳远。」的英文是（　）",
+        "options": [
+          "I can't jump far.",
+          "I can jump far.",
+          "I can't to jump far.",
+          "I don't can jump far."
+        ],
+        "answer": "I can't jump far.",
+        "explanation": "否定 can't + 原形。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "动作词汇 jump / run / swim / fly",
+        "question": "「它会飞。」的英文是（　）",
+        "options": [
+          "It can fly.",
+          "It can flies.",
+          "It can to fly.",
+          "It can't fly."
+        ],
+        "answer": "It can fly.",
+        "explanation": "can + 原形。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "情态动词 can / can't",
+        "question": "can 表示能力，意思是「能、会」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表能力。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "情态动词 can / can't",
+      "core_concept": "can 表示「能、会」，后接动词原形；否定 can't = cannot。问句 Can you…? 答 Yes, I can. / No, I can't.",
+      "key_formula": "Can you run fast? — Yes, I can.",
+      "common_mistakes": [
+        "can 后接 to do 或三单形式。"
+      ],
+      "tips": "can 后永远用原形。"
+    },
+    {
+      "point": "动作词汇 jump / run / swim / fly",
+      "core_concept": "jump 跳、run 跑、swim 游泳、fly 飞；jump far 跳得远、run fast 跑得快。",
+      "key_formula": "I can jump far. / It can fly.",
+      "common_mistakes": [
+        "far 与 fast 混用。"
+      ],
+      "tips": "far 管距离，fast 管速度。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "动作词汇 jump / run / swim / fly",
+        "question": "「胜利者」的英文是（　）",
+        "options": [
+          "winner",
+          "win",
+          "winning",
+          "winer"
+        ],
+        "answer": "winner",
+        "explanation": "win + ner。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "情态动词 can / can't",
+        "question": "can't 是 cannot 的缩写。",
+        "options": [],
+        "answer": "对",
+        "explanation": "can't = cannot。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 can / can't",
+        "question": "小鸟不会飞，应说（　）",
+        "options": [
+          "The bird can't fly.",
+          "The bird can fly.",
+          "The bird can't flies.",
+          "The bird don't fly."
+        ],
+        "answer": "The bird can't fly.",
+        "explanation": "否定 + 原形。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "动作词汇 jump / run / swim / fly",
+        "question": "「我游得很好」的英文是（　）",
+        "options": [
+          "I can swim well.",
+          "I can swim good.",
+          "I can swims well.",
+          "I can to swim well."
+        ],
+        "answer": "I can swim well.",
+        "explanation": "副词 well 修饰动词。"
+      }
+    ]
+  }
+}

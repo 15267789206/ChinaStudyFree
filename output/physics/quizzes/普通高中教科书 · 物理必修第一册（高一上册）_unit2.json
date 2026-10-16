@@ -1,0 +1,145 @@
+{
+  "textbook": "必修第一册",
+  "unit": "匀变速直线运动",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「匀变速直线运动」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "匀变速直线运动规律",
+        "question": "初速度为 0、加速度 2 m/s² 的物体，3 s 末速度是多少 m/s？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$v=at=2\\times3=6$ m/s。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "匀变速直线运动规律",
+        "question": "初速度 5 m/s、加速度 2 m/s²，4 s 内位移是多少 m？",
+        "options": [],
+        "answer": "36",
+        "explanation": "$x=5\\times4+\\frac12\\times2\\times16=20+16=36$ m。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "自由落体与运动图象",
+        "question": "自由落体 2 s 内下落高度是多少 m？（$g$ 取 10 m/s²）",
+        "options": [],
+        "answer": "20",
+        "explanation": "$h=\\frac12\\times10\\times4=20$ m。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "匀变速直线运动规律",
+        "question": "匀变速直线运动中间时刻的瞬时速度等于（　）",
+        "options": [
+          "初速度",
+          "末速度",
+          "该段平均速度",
+          "两倍平均速度"
+        ],
+        "answer": "该段平均速度",
+        "explanation": "中间时刻速度等于平均速度。"
+      },
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "自由落体与运动图象",
+        "question": "自由落体运动的加速度与物体质量无关。",
+        "options": [],
+        "answer": "对",
+        "explanation": "同一地点 $g$ 相同。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "匀变速直线运动规律",
+      "core_concept": "$v=v_0+at$，$x=v_0t+\\frac12at^2$，$v^2-v_0^2=2ax$。匀变速直线运动中间时刻速度等于该段平均速度。",
+      "key_formula": "$v^2-v_0^2=2ax$",
+      "common_mistakes": [
+        "忘记速度与位移的平方关系。"
+      ],
+      "tips": "先判断初速度方向为正。"
+    },
+    {
+      "point": "自由落体与运动图象",
+      "core_concept": "自由落体是初速度为 0、加速度为 $g$ 的匀加速运动，$h=\\frac12gt^2$，$v=gt$。$v-t$ 图象的斜率表示加速度，面积表示位移。",
+      "key_formula": "$h=\\frac12gt^2$",
+      "common_mistakes": [
+        "把图象面积当作速度。"
+      ],
+      "tips": "面积即位移。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "匀变速直线运动规律",
+        "question": "物体从静止开始以 4 m/s² 加速，速度达到 20 m/s 需要多少秒？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$t=\\frac{20}{4}=5$ s。"
+      },
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "自由落体与运动图象",
+        "question": "物体自由下落 45 m 需要多少秒？（$g$ 取 10 m/s²）",
+        "options": [],
+        "answer": "3",
+        "explanation": "$45=\\frac12\\times10t^2$，$t^2=9$，$t=3$ s。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "匀变速直线运动规律",
+        "question": "$v-t$ 图象中图线与时间轴围成的面积表示位移。",
+        "options": [],
+        "answer": "对",
+        "explanation": "图象面积意义。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "自由落体与运动图象",
+        "question": "关于自由落体运动，正确的是（　）",
+        "options": [
+          "初速度为 0、加速度为 g",
+          "速度保持不变",
+          "加速度逐渐增大",
+          "与质量成正比"
+        ],
+        "answer": "初速度为 0、加速度为 g",
+        "explanation": "自由落体定义。"
+      }
+    ]
+  }
+}

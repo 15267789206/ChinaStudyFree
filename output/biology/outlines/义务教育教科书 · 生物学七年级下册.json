@@ -1,0 +1,83 @@
+{
+  "textbook": "七年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "人的由来与营养",
+      "knowledge_points": [
+        {
+          "name": "人类的起源与发展",
+          "description": "了解人类起源于森林古猿。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "消化系统与营养",
+          "description": "掌握消化系统组成与吸收主要部位。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "人体的呼吸与循环",
+      "knowledge_points": [
+        {
+          "name": "呼吸系统与血液循环",
+          "description": "掌握呼吸系统组成、血液成分与循环途径。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "泌尿系统与排泄",
+          "description": "掌握泌尿系统组成与尿液形成。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "人体的调节与健康生活",
+      "knowledge_points": [
+        {
+          "name": "神经系统与反射",
+          "description": "掌握神经调节的基本方式。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "激素调节与健康生活",
+          "description": "了解激素调节与青春期健康。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

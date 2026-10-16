@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "实数与数轴",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「实数与数轴」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "无理数与实数",
+        "question": "下列说法正确的是（　）",
+        "options": [
+          "无理数也属于实数",
+          "无理数不是实数",
+          "有理数不包括整数",
+          "实数只包括有理数"
+        ],
+        "answer": "无理数也属于实数",
+        "explanation": "无理数属实数。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "数轴与绝对值",
+        "question": "$|-5|$ 的值是（　）",
+        "options": [
+          "−5",
+          "5",
+          "−25",
+          "无意义"
+        ],
+        "answer": "5",
+        "explanation": "绝对值非负。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "无理数与实数",
+        "question": "有理数与无理数统称实数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "实数分类。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "数轴与绝对值",
+        "question": "任何实数的绝对值都不小于 0。",
+        "options": [],
+        "answer": "对",
+        "explanation": "绝对值非负。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "无理数与实数",
+      "core_concept": "无理数与有理数统称实数。实数与数轴上的点一一对应。",
+      "key_formula": "实数 = 有理数 + 无理数",
+      "common_mistakes": [
+        "认为无理数不是实数。"
+      ],
+      "tips": "无理数属实数。"
+    },
+    {
+      "point": "数轴与绝对值",
+      "core_concept": "数轴上原点表示数 0，右边为正数，左边为负数。数 $a$ 在数轴上对应的点到原点的距离叫 $|a|$。",
+      "key_formula": "$|a| \\ge 0$",
+      "common_mistakes": [
+        "认为 $|-5|=-5$。"
+      ],
+      "tips": "绝对值非负。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "无理数与实数",
+        "question": "在数轴上，与原点距离为 3 的点有（　）",
+        "options": [
+          "2 个",
+          "1 个",
+          "3 个",
+          "4 个"
+        ],
+        "answer": "2 个",
+        "explanation": "±3 两点。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "数轴与绝对值",
+        "question": "若 $|a| = 3$，则 $a = $ （　）",
+        "options": [
+          "3",
+          "−3",
+          "±3",
+          "0"
+        ],
+        "answer": "±3",
+        "explanation": "绝对值有 ±。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "无理数与实数",
+        "question": "实数与数轴上的点一一对应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "数轴对应。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "数轴与绝对值",
+        "question": "$|a| = a$ 当且仅当 $a \\ge 0$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "去绝对值条件。"
+      }
+    ]
+  }
+}

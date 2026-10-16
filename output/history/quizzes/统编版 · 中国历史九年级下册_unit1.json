@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级下册",
+  "unit": "现代中国的建设",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「现代中国的建设」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "社会主义制度的建立与探索",
+        "question": "社会主义基本制度确立的标志是（　）",
+        "options": [
+          "三大改造基本完成",
+          "新中国成立",
+          "抗美援朝胜利",
+          "一五计划完成"
+        ],
+        "answer": "三大改造基本完成",
+        "explanation": "1956 年三大改造。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "改革开放与中国特色社会主义",
+        "question": "作出改革开放历史性决策的会议是（　）",
+        "options": [
+          "中共十一届三中全会",
+          "遵义会议",
+          "中共八大",
+          "中共七大"
+        ],
+        "answer": "中共十一届三中全会",
+        "explanation": "十一届三中全会。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "社会主义制度的建立与探索",
+        "question": "三大改造的完成标志社会主义基本制度在我国建立。",
+        "options": [],
+        "answer": "对",
+        "explanation": "改造完成意义。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "改革开放与中国特色社会主义",
+        "question": "改革开放是当代中国最鲜明的特色。",
+        "options": [],
+        "answer": "对",
+        "explanation": "改革特色。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "社会主义制度的建立与探索",
+      "core_concept": "1953—1956 年三大改造完成，社会主义基本制度在中国确立，这是中国历史上最深刻的社会变革。1956—1966 年是全面社会主义建设时期。",
+      "key_formula": "1956 三大改造完成",
+      "common_mistakes": [
+        "认为改造完成标志社会主义制度确立是错——这正是要点。"
+      ],
+      "tips": "三大改造与制度确立。"
+    },
+    {
+      "point": "改革开放与中国特色社会主义",
+      "core_concept": "1978 年召开的中共十一届三中全会作出把党和国家工作中心转移到经济建设上来、实行改革开放的历史性决策。",
+      "key_formula": "1978 十一届三中全会",
+      "common_mistakes": [
+        "把十一届三中全会与遵义会议混淆。"
+      ],
+      "tips": "改革开放的转折点。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "社会主义制度的建立与探索",
+        "question": "我国进入社会主义初级阶段的标志是（　）",
+        "options": [
+          "三大改造完成",
+          "十一届三中全会",
+          "新中国成立",
+          "抗美援朝"
+        ],
+        "answer": "三大改造完成",
+        "explanation": "1956 年进入初级阶段。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "改革开放与中国特色社会主义",
+        "question": "改革开放后形成的对外开放格局不包括（　）",
+        "options": [
+          "经济特区",
+          "沿海开放城市",
+          "沿江、沿边、内陆开放",
+          "完全封闭"
+        ],
+        "answer": "完全封闭",
+        "explanation": "不是封闭格局。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "社会主义制度的建立与探索",
+        "question": "“一五计划”的重点是发展重工业。",
+        "options": [],
+        "answer": "对",
+        "explanation": "一五计划重点。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "改革开放与中国特色社会主义",
+        "question": "中国特色社会主义进入新时代。",
+        "options": [],
+        "answer": "对",
+        "explanation": "新时代。"
+      }
+    ]
+  }
+}

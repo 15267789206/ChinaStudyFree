@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 9 People and places 人与地方",
+  "unit_number": 9,
+  "unit_test": {
+    "title": "第9单元「Module 9 People and places 人与地方」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "描述地方的形容词",
+        "question": "「美丽的」的英文是（　）",
+        "options": [
+          "beautiful",
+          "beauty",
+          "beautifull",
+          "beatiful"
+        ],
+        "answer": "beautiful",
+        "explanation": "beautiful 美丽。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "描述地方的形容词",
+        "question": "「拥挤的」的英文是（　）",
+        "options": [
+          "crowded",
+          "crowd",
+          "crowing",
+          "crowdedd"
+        ],
+        "answer": "crowded",
+        "explanation": "crowded 拥挤。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "描述人物",
+        "question": "「友好的」的英文是（　）",
+        "options": [
+          "friendly",
+          "friend",
+          "friends",
+          "friendlly"
+        ],
+        "answer": "friendly",
+        "explanation": "friendly 友好。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "描述地方的形容词",
+        "question": "big 的意思是「大的」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "big 大。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "描述地方的形容词",
+      "core_concept": "big 大的、small 小的、beautiful 美丽的、crowded 拥挤的、quiet 安静的、modern 现代的。",
+      "key_formula": "Beijing is a big city.",
+      "common_mistakes": [
+        "crowded 拼写错误。"
+      ],
+      "tips": "crowd + ed。"
+    },
+    {
+      "point": "描述人物",
+      "core_concept": "tall 高的、short 矮的/短的、friendly 友好的、famous 著名的、kind 善良的。",
+      "key_formula": "She is tall and friendly.",
+      "common_mistakes": [
+        "tall 与 short 混用。"
+      ],
+      "tips": "tall 反 short。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "描述地方的形容词",
+        "question": "「现代化的」的英文是（　）",
+        "options": [
+          "modern",
+          "moden",
+          "morden",
+          "modernn"
+        ],
+        "answer": "modern",
+        "explanation": "modern 现代。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "描述人物",
+        "question": "「著名的」的英文是（　）",
+        "options": [
+          "famous",
+          "famus",
+          "fameus",
+          "famouse"
+        ],
+        "answer": "famous",
+        "explanation": "famous 著名。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "描述地方的形容词",
+        "question": "quiet 的意思是「安静的」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "quiet 安静。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "描述人物",
+        "question": "「他又高又友好。」的英文是（　）",
+        "options": [
+          "He is tall and friendly.",
+          "He is tall and friend.",
+          "He tall and friendly.",
+          "He is high and friendly."
+        ],
+        "answer": "He is tall and friendly.",
+        "explanation": "形容词并列。"
+      }
+    ]
+  }
+}

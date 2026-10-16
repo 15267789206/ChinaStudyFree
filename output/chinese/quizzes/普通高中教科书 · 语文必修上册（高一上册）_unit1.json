@@ -1,0 +1,149 @@
+{
+  "textbook": "必修上册",
+  "unit": "现代文阅读",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「现代文阅读」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "论述类文本阅读",
+        "question": "论述类文本中，用来支撑论点的材料叫（　）",
+        "options": [
+          "论点",
+          "论据",
+          "论证",
+          "结论"
+        ],
+        "answer": "论据",
+        "explanation": "论据支撑论点。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "论述类文本阅读",
+        "question": "“举例论证”的作用是（　）",
+        "options": [
+          "使论证具体有力",
+          "使语言生动",
+          "抒发情感",
+          "交代背景"
+        ],
+        "answer": "使论证具体有力",
+        "explanation": "举例使论证具体。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "现代诗歌与散文鉴赏",
+        "question": "诗歌中的“意象”是寄托了作者情感的具体物象。",
+        "options": [],
+        "answer": "对",
+        "explanation": "意象含情。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "现代诗歌与散文鉴赏",
+        "question": "“通感”是指（　）",
+        "options": [
+          "不同感觉的沟通转换",
+          "反复强调",
+          "结构对称",
+          "借代手法"
+        ],
+        "answer": "不同感觉的沟通转换",
+        "explanation": "通感是感觉转换。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "论述类文本阅读",
+      "core_concept": "论述类文本要梳理论点与论据的关系，辨析论证方法（举例、引用、对比、比喻论证）。答题要回到原文定位比对。",
+      "key_formula": "论点 + 论据 + 论证",
+      "common_mistakes": [
+        "脱离原文凭印象作答。"
+      ],
+      "tips": "选项与原文逐句比对。"
+    },
+    {
+      "point": "现代诗歌与散文鉴赏",
+      "core_concept": "鉴赏诗歌要抓住意象、意境与情感，分析手法（比喻、拟人、反复、通感）及其表达效果。散文鉴赏重在理清思路与把握情感脉络。",
+      "key_formula": "意象 → 意境 → 情感",
+      "common_mistakes": [
+        "只答手法不分析效果。"
+      ],
+      "tips": "手法 + 内容 + 效果。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "现代诗歌与散文鉴赏",
+        "question": "鉴赏诗歌时，第一步应（　）",
+        "options": [
+          "把握意象与情感",
+          "翻译全诗",
+          "背诵",
+          "分析作者生平"
+        ],
+        "answer": "把握意象与情感",
+        "explanation": "先抓意象情感。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "论述类文本阅读",
+        "question": "论述类文本阅读要求“回到原文、比对选项”。",
+        "options": [],
+        "answer": "对",
+        "explanation": "定位比对是核心方法。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "论述类文本阅读",
+        "question": "下列不属于论证方法的是（　）",
+        "options": [
+          "比喻论证",
+          "对比论证",
+          "引用论证",
+          "修辞手法"
+        ],
+        "answer": "修辞手法",
+        "explanation": "修辞不等于论证方法。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "现代诗歌与散文鉴赏",
+        "question": "散文“形散神聚”，其“神”指文章的中心思想。",
+        "options": [],
+        "answer": "对",
+        "explanation": "形散而神不散。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "国家制度与社会治理",
+      "knowledge_points": [
+        {
+          "name": "国家制度与政治文明",
+          "description": "了解中国古代与近代国家制度的演变。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "基层治理与社会治理",
+          "description": "了解基层治理方式的演变。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "国家治理与社会变革",
+      "knowledge_points": [
+        {
+          "name": "中国古代的选官与监察",
+          "description": "了解选官制度与监察制度的演变。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "近代中国社会变革与思想解放",
+          "description": "了解近代中国改良与革命的主张。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

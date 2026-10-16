@@ -1,0 +1,99 @@
+{
+  "textbook": "必修第二册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "平面向量",
+      "knowledge_points": [
+        {
+          "name": "向量的概念与线性运算",
+          "description": "掌握向量加减与数乘。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "向量的数量积与坐标运算",
+          "description": "掌握数量积及坐标公式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "复数",
+      "knowledge_points": [
+        {
+          "name": "复数的概念与四则运算",
+          "description": "理解复数概念与运算规则。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "立体几何初步",
+      "knowledge_points": [
+        {
+          "name": "空间几何体与表面积、体积",
+          "description": "掌握柱、锥、球的基本量计算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "空间点、线、面的位置关系",
+          "description": "理解平行与垂直的判定。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "统计与概率",
+      "knowledge_points": [
+        {
+          "name": "统计与抽样",
+          "description": "掌握抽样方法与数据特征。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "古典概型与事件关系",
+          "description": "掌握古典概型与互斥、对立事件。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

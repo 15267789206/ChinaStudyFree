@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级下册",
+  "unit": "现在完成时与被动语态",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「现在完成时与被动语态」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时",
+        "question": "I ___ my key, so I can't open the door.",
+        "options": [
+          "lose",
+          "lost",
+          "have lost",
+          "am losing"
+        ],
+        "answer": "have lost",
+        "explanation": "丢失造成现在结果。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "被动语态综合",
+        "question": "The song ___ by many singers.",
+        "options": [
+          "sings",
+          "sing",
+          "is sung",
+          "sang"
+        ],
+        "answer": "is sung",
+        "explanation": "主语 song 是承受者。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时",
+        "question": "现在完成时不能与 yesterday 等过去时间状语连用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "时态限制。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "被动语态综合",
+        "question": "被动语态中 by 引出动作的发出者。",
+        "options": [],
+        "answer": "对",
+        "explanation": "by 引出发出者。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "现在完成时",
+      "core_concept": "现在完成时由 have/has + 过去分词构成，表示过去动作对现在的影响或持续到现在。since 后接时间点，for 后接时间段。",
+      "key_formula": "have/has + 过去分词",
+      "common_mistakes": [
+        "与一般过去时混用。"
+      ],
+      "tips": "since 时间点，for 时间段。"
+    },
+    {
+      "point": "被动语态综合",
+      "core_concept": "被动语态强调动作承受者。常与 by 短语搭配说明动作发出者，或不出现 by 说明不必/无从说明。",
+      "key_formula": "be + 过去分词 (+ by …)",
+      "common_mistakes": [
+        "主动句直接套用被动结构。"
+      ],
+      "tips": "先判断主语是不是承受者。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时",
+        "question": "He has been to Beijing twice, so he ___ the Great Wall.",
+        "options": [
+          "sees",
+          "saw",
+          "has seen",
+          "will see"
+        ],
+        "answer": "has seen",
+        "explanation": "去过多次用现在完成时。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "被动语态综合",
+        "question": "Paper ___ from wood.",
+        "options": [
+          "makes",
+          "is made",
+          "made",
+          "is making"
+        ],
+        "answer": "is made",
+        "explanation": "被动语态。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时",
+        "question": "have been to 表示去过，have been in 表示一直在。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两种状态区分。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "被动语态综合",
+        "question": "被动语态常用于客观描述或施动者不明确的情况。",
+        "options": [],
+        "answer": "对",
+        "explanation": "被动用法。"
+      }
+    ]
+  }
+}

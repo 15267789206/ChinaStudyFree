@@ -1,0 +1,144 @@
+{
+  "textbook": "一年级上册",
+  "unit": "校园与家庭生活",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「校园与家庭生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "校园里的安全",
+        "question": "上下楼梯时应该（　）",
+        "options": [
+          "靠右行",
+          "靠左行",
+          "从扶手上滑下",
+          "蹦跳着走"
+        ],
+        "answer": "靠右行",
+        "explanation": "上下楼梯靠右行。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "家人与亲情",
+        "question": "妈妈下班很累，你可以（　）",
+        "options": [
+          "吵着要出去玩",
+          "给她倒杯水、捶捶背",
+          "假装没看见",
+          "大声放音乐"
+        ],
+        "answer": "给她倒杯水、捶捶背",
+        "explanation": "用实际行动关心家人。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "校园里的安全",
+        "question": "不能把危险物品带到学校。",
+        "options": [],
+        "answer": "对",
+        "explanation": "危险物品不能带。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "家人与亲情",
+        "question": "家人的爱是无私的，我们要懂得感恩。",
+        "options": [],
+        "answer": "对",
+        "explanation": "要感恩家人。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "校园里的安全",
+      "core_concept": "上下楼梯靠右行，不带危险物品到学校，遇到困难找老师。安全是快乐学习的前提。",
+      "key_formula": "安全第一",
+      "common_mistakes": [
+        "携带小刀等尖锐物品到校。"
+      ],
+      "tips": "遇到危险找老师帮忙。"
+    },
+    {
+      "point": "家人与亲情",
+      "core_concept": "爸爸妈妈等家人照顾我们成长，我们要体谅他们的辛苦，用问候、做力所能及的事来表达爱。",
+      "key_formula": "感恩家人",
+      "common_mistakes": [
+        "认为家人的照顾是理所当然。"
+      ],
+      "tips": "爱要用行动表达。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "校园里的安全",
+        "question": "在学校遇到困难，首先可以找（　）",
+        "options": [
+          "老师",
+          "陌生人",
+          "自己忍着",
+          "高年级同学要钱"
+        ],
+        "answer": "老师",
+        "explanation": "找老师是最可靠的办法。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "家人与亲情",
+        "question": "家人的照顾不是理所当然的，要懂得回报。",
+        "options": [],
+        "answer": "对",
+        "explanation": "要体谅家人的辛苦。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "校园里的安全",
+        "question": "下面哪种物品不能带到学校（　）",
+        "options": [
+          "课本",
+          "小刀",
+          "水彩笔",
+          "跳绳"
+        ],
+        "answer": "小刀",
+        "explanation": "小刀属于危险物品。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "校园里的安全",
+        "question": "课间休息时要文明游戏，不打闹。",
+        "options": [],
+        "answer": "对",
+        "explanation": "文明游戏保安全。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级上册",
+  "unit": "成长中的我",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「成长中的我」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "认识自我与优点",
+        "question": "正确认识自己应该（　）",
+        "options": [
+          "只看优点",
+          "既看优点也看不足",
+          "只看不足",
+          "不和别人比"
+        ],
+        "answer": "既看优点也看不足",
+        "explanation": "要全面看待自己。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "克服困难与自信",
+        "question": "遇到不会的题目，正确的做法是（　）",
+        "options": [
+          "直接抄别人的",
+          "先自己思考再请教",
+          "空着不写",
+          "把本子撕了"
+        ],
+        "answer": "先自己思考再请教",
+        "explanation": "先思考再请教。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "认识自我与优点",
+        "question": "每个人都有自己的长处和不足。",
+        "options": [],
+        "answer": "对",
+        "explanation": "人无完人。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "克服困难与自信",
+        "question": "相信自己的能力有助于克服困难。",
+        "options": [],
+        "answer": "对",
+        "explanation": "自信助人成功。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "认识自我与优点",
+      "core_concept": "每个人都有自己的长处和不足。认识自己要既看优点也看不足，并努力改进不足。",
+      "key_formula": "扬长补短",
+      "common_mistakes": [
+        "只看到别人的优点而自卑。"
+      ],
+      "tips": "相信自己也能行。"
+    },
+    {
+      "point": "克服困难与自信",
+      "core_concept": "遇到难题不退缩，先冷静分析、再想办法解决。相信自己的能力，一次不行再来一次。",
+      "key_formula": "自信 + 方法",
+      "common_mistakes": [
+        "遇到难题就说“我不会”。"
+      ],
+      "tips": "先想再做，勇于尝试。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "认识自我与优点",
+        "question": "发现自己的优点可以（　）",
+        "options": [
+          "更自信",
+          "更骄傲",
+          "嘲笑别人",
+          "不努力"
+        ],
+        "answer": "更自信",
+        "explanation": "认识优点能增强自信。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "克服困难与自信",
+        "question": "面对困难要冷静分析、积极想办法。",
+        "options": [],
+        "answer": "对",
+        "explanation": "冷静分析找方法。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "克服困难与自信",
+        "question": "“扬长补短”的意思是（　）",
+        "options": [
+          "只发挥长处",
+          "发挥长处并改进不足",
+          "只改缺点",
+          "不理会缺点"
+        ],
+        "answer": "发挥长处并改进不足",
+        "explanation": "扬长补短。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "认识自我与优点",
+        "question": "看到别人的优点可以学习，但不必自卑。",
+        "options": [],
+        "answer": "对",
+        "explanation": "学习他人不自卑。"
+      }
+    ]
+  }
+}

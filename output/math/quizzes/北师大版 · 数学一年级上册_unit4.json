@@ -1,0 +1,149 @@
+{
+  "textbook": "一年级上册",
+  "unit": "分类",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「分类」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "按标准分类",
+        "question": "把铅笔、橡皮、尺子放在一起，是按（　）分",
+        "options": [
+          "用途",
+          "颜色",
+          "大小",
+          "形状"
+        ],
+        "answer": "用途",
+        "explanation": "都是文具。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "分类标准不同结果不同",
+        "question": "把水果和蔬菜分开，是按（　）分",
+        "options": [
+          "种类",
+          "颜色",
+          "形状",
+          "大小"
+        ],
+        "answer": "种类",
+        "explanation": "按食物类别。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "分类标准不同结果不同",
+        "question": "同一组物品可以按不同的标准分类。",
+        "options": [],
+        "answer": "对",
+        "explanation": "标准多样。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "按标准分类",
+        "question": "整理房间属于（　）",
+        "options": [
+          "分类",
+          "比较",
+          "数数",
+          "测量"
+        ],
+        "answer": "分类",
+        "explanation": "整理即分类。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "按标准分类",
+      "core_concept": "分类要按统一的标准（如用途、形状、颜色）把物品分成若干组。",
+      "key_formula": "按标准分类",
+      "common_mistakes": [
+        "同一堆里用两个标准混着分。"
+      ],
+      "tips": "一次分类只用一个标准。"
+    },
+    {
+      "point": "分类标准不同结果不同",
+      "core_concept": "同一组物品，分类标准不同，分得的结果就不同；分类能让东西更整齐、好找。",
+      "key_formula": "标准不同 → 结果不同",
+      "common_mistakes": [
+        "认为分法只有一种。"
+      ],
+      "tips": "多角度分类。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "按标准分类",
+        "question": "分类的标准要统一。",
+        "options": [],
+        "answer": "对",
+        "explanation": "一次一个标准。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "分类标准不同结果不同",
+        "question": "分类的好处是（　）",
+        "options": [
+          "更整齐、更好找",
+          "东西变多",
+          "颜色变深",
+          "没有好处"
+        ],
+        "answer": "更整齐、更好找",
+        "explanation": "分类的意义。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "按标准分类",
+        "question": "把三角形和圆分开，是按（　）分",
+        "options": [
+          "形状",
+          "颜色",
+          "用途",
+          "大小"
+        ],
+        "answer": "形状",
+        "explanation": "按形状。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "分类标准不同结果不同",
+        "question": "同一组积木既可以按颜色分，也可以按形状分。",
+        "options": [],
+        "answer": "对",
+        "explanation": "标准不同结果不同。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "化学反应原理",
+      "knowledge_points": [
+        {
+          "name": "化学反应与能量",
+          "description": "理解焓变与放热反应。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "反应速率与限度",
+          "description": "掌握反应速率与限度的影响因素。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "水溶液与电离平衡",
+      "knowledge_points": [
+        {
+          "name": "弱电解质的电离平衡",
+          "description": "理解强弱电解质与电离平衡。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "水的电离与溶液酸碱性",
+          "description": "掌握 pH 计算与酸碱中和。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

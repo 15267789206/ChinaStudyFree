@@ -1,0 +1,265 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Module 1 My classmates 我的同学",
+      "knowledge_points": [
+        {
+          "name": "be 动词 am / is / are",
+          "description": "掌握 be 动词的变化。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "介绍姓名与年龄",
+          "description": "会介绍自己与同学。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Module 2 My family 我的家庭",
+      "knowledge_points": [
+        {
+          "name": "指示代词 this / these",
+          "description": "掌握近指代词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "家庭称谓 parents / family",
+          "description": "掌握家庭相关词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "Module 3 My school 我的学校",
+      "knowledge_points": [
+        {
+          "name": "there be 句型",
+          "description": "掌握 there be 表存在。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "方位介词 next to / behind / on the left of",
+          "description": "掌握地点方位表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "Module 4 Healthy food 健康饮食",
+      "knowledge_points": [
+        {
+          "name": "have got 表示拥有",
+          "description": "掌握 have got 的用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "some / any 的用法",
+          "description": "掌握 some 与 any。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "Module 5 My school day 我的学校生活",
+      "knowledge_points": [
+        {
+          "name": "一般现在时表习惯",
+          "description": "掌握一般现在时用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "学校科目与时间",
+          "description": "掌握科目与星期表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "Module 6 A trip to the zoo 动物园之旅",
+      "knowledge_points": [
+        {
+          "name": "一般现在时三单疑问句",
+          "description": "掌握 Does…? 疑问句。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "动物与产地",
+          "description": "掌握动物词汇及产地表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "Module 7 Computers 电脑",
+      "knowledge_points": [
+        {
+          "name": "电脑词汇 computer / keyboard / mouse / screen",
+          "description": "掌握电脑部件词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "指令表达 Turn on / Save",
+          "description": "掌握常用操作指令。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "Module 8 Choosing presents 挑选礼物",
+      "knowledge_points": [
+        {
+          "name": "礼物词汇 present / gift / birthday",
+          "description": "掌握礼物相关词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "购物句型 How much…?",
+          "description": "掌握询问价格。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 9,
+      "title": "Module 9 People and places 人与地方",
+      "knowledge_points": [
+        {
+          "name": "描述地方的形容词",
+          "description": "掌握 big / small / beautiful / crowded。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "描述人物",
+          "description": "会简单描述人物外貌性格。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 10,
+      "title": "Module 10 Spring Festival 春节",
+      "knowledge_points": [
+        {
+          "name": "春节词汇",
+          "description": "掌握春节相关词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "节日活动表达",
+          "description": "会描述节日活动。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "三年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "温暖的家",
+      "knowledge_points": [
+        {
+          "name": "家庭责任与分担",
+          "description": "主动承担家务，体谅父母。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "沟通与理解家人",
+          "description": "学会与家人沟通。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "我们的公共生活",
+      "knowledge_points": [
+        {
+          "name": "爱护公用设施",
+          "description": "爱护公共设施，遵守使用规则。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "文明礼貌与社会公德",
+          "description": "做文明有礼的好学生。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

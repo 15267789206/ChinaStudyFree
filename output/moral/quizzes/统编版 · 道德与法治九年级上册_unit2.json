@@ -1,0 +1,144 @@
+{
+  "textbook": "九年级上册",
+  "unit": "民主与法治",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「民主与法治」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "人民当家作主",
+        "question": "我国的根本政治制度是（　）",
+        "options": [
+          "人民代表大会制度",
+          "民族区域自治制度",
+          "基层群众自治制度",
+          "多党合作制度"
+        ],
+        "answer": "人民代表大会制度",
+        "explanation": "根本政治制度。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "全面依法治国",
+        "question": "全面依法治国的基本方式是（　）",
+        "options": [
+          "依法治国",
+          "以德治国代替法律",
+          "人治",
+          "运动"
+        ],
+        "answer": "依法治国",
+        "explanation": "依法治国是基本方式。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "人民当家作主",
+        "question": "民主协商是公民参与民主生活的重要形式。",
+        "options": [],
+        "answer": "对",
+        "explanation": "民主协商。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "全面依法治国",
+        "question": "全民守法是法治建设的最后一个环节，也是基础。",
+        "options": [],
+        "answer": "对",
+        "explanation": "全民守法是基础。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "人民当家作主",
+      "core_concept": "人民代表大会制度是我国的根本政治制度。公民参与民主生活的形式有民主选举、民主协商、民主决策和民主管理。",
+      "key_formula": "根本政治制度 = 人民代表大会制度",
+      "common_mistakes": [
+        "把政协当作国家机关。"
+      ],
+      "tips": "政协是爱国统一战线组织。"
+    },
+    {
+      "point": "全面依法治国",
+      "core_concept": "全面依法治国是治国理政的基本方式。法治要求科学立法、严格执法、公正司法、全民守法。公民要增强法治意识，自觉守法。",
+      "key_formula": "科学立法 + 严格执法 + 公正司法 + 全民守法",
+      "common_mistakes": [
+        "认为执法可以随意。"
+      ],
+      "tips": "法治四要求。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "人民当家作主",
+        "question": "公民参与民主决策的重要方式是（　）",
+        "options": [
+          "社情民意反映制度",
+          "投票选举代表",
+          "自己立法",
+          "随意决策"
+        ],
+        "answer": "社情民意反映制度",
+        "explanation": "民主决策渠道。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "全面依法治国",
+        "question": "我国法治建设的十六字方针是（　）",
+        "options": [
+          "科学立法、严格执法、公正司法、全民守法",
+          "有法可依、有法必依、执法必严、违法必究（传统表述）",
+          "民主协商、独立公正",
+          "依法治国、以德治国"
+        ],
+        "answer": "科学立法、严格执法、公正司法、全民守法",
+        "explanation": "新十六字方针。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "人民当家作主",
+        "question": "公民有序参与政治生活是推进民主政治建设的重要内容。",
+        "options": [],
+        "answer": "对",
+        "explanation": "有序参与。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "全面依法治国",
+        "question": "公民要自觉维护法律尊严，做守法公民。",
+        "options": [],
+        "answer": "对",
+        "explanation": "守法是要求。"
+      }
+    ]
+  }
+}

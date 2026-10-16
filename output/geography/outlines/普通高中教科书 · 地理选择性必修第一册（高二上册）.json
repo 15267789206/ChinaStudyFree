@@ -1,0 +1,57 @@
+{
+  "textbook": "选择性必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "国土安全与地理信息技术",
+      "knowledge_points": [
+        {
+          "name": "国土安全与资源保障",
+          "description": "理解国土安全与资源保障的关系。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "地理信息技术",
+          "description": "了解遥感、GIS 与 GPS 的应用。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "区域发展与地理信息技术",
+      "knowledge_points": [
+        {
+          "name": "区域发展特征",
+          "description": "理解区域发展阶段与差异。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "3S 技术的综合应用",
+          "description": "综合运用 RS/GIS/GPS。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

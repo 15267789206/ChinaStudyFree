@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "小说与写作",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「小说与写作」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "小说的三要素",
+        "question": "小说的三要素是（　）",
+        "options": [
+          "人物、情节、环境",
+          "时间、地点、人物",
+          "开头、结尾",
+          "记叙、议论"
+        ],
+        "answer": "人物、情节、环境",
+        "explanation": "小说三要素。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "小说情节梳理",
+        "question": "小说情节发展的基本结构是（　）",
+        "options": [
+          "开端、发展、高潮、结局",
+          "总—分—总",
+          "起承转合",
+          "引论—本论—结论"
+        ],
+        "answer": "开端、发展、高潮、结局",
+        "explanation": "情节四阶段。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "小说的三要素",
+        "question": "塑造人物可以使用侧面描写。",
+        "options": [],
+        "answer": "对",
+        "explanation": "侧面描写也塑造人物。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "小说情节梳理",
+        "question": "前文埋下的线索在后面会有照应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "伏笔与照应。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "小说的三要素",
+      "core_concept": "小说三要素是人物、情节、环境。塑造人物的方法有外貌、语言、动作、心理、神态描写以及侧面描写。",
+      "key_formula": "人物 + 情节 + 环境",
+      "common_mistakes": [
+        "分析人物只看外貌。"
+      ],
+      "tips": "多角度塑造人物。"
+    },
+    {
+      "point": "小说情节梳理",
+      "core_concept": "情节一般有开端、发展、高潮、结局。阅读时要关注伏笔与照应，它们使情节更严谨。",
+      "key_formula": "开端—发展—高潮—结局",
+      "common_mistakes": [
+        "把伏笔当作无关细节略过。"
+      ],
+      "tips": "关注伏笔与照应。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "小说的三要素",
+        "question": "通过他人的反应来表现人物性格，属于（　）",
+        "options": [
+          "侧面描写",
+          "外貌描写",
+          "语言描写",
+          "环境描写"
+        ],
+        "answer": "侧面描写",
+        "explanation": "侧面烘托。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "小说情节梳理",
+        "question": "小说中的“伏笔”作用是（　）",
+        "options": [
+          "使情节前后照应、结构严谨",
+          "增加字数",
+          "让文章更长",
+          "没有作用"
+        ],
+        "answer": "使情节前后照应、结构严谨",
+        "explanation": "伏笔使情节严谨。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "小说的三要素",
+        "question": "环境描写可以为人物活动提供背景、渲染气氛。",
+        "options": [],
+        "answer": "对",
+        "explanation": "环境描写作用。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "小说情节梳理",
+        "question": "梳理情节有助于把握文章主旨。",
+        "options": [],
+        "answer": "对",
+        "explanation": "理情节抓主旨。"
+      }
+    ]
+  }
+}

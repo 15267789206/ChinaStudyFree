@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "现在完成时",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「现在完成时」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "现在完成时的构成与用法",
+        "question": "I ___ my homework already.",
+        "options": [
+          "finish",
+          "finished",
+          "have finished",
+          "am finishing"
+        ],
+        "answer": "have finished",
+        "explanation": "already 提示完成时。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "非延续性动词与延续性动词",
+        "question": "He has lived here ___ 2019.",
+        "options": [
+          "for",
+          "since",
+          "in",
+          "at"
+        ],
+        "answer": "since",
+        "explanation": "since + 时间点。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "现在完成时的构成与用法",
+        "question": "现在完成时不能与表示过去具体时间状语连用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "如不能与 yesterday 连用。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "非延续性动词与延续性动词",
+        "question": "非延续性动词不能直接与 for/since 连用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "需改换表达。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "现在完成时的构成与用法",
+      "core_concept": "现在完成时表示过去发生的动作对现在造成的影响，或从过去持续到现在的动作。常与 already、yet、ever、never、since、for 连用。",
+      "key_formula": "have/has + 过去分词",
+      "common_mistakes": [
+        "与一般过去时混用。"
+      ],
+      "tips": "看时间状语与语境。"
+    },
+    {
+      "point": "非延续性动词与延续性动词",
+      "core_concept": "非延续性动词（去、买、离开、开始）不能与表示一段时间的 for/since 连用，要换成对应的延续性表达。",
+      "key_formula": "延续性表达 = 状态/持续动词",
+      "common_mistakes": [
+        "说 have bought for two weeks。"
+      ],
+      "tips": "改用持续性表达。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时的构成与用法",
+        "question": "—___ you finished the project? — Yes, I ___.",
+        "options": [
+          "Did; have",
+          "Have; have",
+          "Do; do",
+          "Have; did"
+        ],
+        "answer": "Have; have",
+        "explanation": "疑问与回答都用完成时。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "非延续性动词与延续性动词",
+        "question": "He ___ in this city for ten years, so he knows it well.",
+        "options": [
+          "has come",
+          "has been",
+          "came",
+          "comes"
+        ],
+        "answer": "has been",
+        "explanation": "come 换成 be 才是延续性。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时的构成与用法",
+        "question": "since 后接时间点，for 后接时间段。",
+        "options": [],
+        "answer": "对",
+        "explanation": "since/for 区别。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "非延续性动词与延续性动词",
+        "question": "“他来了三天了”不能直译为 He has come for three days。",
+        "options": [],
+        "answer": "对",
+        "explanation": "要改为 He has been here for three days。"
+      }
+    ]
+  }
+}

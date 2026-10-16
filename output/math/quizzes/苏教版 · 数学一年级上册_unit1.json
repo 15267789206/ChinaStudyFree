@@ -1,0 +1,149 @@
+{
+  "textbook": "一年级上册",
+  "unit": "数一数",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「数一数」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数数的方法",
+        "question": "数数时要（　）",
+        "options": [
+          "按顺序地数",
+          "随便数",
+          "跳着数",
+          "倒数着数"
+        ],
+        "answer": "按顺序地数",
+        "explanation": "按顺序才不漏。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "数数的方法",
+        "question": "数数时不能重复也不能遗漏。",
+        "options": [],
+        "answer": "对",
+        "explanation": "一一对应。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 1,
+        "knowledge_point": "数量的表示",
+        "question": "按顺序填数：1、2、3、___、5，横线上是几？",
+        "options": [],
+        "answer": "4",
+        "explanation": "顺序为 1、2、3、4、5。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "数量的表示",
+        "question": "有 5 个苹果，再添 1 个，一共是（　）个",
+        "options": [
+          "6",
+          "5",
+          "7",
+          "4"
+        ],
+        "answer": "6",
+        "explanation": "5 + 1 = 6。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "数数的方法",
+      "core_concept": "数数时按顺序一个一个（或两个两个）地数，边数边做标记，做到不重复、不遗漏。",
+      "key_formula": "按顺序数数",
+      "common_mistakes": [
+        "数数时漏数或重复数。"
+      ],
+      "tips": "数一个划掉一个。"
+    },
+    {
+      "point": "数量的表示",
+      "core_concept": "数到几，就用几表示物体的个数；1~10 按从小到大排列。",
+      "key_formula": "1, 2, 3, … 10",
+      "common_mistakes": [
+        "把顺序与个数混淆。"
+      ],
+      "tips": "「几」是数量，「第几」是顺序。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "数数的方法",
+        "question": "「第 3 个」表示的是（　）",
+        "options": [
+          "顺序",
+          "数量",
+          "总数",
+          "多少"
+        ],
+        "answer": "顺序",
+        "explanation": "第几表顺序。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "数量的表示",
+        "question": "10 比 9 大。",
+        "options": [],
+        "answer": "对",
+        "explanation": "10 > 9。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "数数的方法",
+        "question": "数一堆小球，最好的办法是（　）",
+        "options": [
+          "边数边做标记",
+          "看一眼就说",
+          "随便数",
+          "猜"
+        ],
+        "answer": "边数边做标记",
+        "explanation": "做标记防重漏。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "数量的表示",
+        "question": "7 前面的一个数是（　）",
+        "options": [
+          "6",
+          "8",
+          "5",
+          "9"
+        ],
+        "answer": "6",
+        "explanation": "7 前面是 6。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "三年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "成长中的我",
+      "knowledge_points": [
+        {
+          "name": "认识自我与优点",
+          "description": "正确认识自己，发现优点。",
+          "difficulty": 2,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "克服困难与自信",
+          "description": "培养面对困难的勇气。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "我和学校与社会",
+      "knowledge_points": [
+        {
+          "name": "规则意识与公共秩序",
+          "description": "理解规则的作用，遵守公共秩序。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "交通安全与自我保护",
+          "description": "掌握交通规则与自护常识。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

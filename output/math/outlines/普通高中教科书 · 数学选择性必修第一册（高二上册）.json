@@ -1,0 +1,83 @@
+{
+  "textbook": "选择性必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "直线和圆的方程",
+      "knowledge_points": [
+        {
+          "name": "直线的方程与位置关系",
+          "description": "掌握直线方程形式与平行垂直条件。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "圆的方程",
+          "description": "掌握圆的标准方程与一般方程。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "圆锥曲线",
+      "knowledge_points": [
+        {
+          "name": "椭圆",
+          "description": "掌握椭圆定义与标准方程。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "双曲线与抛物线",
+          "description": "掌握双曲线、抛物线定义与方程。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "空间向量与立体几何",
+      "knowledge_points": [
+        {
+          "name": "空间向量的运算与坐标表示",
+          "description": "掌握空间向量坐标运算。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "用空间向量求空间角",
+          "description": "会用向量法求异面直线夹角、线面角。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 4 Fun time — School clubs 学校社团",
+  "unit_number": 7,
+  "unit_test": {
+    "title": "第7单元「Module 4 Fun time — School clubs 学校社团」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "社团词汇 club / join / art / music",
+        "question": "「加入」的英文是（　）",
+        "options": [
+          "join",
+          "join in",
+          "take part",
+          "attend"
+        ],
+        "answer": "join",
+        "explanation": "加入组织用 join。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "社团词汇 club / join / art / music",
+        "question": "「美术社」的英文是（　）",
+        "options": [
+          "art club",
+          "art clubs",
+          "arts club",
+          "art's club"
+        ],
+        "answer": "art club",
+        "explanation": "art club。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "would like to 表达意愿",
+        "question": "「我想加入音乐社。」的英文是（　）",
+        "options": [
+          "I'd like to join the music club.",
+          "I'd like join the music club.",
+          "I'd like to joining the music club.",
+          "I like to join the music club."
+        ],
+        "answer": "I'd like to join the music club.",
+        "explanation": "would like to + 原形。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "社团词汇 club / join / art / music",
+        "question": "club 的意思是「社团、俱乐部」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "club 社团。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "社团词汇 club / join / art / music",
+      "core_concept": "club 社团、join 加入、art club 美术社、music club 音乐社、basketball club 篮球社。",
+      "key_formula": "join the music club 加入音乐社",
+      "common_mistakes": [
+        "join 与 join in 混淆。"
+      ],
+      "tips": "加入组织用 join。"
+    },
+    {
+      "point": "would like to 表达意愿",
+      "core_concept": "would like to + 原形表示「想要」；缩写 I'd like to…",
+      "key_formula": "I'd like to join the art club.",
+      "common_mistakes": [
+        "would like 后接三单。"
+      ],
+      "tips": "to 后接原形。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "社团词汇 club / join / art / music",
+        "question": "「篮球社」的英文是（　）",
+        "options": [
+          "basketball club",
+          "basketball clubs",
+          "basket ball club",
+          "basketball's club"
+        ],
+        "answer": "basketball club",
+        "explanation": "合写 basketball。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "would like to 表达意愿",
+        "question": "「你想加入什么社团？」的英文是（　）",
+        "options": [
+          "What club would you like to join?",
+          "What club you would like to join?",
+          "What club would you like joining?",
+          "What club do you like join?"
+        ],
+        "answer": "What club would you like to join?",
+        "explanation": "would like to + 原形。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "would like to 表达意愿",
+        "question": "would like 表示「想要」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "表意愿。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "社团词汇 club / join / art / music",
+        "question": "社团活动一般在（　）进行",
+        "options": [
+          "after school",
+          "in the morning",
+          "at night",
+          "in bed"
+        ],
+        "answer": "after school",
+        "explanation": "课后活动。"
+      }
+    ]
+  }
+}

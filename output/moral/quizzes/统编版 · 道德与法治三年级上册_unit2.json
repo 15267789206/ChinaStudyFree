@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级上册",
+  "unit": "我和学校与社会",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「我和学校与社会」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "规则意识与公共秩序",
+        "question": "在图书馆里应该（　）",
+        "options": [
+          "大声聊天",
+          "保持安静",
+          "吃零食",
+          "追逐打闹"
+        ],
+        "answer": "保持安静",
+        "explanation": "图书馆要保持安静。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "交通安全与自我保护",
+        "question": "过马路时，红灯亮起应该（　）",
+        "options": [
+          "赶紧跑过去",
+          "停下来等绿灯",
+          "慢慢走过去",
+          "绕过红灯"
+        ],
+        "answer": "停下来等绿灯",
+        "explanation": "红灯停。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "规则意识与公共秩序",
+        "question": "规则能保证公共生活有序。",
+        "options": [],
+        "answer": "对",
+        "explanation": "规则的作用。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "交通安全与自我保护",
+        "question": "未满 12 周岁不能在道路上骑自行车。",
+        "options": [],
+        "answer": "对",
+        "explanation": "交通法规规定。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "规则意识与公共秩序",
+      "core_concept": "规则保证大家的学习和生活有序。遵守规则既是自我保护，也是尊重他人。",
+      "key_formula": "没有规矩不成方圆",
+      "common_mistakes": [
+        "在图书馆大声说话。"
+      ],
+      "tips": "公共场所守秩序。"
+    },
+    {
+      "point": "交通安全与自我保护",
+      "core_concept": "过马路走人行横道、不闯红灯；未满 12 周岁不能在道路上骑自行车。遇到危险保持冷静、及时求助。",
+      "key_formula": "红灯停、绿灯行",
+      "common_mistakes": [
+        "在马路上追逐玩耍。"
+      ],
+      "tips": "安全出行记心间。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "交通安全与自我保护",
+        "question": "绿灯亮起通过斑马线时，还要注意（　）",
+        "options": [
+          "左右看，确认安全",
+          "闭着眼走",
+          "跑着冲过去",
+          "边走边玩手机"
+        ],
+        "answer": "左右看，确认安全",
+        "explanation": "绿灯也要左右观察。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "规则意识与公共秩序",
+        "question": "遵守规则也是尊重他人的表现。",
+        "options": [],
+        "answer": "对",
+        "explanation": "守规则是尊重。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "交通安全与自我保护",
+        "question": "遇到陌生人搭讪，正确的做法是（　）",
+        "options": [
+          "跟他走",
+          "不理睬并告诉家长老师",
+          "上车",
+          "收下礼物"
+        ],
+        "answer": "不理睬并告诉家长老师",
+        "explanation": "要提高警惕。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "交通安全与自我保护",
+        "question": "在马路上追逐玩耍很危险。",
+        "options": [],
+        "answer": "对",
+        "explanation": "马路玩耍危险。"
+      }
+    ]
+  }
+}

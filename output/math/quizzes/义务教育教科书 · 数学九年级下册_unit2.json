@@ -1,0 +1,175 @@
+{
+  "textbook": "九年级下册",
+  "unit": "相似",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「相似」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "比例线段与相似三角形判定",
+        "question": "若 $\\frac ab=\\frac23$，则 $\\frac{a+b}{b}=$（　）",
+        "options": [
+          "$\\frac23$",
+          "$\\frac53$",
+          "$\\frac32$",
+          "$\\frac25$"
+        ],
+        "answer": "$\\frac53$",
+        "explanation": "$\\frac ab+1=\\frac53$。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "相似三角形的性质",
+        "question": "相似三角形面积比等于相似比的平方。",
+        "options": [],
+        "answer": "对",
+        "explanation": "相似性质。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "相似三角形的性质",
+        "question": "两相似三角形相似比为 2:3，则面积比为多少（填分数如 4/9）？",
+        "options": [],
+        "answer": "4/9",
+        "explanation": "$2^2:3^2=4:9$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "相似三角形的性质",
+        "question": "两相似三角形相似比为 3，小三角形周长为 6，大三角形周长是多少？",
+        "options": [],
+        "answer": "18",
+        "explanation": "$6\\times3=18$。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "比例线段与相似三角形判定",
+        "question": "判定两个三角形相似的常用方法是（　）",
+        "options": [
+          "SSA",
+          "AAA",
+          "两角对应相等",
+          "一边成比例"
+        ],
+        "answer": "两角对应相等",
+        "explanation": "AA 判定。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "位似",
+        "question": "位似图形的对应点连线（　）",
+        "options": [
+          "平行",
+          "交于一点",
+          "垂直",
+          "无法确定"
+        ],
+        "answer": "交于一点",
+        "explanation": "位似中心定义。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "比例线段与相似三角形判定",
+      "core_concept": "平行于三角形一边的直线截其他两边，所得三角形与原三角形相似；两角对应相等、两边成比例且夹角相等、三边成比例都可判定相似。",
+      "key_formula": "两角对应相等 ⇒ 相似",
+      "common_mistakes": [
+        "把“夹角”写成“对角”。"
+      ],
+      "tips": "AA 是最常用的判定。"
+    },
+    {
+      "point": "相似三角形的性质",
+      "core_concept": "相似三角形对应线段（高、中线、角平分线）之比等于相似比；周长比等于相似比；面积比等于相似比的平方。",
+      "key_formula": "面积比 $=k^2$",
+      "common_mistakes": [
+        "面积比误写成 $k$。"
+      ],
+      "tips": "记住平方关系。"
+    },
+    {
+      "point": "位似",
+      "core_concept": "位似图形是相似图形，对应点连线交于一点（位似中心）。以原点为位似中心、相似比为 $k$ 时，对应点坐标为原来的 $k$ 倍或 $-k$ 倍。",
+      "key_formula": "$(x,y)\\to(kx,ky)$",
+      "common_mistakes": [
+        "忽略 $-k$ 的情形。"
+      ],
+      "tips": "注意位似中心两侧各有一解。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "相似三角形的性质",
+        "question": "两相似三角形面积比为 1:4，则相似比是多少（填分数如 1/2）？",
+        "options": [],
+        "answer": "1/2",
+        "explanation": "相似比是面积比的算术平方根。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "相似三角形的性质",
+        "question": "身高 1.6 m 的人影长 2 m，同时旗杆影长 10 m，旗杆高（　）",
+        "options": [
+          "6 m",
+          "8 m",
+          "10 m",
+          "12 m"
+        ],
+        "answer": "8 m",
+        "explanation": "$\\frac{1.6}{2}=\\frac h{10}$，$h=8$。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "位似",
+        "question": "位似图形一定是相似图形。",
+        "options": [],
+        "answer": "对",
+        "explanation": "位似是特殊的相似。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "比例线段与相似三角形判定",
+        "question": "同一时刻，1 m 高木杆影长 0.5 m，某树影长 3 m，树高多少米？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$\\frac{1}{0.5}=\\frac h3$，$h=6$。"
+      }
+    ]
+  }
+}

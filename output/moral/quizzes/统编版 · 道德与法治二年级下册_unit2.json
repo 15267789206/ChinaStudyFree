@@ -1,0 +1,144 @@
+{
+  "textbook": "二年级下册",
+  "unit": "我们生活的地方",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「我们生活的地方」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "社区与邻里",
+        "question": "邻居奶奶提东西很重，你应该（　）",
+        "options": [
+          "装作没看见",
+          "主动帮忙提一段",
+          "抢过来就跑",
+          "嘲笑她"
+        ],
+        "answer": "主动帮忙提一段",
+        "explanation": "邻里之间互相帮助。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "爱护公共环境",
+        "question": "喝完饮料的塑料瓶应该（　）",
+        "options": [
+          "扔进可回收物桶",
+          "扔在地上",
+          "塞进花坛",
+          "烧掉"
+        ],
+        "answer": "扔进可回收物桶",
+        "explanation": "塑料瓶可回收。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "爱护公共环境",
+        "question": "不能随地吐痰、乱扔垃圾。",
+        "options": [],
+        "answer": "对",
+        "explanation": "要爱护公共环境。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "社区与邻里",
+        "question": "邻里之间见面可以主动打招呼。",
+        "options": [],
+        "answer": "对",
+        "explanation": "礼貌待人。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "社区与邻里",
+      "core_concept": "社区里有超市、医院、学校等设施。邻里之间要互相尊重、互相帮助，见面主动打招呼。",
+      "key_formula": "远亲不如近邻",
+      "common_mistakes": [
+        "在楼道里大声喧哗影响邻居。"
+      ],
+      "tips": "与邻居和睦相处。"
+    },
+    {
+      "point": "爱护公共环境",
+      "core_concept": "不随地吐痰、不乱扔垃圾，爱护花草树木。垃圾分类投放，节约用水用电。",
+      "key_formula": "保护环境、人人有责",
+      "common_mistakes": [
+        "随地乱扔果皮。"
+      ],
+      "tips": "保护环境从身边做起。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "爱护公共环境",
+        "question": "节约用水，正确的做法是（　）",
+        "options": [
+          "洗手时一直开着水龙头",
+          "用完水及时关紧龙头",
+          "用自来水玩水枪",
+          "把水倒着玩"
+        ],
+        "answer": "用完水及时关紧龙头",
+        "explanation": "随手关水龙头。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "爱护公共环境",
+        "question": "垃圾分类投放可以保护环境。",
+        "options": [],
+        "answer": "对",
+        "explanation": "垃圾分类有利环保。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "社区与邻里",
+        "question": "在楼道里应该（　）",
+        "options": [
+          "大声喧哗",
+          "轻声慢步不吵闹",
+          "堆放杂物",
+          "跳绳"
+        ],
+        "answer": "轻声慢步不吵闹",
+        "explanation": "楼道要保持安静整洁。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "社区与邻里",
+        "question": "社区里的公共设施要爱护。",
+        "options": [],
+        "answer": "对",
+        "explanation": "爱护公共设施。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "八年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "人的健康与免疫",
+      "knowledge_points": [
+        {
+          "name": "传染病与免疫",
+          "description": "掌握传染病的环节与预防措施。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "人体的三道防线与免疫",
+          "description": "理解免疫系统的组成与功能。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "健康生活与医疗急救",
+      "knowledge_points": [
+        {
+          "name": "健康的生活方式",
+          "description": "掌握健康的生活方式。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "急救常识与用药安全",
+          "description": "了解常见急救与安全用药。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

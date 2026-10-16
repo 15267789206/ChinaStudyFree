@@ -1,0 +1,144 @@
+{
+  "textbook": "七年级上册",
+  "unit": "陆地和海洋",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「陆地和海洋」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "大洲与大洋",
+        "question": "地球上面积最大的大洲是（　）",
+        "options": [
+          "非洲",
+          "亚洲",
+          "北美洲",
+          "欧洲"
+        ],
+        "answer": "亚洲",
+        "explanation": "亚洲面积最大。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "大洲与大洋",
+        "question": "四大洋中面积最大的是（　）",
+        "options": [
+          "大西洋",
+          "印度洋",
+          "太平洋",
+          "北冰洋"
+        ],
+        "answer": "太平洋",
+        "explanation": "太平洋面积最大。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "海陆变迁与板块构造",
+        "question": "板块交界地带地壳活跃，多火山和地震。",
+        "options": [],
+        "answer": "对",
+        "explanation": "板块边界活跃。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "大洲与大洋",
+        "question": "地球表面海洋面积约占 71%。",
+        "options": [],
+        "answer": "对",
+        "explanation": "三分陆地七分海洋。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "大洲与大洋",
+      "core_concept": "地球表面海洋约占 71%、陆地约占 29%。七大洲面积从大到小为亚、非、北美、南美、南极、欧、大洋洲。四大洋按面积大小为太平洋、大西洋、印度洋、北冰洋。",
+      "key_formula": "三分陆地七分海洋",
+      "common_mistakes": [
+        "把面积顺序记混。"
+      ],
+      "tips": "亚洲最大，大洋洲最小。"
+    },
+    {
+      "point": "海陆变迁与板块构造",
+      "core_concept": "板块构造学说认为岩石圈由六大板块组成，板块内部比较稳定、交界地带地壳活跃，多火山地震。板块碰撞挤压形成山脉，张裂形成裂谷或海洋。",
+      "key_formula": "六大板块：亚欧、非洲、美洲、太平洋、印度洋、南极洲",
+      "common_mistakes": [
+        "认为所有板块边界都形成山脉。"
+      ],
+      "tips": "碰撞挤压成山，张裂成海。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "海陆变迁与板块构造",
+        "question": "喜马拉雅山脉的形成主要是由于（　）",
+        "options": [
+          "板块碰撞挤压",
+          "板块张裂",
+          "流水侵蚀",
+          "火山喷发"
+        ],
+        "answer": "板块碰撞挤压",
+        "explanation": "亚欧板块与印度洋板块碰撞。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "海陆变迁与板块构造",
+        "question": "红海不断扩张是由于板块张裂。",
+        "options": [],
+        "answer": "对",
+        "explanation": "张裂使海洋扩张。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "大洲与大洋",
+        "question": "亚洲与欧洲的分界线是乌拉尔山脉—乌拉尔河—大高加索山脉—土耳其海峡。",
+        "options": [],
+        "answer": "对",
+        "explanation": "亚欧分界线。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "大洲与大洋",
+        "question": "全部位于北半球的大洋是（　）",
+        "options": [
+          "太平洋",
+          "北冰洋",
+          "印度洋",
+          "大西洋"
+        ],
+        "answer": "北冰洋",
+        "explanation": "北冰洋全部位于北半球。"
+      }
+    ]
+  }
+}

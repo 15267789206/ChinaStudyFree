@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Unit 4 My day 我的一天",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「Unit 4 My day 我的一天」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "时间介词 at / on / in",
+        "question": "「在七点」的英文是（　）",
+        "options": [
+          "at seven",
+          "in seven",
+          "on seven",
+          "at the seven"
+        ],
+        "answer": "at seven",
+        "explanation": "时刻用 at。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "时间介词 at / on / in",
+        "question": "「在星期一」的英文是（　）",
+        "options": [
+          "on Monday",
+          "in Monday",
+          "at Monday",
+          "on the Monday"
+        ],
+        "answer": "on Monday",
+        "explanation": "星期几用 on。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "频度副词 always / usually / often / never",
+        "question": "「总是」的英文是（　）",
+        "options": [
+          "always",
+          "all ways",
+          "alway",
+          "alwayss"
+        ],
+        "answer": "always",
+        "explanation": "always 总是。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "时间介词 at / on / in",
+        "question": "in 用于月份、年份和季节前。",
+        "options": [],
+        "answer": "对",
+        "explanation": "in + 月年季。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "时间介词 at / on / in",
+      "core_concept": "at + 时刻（at seven）、on + 某天（on Monday）、in + 月/年/季节（in July）。",
+      "key_formula": "at 7:00 / on Monday / in July",
+      "common_mistakes": [
+        "在具体星期几用 in。"
+      ],
+      "tips": "at 时刻、on 某天、in 月年。"
+    },
+    {
+      "point": "频度副词 always / usually / often / never",
+      "core_concept": "always 总是、usually 通常、often 经常、sometimes 有时、never 从不；放在实义动词前、be 动词后。",
+      "key_formula": "I always get up early.",
+      "common_mistakes": [
+        "频度副词放在句首后面不加逗号混乱。"
+      ],
+      "tips": "be 后实前。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "时间介词 at / on / in",
+        "question": "「在三月」的英文是（　）",
+        "options": [
+          "in March",
+          "at March",
+          "on March",
+          "in the March"
+        ],
+        "answer": "in March",
+        "explanation": "月份用 in。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "频度副词 always / usually / often / never",
+        "question": "「有时」的英文是（　）",
+        "options": [
+          "sometimes",
+          "some times",
+          "sometime",
+          "some time"
+        ],
+        "answer": "sometimes",
+        "explanation": "sometimes 有时。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "频度副词 always / usually / often / never",
+        "question": "never 的意思是「从不」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "never 从不。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "频度副词 always / usually / often / never",
+        "question": "「我通常六点起床。」的英文是（　）",
+        "options": [
+          "I usually get up at six.",
+          "I usually gets up at six.",
+          "Usually I get up in six.",
+          "I get up usually at six."
+        ],
+        "answer": "I usually get up at six.",
+        "explanation": "usually 放实义动词前。"
+      }
+    ]
+  }
+}

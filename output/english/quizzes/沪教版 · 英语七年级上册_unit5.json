@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 3 Travels — Visiting the moon 探月",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「Module 3 Travels — Visiting the moon 探月」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+        "question": "「宇航员」的英文是（　）",
+        "options": [
+          "astronaut",
+          "astronout",
+          "astronaunt",
+          "astranaut"
+        ],
+        "answer": "astronaut",
+        "explanation": "astronaut 宇航员。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+        "question": "「火箭」的英文是（　）",
+        "options": [
+          "rocket",
+          "rockket",
+          "roket",
+          "rockets"
+        ],
+        "answer": "rocket",
+        "explanation": "rocket 火箭。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "there be 与将来计划",
+        "question": "「太空」的英文是（　）",
+        "options": [
+          "space",
+          "spaces",
+          "spase",
+          "spaace"
+        ],
+        "answer": "space",
+        "explanation": "space 太空。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+        "question": "moon 的意思是「月亮」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "moon 月亮。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "太空词汇 moon / space / rocket / astronaut",
+      "core_concept": "moon 月亮、space 太空、rocket 火箭、astronaut 宇航员、spaceship 宇宙飞船。",
+      "key_formula": "land on the moon 登上月球",
+      "common_mistakes": [
+        "spacecraft 与 spaceship 混淆。"
+      ],
+      "tips": "spaceship 更常用。"
+    },
+    {
+      "point": "there be 与将来计划",
+      "core_concept": "there be 表示「有」：There is…（单数）/ There are…（复数）；计划用 be going to。",
+      "key_formula": "There is no air on the moon.",
+      "common_mistakes": [
+        "There is 后接复数名词。"
+      ],
+      "tips": "就近原则。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+        "question": "「宇宙飞船」的英文是（　）",
+        "options": [
+          "spaceship",
+          "spaceshep",
+          "space ship",
+          "spaceshipp"
+        ],
+        "answer": "spaceship",
+        "explanation": "spaceship 宇宙飞船。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "there be 与将来计划",
+        "question": "There ___ some water on the moon.",
+        "options": [
+          "is",
+          "are",
+          "be",
+          "am"
+        ],
+        "answer": "is",
+        "explanation": "water 不可数用 is。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "there be 与将来计划",
+        "question": "人类已经登上过月球。",
+        "options": [],
+        "answer": "对",
+        "explanation": "1969 年阿波罗登月。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "太空词汇 moon / space / rocket / astronaut",
+        "question": "「登上月球」的英文是（　）",
+        "options": [
+          "land on the moon",
+          "land in the moon",
+          "land the moon",
+          "land on moon"
+        ],
+        "answer": "land on the moon",
+        "explanation": "on the moon。"
+      }
+    ]
+  }
+}

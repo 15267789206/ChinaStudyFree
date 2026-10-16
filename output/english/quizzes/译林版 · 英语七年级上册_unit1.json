@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Unit 1 This is me! 自我介绍",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Unit 1 This is me! 自我介绍」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与自我介绍",
+        "question": "「我叫李明。」的英文是（　）",
+        "options": [
+          "My name is Li Ming.",
+          "My name Li Ming.",
+          "I name is Li Ming.",
+          "I'm Li Ming name."
+        ],
+        "answer": "My name is Li Ming.",
+        "explanation": "My name is + 名。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与自我介绍",
+        "question": "「欢迎来到七年级一班。」的英文是（　）",
+        "options": [
+          "Welcome to Class 1, Grade 7!",
+          "Welcome Class 1, Grade 7!",
+          "Welcome to Grade 1, Class 7!",
+          "Welcome in Class 1, Grade 7!"
+        ],
+        "answer": "Welcome to Class 1, Grade 7!",
+        "explanation": "welcome to + 地点。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "形容词描述自己",
+        "question": "「我又高又瘦。」的英文是（　）",
+        "options": [
+          "I'm tall and thin.",
+          "I tall and thin.",
+          "I'm tall and thinn.",
+          "I'm high and thin."
+        ],
+        "answer": "I'm tall and thin.",
+        "explanation": "tall and thin。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与自我介绍",
+        "question": "This is… 用于介绍他人。",
+        "options": [],
+        "answer": "对",
+        "explanation": "介绍用语。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "be 动词与自我介绍",
+      "core_concept": "I'm… / My name is…；Welcome to Class 1, Grade 7! 欢迎来到七年级一班。",
+      "key_formula": "I'm Li Ming. I'm thirteen.",
+      "common_mistakes": [
+        "Grade 7 写成 Class 7。"
+      ],
+      "tips": "班级 class，年级 grade。"
+    },
+    {
+      "point": "形容词描述自己",
+      "core_concept": "tall 高的、thin 瘦的、strong 强壮的、friendly 友好的、lovely 可爱的。",
+      "key_formula": "I'm tall and thin.",
+      "common_mistakes": [
+        "形容词前漏 be。"
+      ],
+      "tips": "形容词前要有 be。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "形容词描述自己",
+        "question": "「友好的」的英文是（　）",
+        "options": [
+          "friendly",
+          "friend",
+          "friends",
+          "friendlly"
+        ],
+        "answer": "friendly",
+        "explanation": "friendly 友好。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "be 动词与自我介绍",
+        "question": "「我 13 岁。」的英文是（　）",
+        "options": [
+          "I'm thirteen years old.",
+          "I'm thirteen year old.",
+          "I thirteen years old.",
+          "I have thirteen years old."
+        ],
+        "answer": "I'm thirteen years old.",
+        "explanation": "years 复数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "be 动词与自我介绍",
+        "question": "介绍自己可以说 I'm… 或 My name is…",
+        "options": [],
+        "answer": "对",
+        "explanation": "两种皆可。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "形容词描述自己",
+        "question": "「她很强壮。」的英文是（　）",
+        "options": [
+          "She is strong.",
+          "She strong.",
+          "She is streng.",
+          "She are strong."
+        ],
+        "answer": "She is strong.",
+        "explanation": "strong 强壮。"
+      }
+    ]
+  }
+}

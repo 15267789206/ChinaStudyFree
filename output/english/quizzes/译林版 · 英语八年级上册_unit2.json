@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "单元话题：能力与意愿",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「单元话题：能力与意愿」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "能力表达 can",
+        "question": "She can ___ the guitar very well.",
+        "options": [
+          "plays",
+          "play",
+          "playing",
+          "to play"
+        ],
+        "answer": "play",
+        "explanation": "can 后接原形。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "意愿与可能性表达",
+        "question": "I would like ___ English.",
+        "options": [
+          "improve",
+          "improving",
+          "to improve",
+          "improved"
+        ],
+        "answer": "to improve",
+        "explanation": "would like to do。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "能力表达 can",
+        "question": "can 的否定式为 cannot 或 can't。",
+        "options": [],
+        "answer": "对",
+        "explanation": "can 的否定。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "意愿与可能性表达",
+        "question": "hope to do 与 want to do 都可表示意愿。",
+        "options": [],
+        "answer": "对",
+        "explanation": "意愿表达。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "能力表达 can",
+      "core_concept": "can + 动词原形表示能力；否定为 cannot / can't；疑问句把 can 提前。",
+      "key_formula": "can do",
+      "common_mistakes": [
+        "can 后接 to do。"
+      ],
+      "tips": "后接原形。"
+    },
+    {
+      "point": "意愿与可能性表达",
+      "core_concept": "want to do sth、would like to do sth、hope to do sth 均可表示想做某事。",
+      "key_formula": "would like to do sth",
+      "common_mistakes": [
+        "would like 后直接加动词原形。"
+      ],
+      "tips": "would like to do。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "能力表达 can",
+        "question": "___ he swim? — Yes, he can.",
+        "options": [
+          "Can",
+          "Is",
+          "Does",
+          "Do"
+        ],
+        "answer": "Can",
+        "explanation": "情态动词疑问。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "意愿与可能性表达",
+        "question": "We want ___ a picnic this Sunday.",
+        "options": [
+          "have",
+          "to have",
+          "having",
+          "had"
+        ],
+        "answer": "to have",
+        "explanation": "want to do。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "能力表达 can",
+        "question": "can 既可表示能力也可表示可能性。",
+        "options": [],
+        "answer": "对",
+        "explanation": "can 双重含义。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "意愿与可能性表达",
+        "question": "“我想做某事”可以说 I'd like to do sth。",
+        "options": [],
+        "answer": "对",
+        "explanation": "I'd like to do。"
+      }
+    ]
+  }
+}

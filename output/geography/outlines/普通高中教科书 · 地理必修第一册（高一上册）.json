@@ -1,0 +1,83 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "宇宙中的地球",
+      "knowledge_points": [
+        {
+          "name": "地球的宇宙环境与太阳活动",
+          "description": "了解天体系统与太阳对地球的影响。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "地球的历史与圈层结构",
+          "description": "了解地层、地质年代与地球圈层。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "地球上的大气与水",
+      "knowledge_points": [
+        {
+          "name": "大气受热过程与热力环流",
+          "description": "掌握大气受热过程与热力环流原理。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "水循环与洋流",
+          "description": "掌握水循环环节与洋流影响。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "地貌、植被与自然灾害",
+      "knowledge_points": [
+        {
+          "name": "常见地貌类型",
+          "description": "掌握流水、风沙、喀斯特地貌特点。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "自然灾害与防灾减灾",
+          "description": "了解主要自然灾害与防治措施。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "小说与回忆性散文",
+      "knowledge_points": [
+        {
+          "name": "小说阅读",
+          "description": "把握小说三要素与人物形象。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "回忆性散文与抒情",
+          "description": "理解散文的形散神聚。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "古诗文与议论文写作",
+      "knowledge_points": [
+        {
+          "name": "古诗文复习与默写",
+          "description": "梳理九年级应背默篇目。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "议论文与材料作文写作",
+          "description": "掌握议论文与材料作文的写法。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

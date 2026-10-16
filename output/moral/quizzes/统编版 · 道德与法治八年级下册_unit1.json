@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "坚持与尊严",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「坚持与尊严」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "坚持与成功的品质",
+        "question": "培养坚持的品质，可以（　）",
+        "options": [
+          "把大目标分解成小目标逐个完成",
+          "只凭一时冲动",
+          "等别人推一把",
+          "目标模糊不做计划"
+        ],
+        "answer": "把大目标分解成小目标逐个完成",
+        "explanation": "分解目标可操作。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "维护自身的尊严",
+        "question": "维护尊严的正确方式是（　）",
+        "options": [
+          "自立自强、奋力拼搏",
+          "忍气吞声、逆来顺受",
+          "依赖他人施舍",
+          "报复对方"
+        ],
+        "answer": "自立自强、奋力拼搏",
+        "explanation": "尊严靠自强。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "坚持与成功的品质",
+        "question": "坚持需要明确的目標和科学的方法。",
+        "options": [],
+        "answer": "对",
+        "explanation": "坚持有方法。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "维护自身的尊严",
+        "question": "忍让不等于没有尊严。",
+        "options": [],
+        "answer": "对",
+        "explanation": "适度忍让。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "坚持与成功的品质",
+      "core_concept": "坚持需要坚强的意志品质。可以通过制定目标、分解任务、及时反思、寻求帮助等方式培养坚持的品质。",
+      "key_formula": "目标 + 方法 + 坚持",
+      "common_mistakes": [
+        "把坚持理解为一味蛮干。"
+      ],
+      "tips": "坚持要有方法。"
+    },
+    {
+      "point": "维护自身的尊严",
+      "core_concept": "尊严是人的基本权利。维护尊严要靠自立自强，不是靠依赖他人，也不是无底线的逆来顺受。",
+      "key_formula": "自立自强维护尊严",
+      "common_mistakes": [
+        "认为忍气吞声能保住尊严。"
+      ],
+      "tips": "尊严靠自己争取。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "坚持与成功的品质",
+        "question": "面对学习中的困难，正确的态度是（　）",
+        "options": [
+          "分析原因、寻找方法继续努力",
+          "逃避放弃",
+          "怨天尤人",
+          "等待奇迹"
+        ],
+        "answer": "分析原因、寻找方法继续努力",
+        "explanation": "困难要分析解决。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "维护自身的尊严",
+        "question": "下列行为最能体现维护尊严的是（　）",
+        "options": [
+          "拒绝他人侮辱并依法维权",
+          "默默忍受长期侮辱",
+          "以暴制暴",
+          "自我贬低"
+        ],
+        "answer": "拒绝他人侮辱并依法维权",
+        "explanation": "依法维护尊严。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "坚持与成功的品质",
+        "question": "一个人只有不断克服困难才能成长。",
+        "options": [],
+        "answer": "对",
+        "explanation": "在困难中成长。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "维护自身的尊严",
+        "question": "任何人不得侵犯他人的人格尊严。",
+        "options": [],
+        "answer": "对",
+        "explanation": "尊严受法律保护。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第6章 图形的初步知识",
+  "unit_number": 6,
+  "unit_test": {
+    "title": "第6单元「第6章 图形的初步知识」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "几何图形与线",
+        "question": "两点可以确定（　）",
+        "options": [
+          "一条直线",
+          "两条直线",
+          "一个平面",
+          "一个圆"
+        ],
+        "answer": "一条直线",
+        "explanation": "两点确定一条直线。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "几何图形与线",
+        "question": "线段有两个端点。",
+        "options": [],
+        "answer": "对",
+        "explanation": "线段两端点。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "线段的长短比较与和差",
+        "question": "点 C 在线段 AB 上，AB = 10 cm，AC = 4 cm，BC 是多少 cm？",
+        "options": [],
+        "answer": "6",
+        "explanation": "$BC=AB-AC=10-4=6$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "角与角的度量、余角和补角",
+        "question": "∠A = 35°，它的余角是多少度？",
+        "options": [],
+        "answer": "55",
+        "explanation": "$90°-35°=55°$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "角与角的度量、余角和补角",
+        "question": "一个角为 110°，它的补角是多少度？",
+        "options": [],
+        "answer": "70",
+        "explanation": "$180°-110°=70°$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "几何图形与线",
+      "core_concept": "几何图形分立体图形与平面图形；线段有两个端点、射线有一个端点、直线没有端点。两点确定一条直线。",
+      "key_formula": "两点确定一条直线",
+      "common_mistakes": [
+        "认为直线可以度量。"
+      ],
+      "tips": "只有线段能量长度。"
+    },
+    {
+      "point": "线段的长短比较与和差",
+      "core_concept": "两点之间线段最短；用圆规截取可比较长短；线段和差：若 C 在 AB 上，则 AB = AC + CB。",
+      "key_formula": "两点之间，线段最短",
+      "common_mistakes": [
+        "以为两点之间直线最短（直线无限延伸）。"
+      ],
+      "tips": "是「线段」最短。"
+    },
+    {
+      "point": "角与角的度量、余角和补角",
+      "core_concept": "角由有公共端点的两条射线组成；1° = 60′，1′ = 60″；余角和为 90°，补角和为 180°。",
+      "key_formula": "$1^\\circ=60'$，$1'=60''$",
+      "common_mistakes": [
+        "余角与补角混淆。"
+      ],
+      "tips": "余 90 补 180。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "线段的长短比较与和差",
+        "question": "两点之间，（　）最短",
+        "options": [
+          "线段",
+          "直线",
+          "射线",
+          "曲线"
+        ],
+        "answer": "线段",
+        "explanation": "两点之间线段最短。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "角与角的度量、余角和补角",
+        "question": "1° 等于（　）",
+        "options": [
+          "60′",
+          "100′",
+          "10′",
+          "360′"
+        ],
+        "answer": "60′",
+        "explanation": "1 度 = 60 分。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "角与角的度量、余角和补角",
+        "question": "∠1 = 25°，∠2 = 65°，两角之和是多少度？",
+        "options": [],
+        "answer": "90",
+        "explanation": "$25°+65°=90°$，互为余角。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "角与角的度量、余角和补角",
+        "question": "角的大小与画出边的长短无关。",
+        "options": [],
+        "answer": "对",
+        "explanation": "看张口大小。"
+      }
+    ]
+  }
+}

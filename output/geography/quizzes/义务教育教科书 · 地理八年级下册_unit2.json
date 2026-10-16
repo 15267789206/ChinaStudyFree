@@ -1,0 +1,77 @@
+{
+  "textbook": "八年级下册",
+  "unit": "家乡与环境保护",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「家乡与环境保护」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "环境保护与可持续发展",
+        "question": "下列做法符合可持续发展要求的是（　）",
+        "options": [
+          "节约用水用电、少用一次性用品",
+          "随手丢弃垃圾",
+          "任意排放污水",
+          "滥捕野生动物"
+        ],
+        "answer": "节约用水用电、少用一次性用品",
+        "explanation": "节约资源。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "环境保护与可持续发展",
+        "question": "保护环境是每个公民的责任。",
+        "options": [],
+        "answer": "对",
+        "explanation": "环保是责任。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "环境保护与可持续发展",
+        "question": "下列做法中不利于保护环境的是（　）",
+        "options": [
+          "植树造林",
+          "垃圾分类投放",
+          "露天焚烧秸秆",
+          "节约用水"
+        ],
+        "answer": "露天焚烧秸秆",
+        "explanation": "焚烧秸秆污染空气。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "环境保护与可持续发展",
+        "question": "可持续发展要求兼顾经济发展与环境保护。",
+        "options": [],
+        "answer": "对",
+        "explanation": "可持续理念。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "环境保护与可持续发展",
+      "core_concept": "人类面临的环境问题有大气污染、水污染、土壤污染、生物多样性减少等。可持续发展战略要求节约资源、保护环境。",
+      "key_formula": "节约资源 + 保护环境",
+      "common_mistakes": [
+        "认为环境问题与个人无关。"
+      ],
+      "tips": "环保人人有责。"
+    }
+  ]
+}

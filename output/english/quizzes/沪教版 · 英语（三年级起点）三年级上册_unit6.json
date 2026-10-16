@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 2 My family, my friends and me — Me 我自己",
+  "unit_number": 6,
+  "unit_test": {
+    "title": "第6单元「Module 2 My family, my friends and me — Me 我自己」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "自我介绍 I'm…",
+        "question": "「我是一名小学生。」的英文是（　）",
+        "options": [
+          "I'm a pupil.",
+          "I'm pupil.",
+          "I a pupil.",
+          "I'm an pupil."
+        ],
+        "answer": "I'm a pupil.",
+        "explanation": "身份前加 a。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "表达年龄 I'm nine (years old)",
+        "question": "「我九岁。」的英文是（　）",
+        "options": [
+          "I'm nine.",
+          "I have nine.",
+          "I'm nine year.",
+          "My nine."
+        ],
+        "answer": "I'm nine.",
+        "explanation": "年龄用 I'm + 数字。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "自我介绍 I'm…",
+        "question": "I'm 是 I am 的缩写。",
+        "options": [],
+        "answer": "对",
+        "explanation": "缩写形式。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "表达年龄 I'm nine (years old)",
+        "question": "询问对方年龄应说（　）",
+        "options": [
+          "How old are you?",
+          "How are you?",
+          "What's your name?",
+          "Are you nine?"
+        ],
+        "answer": "How old are you?",
+        "explanation": "How old 问年龄。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "自我介绍 I'm…",
+      "core_concept": "I'm = I am，后接名字（I'm Tom）或身份（I'm a pupil）。",
+      "key_formula": "I'm Tom. I'm a pupil.",
+      "common_mistakes": [
+        "I'm 后漏掉 a：I'm pupil（×）。"
+      ],
+      "tips": "职业/身份前加 a。"
+    },
+    {
+      "point": "表达年龄 I'm nine (years old)",
+      "core_concept": "表达年龄：I'm nine. 或 I'm nine years old. 询问用 How old are you?",
+      "key_formula": "How old are you? — I'm nine.",
+      "common_mistakes": [
+        "说成 I have nine.（×）"
+      ],
+      "tips": "年龄用 be 动词，不用 have。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "自我介绍 I'm…",
+        "question": "「他十岁。」的英文是（　）",
+        "options": [
+          "He is ten.",
+          "He are ten.",
+          "He ten.",
+          "He is ten year."
+        ],
+        "answer": "He is ten.",
+        "explanation": "He is + 数字。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "表达年龄 I'm nine (years old)",
+        "question": "— Are you nine? — Yes, ___",
+        "options": [
+          "I am",
+          "I'm nine",
+          "you are",
+          "he is"
+        ],
+        "answer": "I am",
+        "explanation": "简答用 Yes, I am."
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "表达年龄 I'm nine (years old)",
+        "question": "表达年龄用 be 动词 am / is / are。",
+        "options": [],
+        "answer": "对",
+        "explanation": "不用 have。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "自我介绍 I'm…",
+        "question": "向新同学介绍自己，不合适的是（　）",
+        "options": [
+          "How old are you?",
+          "I'm Li Ming.",
+          "I'm a pupil.",
+          "Nice to meet you."
+        ],
+        "answer": "How old are you?",
+        "explanation": "先介绍自己，不要先问隐私。"
+      }
+    ]
+  }
+}

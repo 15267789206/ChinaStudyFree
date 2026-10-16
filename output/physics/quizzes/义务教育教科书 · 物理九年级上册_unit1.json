@@ -1,0 +1,170 @@
+{
+  "textbook": "九年级上册",
+  "unit": "内能",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「内能」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "分子热运动与内能",
+        "question": "下列现象说明分子在不停运动的是（　）",
+        "options": [
+          "尘土飞扬",
+          "花香四溢",
+          "落叶飘零",
+          "雪花飞舞"
+        ],
+        "answer": "花香四溢",
+        "explanation": "扩散现象说明分子运动。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "比热容与热量的计算",
+        "question": "质量 2 kg 的水温度升高 10℃，吸收的热量是多少 J？[$c_\\text{水}=4.2\\times10^3\\ \\text{J/(kg·℃)}$]",
+        "options": [],
+        "answer": "84000",
+        "explanation": "$Q=cm\\Delta t=4200\\times2\\times10=84000$ J。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "分子热运动与内能",
+        "question": "温度越高，分子的无规则运动越剧烈。",
+        "options": [],
+        "answer": "对",
+        "explanation": "热运动规律。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "热机与能量转化",
+        "question": "四冲程内燃机中，将内能转化为机械能的是（　）",
+        "options": [
+          "吸气冲程",
+          "压缩冲程",
+          "做功冲程",
+          "排气冲程"
+        ],
+        "answer": "做功冲程",
+        "explanation": "做功冲程对外做功。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "比热容与热量的计算",
+        "question": "质量 1 kg 的某物质吸收 $8.4\\times10^4$ J 热量后温度升高 20℃，比热容是多少 J/(kg·℃)？",
+        "options": [],
+        "answer": "4200",
+        "explanation": "$c=\\frac{Q}{m\\Delta t}=\\frac{84000}{1\\times20}=4200$。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "热机与能量转化",
+        "question": "热机效率可以大于 1。",
+        "options": [],
+        "answer": "错",
+        "explanation": "效率一定小于 1。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "分子热运动与内能",
+      "core_concept": "物质由分子构成，分子永不停息做无规则运动（热运动），温度越高运动越剧烈。内能是物体内所有分子动能与势能之和。",
+      "key_formula": "温度升高 ⇒ 内能增大",
+      "common_mistakes": [
+        "认为 0℃ 的物体没有内能。"
+      ],
+      "tips": "任何物体都有内能。"
+    },
+    {
+      "point": "比热容与热量的计算",
+      "core_concept": "比热容是单位质量物质温度升高 1℃ 吸收的热量，是物质的特性。水的比热容大（$4.2\\times10^3\\ \\text{J/(kg·℃)}$），常作冷却剂。",
+      "key_formula": "$Q=cm\\Delta t$",
+      "common_mistakes": [
+        "$\\Delta t$ 与末温混淆。"
+      ],
+      "tips": "$\\Delta t$ 是温度变化量。"
+    },
+    {
+      "point": "热机与能量转化",
+      "core_concept": "四冲程内燃机工作循环：吸气、压缩、做功、排气，一个循环曲轴转 2 圈、做功 1 次。热机效率 $\\eta=\\frac{W_\\text{有用}}{Q_\\text{总}}$。",
+      "key_formula": "$\\eta=\\frac{W_\\text{有用}}{Q_\\text{总}}\\times100\\%$",
+      "common_mistakes": [
+        "把压缩冲程当作对外做功冲程。"
+      ],
+      "tips": "只有做功冲程对外做功。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "比热容与热量的计算",
+        "question": "同样加热，水的温度上升比沙子慢，说明（　）",
+        "options": [
+          "水比热容大",
+          "沙子比热容大",
+          "水吸热少",
+          "沙子吸热多"
+        ],
+        "answer": "水比热容大",
+        "explanation": "比热容大的升温慢。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "热机与能量转化",
+        "question": "某热机消耗燃料放热 1000 J，对外做功 300 J，效率是多少（填百分数数字，如 30）？",
+        "options": [],
+        "answer": "30",
+        "explanation": "$\\eta=\\frac{300}{1000}\\times100\\%=30\\%$。"
+      },
+      {
+        "id": 9,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "分子热运动与内能",
+        "question": "改变内能的两种方式是做功和热传递。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两者等效。"
+      },
+      {
+        "id": 10,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "比热容与热量的计算",
+        "question": "质量 0.5 kg 的铝块温度从 20℃ 升到 70℃，吸收热量多少 J？[$c_\\text{铝}=0.88\\times10^3\\ \\text{J/(kg·℃)}$]",
+        "options": [],
+        "answer": "22000",
+        "explanation": "$Q=880\\times0.5\\times50=22000$ J。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "一年级上册",
+  "unit": "我是小学生啦",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「我是小学生啦」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "开学了与爱上学",
+        "question": "开学第一天，见到老师应该（　）",
+        "options": [
+          "装作没看见",
+          "主动问好",
+          "大声哭闹",
+          "转身跑开"
+        ],
+        "answer": "主动问好",
+        "explanation": "见到老师要主动问好。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "新习惯与守规则",
+        "question": "课间不能在走廊里追逐打闹。",
+        "options": [],
+        "answer": "对",
+        "explanation": "追逐打闹容易发生危险。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "新习惯与守规则",
+        "question": "下面哪种做法是整理书包的好习惯（　）",
+        "options": [
+          "让妈妈每天帮我装",
+          "前一天晚上自己按课表整理",
+          "把书全部堆在书包里",
+          "不带作业本"
+        ],
+        "answer": "前一天晚上自己按课表整理",
+        "explanation": "自己整理书包是好习惯。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "开学了与爱上学",
+        "question": "上学要按时起床，不迟到。",
+        "options": [],
+        "answer": "对",
+        "explanation": "按时起床才能准时上学。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "开学了与爱上学",
+      "core_concept": "上学第一天要记住校名、班级，学会向老师问好、与同学友好相处。爱上学就要认真听讲、按时完成作业。",
+      "key_formula": "我是小学生",
+      "common_mistakes": [
+        "上课随便走动、说话。"
+      ],
+      "tips": "上课专心，课间文明休息。"
+    },
+    {
+      "point": "新习惯与守规则",
+      "core_concept": "校园里要遵守规则：排好队、不追逐打闹、爱护书本和公物。好的生活习惯包括早睡早起、自己整理书包。",
+      "key_formula": "守规则、讲卫生",
+      "common_mistakes": [
+        "让父母代整理书包。"
+      ],
+      "tips": "自己的事情学着做。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "新习惯与守规则",
+        "question": "在校园里排队时，正确的做法是（　）",
+        "options": [
+          "挤到最前面",
+          "排好队不推不挤",
+          "插队",
+          "蹲在地上玩"
+        ],
+        "answer": "排好队不推不挤",
+        "explanation": "排队要守秩序。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "新习惯与守规则",
+        "question": "书本和公物要爱护，不能乱涂乱画。",
+        "options": [],
+        "answer": "对",
+        "explanation": "要爱护书本和公物。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "开学了与爱上学",
+        "question": "上课时要（　）",
+        "options": [
+          "和同桌聊天",
+          "专心听讲积极举手",
+          "趴在桌上睡觉",
+          "随便下座位"
+        ],
+        "answer": "专心听讲积极举手",
+        "explanation": "上课要专心听讲。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "开学了与爱上学",
+        "question": "认识新同学要友好相处。",
+        "options": [],
+        "answer": "对",
+        "explanation": "与同学友好相处。"
+      }
+    ]
+  }
+}

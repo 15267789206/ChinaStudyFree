@@ -1,0 +1,144 @@
+{
+  "textbook": "五年级下册",
+  "unit": "情感与交往",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「情感与交往」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情绪的管理",
+        "question": "下列调节情绪的方法不恰当的是（　）",
+        "options": [
+          "改变认知评价",
+          "转移注意",
+          "合理宣泄",
+          "摔东西发泄"
+        ],
+        "answer": "摔东西发泄",
+        "explanation": "损坏物品不是正确宣泄。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "友谊与矛盾处理",
+        "question": "和同学闹矛盾，恰当的做法是（　）",
+        "options": [
+          "主动沟通换位思考",
+          "动手打架",
+          "从此绝交",
+          "背后说坏话"
+        ],
+        "answer": "主动沟通换位思考",
+        "explanation": "沟通是解决矛盾的第一步。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情绪的管理",
+        "question": "情绪没有好坏之分，关键是表达与调节的方式。",
+        "options": [],
+        "answer": "对",
+        "explanation": "情绪需要正确表达。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "友谊与矛盾处理",
+        "question": "真正的朋友之间应该坦诚相待。",
+        "options": [],
+        "answer": "对",
+        "explanation": "真诚是友谊的基础。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "情绪的管理",
+      "core_concept": "情绪如天气预报会变化。调节方法有改变认知评价、转移注意、合理宣泄、自我控制。情绪失控会伤害自己和他人。",
+      "key_formula": "认知 → 行为 → 结果",
+      "common_mistakes": [
+        "把所有情绪都压抑起来。"
+      ],
+      "tips": "适度表达情绪。"
+    },
+    {
+      "point": "友谊与矛盾处理",
+      "core_concept": "真正的朋友会互相支持、坦诚相待。有矛盾要主动沟通、换位思考，必要时请老师家长帮助。",
+      "key_formula": "换位思考",
+      "common_mistakes": [
+        "打架解决矛盾。"
+      ],
+      "tips": "沟通优于冲突。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情绪的管理",
+        "question": "考试没考好情绪低落，可以（　）",
+        "options": [
+          "分析原因订正错题",
+          "把书撕了",
+          "逃学",
+          "责骂同学"
+        ],
+        "answer": "分析原因订正错题",
+        "explanation": "化情绪为动力。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "友谊与矛盾处理",
+        "question": "换位思考能帮助我们理解他人。",
+        "options": [],
+        "answer": "对",
+        "explanation": "换位思考促理解。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "友谊与矛盾处理",
+        "question": "朋友说“对不起”后，你应该（　）",
+        "options": [
+          "接受并和好",
+          "永远不理他",
+          "也骂他一顿",
+          "告诉他以后别找我了"
+        ],
+        "answer": "接受并和好",
+        "explanation": "宽容友善。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情绪的管理",
+        "question": "学会控制自己不恰当的冲动。",
+        "options": [],
+        "answer": "对",
+        "explanation": "控制冲动。"
+      }
+    ]
+  }
+}

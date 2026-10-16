@@ -1,0 +1,153 @@
+{
+  "textbook": "必修1",
+  "unit": "中国特色社会主义的开创与发展",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「中国特色社会主义的开创与发展」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "社会主义从空想到科学",
+        "question": "科学社会主义诞生的标志是（　）",
+        "options": [
+          "《共产党宣言》发表",
+          "十月革命",
+          "巴黎公社成立",
+          "新中国成立"
+        ],
+        "answer": "《共产党宣言》发表",
+        "explanation": "1848 年《共产党宣言》发表。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "只有社会主义才能救中国",
+        "question": "我国确立社会主义制度的时间是（　）",
+        "options": [
+          "1949 年",
+          "1956 年",
+          "1978 年",
+          "2012 年"
+        ],
+        "answer": "1956 年",
+        "explanation": "1956 年完成社会主义改造。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "只有中国特色社会主义才能发展中国",
+        "question": "1978 年十一届三中全会作出改革开放的伟大决策。",
+        "options": [],
+        "answer": "对",
+        "explanation": "改革开放起点。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "社会主义从空想到科学",
+        "question": "唯物史观和剩余价值学说是科学社会主义的理论基石。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两大理论基石。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "社会主义从空想到科学",
+      "core_concept": "唯物史观和剩余价值学说使社会主义由空想变为科学。1848 年《共产党宣言》发表，标志科学社会主义的诞生。",
+      "key_formula": "两大发现：唯物史观 + 剩余价值学说",
+      "common_mistakes": [
+        "把空想社会主义与科学社会主义混同。"
+      ],
+      "tips": "两大理论基石是标志。"
+    },
+    {
+      "point": "只有社会主义才能救中国",
+      "core_concept": "近代以来中国尝试多种道路均告失败。中国共产党成立后，经过新民主主义革命，1949 年建立新中国，1956 年完成社会主义改造，确立社会主义制度。",
+      "key_formula": "新民主主义革命 → 社会主义革命",
+      "common_mistakes": [
+        "忽略社会主义改造的完成时间。"
+      ],
+      "tips": "1956 年确立社会主义制度。"
+    },
+    {
+      "point": "只有中国特色社会主义才能发展中国",
+      "core_concept": "1978 年十一届三中全会开启改革开放。改革开放以来，我国取得举世瞩目的成就，中国特色社会主义进入新时代。",
+      "key_formula": "1978 年改革开放起点",
+      "common_mistakes": [
+        "把改革开放起点说成 1949 年。"
+      ],
+      "tips": "1978 年是关键节点。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "只有中国特色社会主义才能发展中国",
+        "question": "改革开放以来我国取得一切成绩和进步的根本原因是（　）",
+        "options": [
+          "开辟了中国特色社会主义道路，形成了中国特色社会主义理论体系，确立了中国特色社会主义制度，发展了中国特色社会主义文化",
+          "人口众多",
+          "资源丰富",
+          "外部援助"
+        ],
+        "answer": "开辟了中国特色社会主义道路，形成了中国特色社会主义理论体系，确立了中国特色社会主义制度，发展了中国特色社会主义文化",
+        "explanation": "根本原因在于中国特色社会主义。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "只有社会主义才能救中国",
+        "question": "新民主主义革命的胜利为实现中华民族伟大复兴创造了根本社会条件。",
+        "options": [],
+        "answer": "对",
+        "explanation": "新民主主义革命的意义。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "社会主义从空想到科学",
+        "question": "十月革命的历史意义是（　）",
+        "options": [
+          "建立第一个社会主义国家",
+          "标志科学社会主义诞生",
+          "完成社会主义改造",
+          "实行改革开放"
+        ],
+        "answer": "建立第一个社会主义国家",
+        "explanation": "十月革命建立第一个社会主义国家。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "只有中国特色社会主义才能发展中国",
+        "question": "中国特色社会主义进入新时代是我国发展新的历史方位。",
+        "options": [],
+        "answer": "对",
+        "explanation": "新的历史方位。"
+      }
+    ]
+  }
+}

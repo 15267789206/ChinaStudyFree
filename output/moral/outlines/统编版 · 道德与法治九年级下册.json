@@ -1,0 +1,57 @@
+{
+  "textbook": "九年级下册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "富强与文明",
+      "knowledge_points": [
+        {
+          "name": "共同富裕与中国梦",
+          "description": "理解共同富裕的目标与路径。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "中华优秀传统文化",
+          "description": "认识中华优秀传统文化的价值。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "世界舞台与个人选择",
+      "knowledge_points": [
+        {
+          "name": "中国与世界",
+          "description": "理解中国与世界的联系。",
+          "difficulty": 5,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "职业与人生选择",
+          "description": "认识职业与人生道路的多样性。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

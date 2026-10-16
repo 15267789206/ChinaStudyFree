@@ -1,0 +1,165 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第5章 一元一次方程",
+  "unit_number": 5,
+  "unit_test": {
+    "title": "第5单元「第5章 一元一次方程」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "认识方程与等式的性质",
+        "question": "下列是一元一次方程的是（　）",
+        "options": [
+          "$2x-3=5$",
+          "$x^2+1=0$",
+          "$\\frac1x=2$",
+          "$xy=6$"
+        ],
+        "answer": "$2x-3=5$",
+        "explanation": "满足一元一次方程定义。"
+      },
+      {
+        "id": 2,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "一元一次方程的解法",
+        "question": "解方程 $x+5=12$，$x=$ ___",
+        "options": [],
+        "answer": "7",
+        "explanation": "$x=12-5=7$。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "一元一次方程的解法",
+        "question": "解方程：$5x − 3 = 17$，则 $x = $ ？",
+        "options": [],
+        "answer": "4",
+        "explanation": "移项得 $5x = 17 + 3$，即 $5x = 20$，两边同除以 5，得 $x = 4$。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "一元一次方程的解法",
+        "question": "解方程：$4x + 8 = 32$，则 $x = $ ？",
+        "options": [],
+        "answer": "6",
+        "explanation": "移项得 $4x = 32 − 8$，即 $4x = 24$，两边同除以 4，得 $x = 6$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "一元一次方程的解法",
+        "question": "解方程 $3(x-2)=9$，$x=$ ？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$x-2=3$，$x=5$。"
+      },
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "一元一次方程的应用",
+        "question": "某数的 3 倍减去 5 等于 16，这个数是多少？",
+        "options": [],
+        "answer": "7",
+        "explanation": "设数为 $x$，$3x-5=16$，$x=7$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "认识方程与等式的性质",
+      "core_concept": "含未知数的等式叫方程。等式性质：两边同加（减）同一个数仍相等；两边同乘（除以非零数）仍相等。",
+      "key_formula": "$a=b\\Rightarrow a\\pm c=b\\pm c$",
+      "common_mistakes": [
+        "等式两边除以 0。"
+      ],
+      "tips": "除以的数不能为 0。"
+    },
+    {
+      "point": "一元一次方程的解法",
+      "core_concept": "解一元一次方程：去分母、去括号、移项、合并同类项、系数化为 1。移项要变号。",
+      "key_formula": "去分母 → 去括号 → 移项 → 合并 → 系数化 1",
+      "common_mistakes": [
+        "移项忘记变号。"
+      ],
+      "tips": "移项 = 过桥变号。"
+    },
+    {
+      "point": "一元一次方程的应用",
+      "core_concept": "列方程解应用题：审、设、列、解、验、答；关键是从中找到等量关系。",
+      "key_formula": "和差倍分 / 行程 $s=vt$",
+      "common_mistakes": [
+        "单位不统一。"
+      ],
+      "tips": "先找等量关系再设未知数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "认识方程与等式的性质",
+        "question": "若 $2x^m+1=0$ 是一元一次方程，$m=$（　）",
+        "options": [
+          "1",
+          "0",
+          "2",
+          "-1"
+        ],
+        "answer": "1",
+        "explanation": "次数为 1，故 $m=1$。"
+      },
+      {
+        "id": 8,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一元一次方程的解法",
+        "question": "解方程 $5x=20$，$x=$ ___",
+        "options": [],
+        "answer": "4",
+        "explanation": "$x=4$。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "一元一次方程的应用",
+        "question": "长方形长比宽多 3 cm，周长 26 cm，宽是多少 cm？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$2(x+x+3)=26$，$x=5$。"
+      },
+      {
+        "id": 10,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一元一次方程的解法",
+        "question": "移项时要注意变号。",
+        "options": [],
+        "answer": "对",
+        "explanation": "移项变号。"
+      }
+    ]
+  }
+}

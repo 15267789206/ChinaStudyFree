@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级上册",
+  "unit": "情态动词与比较级",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「情态动词与比较级」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词与比较级",
+        "question": "He can ___ the piano very well.",
+        "options": [
+          "plays",
+          "play",
+          "playing",
+          "to play"
+        ],
+        "answer": "play",
+        "explanation": "情态动词后接原形。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词与比较级",
+        "question": "This book is ___ than that one.",
+        "options": [
+          "interesting",
+          "more interesting",
+          "most interesting",
+          "the most interesting"
+        ],
+        "answer": "more interesting",
+        "explanation": "多音节词用 more。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 can / must / should",
+        "question": "情态动词没有第三人称单数变化。",
+        "options": [],
+        "answer": "对",
+        "explanation": "情态动词不变形。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情态动词与比较级",
+        "question": "比较级用于两者之间的比较。",
+        "options": [],
+        "answer": "对",
+        "explanation": "比较级比较两者。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "情态动词 can / must / should",
+      "core_concept": "情态动词后接动词原形，本身没有人称和数的变化。can 表示能力或请求，must 表示必须，should 表示应该。",
+      "key_formula": "情态动词 + 动词原形",
+      "common_mistakes": [
+        "情态动词后加 to 或 -s。"
+      ],
+      "tips": "后接原形。"
+    },
+    {
+      "point": "形容词与副词的比较级",
+      "core_concept": "单音节和部分双音节形容词加 -er/-est；多音节用 more/most。比较级用于两者比较，最高级用于三者以上，常加 in/of 范围。",
+      "key_formula": "taller / the tallest",
+      "common_mistakes": [
+        "两者比较用最高级。"
+      ],
+      "tips": "两者比较用比较级。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 can / must / should",
+        "question": "You ___ be late for school again.",
+        "options": [
+          "mustn't",
+          "must",
+          "can't",
+          "should"
+        ],
+        "answer": "mustn't",
+        "explanation": "禁止迟到用 mustn't。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "情态动词与比较级",
+        "question": "Tom is the ___ boy in his class.",
+        "options": [
+          "tall",
+          "taller",
+          "tallest",
+          "the tallest"
+        ],
+        "answer": "the tallest",
+        "explanation": "三者以上用最高级。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情态动词 can / must / should",
+        "question": "should 表示“应该、建议”。",
+        "options": [],
+        "answer": "对",
+        "explanation": "should 表应该。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "情态动词与比较级",
+        "question": "最高级前通常要加 the。",
+        "options": [],
+        "answer": "对",
+        "explanation": "最高级加 the。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "textbook": "八年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "勾股定理",
+      "knowledge_points": [
+        {
+          "name": "勾股定理及其证明",
+          "description": "理解并应用勾股定理。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "勾股定理的应用",
+          "description": "用勾股定理解决实际问题。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "全等三角形与轴对称",
+      "knowledge_points": [
+        {
+          "name": "全等三角形的判定",
+          "description": "掌握全等三角形的判定方法。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "轴对称与等腰三角形",
+          "description": "掌握轴对称性质与等腰三角形性质。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "一次函数初步",
+      "knowledge_points": [
+        {
+          "name": "函数的概念与自变量",
+          "description": "理解函数是变量之间的对应关系。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "函数与图表",
+          "description": "用表格与图象表示函数关系。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "textbook": "必修2",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "遗传因子的发现",
+      "knowledge_points": [
+        {
+          "name": "孟德尔分离定律",
+          "description": "掌握一对相对性状的杂交实验与分离定律。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "自由组合定律",
+          "description": "掌握两对相对性状的遗传分析。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "基因与染色体的关系",
+      "knowledge_points": [
+        {
+          "name": "减数分裂",
+          "description": "掌握减数分裂过程与染色体数目变化。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "伴性遗传",
+          "description": "掌握伴 X 隐性遗传的特点。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "基因的本质与表达",
+      "knowledge_points": [
+        {
+          "name": "DNA 的结构与复制",
+          "description": "掌握 DNA 双螺旋与半保留复制。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "基因的表达与变异",
+          "description": "掌握转录翻译与基因突变。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

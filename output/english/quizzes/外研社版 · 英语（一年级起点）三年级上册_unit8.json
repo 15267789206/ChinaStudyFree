@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 8 This is Sam's book 物品归属",
+  "unit_number": 8,
+  "unit_test": {
+    "title": "第8单元「Module 8 This is Sam's book 物品归属」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "名词所有格 's",
+        "question": "「这是萨姆的书。」的英文是（　）",
+        "options": [
+          "This is Sam's book.",
+          "This is Sam book.",
+          "This is Sams' book.",
+          "This is book Sam."
+        ],
+        "answer": "This is Sam's book.",
+        "explanation": "人名 + 's。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "物主代词 my / your / his / her",
+        "question": "「这是我的书。」的英文是（　）",
+        "options": [
+          "This is my book.",
+          "This is I book.",
+          "This is me book.",
+          "This is mine book."
+        ],
+        "answer": "This is my book.",
+        "explanation": "形容词性物主代词 + 名词。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "名词所有格 's",
+        "question": "「我奶奶的雨伞」的英文是（　）",
+        "options": [
+          "my grandma's umbrella",
+          "my grandma umbrella",
+          "my grandmas' umbrella",
+          "my grandma's umbrellas"
+        ],
+        "answer": "my grandma's umbrella",
+        "explanation": "奶奶 + 's。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "名词所有格 's",
+        "question": "Sam's 表示「萨姆的」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "'s 表所属。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "名词所有格 's",
+      "core_concept": "人名后加 's 表示「……的」：Sam's book 萨姆的书、my grandma's umbrella 我奶奶的雨伞。",
+      "key_formula": "Sam's book / grandma's umbrella",
+      "common_mistakes": [
+        "写成 the book of Sam 生硬。"
+      ],
+      "tips": "人所有用 's 最自然。"
+    },
+    {
+      "point": "物主代词 my / your / his / her",
+      "core_concept": "my 我的、your 你的、his 他的、her 她的，后面都要接名词。",
+      "key_formula": "This is my book. / This is his pen.",
+      "common_mistakes": [
+        "物主代词后不接名词。"
+      ],
+      "tips": "物主代词 + 名词，缺一不可。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "物主代词 my / your / his / her",
+        "question": "「他的书包」的英文是（　）",
+        "options": [
+          "his bag",
+          "he bag",
+          "him bag",
+          "her bag"
+        ],
+        "answer": "his bag",
+        "explanation": "his = 他的。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "名词所有格 's",
+        "question": "Lingling's toys 的意思是「玲玲的玩具」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "'s 表所属。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "物主代词 my / your / his / her",
+        "question": "「她的钢笔」的英文是（　）",
+        "options": [
+          "her pen",
+          "she pen",
+          "hers pen",
+          "his pen"
+        ],
+        "answer": "her pen",
+        "explanation": "her = 她的。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "名词所有格 's",
+        "question": "— Is this your grandma's umbrella? — ___",
+        "options": [
+          "Yes, it is.",
+          "Yes, it's.",
+          "Yes, she is.",
+          "No, it is."
+        ],
+        "answer": "Yes, it is.",
+        "explanation": "简答不缩写。"
+      }
+    ]
+  }
+}

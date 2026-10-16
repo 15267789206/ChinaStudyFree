@@ -1,0 +1,154 @@
+{
+  "textbook": "三年级上册",
+  "unit": "Module 6 I've got new shorts and new shoes 衣物与拥有",
+  "unit_number": 6,
+  "unit_test": {
+    "title": "第6单元「Module 6 I've got new shorts and new shoes 衣物与拥有」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "have got 表示拥有",
+        "question": "「我有新鞋。」的英文是（　）",
+        "options": [
+          "I've got new shoes.",
+          "I've get new shoes.",
+          "I has got new shoes.",
+          "I've got new shoe."
+        ],
+        "answer": "I've got new shoes.",
+        "explanation": "I've got = I have got。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "衣物词汇 shorts / shoes / shirt / trousers",
+        "question": "「短裤」的英文是（　）",
+        "options": [
+          "shorts",
+          "short",
+          "shirts",
+          "shortes"
+        ],
+        "answer": "shorts",
+        "explanation": "常用复数。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "衣物词汇 shorts / shoes / shirt / trousers",
+        "question": "「衬衫」的英文是（　）",
+        "options": [
+          "shirt",
+          "shorts",
+          "skirt",
+          "short"
+        ],
+        "answer": "shirt",
+        "explanation": "shirt = 衬衫。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "have got 表示拥有",
+        "question": "have got 表示「拥有」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "= have。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "have got 表示拥有",
+      "core_concept": "have got = have，表示「有」。第三人称用 has got：He's got… / She's got…",
+      "key_formula": "I've got new shoes. / He's got a new shirt.",
+      "common_mistakes": [
+        "第三人称还用 have got。"
+      ],
+      "tips": "he/she 配 has got。"
+    },
+    {
+      "point": "衣物词汇 shorts / shoes / shirt / trousers",
+      "core_concept": "shorts 短裤、shoes 鞋、shirt 衬衫、trousers 裤子。这些词常用复数（成对/两条裤腿）。",
+      "key_formula": "new shorts and new shoes",
+      "common_mistakes": [
+        "trousers 当单数。"
+      ],
+      "tips": "裤子短裤成对，常用复数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "have got 表示拥有",
+        "question": "「他有一件新衬衫。」的英文是（　）",
+        "options": [
+          "He's got a new shirt.",
+          "He have got a new shirt.",
+          "He's get a new shirt.",
+          "He's got new shirt."
+        ],
+        "answer": "He's got a new shirt.",
+        "explanation": "三单用 has got。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "衣物词汇 shorts / shoes / shirt / trousers",
+        "question": "「裤子」的英文是（　）",
+        "options": [
+          "trousers",
+          "trouser",
+          "trowsers",
+          "troussers"
+        ],
+        "answer": "trousers",
+        "explanation": "常用复数。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "衣物词汇 shorts / shoes / shirt / trousers",
+        "question": "shorts 通常以复数形式出现。",
+        "options": [],
+        "answer": "对",
+        "explanation": "两个裤腿。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "have got 表示拥有",
+        "question": "— Has she got a new bag? — ___",
+        "options": [
+          "Yes, she has.",
+          "Yes, she have.",
+          "Yes, she is.",
+          "No, she hasn't got."
+        ],
+        "answer": "Yes, she has.",
+        "explanation": "has 问 has 答。"
+      }
+    ]
+  }
+}

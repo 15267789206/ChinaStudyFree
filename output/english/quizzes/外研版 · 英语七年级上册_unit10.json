@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 10 Spring Festival 春节",
+  "unit_number": 10,
+  "unit_test": {
+    "title": "第10单元「Module 10 Spring Festival 春节」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "春节词汇",
+        "question": "「春节」的英文是（　）",
+        "options": [
+          "the Spring Festival",
+          "Spring Festival",
+          "the Spring Festivals",
+          "Spring festival"
+        ],
+        "answer": "the Spring Festival",
+        "explanation": "加 the，大写。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "春节词汇",
+        "question": "「饺子」的英文是（　）",
+        "options": [
+          "dumplings",
+          "dumpling",
+          "dumpings",
+          "dumplins"
+        ],
+        "answer": "dumplings",
+        "explanation": "常用复数。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "节日活动表达",
+        "question": "「放烟花」的英文是（　）",
+        "options": [
+          "set off fireworks",
+          "set up fireworks",
+          "set off firework",
+          "put off fireworks"
+        ],
+        "answer": "set off fireworks",
+        "explanation": "set off 燃放。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "春节词汇",
+        "question": "red packet 的意思是「红包」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "red packet 红包。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "春节词汇",
+      "core_concept": "Spring Festival 春节、dumpling 饺子、red packet 红包、fireworks 烟花、lantern 灯笼。",
+      "key_formula": "the Spring Festival 春节",
+      "common_mistakes": [
+        "Spring Festival 漏掉 the。"
+      ],
+      "tips": "传统节日前加 the。"
+    },
+    {
+      "point": "节日活动表达",
+      "core_concept": "set off fireworks 放烟花、have a big dinner 吃年夜饭、visit relatives 走亲戚；be going to 表计划。",
+      "key_formula": "We're going to watch fireworks.",
+      "common_mistakes": [
+        "set off 写成 set up。"
+      ],
+      "tips": "燃放烟花用 set off。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "春节词汇",
+        "question": "「灯笼」的英文是（　）",
+        "options": [
+          "lantern",
+          "lantarn",
+          "lanternn",
+          "lentern"
+        ],
+        "answer": "lantern",
+        "explanation": "lantern 灯笼。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "节日活动表达",
+        "question": "「年夜饭」的英文是（　）",
+        "options": [
+          "New Year's dinner",
+          "New Year dinner",
+          "the New Year's dinners",
+          "New Years' dinner"
+        ],
+        "answer": "New Year's dinner",
+        "explanation": "固定表达。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "节日活动表达",
+        "question": "春节是中国重要的传统节日。",
+        "options": [],
+        "answer": "对",
+        "explanation": "传统节日。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "节日活动表达",
+        "question": "「我们打算看烟花。」的英文是（　）",
+        "options": [
+          "We're going to watch fireworks.",
+          "We going to watch fireworks.",
+          "We're going to watch firework.",
+          "We're going to watching fireworks."
+        ],
+        "answer": "We're going to watch fireworks.",
+        "explanation": "be going to + 原形。"
+      }
+    ]
+  }
+}

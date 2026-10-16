@@ -1,0 +1,144 @@
+{
+  "textbook": "选择性必修上册",
+  "unit": "中华文化与古典诗歌",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「中华文化与古典诗歌」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "中华文化源流与特点",
+        "question": "中华文化最突出的特点是（　）",
+        "options": [
+          "连续性与包容性",
+          "排他性",
+          "商业性",
+          "临时性"
+        ],
+        "answer": "连续性与包容性",
+        "explanation": "两大特点。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "古典诗歌鉴赏",
+        "question": "“大江东去，浪淘尽，千古风流人物”风格属于（　）",
+        "options": [
+          "豪放",
+          "婉约",
+          "恬淡",
+          "田园"
+        ],
+        "answer": "豪放",
+        "explanation": "苏轼豪放词。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "中华文化源流与特点",
+        "question": "中华文化在交流互鉴中不断发展。",
+        "options": [],
+        "answer": "对",
+        "explanation": "交流促发展。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "古典诗歌鉴赏",
+        "question": "鉴赏诗歌要关注典故的情感指向。",
+        "options": [],
+        "answer": "对",
+        "explanation": "典故用法。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "中华文化源流与特点",
+      "core_concept": "中华文化源远流长、博大精深，具有强大凝聚力和连续性。中华文化有强烈的民族性，包容性。",
+      "key_formula": "源远流长、博大精深",
+      "common_mistakes": [
+        "认为中华文化一成不变。"
+      ],
+      "tips": "文化在交流中发展。"
+    },
+    {
+      "point": "古典诗歌鉴赏",
+      "core_concept": "诗歌风格有豪放、婉约、恬淡、沉郁等。鉴赏要抓住意象、典故、意象组合与表达技巧。",
+      "key_formula": "意象 + 典故 + 风格",
+      "common_mistakes": [
+        "把典故当普通词义。"
+      ],
+      "tips": "典故往往暗含情感。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "中华文化源流与特点",
+        "question": "文化交流中正确的态度是（　）",
+        "options": [
+          "既保持特色又吸收借鉴",
+          "全盘否定自己",
+          "全盘照搬别人",
+          "拒绝一切交流"
+        ],
+        "answer": "既保持特色又吸收借鉴",
+        "explanation": "包容并蓄。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "古典诗歌鉴赏",
+        "question": "“寻寻觅觅，冷冷清清，凄凄惨惨戚戚”风格属于（　）",
+        "options": [
+          "婉约",
+          "豪放",
+          "田园",
+          "边塞"
+        ],
+        "answer": "婉约",
+        "explanation": "李清照婉约词。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "中华文化源流与特点",
+        "question": "文化自信是更基础、更广泛、更深厚的自信。",
+        "options": [],
+        "answer": "对",
+        "explanation": "文化自信。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "古典诗歌鉴赏",
+        "question": "意象组合常营造出特定意境。",
+        "options": [],
+        "answer": "对",
+        "explanation": "意象组意境。"
+      }
+    ]
+  }
+}

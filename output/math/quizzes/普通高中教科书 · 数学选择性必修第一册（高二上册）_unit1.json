@@ -1,0 +1,145 @@
+{
+  "textbook": "选择性必修第一册",
+  "unit": "直线和圆的方程",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「直线和圆的方程」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "直线的方程与位置关系",
+        "question": "过点 $(0,1)$ 且斜率为 2 的直线方程为 $y=2x+b$，则 $b=$ ？",
+        "options": [],
+        "answer": "1",
+        "explanation": "代入点得 $1=b$。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "直线的方程与位置关系",
+        "question": "直线 $y=2x+1$ 与 $y=2x-3$ 的位置关系是（　）",
+        "options": [
+          "平行",
+          "垂直",
+          "相交不垂直",
+          "重合"
+        ],
+        "answer": "平行",
+        "explanation": "斜率相等且截距不同。"
+      },
+      {
+        "id": 3,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆的方程",
+        "question": "圆 $(x-1)^2+(y+2)^2=9$ 的半径是多少？",
+        "options": [],
+        "answer": "3",
+        "explanation": "$r^2=9$，$r=3$。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "圆的方程",
+        "question": "圆心为 $(1,-2)$、半径为 3 的圆的标准方程是 $(x-1)^2+(y+2)^2=9$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "标准方程形式。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆的方程",
+        "question": "圆 $x^2+y^2=25$ 的圆心到直线 $y=x$ 的距离是多少（填最简根式形式或数字）？",
+        "options": [],
+        "answer": "0",
+        "explanation": "圆心为原点，在直线 $y=x$ 上，距离为 0。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "直线的方程与位置关系",
+      "core_concept": "斜率 $k=\\frac{y_2-y_1}{x_2-x_1}$。点斜式 $y-y_0=k(x-x_0)$。两直线平行则斜率相等（或都不存在）；垂直则斜率之积为 $-1$。",
+      "key_formula": "$k_1k_2=-1\\Leftrightarrow$ 垂直",
+      "common_mistakes": [
+        "忽略斜率不存在的情形。"
+      ],
+      "tips": "讨论斜率是否存在。"
+    },
+    {
+      "point": "圆的方程",
+      "core_concept": "标准方程 $(x-a)^2+(y-b)^2=r^2$，圆心 $(a,b)$、半径 $r$。一般方程 $x^2+y^2+Dx+Ey+F=0$ 需 $D^2+E^2-4F>0$。",
+      "key_formula": "$(x-a)^2+(y-b)^2=r^2$",
+      "common_mistakes": [
+        "配方时符号出错。"
+      ],
+      "tips": "配方求圆心半径。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "直线的方程与位置关系",
+        "question": "过点 $(1,2)$、$(3,6)$ 的直线斜率为多少？",
+        "options": [],
+        "answer": "2",
+        "explanation": "$\\frac{6-2}{3-1}=2$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "圆的方程",
+        "question": "圆 $x^2+y^2-2x+4y-4=0$ 的圆心是（　）",
+        "options": [
+          "$(1,-2)$",
+          "$(-1,2)$",
+          "$(2,-4)$",
+          "$(-2,4)$"
+        ],
+        "answer": "$(1,-2)$",
+        "explanation": "配方得 $(x-1)^2+(y+2)^2=9$。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "直线的方程与位置关系",
+        "question": "两直线垂直时，斜率之积为 $-1$（斜率都存在时）。",
+        "options": [],
+        "answer": "对",
+        "explanation": "垂直条件。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "圆的方程",
+        "question": "点 $(3,4)$ 到原点距离是多少？",
+        "options": [],
+        "answer": "5",
+        "explanation": "$\\sqrt{9+16}=5$。"
+      }
+    ]
+  }
+}

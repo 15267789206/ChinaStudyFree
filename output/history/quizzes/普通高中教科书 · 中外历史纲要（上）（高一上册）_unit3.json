@@ -1,0 +1,144 @@
+{
+  "textbook": "必修上册",
+  "unit": "晚清与近代中国的探索",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「晚清与近代中国的探索」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "列强侵略与民族危机",
+        "question": "中国开始沦为半殖民地半封建社会的标志是（　）",
+        "options": [
+          "《南京条约》",
+          "《马关条约》",
+          "《辛丑条约》",
+          "《天津条约》"
+        ],
+        "answer": "《南京条约》",
+        "explanation": "南京条约的影响。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "救亡图存的探索",
+        "question": "辛亥革命的最大功绩是（　）",
+        "options": [
+          "推翻君主专制制度",
+          "实现民族独立",
+          "完成反帝任务",
+          "建立社会主义"
+        ],
+        "answer": "推翻君主专制制度",
+        "explanation": "推翻帝制是最大功绩。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "救亡图存的探索",
+        "question": "洋务运动没有使中国走上富强道路。",
+        "options": [],
+        "answer": "对",
+        "explanation": "未改变封建制度。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "列强侵略与民族危机",
+        "question": "《辛丑条约》签订后中国完全沦为半殖民地半封建社会。",
+        "options": [],
+        "answer": "对",
+        "explanation": "辛丑条约的影响。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "列强侵略与民族危机",
+      "core_concept": "鸦片战争后签订《南京条约》，中国开始沦为半殖民地半封建社会；甲午中日战争后签订《马关条约》，民族危机大大加深；八国联军侵华后签订《辛丑条约》，中国完全沦为半殖民地半封建社会。",
+      "key_formula": "南京—马关—辛丑",
+      "common_mistakes": [
+        "条约影响程度记混。"
+      ],
+      "tips": "依次是开始、加深、完全。"
+    },
+    {
+      "point": "救亡图存的探索",
+      "core_concept": "洋务运动主张“师夷长技以自强”，但未改变封建制度。戊戌变法试图君主立宪。辛亥革命推翻帝制、建立中华民国，但未改变社会性质。新文化运动高举民主与科学旗帜。",
+      "key_formula": "器物 → 制度 → 思想文化",
+      "common_mistakes": [
+        "把洋务运动当作思想解放运动。"
+      ],
+      "tips": "洋务学器物，维新学制度，新文化学思想。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "救亡图存的探索",
+        "question": "新文化运动高举的两面旗帜是（　）",
+        "options": [
+          "自由与平等",
+          "民主与科学",
+          "变法与图强",
+          "自强与求富"
+        ],
+        "answer": "民主与科学",
+        "explanation": "民主与科学。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "列强侵略与民族危机",
+        "question": "《马关条约》中割让给日本的是（　）",
+        "options": [
+          "香港岛",
+          "台湾全岛及所有附属各岛屿、澎湖列岛",
+          "辽东半岛（永久）",
+          "山东"
+        ],
+        "answer": "台湾全岛及所有附属各岛屿、澎湖列岛",
+        "explanation": "马关条约割台湾等地。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "救亡图存的探索",
+        "question": "戊戌变法主张建立君主立宪制。",
+        "options": [],
+        "answer": "对",
+        "explanation": "维新派主张君主立宪。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "列强侵略与民族危机",
+        "question": "甲午中日战争的失败大大加深了中国的民族危机。",
+        "options": [],
+        "answer": "对",
+        "explanation": "马关条约影响。"
+      }
+    ]
+  }
+}

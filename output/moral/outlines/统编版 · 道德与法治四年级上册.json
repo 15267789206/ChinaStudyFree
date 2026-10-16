@@ -1,0 +1,57 @@
+{
+  "textbook": "四年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "班级与集体",
+      "knowledge_points": [
+        {
+          "name": "集体生活中的合作",
+          "description": "理解合作的意义，学会分工。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "诚实与信任",
+          "description": "理解诚实的价值，珍惜信任。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "信息与传媒",
+      "knowledge_points": [
+        {
+          "name": "正确使用网络",
+          "description": "学会健康、文明上网。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "辨别信息真伪",
+          "description": "提高信息辨别能力。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

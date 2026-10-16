@@ -1,0 +1,144 @@
+{
+  "textbook": "必修第二册",
+  "unit": "现在完成时与过去完成时",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「现在完成时与过去完成时」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时",
+        "question": "He has lived here ___ 2018.",
+        "options": [
+          "for",
+          "since",
+          "in",
+          "at"
+        ],
+        "answer": "since",
+        "explanation": "since 接时间点。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "过去完成时",
+        "question": "By the time we arrived, the movie ___.",
+        "options": [
+          "began",
+          "has begun",
+          "had begun",
+          "was beginning"
+        ],
+        "answer": "had begun",
+        "explanation": "过去的过去。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时",
+        "question": "现在完成时不能与表示过去的时间状语连用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "时态限制。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "过去完成时",
+        "question": "过去完成时表示过去的过去。",
+        "options": [],
+        "answer": "对",
+        "explanation": "过去完成时含义。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "现在完成时",
+      "core_concept": "现在完成时表示过去动作对现在的影响或持续到现在。since + 时间点，for + 时间段。",
+      "key_formula": "have/has + 过去分词",
+      "common_mistakes": [
+        "与一般过去时混用。"
+      ],
+      "tips": "看时间状语。"
+    },
+    {
+      "point": "过去完成时",
+      "core_concept": "过去完成时表示“过去的过去”，即在另一个过去动作之前已经完成。常见标志词有 by the time、before、when、after。",
+      "key_formula": "had + 过去分词",
+      "common_mistakes": [
+        "与现在完成时混淆。"
+      ],
+      "tips": "“过去的过去”。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时",
+        "question": "I ___ my homework already, so let's go out.",
+        "options": [
+          "finish",
+          "finished",
+          "have finished",
+          "am finishing"
+        ],
+        "answer": "have finished",
+        "explanation": "already 提示。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "过去完成时",
+        "question": "She was late because she ___ the bus.",
+        "options": [
+          "missed",
+          "had missed",
+          "misses",
+          "has missed"
+        ],
+        "answer": "had missed",
+        "explanation": "先错过车才迟到。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "现在完成时",
+        "question": "have been to 表示去过某地并已回来。",
+        "options": [],
+        "answer": "对",
+        "explanation": "去过。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "过去完成时",
+        "question": "过去完成时常与 by the time 连用。",
+        "options": [],
+        "answer": "对",
+        "explanation": "常用搭配。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "必修上册",
+  "unit": "从中华文明起源到秦汉统一",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「从中华文明起源到秦汉统一」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "中华文明起源与早期国家",
+        "question": "西周实行的政治制度是（　）",
+        "options": [
+          "郡县制",
+          "分封制",
+          "行省制",
+          "科举制"
+        ],
+        "answer": "分封制",
+        "explanation": "西周分封制。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "秦汉统一多民族封建国家",
+        "question": "秦朝在地方推行的制度是（　）",
+        "options": [
+          "分封制",
+          "郡县制",
+          "行省制",
+          "三省六部制"
+        ],
+        "answer": "郡县制",
+        "explanation": "秦推行郡县制。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "秦汉统一多民族封建国家",
+        "question": "汉武帝推行“推恩令”以削弱诸侯王势力。",
+        "options": [],
+        "answer": "对",
+        "explanation": "推恩令削弱王国势力。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "中华文明起源与早期国家",
+        "question": "中华文明起源呈现多元一体的特征。",
+        "options": [],
+        "answer": "对",
+        "explanation": "多元一体是重要特点。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "中华文明起源与早期国家",
+      "core_concept": "中华文明起源具有多元一体的特点。夏商周时期形成分封制与宗法制，春秋战国时期铁犁牛耕推广，社会转型加速。",
+      "key_formula": "多元一体",
+      "common_mistakes": [
+        "把宗法制与分封制混为一谈。"
+      ],
+      "tips": "分封是政治制度，宗法是血缘制度。"
+    },
+    {
+      "point": "秦汉统一多民族封建国家",
+      "core_concept": "公元前 221 年秦统一六国，建立中央集权制度（皇帝制度、三公九卿、郡县制）。汉武帝通过推恩令、罢黜百家尊崇儒术、盐铁官营巩固大一统。",
+      "key_formula": "秦：中央集权制度的确立",
+      "common_mistakes": [
+        "把郡县制当作秦首创的分封。"
+      ],
+      "tips": "郡县制取代分封制是关键。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "秦汉统一多民族封建国家",
+        "question": "汉武帝时期，思想方面采取的措施是（　）",
+        "options": [
+          "焚书坑儒",
+          "尊崇儒术",
+          "崇尚法家",
+          "提倡道家"
+        ],
+        "answer": "尊崇儒术",
+        "explanation": "罢黜百家、尊崇儒术。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "中华文明起源与早期国家",
+        "question": "春秋战国时期社会转型的根本原因是（　）",
+        "options": [
+          "生产力发展",
+          "诸侯争霸",
+          "百家争鸣",
+          "礼崩乐坏"
+        ],
+        "answer": "生产力发展",
+        "explanation": "铁犁牛耕推动生产力发展。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "秦汉统一多民族封建国家",
+        "question": "秦朝是中国历史上第一个统一多民族封建国家。",
+        "options": [],
+        "answer": "对",
+        "explanation": "秦朝统一的意义。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "中华文明起源与早期国家",
+        "question": "夏朝是中国历史上第一个王朝。",
+        "options": [],
+        "answer": "对",
+        "explanation": "约公元前 2070 年。"
+      }
+    ]
+  }
+}

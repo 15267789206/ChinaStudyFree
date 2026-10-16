@@ -1,0 +1,154 @@
+{
+  "textbook": "七年级上册",
+  "unit": "Module 6 A trip to the zoo 动物园之旅",
+  "unit_number": 6,
+  "unit_test": {
+    "title": "第6单元「Module 6 A trip to the zoo 动物园之旅」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时三单疑问句",
+        "question": "— ___ it eat meat? — Yes, it does.",
+        "options": [
+          "Does",
+          "Do",
+          "Is",
+          "Has"
+        ],
+        "answer": "Does",
+        "explanation": "三单用 does。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "动物与产地",
+        "question": "「老虎生活在亚洲。」的英文是（　）",
+        "options": [
+          "The tiger lives in Asia.",
+          "The tiger live in Asia.",
+          "The tiger lives in Asiaa.",
+          "The tiger is live in Asia."
+        ],
+        "answer": "The tiger lives in Asia.",
+        "explanation": "三单加 -s。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时三单疑问句",
+        "question": "does 后面动词用（　）",
+        "options": [
+          "原形",
+          "三单",
+          "过去式",
+          "-ing"
+        ],
+        "answer": "原形",
+        "explanation": "does 后原形。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时三单疑问句",
+        "question": "does 用于第三人称单数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "he/she/it。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "一般现在时三单疑问句",
+      "core_concept": "三单疑问句用 Does 开头，动词回原形；答语 Yes, it does. / No, it doesn't.",
+      "key_formula": "Does it eat meat? — Yes, it does.",
+      "common_mistakes": [
+        "Does 后动词仍用三单。"
+      ],
+      "tips": "does 后永远原形。"
+    },
+    {
+      "point": "动物与产地",
+      "core_concept": "elephant 大象、tiger 老虎、panda 熊猫、monkey 猴子；come from / live in 表产地。",
+      "key_formula": "The tiger lives in Asia. / Pandas come from China.",
+      "common_mistakes": [
+        "live in 写成 live on。"
+      ],
+      "tips": "住在大地方用 in。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "动物与产地",
+        "question": "「熊猫来自中国。」的英文是（　）",
+        "options": [
+          "Pandas come from China.",
+          "Pandas comes from China.",
+          "Pandas come from Chinaa.",
+          "Panda come from China."
+        ],
+        "answer": "Pandas come from China.",
+        "explanation": "复数用原形。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "动物与产地",
+        "question": "「大象」的英文是（　）",
+        "options": [
+          "elephant",
+          "elephent",
+          "elefant",
+          "elephants"
+        ],
+        "answer": "elephant",
+        "explanation": "elephant 大象。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时三单疑问句",
+        "question": "Does he like music? 是正确的一般疑问句。",
+        "options": [],
+        "answer": "对",
+        "explanation": "does 提前。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "动物与产地",
+        "question": "「猴子」的英文是（　）",
+        "options": [
+          "monkey",
+          "monky",
+          "monkeyy",
+          "donkey"
+        ],
+        "answer": "monkey",
+        "explanation": "monkey 猴子。"
+      }
+    ]
+  }
+}

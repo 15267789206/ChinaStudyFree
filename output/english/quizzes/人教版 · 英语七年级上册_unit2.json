@@ -1,0 +1,149 @@
+{
+  "textbook": "七年级上册",
+  "unit": "时态与基本句型",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「时态与基本句型」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时",
+        "question": "She ___ to school every day.",
+        "options": [
+          "go",
+          "goes",
+          "going",
+          "went"
+        ],
+        "answer": "goes",
+        "explanation": "第三人称单数加 -es。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一般现在时",
+        "question": "They ___ football on Sundays.",
+        "options": [
+          "plays",
+          "play",
+          "playing",
+          "played"
+        ],
+        "answer": "play",
+        "explanation": "主语为复数用原形。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "There be 与疑问句",
+        "question": "There ___ some milk in the glass.",
+        "options": [
+          "is",
+          "are",
+          "be",
+          "have"
+        ],
+        "answer": "is",
+        "explanation": "milk 不可数，用 is。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "There be 与疑问句",
+        "question": "There be 句型中 be 动词与最近的名词保持一致。",
+        "options": [],
+        "answer": "对",
+        "explanation": "就近原则。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "一般现在时",
+      "core_concept": "一般现在时表示经常性、习惯性的动作或客观事实。主语为第三人称单数时动词加 -s/-es。",
+      "key_formula": "He plays. / They play.",
+      "common_mistakes": [
+        "第三人称单数忘记加 s。"
+      ],
+      "tips": "主语第三人称单数要变化动词。"
+    },
+    {
+      "point": "There be 与疑问句",
+      "core_concept": "There be 句型遵循就近原则。一般疑问句把 be 动词或助动词提到句首，回答用 Yes/No。",
+      "key_formula": "There is a book. / There are two books.",
+      "common_mistakes": [
+        "There be 后误用 have。"
+      ],
+      "tips": "就近原则：be 与最近名词一致。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时",
+        "question": "___ he often play basketball?",
+        "options": [
+          "Do",
+          "Does",
+          "Is",
+          "Are"
+        ],
+        "answer": "Does",
+        "explanation": "第三人称单数用 Does。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "There be 与疑问句",
+        "question": "Are there any books on the desk? — ___",
+        "options": [
+          "Yes, there are.",
+          "Yes, they are.",
+          "Yes, there is.",
+          "No, there is."
+        ],
+        "answer": "Yes, there are.",
+        "explanation": "回答与问句一致。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "一般现在时",
+        "question": "一般现在时可表示客观事实。",
+        "options": [],
+        "answer": "对",
+        "explanation": "如 The sun rises in the east."
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "There be 与疑问句",
+        "question": "一般疑问句的语序是把 be 动词或助动词提前。",
+        "options": [],
+        "answer": "对",
+        "explanation": "疑问句语序。"
+      }
+    ]
+  }
+}

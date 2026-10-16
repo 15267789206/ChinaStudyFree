@@ -1,0 +1,213 @@
+{
+  "textbook": "七年级上册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Unit 1 This is me! 自我介绍",
+      "knowledge_points": [
+        {
+          "name": "be 动词与自我介绍",
+          "description": "掌握自我介绍句型。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "形容词描述自己",
+          "description": "会用形容词描述外貌性格。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Unit 2 Let's play sports! 运动",
+      "knowledge_points": [
+        {
+          "name": "运动词汇 football / basketball / swimming / running",
+          "description": "掌握运动词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "实义动词 like 的一般现在时",
+          "description": "掌握 like 的用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "Unit 3 Welcome to our school! 学校",
+      "knowledge_points": [
+        {
+          "name": "学校场所 library / playground / office",
+          "description": "掌握学校场所词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "人称代词主格与宾格",
+          "description": "掌握代词两种形式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "Unit 4 My day 我的一天",
+      "knowledge_points": [
+        {
+          "name": "时间介词 at / on / in",
+          "description": "掌握时间介词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "频度副词 always / usually / often / never",
+          "description": "掌握频度副词。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "Unit 5 Let's celebrate! 庆祝",
+      "knowledge_points": [
+        {
+          "name": "节日词汇 Halloween / Christmas / Spring Festival",
+          "description": "掌握主要节日。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "庆祝活动 dress up / trick or treat",
+          "description": "掌握庆祝活动表达。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 6,
+      "title": "Unit 6 Food and lifestyle 饮食与生活方式",
+      "knowledge_points": [
+        {
+          "name": "食物与健康词汇",
+          "description": "掌握 healthy / unhealthy food。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "生活方式表达",
+          "description": "会谈论生活方式。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 7,
+      "title": "Unit 7 Shopping 购物",
+      "knowledge_points": [
+        {
+          "name": "购物词汇 shop / mall / price / cheap",
+          "description": "掌握购物词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "购物句型 How much…? / try on",
+          "description": "掌握购物交际用语。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 8,
+      "title": "Unit 8 Fashion 时尚",
+      "knowledge_points": [
+        {
+          "name": "服装词汇 trainers / jeans / jacket / scarf",
+          "description": "掌握服装词汇。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "描述穿着 look + 形容词",
+          "description": "掌握 look 的用法。",
+          "difficulty": 3,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}

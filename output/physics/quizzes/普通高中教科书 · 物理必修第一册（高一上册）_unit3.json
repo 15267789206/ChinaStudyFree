@@ -1,0 +1,155 @@
+{
+  "textbook": "必修第一册",
+  "unit": "相互作用——力",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「相互作用——力」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 2,
+        "knowledge_point": "三种常见力与力的合成",
+        "question": "质量 5 kg 的物体重力是多少 N？（$g$ 取 10 N/kg）",
+        "options": [],
+        "answer": "50",
+        "explanation": "$G=mg=5\\times10=50$ N。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "三种常见力与力的合成",
+        "question": "两个大小均为 6 N、夹角 120° 的共点力，合力大小是（　）",
+        "options": [
+          "6 N",
+          "12 N",
+          "0",
+          "$6\\sqrt3$ N"
+        ],
+        "answer": "6 N",
+        "explanation": "合力 $=6$ N（等边三角形）。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "力的分解与共点力平衡",
+        "question": "物体处于平衡状态时，所受合力必为零。",
+        "options": [],
+        "answer": "对",
+        "explanation": "平衡条件。"
+      },
+      {
+        "id": 4,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "三种常见力与力的合成",
+        "question": "关于摩擦力，正确的是（　）",
+        "options": [
+          "静摩擦力方向与相对运动趋势方向相反",
+          "摩擦力总是阻力",
+          "摩擦力大小一定等于 $\\mu F_N$",
+          "摩擦力与接触面无关"
+        ],
+        "answer": "静摩擦力方向与相对运动趋势方向相反",
+        "explanation": "静摩擦方向判定。"
+      },
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "三种常见力与力的合成",
+        "question": "两个力 3 N 和 4 N 的合力大小不可能是（　）",
+        "options": [
+          "1 N",
+          "5 N",
+          "7 N",
+          "8 N"
+        ],
+        "answer": "8 N",
+        "explanation": "合力范围 1 N ≤ F ≤ 7 N。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "三种常见力与力的合成",
+      "core_concept": "重力 $G=mg$ 竖直向下；弹力方向与形变方向相反；摩擦力方向与相对运动（趋势）方向相反。两个共点力合成遵循平行四边形法则，合力范围 $|F_1-F_2|\\le F\\le F_1+F_2$。",
+      "key_formula": "$G=mg$",
+      "common_mistakes": [
+        "认为摩擦力一定与运动方向相反。"
+      ],
+      "tips": "摩擦力与“相对”运动方向相反。"
+    },
+    {
+      "point": "力的分解与共点力平衡",
+      "core_concept": "共点力平衡条件：合力为零。正交分解法：建立直角坐标系，分别列 $x$、$y$ 方向合力为零的方程。",
+      "key_formula": "$\\sum F=0$",
+      "common_mistakes": [
+        "分解时选错方向。"
+      ],
+      "tips": "沿运动方向和垂直方向分解。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "三种常见力与力的合成",
+        "question": "物体在水平方向受 10 N 的力匀速运动，摩擦力是多少 N？",
+        "options": [],
+        "answer": "10",
+        "explanation": "匀速即平衡，摩擦力等于拉力。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "力的分解与共点力平衡",
+        "question": "物体静止在斜面上，其受到的摩擦力方向（　）",
+        "options": [
+          "沿斜面向上",
+          "沿斜面向下",
+          "竖直向上",
+          "垂直于斜面"
+        ],
+        "answer": "沿斜面向上",
+        "explanation": "静摩擦阻止下滑趋势。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "三种常见力与力的合成",
+        "question": "弹力的方向总是与施力物体形变的方向相反。",
+        "options": [],
+        "answer": "对",
+        "explanation": "弹力方向。"
+      },
+      {
+        "id": 9,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "力的分解与共点力平衡",
+        "question": "两力互相垂直，大小分别为 6 N 和 8 N，合力大小是多少 N？",
+        "options": [],
+        "answer": "10",
+        "explanation": "$\\sqrt{36+64}=10$ N。"
+      }
+    ]
+  }
+}

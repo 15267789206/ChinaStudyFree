@@ -1,0 +1,145 @@
+{
+  "textbook": "必修第一册",
+  "unit": "一元二次函数、方程和不等式",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「一元二次函数、方程和不等式」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "不等式性质与基本不等式",
+        "question": "若 $x>0$，则 $x+\\frac4x$ 的最小值是？",
+        "options": [],
+        "answer": "4",
+        "explanation": "由基本不等式 $x+\\frac4x\\ge2\\sqrt{4}=4$，当 $x=2$ 时取等。"
+      },
+      {
+        "id": 2,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "不等式性质与基本不等式",
+        "question": "若 $a>0,b>0$ 且 $a+b=6$，则 $ab$ 的最大值是？",
+        "options": [],
+        "answer": "9",
+        "explanation": "$ab\\le(\\frac{a+b}{2})^2=9$，当 $a=b=3$ 时取等。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "一元二次不等式与三个二次关系",
+        "question": "不等式 $x^2-5x+6<0$ 的解集是（　）",
+        "options": [
+          "$2<x<3$",
+          "$x<2$ 或 $x>3$",
+          "$-3<x<-2$",
+          "$x<-3$ 或 $x>-2$"
+        ],
+        "answer": "$2<x<3$",
+        "explanation": "$(x-2)(x-3)<0$，取中间。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "一元二次不等式与三个二次关系",
+        "question": "若 $\\Delta<0$ 且 $a>0$，则 $ax^2+bx+c>0$ 的解集为 $\\mathbb R$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "开口向上且无实根，恒正。"
+      },
+      {
+        "id": 5,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "不等式性质与基本不等式",
+        "question": "若 $a>b$，则 $a+c$ ___ $b+c$（填 > 或 <）",
+        "options": [],
+        "answer": ">",
+        "explanation": "不等式两边同加同一数。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "不等式性质与基本不等式",
+      "core_concept": "基本不等式：正数 $a,b$ 有 $a+b\\ge2\\sqrt{ab}$，当且仅当 $a=b$ 时取等号。使用时需“一正、二定、三相等”。",
+      "key_formula": "$a+b\\ge2\\sqrt{ab}$",
+      "common_mistakes": [
+        "忽略“一正”的前提。"
+      ],
+      "tips": "验证取等条件是否满足。"
+    },
+    {
+      "point": "一元二次不等式与三个二次关系",
+      "core_concept": "解一元二次不等式 $ax^2+bx+c>0(a>0)$，可借助对应函数图象与方程根，按“大于取两边、小于取中间”取解集。",
+      "key_formula": "$\\Delta=b^2-4ac$",
+      "common_mistakes": [
+        "二次项系数为负时忘记变号。"
+      ],
+      "tips": "先化 $a>0$ 再解。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "不等式性质与基本不等式",
+        "question": "若 $x>1$，则 $x-1+\\frac{9}{x-1}$ 的最小值是？",
+        "options": [],
+        "answer": "6",
+        "explanation": "设 $t=x-1>0$，$t+\\frac9t\\ge6$。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一元二次不等式与三个二次关系",
+        "question": "不等式 $x^2-4\\le0$ 的整数解的个数是（　）",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "无数个"
+        ],
+        "answer": "5",
+        "explanation": "$-2\\le x\\le2$，整数为 -2,-1,0,1,2 共 5 个。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "不等式性质与基本不等式",
+        "question": "基本不等式取等号的条件是 $a=b$。",
+        "options": [],
+        "answer": "对",
+        "explanation": "当且仅当 $a=b$。"
+      },
+      {
+        "id": 9,
+        "type": "fill_blank",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "一元二次不等式与三个二次关系",
+        "question": "不等式 $-x^2+2x+3>0$ 的解集是 ___<x<___",
+        "options": [],
+        "answer": "−1<x<3",
+        "explanation": "$x^2-2x-3<0$，$(x-3)(x+1)<0$，得 $-1<x<3$。"
+      }
+    ]
+  }
+}

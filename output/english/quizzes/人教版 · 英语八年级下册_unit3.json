@@ -1,0 +1,144 @@
+{
+  "textbook": "八年级下册",
+  "unit": "比较级与宾语从句",
+  "unit_number": 3,
+  "unit_test": {
+    "title": "第3单元「比较级与宾语从句」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "形容词与副词比较级复习",
+        "question": "This pencil is ___ than that one.",
+        "options": [
+          "as long as",
+          "as longer as",
+          "longer",
+          "as long"
+        ],
+        "answer": "as long as",
+        "explanation": "同长度用 as…as。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "宾语从句",
+        "question": "Do you know where ___ ?",
+        "options": [
+          "does he live",
+          "he lives",
+          "lives he",
+          "is he living"
+        ],
+        "answer": "he lives",
+        "explanation": "从句用陈述语序。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "形容词与副词比较级复习",
+        "question": "最高级后可用 in 或 of 标明比较范围。",
+        "options": [],
+        "answer": "对",
+        "explanation": "范围用 in/of。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "宾语从句",
+        "question": "宾语从句要用陈述语序。",
+        "options": [],
+        "answer": "对",
+        "explanation": "语序要点。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "形容词与副词比较级复习",
+      "core_concept": "比较级常与 than 连用；两者相等用 as…as；不等用 not as…as。最高级前常用 the，后接 in/of 表范围。",
+      "key_formula": "as + 原级 + as",
+      "common_mistakes": [
+        "the more, the better 结构用错。"
+      ],
+      "tips": "the 比较级, the 比较级。"
+    },
+    {
+      "point": "宾语从句",
+      "core_concept": "宾语从句必须用陈述语序，时态要呼应主句。引导词分 that（无义）、whether/if（是否）、特殊疑问词。",
+      "key_formula": "陈述语序 + 时态呼应",
+      "common_mistakes": [
+        "保留疑问句语序。"
+      ],
+      "tips": "从句用陈述语序。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "形容词与副词比较级复习",
+        "question": "The more you practise, ___ you will be.",
+        "options": [
+          "the good",
+          "the better",
+          "better",
+          "the best"
+        ],
+        "answer": "the better",
+        "explanation": "the 比较级结构。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 5,
+        "knowledge_point": "宾语从句",
+        "question": "She asked me if I ___ the film.",
+        "options": [
+          "see",
+          "saw",
+          "had seen",
+          "have seen"
+        ],
+        "answer": "had seen",
+        "explanation": "主句过去时，从句用过去完成时。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "形容词与副词比较级复习",
+        "question": "比较对象不一致时不能用比较级。",
+        "options": [],
+        "answer": "对",
+        "explanation": "比较须同类。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 5,
+        "knowledge_point": "宾语从句",
+        "question": "宾语从句的时态要与主句时态相呼应。",
+        "options": [],
+        "answer": "对",
+        "explanation": "时态呼应。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "textbook": "三年级下册",
+  "unit": "Unit 1 School 校园与物品",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Unit 1 School 校园与物品」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "学习用品",
+        "question": "“橡皮”的英文是（　）",
+        "options": [
+          "eraser",
+          "ruler",
+          "pen",
+          "bag"
+        ],
+        "answer": "eraser",
+        "explanation": "橡皮 eraser。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "颜色与文具搭配",
+        "question": "It's a ___ pencil.",
+        "options": [
+          "red",
+          "reds",
+          "redly",
+          "a red"
+        ],
+        "answer": "red",
+        "explanation": "颜色词修饰名词。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "学习用品",
+        "question": "pencil 的意思是铅笔。",
+        "options": [],
+        "answer": "对",
+        "explanation": "铅笔。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "颜色与文具搭配",
+        "question": "颜色词作定语时名词用单数。",
+        "options": [],
+        "answer": "对",
+        "explanation": "颜色定语。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "学习用品",
+      "core_concept": "pencil, pen, ruler, eraser, book, bag, pencil-box。问“ What's this? It's a…”。",
+      "key_formula": "What's this? It's a pen.",
+      "common_mistakes": [
+        "eraser 写成 eraser 的复数形式。"
+      ],
+      "tips": "单数用 a/an。"
+    },
+    {
+      "point": "颜色与文具搭配",
+      "core_concept": "It's a red pencil. 颜色词 red, yellow, blue, green, black, white 作定语。",
+      "key_formula": "颜色 + 名词",
+      "common_mistakes": [
+        "颜色词后加复数。"
+      ],
+      "tips": "颜色词修饰单数名词。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 1,
+        "knowledge_point": "学习用品",
+        "question": "“尺子”的英文是（　）",
+        "options": [
+          "ruler",
+          "rubber",
+          "book",
+          "pen"
+        ],
+        "answer": "ruler",
+        "explanation": "尺子 ruler。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "颜色与文具搭配",
+        "question": "It's a ___ bag.",
+        "options": [
+          "blue",
+          "blues",
+          "blue a",
+          "bluing"
+        ],
+        "answer": "blue",
+        "explanation": "蓝色作定语。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 1,
+        "knowledge_point": "学习用品",
+        "question": "book 是书，bag 是书包。",
+        "options": [],
+        "answer": "对",
+        "explanation": "book/bag。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "颜色与文具搭配",
+        "question": "It's a… 用来回答 What's this?。",
+        "options": [],
+        "answer": "对",
+        "explanation": "回答句型。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "textbook": "必修第一册",
+  "unit": "Unit 1 Teenage Life 青少年生活",
+  "unit_number": 1,
+  "unit_test": {
+    "title": "第1单元「Unit 1 Teenage Life 青少年生活」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "高中生活词汇 freshman / club / challenge",
+        "question": "「新生」的英文是（　）",
+        "options": [
+          "freshman",
+          "fresh man",
+          "freshmen",
+          "freshmany"
+        ],
+        "answer": "freshman",
+        "explanation": "freshman 新生。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "高中生活词汇 freshman / club / challenge",
+        "question": "「挑战」的英文是（　）",
+        "options": [
+          "challenge",
+          "chalenge",
+          "challeng",
+          "challlenge"
+        ],
+        "answer": "challenge",
+        "explanation": "challenge 挑战。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "提建议句型",
+        "question": "advice 是（　）名词",
+        "options": [
+          "不可数",
+          "可数",
+          "既可数又不可数",
+          "形容词"
+        ],
+        "answer": "不可数",
+        "explanation": "advice 不可数。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "高中生活词汇 freshman / club / challenge",
+        "question": "join a club 的意思是「加入社团」。",
+        "options": [],
+        "answer": "对",
+        "explanation": "join a club。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "高中生活词汇 freshman / club / challenge",
+      "core_concept": "freshman 新生、challenge 挑战、club 社团、course 课程；join a club 加入社团。",
+      "key_formula": "choose courses 选课",
+      "common_mistakes": [
+        "freshman 复数 freshmen。"
+      ],
+      "tips": "freshman → freshmen（不规则）。"
+    },
+    {
+      "point": "提建议句型",
+      "core_concept": "advice 建议（不可数）；give sb. advice 给某人建议；advise doing sth. 建议做某事。",
+      "key_formula": "give me some advice 给我一些建议",
+      "common_mistakes": [
+        "advice 当可数名词：an advice。"
+      ],
+      "tips": "advice 不可数。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "高中生活词汇 freshman / club / challenge",
+        "question": "「选课」的英文是（　）",
+        "options": [
+          "choose courses",
+          "choose course",
+          "chose courses",
+          "choosing courses"
+        ],
+        "answer": "choose courses",
+        "explanation": "choose 选择。"
+      },
+      {
+        "id": 6,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "提建议句型",
+        "question": "「给我一些建议」的英文是（　）",
+        "options": [
+          "give me some advice",
+          "give me an advice",
+          "give me advices",
+          "give some advice to mine"
+        ],
+        "answer": "give me some advice",
+        "explanation": "不可数用 some。"
+      },
+      {
+        "id": 7,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "提建议句型",
+        "question": "advise 是动词，advice 是名词。",
+        "options": [],
+        "answer": "对",
+        "explanation": "词性不同。"
+      },
+      {
+        "id": 8,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "高中生活词汇 freshman / club / challenge",
+        "question": "freshman 的复数是（　）",
+        "options": [
+          "freshmen",
+          "freshmans",
+          "freshmenes",
+          "freshmansion"
+        ],
+        "answer": "freshmen",
+        "explanation": "不规则复数。"
+      }
+    ]
+  }
+}

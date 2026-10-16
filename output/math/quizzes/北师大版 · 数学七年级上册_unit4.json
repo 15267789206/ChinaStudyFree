@@ -1,0 +1,164 @@
+{
+  "textbook": "七年级上册",
+  "unit": "第四章 基本平面图形",
+  "unit_number": 4,
+  "unit_test": {
+    "title": "第4单元「第四章 基本平面图形」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "线段、射线与直线",
+        "question": "线段有（　）个端点",
+        "options": [
+          "2",
+          "1",
+          "0",
+          "3"
+        ],
+        "answer": "2",
+        "explanation": "线段两个端点。"
+      },
+      {
+        "id": 2,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 2,
+        "knowledge_point": "线段、射线与直线",
+        "question": "射线有一个端点。",
+        "options": [],
+        "answer": "对",
+        "explanation": "一个端点。"
+      },
+      {
+        "id": 3,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 2,
+        "knowledge_point": "角的认识与度量",
+        "question": "1 直角等于（　）",
+        "options": [
+          "90°",
+          "180°",
+          "360°",
+          "60°"
+        ],
+        "answer": "90°",
+        "explanation": "直角 90°。"
+      },
+      {
+        "id": 4,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "角的比较与运算",
+        "question": "一个角为 35°，它的余角是多少度？",
+        "options": [],
+        "answer": "55",
+        "explanation": "$90°-35°=55°$。"
+      },
+      {
+        "id": 5,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 3,
+        "knowledge_point": "角的比较与运算",
+        "question": "一个角为 110°，它的补角是多少度？",
+        "options": [],
+        "answer": "70",
+        "explanation": "$180°-110°=70°$。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "线段、射线与直线",
+      "core_concept": "线段有两个端点、可以度量；射线有一个端点、向一方无限延伸；直线没有端点、向两方无限延伸。两点确定一条直线。",
+      "key_formula": "两点确定一条直线",
+      "common_mistakes": [
+        "认为直线可以度量长度。"
+      ],
+      "tips": "只有线段能量长度。"
+    },
+    {
+      "point": "角的认识与度量",
+      "core_concept": "有公共端点的两条射线组成的图形是角；1 直角 = 90°，1 平角 = 180°，1 周角 = 360°；1° = 60′。",
+      "key_formula": "$1^\\circ=60'$",
+      "common_mistakes": [
+        "把平角当成直线。"
+      ],
+      "tips": "平角有顶点和两边。"
+    },
+    {
+      "point": "角的比较与运算",
+      "core_concept": "角的大小与边的长短无关，与张口大小有关；余角和为 90°，补角和为 180°。",
+      "key_formula": "余角之和 = 90°，补角之和 = 180°",
+      "common_mistakes": [
+        "余角与补角混淆。"
+      ],
+      "tips": "余 90 补 180。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 3,
+        "knowledge_point": "线段、射线与直线",
+        "question": "两点确定一条直线。",
+        "options": [],
+        "answer": "对",
+        "explanation": "直线公理。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "角的认识与度量",
+        "question": "1° 的 $\\frac1{60}$ 是（　）",
+        "options": [
+          "1′",
+          "1″",
+          "1°",
+          "60′"
+        ],
+        "answer": "1′",
+        "explanation": "1 度 = 60 分。"
+      },
+      {
+        "id": 8,
+        "type": "calculation",
+        "score": 6,
+        "difficulty": 4,
+        "knowledge_point": "角的比较与运算",
+        "question": "∠1 = 25°，∠2 = 65°，两角之和是多少度？",
+        "options": [],
+        "answer": "90",
+        "explanation": "$25°+65°=90°$，互为余角。"
+      },
+      {
+        "id": 9,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 3,
+        "knowledge_point": "角的比较与运算",
+        "question": "互为余角的两个角和为（　）",
+        "options": [
+          "90°",
+          "180°",
+          "270°",
+          "360°"
+        ],
+        "answer": "90°",
+        "explanation": "余角和 90°。"
+      }
+    ]
+  }
+}

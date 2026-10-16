@@ -1,0 +1,144 @@
+{
+  "textbook": "五年级下册",
+  "unit": "公德与法治意识",
+  "unit_number": 2,
+  "unit_test": {
+    "title": "第2单元「公德与法治意识」基础过关测验",
+    "total_score": 100,
+    "time_minutes": 40,
+    "questions": [
+      {
+        "id": 1,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "维护社会公德",
+        "question": "在地铁上占用残疾人专用座位是（　）",
+        "options": [
+          "不尊重他人的不道德行为",
+          "个人自由",
+          "正常行为",
+          "聪明行为"
+        ],
+        "answer": "不尊重他人的不道德行为",
+        "explanation": "应给有需要的人让座。"
+      },
+      {
+        "id": 2,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "法治意识启蒙",
+        "question": "权利受到侵害时，正确的做法是（　）",
+        "options": [
+          "冷静保留证据向有关部门反映",
+          "动手报复",
+          "忍气吞声放弃",
+          "在网上乱骂"
+        ],
+        "answer": "冷静保留证据向有关部门反映",
+        "explanation": "依法维权。"
+      },
+      {
+        "id": 3,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "维护社会公德",
+        "question": "遵守社会公德是文明社会的基本要求。",
+        "options": [],
+        "answer": "对",
+        "explanation": "公德是文明标志。"
+      },
+      {
+        "id": 4,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "法治意识启蒙",
+        "question": "未成年人自身也要增强法治意识。",
+        "options": [],
+        "answer": "对",
+        "explanation": "从小懂法。"
+      }
+    ]
+  },
+  "knowledge_summary": [
+    {
+      "point": "维护社会公德",
+      "core_concept": "社会公德是文明社会的基本准则。在公共场所要爱护环境、遵守秩序、不损害他人利益。",
+      "key_formula": "公德意识人人有",
+      "common_mistakes": [
+        "在公共场所大声喧哗。"
+      ],
+      "tips": "公德体现在细节。"
+    },
+    {
+      "point": "法治意识启蒙",
+      "core_concept": "遇到纠纷要先冷静，保留证据，向家长、老师或有关部门反映，必要时通过法律途径解决。",
+      "key_formula": "依法维权",
+      "common_mistakes": [
+        "自己动手报复。"
+      ],
+      "tips": "维权要讲方法。"
+    }
+  ],
+  "exam": {
+    "questions": [
+      {
+        "id": 5,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "维护社会公德",
+        "question": "下面哪些属于维护公德的行为（　）",
+        "options": [
+          "排队乘车、垃圾分类",
+          "乱扔垃圾",
+          "插队",
+          "公共场所吸烟"
+        ],
+        "answer": "排队乘车、垃圾分类",
+        "explanation": "文明行为示范。"
+      },
+      {
+        "id": 6,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "法治意识启蒙",
+        "question": "遭遇纠纷要用合法方式解决。",
+        "options": [],
+        "answer": "对",
+        "explanation": "依法解决纠纷。"
+      },
+      {
+        "id": 7,
+        "type": "choice",
+        "score": 5,
+        "difficulty": 4,
+        "knowledge_point": "法治意识启蒙",
+        "question": "维护自身合法权益的正确途径不包括（　）",
+        "options": [
+          "与对方协商",
+          "请老师家长帮助",
+          "向有关部门反映",
+          "纠集人员报复"
+        ],
+        "answer": "纠集人员报复",
+        "explanation": "报复是违法行为。"
+      },
+      {
+        "id": 8,
+        "type": "true_false",
+        "score": 2,
+        "difficulty": 4,
+        "knowledge_point": "维护社会公德",
+        "question": "尊重他人是社会公德的重要体现。",
+        "options": [],
+        "answer": "对",
+        "explanation": "尊重他人。"
+      }
+    ]
+  }
+}

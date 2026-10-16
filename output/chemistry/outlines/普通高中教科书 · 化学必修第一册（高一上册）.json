@@ -1,0 +1,83 @@
+{
+  "textbook": "必修第一册",
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "物质及其变化",
+      "knowledge_points": [
+        {
+          "name": "物质的分类与离子反应",
+          "description": "掌握物质分类与离子方程式书写。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "氧化还原反应",
+          "description": "掌握氧化还原反应的本质与判断。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "钠、氯及其化合物",
+      "knowledge_points": [
+        {
+          "name": "钠及其化合物",
+          "description": "掌握钠、过氧化钠、碳酸钠与碳酸氢钠的性质。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "氯及其化合物",
+          "description": "掌握氯气性质与次氯酸漂白性。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "物质的量",
+      "knowledge_points": [
+        {
+          "name": "物质的量与摩尔质量",
+          "description": "理解物质的量、摩尔质量及换算。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        },
+        {
+          "name": "气体摩尔体积与物质的量浓度",
+          "description": "掌握气体摩尔体积与浓度计算。",
+          "difficulty": 4,
+          "question_types": [
+            "选择",
+            "填空",
+            "计算"
+          ]
+        }
+      ]
+    }
+  ]
+}
