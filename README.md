@@ -150,13 +150,15 @@ npm run dev:server          # http://localhost:8787
 
 | 平台 | 安装包 | 说明 |
 | --- | --- | --- |
-| Windows | `release/windows/聪聪学堂-安装程序-0.1.0-x64.exe`（53.5 MB） | NSIS 安装向导：开始菜单 / 桌面快捷方式 / 应用卸载项，安装模式可选仅当前用户或全机；装完即离线可用（已实测静默安装 → 运行 → 卸载零残留） |
-| Windows | `release/windows/聪聪学堂-安装程序-0.1.0-x64.msi`（84.1 MB） | MSI 包（WiX，zh-CN），供组策略 / 企业批量分发 |
-| Windows | `release/windows/聪聪学堂-便携版-0.1.0.zip`（100.1 MB） | 免安装绿色版压缩包（解压即用，含 `web/out` 静态站） |
-| Android | `release/android/聪聪学堂-安卓-release.apk`（38.0 MB） | 发布签名（v1+v2 已校验），可侧载分发 |
-| Android | `release/android/聪聪学堂-安卓-release.aab`（37.9 MB） | App Bundle，用于上架应用商店 |
-| Android | `release/android/聪聪学堂-安卓-debug.apk`（42.1 MB） | 调试包（与 release 签名不同，需先卸载） |
+| Windows | `release/windows/聪聪学堂-安装程序-0.1.0-x64.exe`（56.4 MB） | NSIS 安装向导：开始菜单 / 桌面快捷方式 / 应用卸载项，安装模式可选仅当前用户或全机；装完即离线可用（已实测静默安装 → 运行 → 卸载零残留） |
+| Windows | `release/windows/聪聪学堂-安装程序-0.1.0-x64.msi`（90.0 MB） | MSI 包（WiX，zh-CN），供组策略 / 企业批量分发 |
+| Windows | `release/windows/聪聪学堂-便携版-0.1.0.zip`（109.0 MB） | 免安装绿色版压缩包（解压即用，含 `web/out` 静态站） |
+| Android | `release/android/聪聪学堂-安卓-release.apk`（43.5 MB） | 发布签名（v1+v2 已校验），可侧载分发 |
+| Android | `release/android/聪聪学堂-安卓-release.aab`（43.4 MB） | App Bundle，用于上架应用商店 |
+| Android | `release/android/聪聪学堂-安卓-debug.apk`（47.6 MB） | 调试包（与 release 签名不同，需先卸载） |
 | iOS / Linux / Docker | 由 CI 工作流产出 | 本机无 macOS / Docker 守护进程，见 `.github/workflows/build-installers.yml` |
+
+> 📥 **不想自己构建？** 直接到 [Releases 页面](https://github.com/tanle-mtr/ChinaStudyFree/releases)下载已构建好的安装包 / 便携版 / 安卓 APK / 离线部署包（附 SHA256 校验和）。注意：GitHub 会去除资产文件名中的非 ASCII 字符，故发行资产使用英文名（`ChinaStudyFree-*`），产品名称仍为「聪聪学堂」。
 
 > ⚠️ 安卓发布签名使用仓库内的**演示密钥**（`apps/mobile/android/keystore/` + `keystore.properties`），正式上架请替换为你自己的私钥并妥善备份。
 
