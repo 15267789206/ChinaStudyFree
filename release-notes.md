@@ -21,12 +21,12 @@
 
 | 文件 | 平台 / 用途 | 大小 |
 |---|---|---|
-| `ChinaStudyFree-Setup-0.1.0-x64.exe` | Windows 安装版（NSIS，推荐） | 56.5 MB |
-| `ChinaStudyFree-Setup-0.1.0-x64.msi` | Windows 安装版（MSI，企业/机房批量部署） | 90.1 MB |
-| `ChinaStudyFree-Portable-0.1.0.zip` | Windows 便携版（解压即用，免安装） | 109.3 MB |
-| `ChinaStudyFree-Android-release.apk` | 安卓 release（已签名，可侧载） | 43.5 MB |
-| `ChinaStudyFree-Android-release.aab` | 安卓 App Bundle（用于上架 Google Play） | 43.5 MB |
-| `ChinaStudyFree-Offline-Bundle-0.1.0.zip` | 校园内网 / 离线部署（跨平台，含启动脚本） | 42.2 MB |
+| `ChinaStudyFree-Setup-0.1.0-x64.exe` | Windows 安装版（NSIS，推荐） | 59.3 MB |
+| `ChinaStudyFree-Setup-0.1.0-x64.msi` | Windows 安装版（MSI，企业/机房批量部署） | 96.3 MB |
+| `ChinaStudyFree-Portable-0.1.0.zip` | Windows 便携版（解压即用，免安装） | 119.8 MB |
+| `ChinaStudyFree-Android-release.apk` | 安卓 release（已签名，可侧载） | 49.1 MB |
+| `ChinaStudyFree-Android-release.aab` | 安卓 App Bundle（用于上架 Google Play） | 49.1 MB |
+| `ChinaStudyFree-Offline-Bundle-0.1.0.zip` | 校园内网 / 离线部署（跨平台，含启动脚本） | 47.8 MB |
 
 > 源码 zip / tar.gz 由 GitHub 按 tag 自动生成。
 > iOS 工程、Docker 镜像与 Linux AppImage/deb：见 [.github/workflows/build-installers.yml](.github/workflows/build-installers.yml) 与 README 第八节（本机缺 macOS / Docker，由 CI 产出）。
@@ -55,15 +55,27 @@
 - 已核对：教材版本选择页（`/stage/{stage}/versions`）本就是文档流布局、无此问题；onboarding 流程（学段 → 教材版本 → 年级）现已端到端可用。
 - 四端产物均已用最新代码重新构建并替换（版本号仍为 0.1.0）。
 
+## 🔧 本次修订（全端 · 第四弹：根治安卓首页白屏卡死，2026-10-17）
+
+用户在真机复现：过完学段引导后，**首页白屏、只剩底部导航栏、怎么点都没反应**（在线 4G 环境）。
+
+根因：**Service Worker 与 Capacitor 原生壳不兼容 + APK 更新后旧缓存残留**。原生 App 的资源本就随 APK 本地打包，SW 只会拦截页面导航与静态 chunk 请求；安卓 WebView 的资源加载器对「被 SW 拦截的导航请求」处理异常，导致首页跳往 `/grade/…` 的硬导航被挂住 → 白屏卡死。且安卓跨版本更新会保留 WebView 存储，旧 APK 注册的 SW 与旧缓存被新包继承，进一步放大问题（旧包里用户卡在学段引导、从未触发过该跳转，所以之前没暴露）。
+
+修复：**原生端（Capacitor / Tauri）不再注册 Service Worker，并在启动时立即注销遗留 SW、清空所有缓存**；Web 端（真实域名 / 离线包 LAN IP）仍正常注册，保留离线能力。启动脚本按 `location` 协议/主机自动判定（`https://localhost` = Capacitor、`tauri.localhost` = Tauri、`capacitor:` / `file:` 亦判为原生）。
+
+验证：用无头 Chromium 以 `https://localhost` 复现原生路径 —— SW 不再注册/接管（controller=0、regs=0），学段引导、`/grade/`、`/book/` 跳转与完整 onboarding 流程全部正常、零报错。
+
+四端产物均已用最新代码重新构建并替换（版本号仍为 0.1.0）。
+
 ## 🔐 SHA256 校验和
 
 ```text
-ad916ac9800cad7f17373fb63f6cec2ec6f6a9108b0ccaf58c94dcf1f12a236e  ChinaStudyFree-Setup-0.1.0-x64.exe
-2fae9d2822f260306ff25197b5bfd98024d04e8d9833ca76d2a042725f63b7bb  ChinaStudyFree-Setup-0.1.0-x64.msi
-c4c788faf355b3a9ab1a752385c09af9c3e9c9ec5e6138abdc9f351bc1071e5c  ChinaStudyFree-Portable-0.1.0.zip
-8db997a85b3bd750b1063449666b7e5d29533821e7669cf191618808ea450ba8  ChinaStudyFree-Android-release.apk
-ade2823d82062471d78f2a2259df0eadc03576ec6bc746ebf397170def17e6fa  ChinaStudyFree-Android-release.aab
-086744005c1d4aff01aa6297250cc2a5bbcf13adb6eab3304561d98cddb23c13  ChinaStudyFree-Offline-Bundle-0.1.0.zip
+70eee097ec2ae709b8c79111cf29d9be68fb43e09478ef33df5390a6b97e813b  ChinaStudyFree-Setup-0.1.0-x64.exe
+237752fd00498441f86ba7eb17093dc04b7a17306e924f35ff9229ba248bd83f  ChinaStudyFree-Setup-0.1.0-x64.msi
+5ac80748b5b4987751bb479efe55c8fdd587d18c1a4f638698bac782202058b7  ChinaStudyFree-Portable-0.1.0.zip
+cebfbc042a7330403eb9cc50d36a799da1df039174e5b2202c4e32f706c9d714  ChinaStudyFree-Android-release.apk
+4b1568b931ac0eab02ec6acfddb16991e91dc510dd1d58f34d5e0af8db4cb7f5  ChinaStudyFree-Android-release.aab
+05f6000c23b2b0bf851170079b0c476a0562fc0e3fe49d36a28a8dda5894627b  ChinaStudyFree-Offline-Bundle-0.1.0.zip
 ```
 
 ## 🚀 快速开始
