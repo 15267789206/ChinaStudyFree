@@ -410,7 +410,7 @@ export function PassageReader({ passage, backHref }: Props) {
       {/* 底部操作栏 */}
       {/* z-40：与 BottomNav 同层，任何时候都不会被固定底栏压住（阅读器本就隐藏底栏，
           这里显式给层级，防止将来改路由匹配时重演「按钮被盖住」） */}
-      <div className="fixed bottom-0 inset-x-0 z-40 bg-white border-t border-bg-softer shadow-[0_-4px_12px_rgba(0,0,0,0.04)]">
+      <div className="fixed bottom-0 inset-x-0 z-40 bg-white border-t border-bg-softer shadow-[0_-4px_12px_rgba(0,0,0,0.04)]" style={{ paddingBottom: "max(env(safe-area-inset-bottom, 0px))" }}>
         <div className="max-w-md lg:max-w-6xl mx-auto px-4 py-3 flex gap-3">
           <motion.button
             type="button"

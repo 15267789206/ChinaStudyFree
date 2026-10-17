@@ -21,12 +21,12 @@
 
 | 文件 | 平台 / 用途 | 大小 |
 |---|---|---|
-| `ChinaStudyFree-Setup-0.1.0-x64.exe` | Windows 安装版（NSIS，推荐） | 56.3 MB |
-| `ChinaStudyFree-Setup-0.1.0-x64.msi` | Windows 安装版（MSI，企业/机房批量部署） | 90.0 MB |
-| `ChinaStudyFree-Portable-0.1.0.zip` | Windows 便携版（解压即用，免安装） | 109.2 MB |
+| `ChinaStudyFree-Setup-0.1.0-x64.exe` | Windows 安装版（NSIS，推荐） | 56.5 MB |
+| `ChinaStudyFree-Setup-0.1.0-x64.msi` | Windows 安装版（MSI，企业/机房批量部署） | 90.1 MB |
+| `ChinaStudyFree-Portable-0.1.0.zip` | Windows 便携版（解压即用，免安装） | 109.3 MB |
 | `ChinaStudyFree-Android-release.apk` | 安卓 release（已签名，可侧载） | 43.5 MB |
-| `ChinaStudyFree-Android-release.aab` | 安卓 App Bundle（用于上架 Google Play） | 43.4 MB |
-| `ChinaStudyFree-Offline-Bundle-0.1.0.zip` | 校园内网 / 离线部署（跨平台，含启动脚本） | 42.1 MB |
+| `ChinaStudyFree-Android-release.aab` | 安卓 App Bundle（用于上架 Google Play） | 43.5 MB |
+| `ChinaStudyFree-Offline-Bundle-0.1.0.zip` | 校园内网 / 离线部署（跨平台，含启动脚本） | 42.2 MB |
 
 > 源码 zip / tar.gz 由 GitHub 按 tag 自动生成。
 > iOS 工程、Docker 镜像与 Linux AppImage/deb：见 [.github/workflows/build-installers.yml](.github/workflows/build-installers.yml) 与 README 第八节（本机缺 macOS / Docker，由 CI 产出）。
@@ -45,15 +45,25 @@
 - **服务端类型检查零错误**：为运行时依赖 `ws` 补最小类型声明（仅 tsc 使用，esbuild 打包擦除，运行时产物不变）。
 - 四端产物（Windows 安装/便携、安卓 APK/AAB、离线部署包）均已用最新代码重新构建替换（版本号仍为 0.1.0）。
 
+## 🔧 本次修订（安卓 · 第三弹：根治「选完学段没有下一步按钮」，2026-10-17）
+
+用户在真机复现：选完学段（如「初中」）后，屏幕底部**看不到「继续」按钮**。真机截图定位到叠加根因，均已修复并覆盖同类问题：
+
+- **根因 1（主因）—— `flex-1` 高度在安卓 WebView 里算错**：引导页用 `fixed inset-0 flex flex-col` + 子区 `flex-1 … overflow-y-auto` 撑布局，而 flex 子项默认 `min-height:auto` 不会收缩，内容比短屏（手机竖屏）高时会把底部按钮条**挤出视口**；桌面/宽窗口内容放得下所以看不出。已改为「按钮条独立 `fixed bottom-0 z-50`」的稳妥结构（与课程答题反馈面板同一模式），内容区自身滚动，按钮条永远贴底可见。
+- **根因 2 —— 「继续」按钮的 opacity 渐入动画**：选中后按钮以 `initial opacity:0` 入场，安卓 WebView 下可能不完成动画而让按钮「隐身」。已改为选中即直接渲染可见按钮（不再依赖入场动画）。
+- **顺带加固 —— 安卓系统导航条遮挡 `fixed bottom:0` 底栏（安全区）**：给**所有**底部固定操作栏补 `padding-bottom: env(safe-area-inset-bottom)` —— 覆盖学段/年级引导「继续」、课程答题反馈面板（含报错弹层）、错题复习 runner「继续」、课文阅读器、故事阅读器底部操作栏。手势 / 三键导航机型下这些按钮不再被系统条吞掉。
+- 已核对：教材版本选择页（`/stage/{stage}/versions`）本就是文档流布局、无此问题；onboarding 流程（学段 → 教材版本 → 年级）现已端到端可用。
+- 四端产物均已用最新代码重新构建并替换（版本号仍为 0.1.0）。
+
 ## 🔐 SHA256 校验和
 
 ```text
-47132fb348ca90271adadbe515c67d3c32b0e39fb782a34c4e578fbdeef5471c  ChinaStudyFree-Setup-0.1.0-x64.exe
-e4cee449742cb94bb8ebc43da645b8f1664b8517d7915e0fa9772db3112a99af  ChinaStudyFree-Setup-0.1.0-x64.msi
-3294d7a9471e2a5e0f0df867abbe98efcbaecf48de8a15e317112ca2fb8af201  ChinaStudyFree-Portable-0.1.0.zip
-950b4a7ee3fc7626b90cb062879172588528da572cf69040d93e92b8975391eb  ChinaStudyFree-Android-release.apk
-47855b3df3a7e3ede45f611a055a2816f8e45e9cefef21c7c40ff6b48d0c45fc  ChinaStudyFree-Android-release.aab
-fdb7426cc64347fdbc871ac2178d3e592748f0558d781c59f68c0ef99e0b8746  ChinaStudyFree-Offline-Bundle-0.1.0.zip
+ad916ac9800cad7f17373fb63f6cec2ec6f6a9108b0ccaf58c94dcf1f12a236e  ChinaStudyFree-Setup-0.1.0-x64.exe
+2fae9d2822f260306ff25197b5bfd98024d04e8d9833ca76d2a042725f63b7bb  ChinaStudyFree-Setup-0.1.0-x64.msi
+c4c788faf355b3a9ab1a752385c09af9c3e9c9ec5e6138abdc9f351bc1071e5c  ChinaStudyFree-Portable-0.1.0.zip
+8db997a85b3bd750b1063449666b7e5d29533821e7669cf191618808ea450ba8  ChinaStudyFree-Android-release.apk
+ade2823d82062471d78f2a2259df0eadc03576ec6bc746ebf397170def17e6fa  ChinaStudyFree-Android-release.aab
+086744005c1d4aff01aa6297250cc2a5bbcf13adb6eab3304561d98cddb23c13  ChinaStudyFree-Offline-Bundle-0.1.0.zip
 ```
 
 ## 🚀 快速开始

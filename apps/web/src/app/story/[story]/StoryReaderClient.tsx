@@ -398,7 +398,7 @@ export default function StoryReaderClient({ story, backHref }: Props) {
 
       {/* 底部操作栏 — 仅阅读阶段 */}
       {phase === "reading" && (
-        <div className="fixed bottom-0 inset-x-0 z-40 bg-white border-t border-bg-softer shadow-[0_-4px_12px_rgba(0,0,0,0.04)]">
+        <div className="fixed bottom-0 inset-x-0 z-40 bg-white border-t border-bg-softer shadow-[0_-4px_12px_rgba(0,0,0,0.04)]" style={{ paddingBottom: "max(env(safe-area-inset-bottom, 0px))" }}>
           <div className="max-w-md lg:max-w-6xl mx-auto px-4 py-3 flex gap-3">
             <motion.button
               type="button"

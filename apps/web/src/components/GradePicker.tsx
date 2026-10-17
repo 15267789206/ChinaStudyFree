@@ -10,7 +10,7 @@
  */
 
 import { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 import { useProgressStore } from "@/store/progress";
 import { Mascot } from "@/components/Mascot";
 import { SpeechBubble } from "@/components/SpeechBubble";
@@ -98,137 +98,137 @@ export function GradePicker({ stage = null }: { stage?: StageId | null }) {
   }
 
   return (
-    // z-50：必须压过移动端固定底栏 BottomNav（z-40，且在 layout 中渲染于 children 之后，
-    //       同 z-index 时 DOM 靠后会盖在上面）——否则底部「继续」按钮被底栏盖住点不到，
-    //       表现为「选完年级无法确定」。
-    <div className="fixed inset-0 z-50 bg-bg flex flex-col">
-      <div className="flex-1 flex flex-col items-center justify-start pt-12 px-5 overflow-y-auto pb-32">
-        <motion.div
-          initial={{ opacity: 0, y: 12 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ type: "spring", damping: 18 }}
-          className="flex items-end gap-3 mb-4 max-w-md w-full"
-        >
-          <Mascot size={96} mood="wave" />
-          <div className="mb-2">
-            <SpeechBubble text="你现在读几年级呀？" tone="neutral" />
-          </div>
-        </motion.div>
-
-        {/* 学段信息 + 显式「切换学段」入口（学段一旦选过就不会再强制重选） */}
-        {stage && (
-          <div className="mb-3 max-w-md w-full flex items-center justify-center gap-2 text-xs">
-            <span className="text-ink-light">
-              当前学段：
-              <b className="text-ink">{STAGE_BY_ID[stage]?.name ?? stage}</b>
-            </span>
-            <button
-              type="button"
-              onClick={() => {
-                playSfx("tap");
-                haptic("light");
-                setSelectedStage(null);
-                setSelectedGrade(null);
-              }}
-              className="font-extrabold text-secondary hover:underline"
-            >
-              切换学段
-            </button>
-          </div>
-        )}
-
-        {/* 教材版本入口：不同出版社版本学的内容不一样，可按科目切换（<a> 硬跳转） */}
-        {stage && stage !== "college" && (
-          <a
-            href={`/stage/${stage}/versions/`}
-            className="mb-6 max-w-md w-full flex items-center justify-center gap-1.5 rounded-xl border-2 border-dashed border-bg-softer bg-white px-4 py-2.5 text-sm font-extrabold text-secondary hover:border-secondary/50 transition-colors"
+    <>
+      {/* 内容层：整屏 fixed + 自身滚动（同 StagePicker —— 避免安卓 WebView 里
+          flex-1 高度算错把底部按钮条挤出视口）。 */}
+      <div className="fixed inset-0 z-50 bg-bg overflow-y-auto">
+        <div className="max-w-md mx-auto px-5 pt-12 pb-32 flex flex-col items-center">
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ type: "spring", damping: 18 }}
+            className="flex items-end gap-3 mb-4 w-full"
           >
-            📚 选教材版本（人教版 / 沪教版…内容不同）›
-          </a>
-        )}
+            <Mascot size={96} mood="wave" />
+            <div className="mb-2">
+              <SpeechBubble text="你现在读几年级呀？" tone="neutral" />
+            </div>
+          </motion.div>
 
-        <div className="w-full max-w-md flex flex-col gap-3">
-          {OPTIONS.map((opt, i) => {
-            const Icon = opt.Icon;
-            const selected = picked === opt.grade;
-            return (
-              <motion.button
-                key={opt.grade}
+          {/* 学段信息 + 显式「切换学段」入口（学段一旦选过就不会再强制重选） */}
+          {stage && (
+            <div className="mb-3 w-full flex items-center justify-center gap-2 text-xs">
+              <span className="text-ink-light">
+                当前学段：
+                <b className="text-ink">{STAGE_BY_ID[stage]?.name ?? stage}</b>
+              </span>
+              <button
                 type="button"
-                initial={{ opacity: 0, x: 12 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: 0.1 + i * 0.05 }}
-                whileTap={{ scale: 0.98 }}
                 onClick={() => {
                   playSfx("tap");
                   haptic("light");
-                  setPicked(opt.grade);
+                  setSelectedStage(null);
+                  setSelectedGrade(null);
                 }}
-                className={cn(
-                  "flex items-center gap-4 px-4 py-4 rounded-2xl border-2 text-left transition-colors select-none",
-                  selected
-                    ? "border-secondary bg-secondary/10"
-                    : "border-bg-softer bg-white hover:border-secondary/40",
-                )}
-                style={{
-                  boxShadow: selected
-                    ? "0 4px 0 0 #1899D6"
-                    : "0 3px 0 0 var(--shadow-card-color)",
-                }}
+                className="font-extrabold text-secondary hover:underline"
               >
-                <div
+                切换学段
+              </button>
+            </div>
+          )}
+
+          {/* 教材版本入口：不同出版社版本学的内容不一样，可按科目切换（<a> 硬跳转） */}
+          {stage && stage !== "college" && (
+            <a
+              href={`/stage/${stage}/versions/`}
+              className="mb-6 w-full flex items-center justify-center gap-1.5 rounded-xl border-2 border-dashed border-bg-softer bg-white px-4 py-2.5 text-sm font-extrabold text-secondary hover:border-secondary/50 transition-colors"
+            >
+              📚 选教材版本（人教版 / 沪教版…内容不同）›
+            </a>
+          )}
+
+          <div className="w-full flex flex-col gap-3">
+            {OPTIONS.map((opt, i) => {
+              const Icon = opt.Icon;
+              const selected = picked === opt.grade;
+              return (
+                <motion.button
+                  key={opt.grade}
+                  type="button"
+                  initial={{ opacity: 0, x: 12 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.1 + i * 0.05 }}
+                  whileTap={{ scale: 0.98 }}
+                  onClick={() => {
+                    playSfx("tap");
+                    haptic("light");
+                    setPicked(opt.grade);
+                  }}
                   className={cn(
-                    "w-12 h-12 rounded-2xl flex items-center justify-center shrink-0",
-                    selected ? "bg-secondary/15" : "bg-bg-soft"
+                    "flex items-center gap-4 px-4 py-4 rounded-2xl border-2 text-left transition-colors select-none",
+                    selected
+                      ? "border-secondary bg-secondary/10"
+                      : "border-bg-softer bg-white hover:border-secondary/40",
                   )}
+                  style={{
+                    boxShadow: selected
+                      ? "0 4px 0 0 #1899D6"
+                      : "0 3px 0 0 var(--shadow-card-color)",
+                  }}
                 >
-                  <Icon
-                    className={cn(
-                      "w-7 h-7",
-                      selected ? "text-secondary" : "text-ink-light"
-                    )}
-                  />
-                </div>
-                <div className="flex-1 min-w-0">
                   <div
                     className={cn(
-                      "text-base font-extrabold leading-tight",
-                      selected ? "text-secondary-dark" : "text-ink"
+                      "w-12 h-12 rounded-2xl flex items-center justify-center shrink-0",
+                      selected ? "bg-secondary/15" : "bg-bg-soft"
                     )}
                   >
-                    {opt.label}
+                    <Icon
+                      className={cn(
+                        "w-7 h-7",
+                        selected ? "text-secondary" : "text-ink-light"
+                      )}
+                    />
                   </div>
-                  <div className="text-xs text-ink-light mt-0.5">{opt.hint}</div>
-                </div>
-              </motion.button>
-            );
-          })}
+                  <div className="flex-1 min-w-0">
+                    <div
+                      className={cn(
+                        "text-base font-extrabold leading-tight",
+                        selected ? "text-secondary-dark" : "text-ink"
+                      )}
+                    >
+                      {opt.label}
+                    </div>
+                    <div className="text-xs text-ink-light mt-0.5">{opt.hint}</div>
+                  </div>
+                </motion.button>
+              );
+            })}
+          </div>
         </div>
       </div>
 
-      <div className="border-t-2 border-bg-softer bg-white">
+      {/* 底部按钮条：独立 fixed 到底部，z-50 压过 BottomNav（z-40）；垫安全区。
+          按钮不做 opacity / AnimatePresence 进出场动画 —— 真机上易一直隐身。 */}
+      <div
+        className="fixed bottom-0 left-0 right-0 z-50 border-t-2 border-bg-softer bg-white"
+        style={{ paddingBottom: "max(env(safe-area-inset-bottom, 0px))" }}
+      >
         <div className="max-w-md mx-auto px-5 py-4 flex justify-end">
-          <AnimatePresence>
-            {picked != null && (
-              <motion.button
-                key="continue"
-                initial={{ opacity: 0, y: 8 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: 8 }}
-                onClick={handleContinue}
-                className="btn-chunky-primary px-10"
-              >
-                继续
-              </motion.button>
-            )}
-          </AnimatePresence>
-          {picked == null && (
+          {picked != null ? (
+            <button
+              type="button"
+              onClick={handleContinue}
+              className="btn-chunky-primary px-10"
+            >
+              继续
+            </button>
+          ) : (
             <button type="button" disabled className="btn-chunky-disabled px-10">
               继续
             </button>
           )}
         </div>
       </div>
-    </div>
+    </>
   );
 }

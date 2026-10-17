@@ -109,7 +109,7 @@ export function FeedbackPanel({
       animate={{ y: 0, opacity: 1 }}
       transition={{ type: "spring", damping: 22, stiffness: 260 }}
       className={`fixed bottom-0 left-0 right-0 z-50 border-t-4 ${bg} backdrop-blur-sm`}
-      style={{ boxShadow: "0 -8px 24px rgba(0,0,0,0.06)" }}
+      style={{ boxShadow: "0 -8px 24px rgba(0,0,0,0.06)", paddingBottom: "max(env(safe-area-inset-bottom, 0px))" }}
     >
       <div className="max-w-md lg:max-w-2xl mx-auto px-5 py-5">
         <div className={`flex items-center gap-3 mb-3 font-extrabold text-2xl ${titleColor}`}>
@@ -198,7 +198,7 @@ export function FeedbackPanel({
               exit={{ y: 320 }}
               transition={{ type: "spring", damping: 26, stiffness: 300 }}
               className="fixed bottom-0 left-0 right-0 z-50 bg-white rounded-t-3xl border-t-2 border-bg-softer"
-              style={{ boxShadow: "0 -10px 32px rgba(0,0,0,0.14)" }}
+              style={{ boxShadow: "0 -10px 32px rgba(0,0,0,0.14)", paddingBottom: "max(env(safe-area-inset-bottom, 0px))" }}
               role="dialog"
               aria-modal="true"
               aria-label="报告题目问题"

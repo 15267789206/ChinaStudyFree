@@ -47,93 +47,100 @@ export function StagePicker() {
   }
 
   return (
-    // z-50：必须压过移动端固定底栏 BottomNav（z-40，且在 layout 中渲染于 children 之后，
-    //       同 z-index 时 DOM 靠后会盖在上面）——否则底部「继续」按钮被底栏盖住点不到，
-    //       表现为「选完学段无法确定」。与 ReviewRunnerClient 的底栏同一处理。
-    <div className="fixed inset-0 z-50 bg-bg flex flex-col">
-      <div className="flex-1 flex flex-col items-center justify-start pt-12 px-5 overflow-y-auto pb-32">
-        <motion.div
-          initial={{ opacity: 0, y: 12 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ type: "spring", damping: 18 }}
-          className="flex items-end gap-3 mb-8 max-w-md w-full"
-        >
-          <Mascot size={96} mood="wave" />
-          <div className="mb-2">
-            <SpeechBubble text="你现在读哪个学段呀？" tone="neutral" />
-          </div>
-        </motion.div>
+    <>
+      {/* 内容层：整屏 fixed + 自身滚动。
+          ⚠️ 不要再用「flex-1 撑高 + overflow-y-auto」那套 —— 在安卓 WebView 里
+          高度会算错，把底部按钮条挤到视口之外，表现为「选完学段看不到继续按钮」
+          （用户在真机上截图复现）。改为按钮条独立 fixed 到底部。 */}
+      <div className="fixed inset-0 z-50 bg-bg overflow-y-auto">
+        <div className="max-w-md mx-auto px-5 pt-12 pb-32 flex flex-col items-center">
+          <motion.div
+            initial={{ opacity: 0, y: 12 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ type: "spring", damping: 18 }}
+            className="flex items-end gap-3 mb-8 w-full"
+          >
+            <Mascot size={96} mood="wave" />
+            <div className="mb-2">
+              <SpeechBubble text="你现在读哪个学段呀？" tone="neutral" />
+            </div>
+          </motion.div>
 
-        <div className="w-full max-w-md flex flex-col gap-3">
-          {STAGES.map((stage, i) => {
-            const selected = picked?.id === stage.id;
-            return (
-              <motion.button
-                key={stage.id}
-                type="button"
-                initial={{ opacity: 0, x: 12 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: 0.1 + i * 0.05 }}
-                whileTap={{ scale: 0.98 }}
-                onClick={() => handlePick(stage)}
-                className={cn(
-                  "flex items-center gap-4 px-4 py-4 rounded-2xl border-2 text-left transition-colors select-none",
-                  selected
-                    ? "border-secondary bg-secondary/10"
-                    : "border-bg-softer bg-white hover:border-secondary/40",
-                )}
-                style={{
-                  boxShadow: selected
-                    ? "0 4px 0 0 #1899D6"
-                    : "0 3px 0 0 var(--shadow-card-color)",
-                }}
-              >
-                <div
-                  className="w-12 h-12 rounded-2xl flex items-center justify-center shrink-0 text-white font-extrabold text-2xl"
-                  style={{ backgroundColor: stage.color }}
+          <div className="w-full flex flex-col gap-3">
+            {STAGES.map((stage, i) => {
+              const selected = picked?.id === stage.id;
+              return (
+                <motion.button
+                  key={stage.id}
+                  type="button"
+                  initial={{ opacity: 0, x: 12 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.1 + i * 0.05 }}
+                  whileTap={{ scale: 0.98 }}
+                  onClick={() => handlePick(stage)}
+                  className={cn(
+                    "flex items-center gap-4 px-4 py-4 rounded-2xl border-2 text-left transition-colors select-none",
+                    selected
+                      ? "border-secondary bg-secondary/10"
+                      : "border-bg-softer bg-white hover:border-secondary/40",
+                  )}
+                  style={{
+                    boxShadow: selected
+                      ? "0 4px 0 0 #1899D6"
+                      : "0 3px 0 0 var(--shadow-card-color)",
+                  }}
                 >
-                  {stage.short}
-                </div>
-                <div className="flex-1 min-w-0">
                   <div
-                    className={cn(
-                      "text-base font-extrabold leading-tight",
-                      selected ? "text-secondary-dark" : "text-ink",
-                    )}
+                    className="w-12 h-12 rounded-2xl flex items-center justify-center shrink-0 text-white font-extrabold text-2xl"
+                    style={{ backgroundColor: stage.color }}
                   >
-                    {stage.name}
+                    {stage.short}
                   </div>
-                  <div className="text-xs text-ink-light mt-0.5">
-                    {stage.isCollege
-                      ? "按学科 / 课程组织"
-                      : stage.grades.map(g => gradeFullName(g)).join(" / ")}
+                  <div className="flex-1 min-w-0">
+                    <div
+                      className={cn(
+                        "text-base font-extrabold leading-tight",
+                        selected ? "text-secondary-dark" : "text-ink",
+                      )}
+                    >
+                      {stage.name}
+                    </div>
+                    <div className="text-xs text-ink-light mt-0.5">
+                      {stage.isCollege
+                        ? "按学科 / 课程组织"
+                        : stage.grades.map(g => gradeFullName(g)).join(" / ")}
+                    </div>
                   </div>
-                </div>
-              </motion.button>
-            );
-          })}
+                </motion.button>
+              );
+            })}
+          </div>
         </div>
       </div>
 
-      <div className="border-t-2 border-bg-softer bg-white">
+      {/* 底部按钮条：独立 fixed 到底部，z-50 压过 BottomNav（z-40）；
+          并垫 env(safe-area-inset-bottom) 防安卓系统导航条遮挡。
+          按钮**不做 opacity 渐入** —— 真机上曾因动画未完成让按钮一直隐身。 */}
+      <div
+        className="fixed bottom-0 left-0 right-0 z-50 border-t-2 border-bg-softer bg-white"
+        style={{ paddingBottom: "max(env(safe-area-inset-bottom, 0px))" }}
+      >
         <div className="max-w-md mx-auto px-5 py-4 flex justify-end">
-          {picked != null && (
-            <motion.button
-              initial={{ opacity: 0, y: 8 }}
-              animate={{ opacity: 1, y: 0 }}
+          {picked != null ? (
+            <button
+              type="button"
               onClick={handleContinue}
               className="btn-chunky-primary px-10"
             >
               继续
-            </motion.button>
-          )}
-          {picked == null && (
+            </button>
+          ) : (
             <button type="button" disabled className="btn-chunky-disabled px-10">
               继续
             </button>
           )}
         </div>
       </div>
-    </div>
+    </>
   );
 }
