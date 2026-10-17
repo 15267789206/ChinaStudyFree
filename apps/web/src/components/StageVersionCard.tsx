@@ -9,7 +9,6 @@
  */
 
 import { useEffect, useState } from "react";
-import Link from "next/link";
 import { useProgressStore } from "@/store/progress";
 import { SUBJECTS } from "@/lib/subjects";
 import { subjectVersionKey, versionsForSubject } from "@/lib/versions";
@@ -63,8 +62,8 @@ export function StageVersionCard({ stage }: { stage: StageId }) {
   }).length;
 
   return (
-    <Link
-      href={`/stage/${stage}/versions`}
+    <a
+      href={`/stage/${stage}/versions/`}
       className="duo-chunky-card group relative block rounded-2xl lg:rounded-3xl select-none overflow-hidden bg-white border-2 border-bg-softer hover:border-secondary/50 transition-colors"
     >
       <div className="flex items-center gap-4 px-5 py-4">
@@ -88,6 +87,6 @@ export function StageVersionCard({ stage }: { stage: StageId }) {
           </div>
         </div>
       </div>
-    </Link>
+    </a>
   );
 }

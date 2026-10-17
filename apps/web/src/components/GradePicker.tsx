@@ -10,7 +10,6 @@
  */
 
 import { useState } from "react";
-import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { useProgressStore } from "@/store/progress";
 import { Mascot } from "@/components/Mascot";
@@ -99,7 +98,10 @@ export function GradePicker({ stage = null }: { stage?: StageId | null }) {
   }
 
   return (
-    <div className="fixed inset-0 z-40 bg-bg flex flex-col">
+    // z-50：必须压过移动端固定底栏 BottomNav（z-40，且在 layout 中渲染于 children 之后，
+    //       同 z-index 时 DOM 靠后会盖在上面）——否则底部「继续」按钮被底栏盖住点不到，
+    //       表现为「选完年级无法确定」。
+    <div className="fixed inset-0 z-50 bg-bg flex flex-col">
       <div className="flex-1 flex flex-col items-center justify-start pt-12 px-5 overflow-y-auto pb-32">
         <motion.div
           initial={{ opacity: 0, y: 12 }}
@@ -135,14 +137,14 @@ export function GradePicker({ stage = null }: { stage?: StageId | null }) {
           </div>
         )}
 
-        {/* 教材版本入口：不同出版社版本学的内容不一样，可按科目切换 */}
+        {/* 教材版本入口：不同出版社版本学的内容不一样，可按科目切换（<a> 硬跳转） */}
         {stage && stage !== "college" && (
-          <Link
-            href={`/stage/${stage}/versions`}
+          <a
+            href={`/stage/${stage}/versions/`}
             className="mb-6 max-w-md w-full flex items-center justify-center gap-1.5 rounded-xl border-2 border-dashed border-bg-softer bg-white px-4 py-2.5 text-sm font-extrabold text-secondary hover:border-secondary/50 transition-colors"
           >
             📚 选教材版本（人教版 / 沪教版…内容不同）›
-          </Link>
+          </a>
         )}
 
         <div className="w-full max-w-md flex flex-col gap-3">

@@ -32,14 +32,20 @@
 > iOS 工程、Docker 镜像与 Linux AppImage/deb：见 [.github/workflows/build-installers.yml](.github/workflows/build-installers.yml) 与 README 第八节（本机缺 macOS / Docker，由 CI 产出）。
 > 注：GitHub 会去除资产文件名中的非 ASCII 字符，故下载文件使用英文名；产品名称仍为「聪聪学堂」。
 
+## 🔧 本次修订（安卓，2026-10-17）
+
+- **修复「主界面没有图标」**：自适应启动图标原来是**白底 + 白色前景**（Capacitor 默认模板），在浅色桌面上完全看不见。现改为**品牌绿 `#58A700` 底 + 白色「聪」字标**（含圆角方形 / 圆形两套、5 档密度）。
+- **修复「选择学段无法确定」**：首启引导页的「继续」按钮原先被**底部固定导航栏盖住**（同层级、DOM 靠后）导致点不到；已提升引导层叠层级，并顺带把「学段 → 教材版本 → 年级」全流程改为一律硬跳转（规避静态导出在 WebView 下的偶发软导航 404）。
+- 安卓 APK / AAB 已重新构建签名并替换（版本号仍为 0.1.0）。
+
 ## 🔐 SHA256 校验和
 
 ```text
 5f2fcb170a6e20b811201af88f8b94681cfb5db85f1c12b7c821e3f7e900e2d3  ChinaStudyFree-Setup-0.1.0-x64.exe
 7a2ba434c491223e000ef35b1583a02145101fac3ee691a40a897efdc4787617  ChinaStudyFree-Setup-0.1.0-x64.msi
 716f35b8eea0dcf3eb0d1003593bb55a35c017506880a854eebf07a9121dca14  ChinaStudyFree-Portable-0.1.0.zip
-45f9ca292564f6e4f10b178ecb60ff31a41c88c3ad68481d07b72949c64ad953  ChinaStudyFree-Android-release.apk
-3be0ed8b30fc36998b395410eadf38a048d7b281ad4dafe952791f98a6a229c8  ChinaStudyFree-Android-release.aab
+5b18b8032be44df05b488ac64c9501374b17f7596905a461bb2b5e3cf0db0ad8  ChinaStudyFree-Android-release.apk
+fc7d8b5fd8b29dbe57d8332168bc286afe4813c2bc5f5ce1a4e3ff94d5edca69  ChinaStudyFree-Android-release.aab
 793871a925adfa0b03c8d9bc926892c6155228518bcb78d89567889aac1ebefb  ChinaStudyFree-Offline-Bundle-0.1.0.zip
 ```
 

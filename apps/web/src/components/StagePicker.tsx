@@ -4,9 +4,9 @@
  * StagePicker —— 首次进入时的「学段」引导（小学 / 初中 / 高中 / 大学）。
  *
  * 触发：useProgressStore.selectedStage === null
- * 完成后：
- *   - 大学 → 直接跳转教材中心 /textbooks?stage=college（由 HomeClient 带 grade 13）
- *   - 其他学段 → setSelectedStage(stage) + 跳 /stage/{stage}/versions
+ * 完成后（一律 window.location.assign 硬跳转，规避静态导出 + 安卓 WebView 的软导航 404）：
+ *   - 大学 → /grade/13/（大学无年级，直接进「大学」互动课程页）
+ *   - 其他学段 → setSelectedStage(stage) + /stage/{stage}/versions/
  *     （选完学段先按科目选教材版本，再进年级选择）
  */
 
@@ -35,16 +35,22 @@ export function StagePicker() {
     playSfx("star");
     haptic("success");
     setSelectedStage(picked.id);
-    // 大学：HomeClient 会直接进入「大学」互动课程页（grade 13）；
-    // 其他学段：选完学段先按科目选教材版本（人教版 / 沪教版…学的内容不一样），再选年级。
-    // 硬跳转：避免 next.js (output: export + trailingSlash) router.push 偶发 404。
-    if (!picked.isCollege) {
+    // 一律硬跳转：静态导出（output: export + trailingSlash）+ 安卓 WebView 下
+    // Next router 软导航偶发 404，window.location.assign 才可靠。
+    //   大学：无年级概念 → 直接进「大学」互动课程页（grade 13）。
+    //   其他学段：先按科目选教材版本（人教版 / 沪教版…内容不同），再选年级。
+    if (picked.isCollege) {
+      window.location.assign("/grade/13/");
+    } else {
       window.location.assign(`/stage/${picked.id}/versions/`);
     }
   }
 
   return (
-    <div className="fixed inset-0 z-40 bg-bg flex flex-col">
+    // z-50：必须压过移动端固定底栏 BottomNav（z-40，且在 layout 中渲染于 children 之后，
+    //       同 z-index 时 DOM 靠后会盖在上面）——否则底部「继续」按钮被底栏盖住点不到，
+    //       表现为「选完学段无法确定」。与 ReviewRunnerClient 的底栏同一处理。
+    <div className="fixed inset-0 z-50 bg-bg flex flex-col">
       <div className="flex-1 flex flex-col items-center justify-start pt-12 px-5 overflow-y-auto pb-32">
         <motion.div
           initial={{ opacity: 0, y: 12 }}

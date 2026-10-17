@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { InnerHeader } from "@/components/InnerHeader";
 import { AppShell } from "@/components/layout/AppShell";
@@ -41,12 +40,13 @@ export default async function StagePage({
             <p className="text-sm text-ink-light mt-2">
               大学没有「年级」概念。去「教材中心」按 高数 / 大学英语 / 大学物理 等课程浏览官方课本。
             </p>
-            <Link
-              href={`/textbooks?stage=${stage.id}`}
+            {/* 用 <a> 硬跳转：静态导出 + 安卓 WebView 下 Next <Link> 软导航偶发 404 */}
+            <a
+              href={`/textbooks/?stage=${stage.id}`}
               className="btn-chunky-primary mt-5 inline-block px-8"
             >
               去教材中心
-            </Link>
+            </a>
           </div>
         </main>
       </AppShell>
@@ -69,7 +69,7 @@ export default async function StagePage({
         </div>
         <div className="w-full max-w-3xl mx-auto mt-4 grid grid-cols-1 sm:grid-cols-2 gap-3 lg:gap-5">
           {stage.grades.map(g => (
-            <Link
+            <a
               key={g}
               href={`/grade/${g}/`}
               className="duo-chunky-card group relative block rounded-2xl lg:rounded-3xl select-none overflow-hidden"
@@ -99,7 +99,7 @@ export default async function StagePage({
                   ›
                 </div>
               </div>
-            </Link>
+            </a>
           ))}
         </div>
       </main>

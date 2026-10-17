@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
 import { useProgressStore } from "@/store/progress";
 import { GradePicker } from "@/components/GradePicker";
 import { StagePicker } from "@/components/StagePicker";
@@ -36,8 +35,6 @@ export function HomeClient(_props: HomeClientProps) {
   const lastStage = useProgressStore(s => s.lastStage);
   const selectedGrade = useProgressStore(s => s.selectedGrade);
   const activeBookId = useProgressStore(s => s.activeBookId);
-  const setActiveBookId = useProgressStore(s => s.setActiveBookId);
-  const router = useRouter();
   const [hydrated, setHydrated] = useState(false);
 
   useEffect(() => setHydrated(true), []);
@@ -57,18 +54,20 @@ export function HomeClient(_props: HomeClientProps) {
   useEffect(() => {
     if (!hydrated) return;
     if (effectiveStage == null) return; // 交给 StagePicker
+    // 一律 window.location.assign 硬跳转：静态导出（output: export + trailingSlash）
+    // + 安卓 WebView 下 Next router 软导航偶发 404，会导致「选完学段打不开」。
     if (effectiveStage === "college" && selectedGrade == null) {
       // 大学：无年级概念，直接进入「大学」互动课程页（grade 13）
-      router.replace("/grade/13/");
+      window.location.assign("/grade/13/");
       return;
     }
     if (selectedGrade == null) return; // 交给 GradePicker(stage)
     if (activeBookId) {
-      router.replace(`/book/${activeBookId}/`);
+      window.location.assign(`/book/${activeBookId}/`);
     } else {
-      router.replace(`/grade/${selectedGrade}/`);
+      window.location.assign(`/grade/${selectedGrade}/`);
     }
-  }, [hydrated, effectiveStage, selectedStage, lastStage, selectedGrade, activeBookId, setActiveBookId, router]);
+  }, [hydrated, effectiveStage, selectedStage, lastStage, selectedGrade, activeBookId]);
 
   // 跳转前渲染空底色占位，避免闪 StagePicker / GradePicker
   if (!hydrated) {

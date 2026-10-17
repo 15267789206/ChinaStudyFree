@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { InnerHeader } from "@/components/InnerHeader";
 import { AppShell } from "@/components/layout/AppShell";
@@ -29,9 +28,10 @@ export default async function StageVersionsPage({
             <p className="text-sm text-ink-light mt-2">
               大学按学科 / 课程组织（高数 / 大学英语 / 大学物理…），每门课只有一个出版社版本。
             </p>
-            <Link href={`/textbooks?stage=${stage.id}`} className="btn-chunky-primary mt-5 inline-block px-8">
+            {/* <a> 硬跳转：静态导出 + 安卓 WebView 下 Next <Link> 软导航偶发 404 */}
+            <a href={`/textbooks/?stage=${stage.id}`} className="btn-chunky-primary mt-5 inline-block px-8">
               去教材中心
-            </Link>
+            </a>
           </div>
         </main>
       </AppShell>

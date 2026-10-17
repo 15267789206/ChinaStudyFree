@@ -25,7 +25,8 @@
     "tts:audio:dry": "node scripts/tts/generate-audio.mjs --dry-run",
     "package:offline": "bash scripts/package-offline.sh",
     "sync:android": "npx @capacitor/cli sync android",
-    "sync:ios": "npx @capacitor/cli sync ios"
+    "sync:ios": "npx @capacitor/cli sync ios",
+    "icons:android": "python scripts/gen-android-icons.py"
   },
   "dependencies": {
     "ws": "^8.18.0"
