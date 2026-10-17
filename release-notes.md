@@ -21,9 +21,9 @@
 
 | 文件 | 平台 / 用途 | 大小 |
 |---|---|---|
-| `ChinaStudyFree-Setup-0.1.0-x64.exe` | Windows 安装版（NSIS，推荐） | 56.4 MB |
+| `ChinaStudyFree-Setup-0.1.0-x64.exe` | Windows 安装版（NSIS，推荐） | 56.3 MB |
 | `ChinaStudyFree-Setup-0.1.0-x64.msi` | Windows 安装版（MSI，企业/机房批量部署） | 90.0 MB |
-| `ChinaStudyFree-Portable-0.1.0.zip` | Windows 便携版（解压即用，免安装） | 109.0 MB |
+| `ChinaStudyFree-Portable-0.1.0.zip` | Windows 便携版（解压即用，免安装） | 109.2 MB |
 | `ChinaStudyFree-Android-release.apk` | 安卓 release（已签名，可侧载） | 43.5 MB |
 | `ChinaStudyFree-Android-release.aab` | 安卓 App Bundle（用于上架 Google Play） | 43.4 MB |
 | `ChinaStudyFree-Offline-Bundle-0.1.0.zip` | 校园内网 / 离线部署（跨平台，含启动脚本） | 42.1 MB |
@@ -38,15 +38,22 @@
 - **修复「选择学段无法确定」**：首启引导页的「继续」按钮原先被**底部固定导航栏盖住**（同层级、DOM 靠后）导致点不到；已提升引导层叠层级，并顺带把「学段 → 教材版本 → 年级」全流程改为一律硬跳转（规避静态导出在 WebView 下的偶发软导航 404）。
 - 安卓 APK / AAB 已重新构建签名并替换（版本号仍为 0.1.0）。
 
+## 🔧 本次修订（全端，2026-10-17 · 第二弹）
+
+- **根除静态导出下的软导航 404（整类问题）**：上一轮只改了引导流程，本轮把**剩余全部** `next/router` 软导航与 `<Link>` 统一改为原生 `<a>` / `window.location.assign` 硬跳转 —— 覆盖底部/侧边导航、宝石徽章、排行榜卡、继续学习卡、切换教材、课程开始弹窗、课程 runner 的全部退出/完成/失败出口、知识手册、跳级测试、错题复习、故事阅读器、商店返回等共 15 个文件。 Capacitor WebView（安卓/iOS）与 Tauri WebView 下不再有点了没反应 / 404 的入口。
+- **AI 出题接口容错**：`generateQuiz` 原先不判断 HTTP 状态直接解析 JSON，遇到代理 502 / 静态兜底页等非 JSON 响应会抛意义不明的 `SyntaxError`；已改为先判状态、友好报错（与语音合成接口行为对齐）。
+- **服务端类型检查零错误**：为运行时依赖 `ws` 补最小类型声明（仅 tsc 使用，esbuild 打包擦除，运行时产物不变）。
+- 四端产物（Windows 安装/便携、安卓 APK/AAB、离线部署包）均已用最新代码重新构建替换（版本号仍为 0.1.0）。
+
 ## 🔐 SHA256 校验和
 
 ```text
-5f2fcb170a6e20b811201af88f8b94681cfb5db85f1c12b7c821e3f7e900e2d3  ChinaStudyFree-Setup-0.1.0-x64.exe
-7a2ba434c491223e000ef35b1583a02145101fac3ee691a40a897efdc4787617  ChinaStudyFree-Setup-0.1.0-x64.msi
-716f35b8eea0dcf3eb0d1003593bb55a35c017506880a854eebf07a9121dca14  ChinaStudyFree-Portable-0.1.0.zip
-5b18b8032be44df05b488ac64c9501374b17f7596905a461bb2b5e3cf0db0ad8  ChinaStudyFree-Android-release.apk
-fc7d8b5fd8b29dbe57d8332168bc286afe4813c2bc5f5ce1a4e3ff94d5edca69  ChinaStudyFree-Android-release.aab
-793871a925adfa0b03c8d9bc926892c6155228518bcb78d89567889aac1ebefb  ChinaStudyFree-Offline-Bundle-0.1.0.zip
+47132fb348ca90271adadbe515c67d3c32b0e39fb782a34c4e578fbdeef5471c  ChinaStudyFree-Setup-0.1.0-x64.exe
+e4cee449742cb94bb8ebc43da645b8f1664b8517d7915e0fa9772db3112a99af  ChinaStudyFree-Setup-0.1.0-x64.msi
+3294d7a9471e2a5e0f0df867abbe98efcbaecf48de8a15e317112ca2fb8af201  ChinaStudyFree-Portable-0.1.0.zip
+950b4a7ee3fc7626b90cb062879172588528da572cf69040d93e92b8975391eb  ChinaStudyFree-Android-release.apk
+47855b3df3a7e3ede45f611a055a2816f8e45e9cefef21c7c40ff6b48d0c45fc  ChinaStudyFree-Android-release.aab
+fdb7426cc64347fdbc871ac2178d3e592748f0558d781c59f68c0ef99e0b8746  ChinaStudyFree-Offline-Bundle-0.1.0.zip
 ```
 
 ## 🚀 快速开始
