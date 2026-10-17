@@ -47,6 +47,19 @@ export async function generateQuiz(opts: {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(opts),
   });
+  // 先判 HTTP 状态再解析 JSON：代理 502 / 静态兜底页等非 JSON 响应
+  // 会让 res.json() 抛 SyntaxError（信息对用户无意义）。
+  if (!res.ok) {
+    let msg = `AI 出题失败（HTTP ${res.status}）`;
+    try {
+      const d = await res.json();
+      msg = d.error || msg;
+    } catch {
+      /* 响应不是 JSON，用默认消息 */
+    }
+    const err = new Error(msg) as Error & { code?: string };
+    throw err;
+  }
   const data = await res.json();
   if (!data.ok) {
     const err = new Error(data.error || "AI 出题失败") as Error & { code?: string };

@@ -1,7 +1,6 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { Play, Pause } from "lucide-react";
 import { readingId } from "@cstf/core/reading";
@@ -43,7 +42,6 @@ interface Props {
 }
 
 export default function StoryReaderClient({ story, backHref }: Props) {
-  const router = useRouter();
   const [phase, setPhase] = useState<Phase>("reading");
   const [mode, setMode] = useState<PlayMode>("idle");
   const [currentIndex, setCurrentIndex] = useState<number | null>(null);
@@ -374,7 +372,7 @@ export default function StoryReaderClient({ story, backHref }: Props) {
 
             <div className="space-y-3">
               <button
-                onClick={() => router.push(backHref)}
+                onClick={() => window.location.assign(backHref)}
                 className="w-full py-4 rounded-2xl bg-primary text-white text-lg font-extrabold hover:bg-primary-dark transition-colors"
                 style={{ boxShadow: "0 4px 0 0 var(--color-primary-dark, #1a7f37)" }}
               >

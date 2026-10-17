@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import { useRouter } from "next/navigation";
 import { motion, AnimatePresence, useAnimation, useReducedMotion } from "framer-motion";
 import dynamic from "next/dynamic";
 import {
@@ -244,7 +243,6 @@ interface SessionStats {
 export function LessonRunner({ lesson, chestSlot = null }: LessonRunnerProps) {
   useSyncMute();
   useProgressTicker(); // 红心实时恢复
-  const router = useRouter();
   const recordComplete = useProgressStore(s => s.recordLessonComplete);
   const addMistake = useProgressStore(s => s.addMistake);
   const loseHeart = useProgressStore(s => s.loseHeart);
@@ -901,7 +899,8 @@ export function LessonRunner({ lesson, chestSlot = null }: LessonRunnerProps) {
     // 零进度（一题都没答过）直接退出，不弹确认（web-lesson-16）
     if (attemptedRef.current.size === 0 && solved.length === 0) {
       clearLessonSession();
-      router.push(`/book/${lesson.bookId}/`);
+      // 硬跳转：静态导出 + 安卓 WebView 下 router.push 偶发 404
+      window.location.assign(`/book/${lesson.bookId}/`);
       return;
     }
     setExitConfirmMounted(true);
@@ -913,7 +912,7 @@ export function LessonRunner({ lesson, chestSlot = null }: LessonRunnerProps) {
     playSfx("tap");
     haptic("medium");
     clearLessonSession();
-    router.push(`/book/${lesson.bookId}/`);
+    window.location.assign(`/book/${lesson.bookId}/`);
   }
 
   // ===== 断心遮罩的三个出口 =====
@@ -936,7 +935,7 @@ export function LessonRunner({ lesson, chestSlot = null }: LessonRunnerProps) {
     playSfx("tap");
     haptic("light");
     // 会话保留（不清除 activeLesson），复习完回来无缝续课
-    router.push("/review/");
+    window.location.assign("/review/");
   }
 
   function handleGateExit() {
@@ -945,7 +944,7 @@ export function LessonRunner({ lesson, chestSlot = null }: LessonRunnerProps) {
     setGateOpen(false);
     // 遮罩承诺过「回来接着上次继续」→ 保留 activeLesson 直接返回（与 iOS onQuit 一致）。
     // 绝不能走 setFailed(true)：那会连带清掉整节课的进度。
-    router.push(`/book/${lesson.bookId}/`);
+    window.location.assign(`/book/${lesson.bookId}/`);
   }
 
   // ============ 首次加载占位（等待 persist 恢复）============
@@ -963,7 +962,7 @@ export function LessonRunner({ lesson, chestSlot = null }: LessonRunnerProps) {
       <CompletionScreen
         lesson={lesson}
         stats={sessionStats}
-        onBack={() => router.push(`/book/${lesson.bookId}/`)}
+        onBack={() => window.location.assign(`/book/${lesson.bookId}/`)}
       />
     );
   }
@@ -974,7 +973,7 @@ export function LessonRunner({ lesson, chestSlot = null }: LessonRunnerProps) {
       <FailScreen
         lesson={lesson}
         onRetry={resetSession}
-        onBack={() => router.push(`/book/${lesson.bookId}/`)}
+        onBack={() => window.location.assign(`/book/${lesson.bookId}/`)}
       />
     );
   }
@@ -986,7 +985,7 @@ export function LessonRunner({ lesson, chestSlot = null }: LessonRunnerProps) {
         lesson={lesson}
         knowledge={lesson.knowledge}
         onStart={() => setShowIntro(false)}
-        onExit={() => router.push(`/book/${lesson.bookId}/`)}
+        onExit={() => window.location.assign(`/book/${lesson.bookId}/`)}
       />
     );
   }

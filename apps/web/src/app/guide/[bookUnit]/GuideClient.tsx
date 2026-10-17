@@ -10,7 +10,6 @@
  */
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, Close, Target } from "@/components/icons";
 import { TTSButton } from "@/components/TTSButton";
@@ -28,7 +27,6 @@ interface GuideClientProps {
 }
 
 export function GuideClient({ book, unit, summaries }: GuideClientProps) {
-  const router = useRouter();
   const [idx, setIdx] = useState(0);
   const total = summaries.length;
   const current = summaries[idx];
@@ -37,7 +35,8 @@ export function GuideClient({ book, unit, summaries }: GuideClientProps) {
   function close() {
     playSfx("tap");
     haptic("light");
-    router.push(`/book/${book.id}/`);
+    // 硬跳转：静态导出 + 安卓 WebView 下 router.push 偶发 404
+    window.location.assign(`/book/${book.id}/`);
   }
 
   function next() {

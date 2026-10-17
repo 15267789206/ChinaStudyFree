@@ -1,20 +1,20 @@
 "use client";
 
 /**
- * SoundLink — Next.js Link 的有声版本
+ * SoundLink — 有声导航链接
  *
- * 与 <Link> API 完全一致，多了一层"点击时播放 tap 音效 + 触感反馈"。
- * 用于所有需要导航的卡片/按钮型链接，避免每个组件都重复写 onClick + playSfx + haptic。
+ * 与 <a> 的用法一致，多了一层"点击时播放 tap 音效 + 触感反馈"。
+ * 用于所有需要导航的卡片/按钮型链接。
+ *
+ * ⚠️ 刻意不用 Next <Link>：静态导出（output: export + trailingSlash）下，
+ *    软导航在安卓 Capacitor WebView 里偶发 404，原生 <a> 硬跳转才可靠。
  */
 
-import Link, { type LinkProps } from "next/link";
 import type { AnchorHTMLAttributes, ReactNode } from "react";
 import { playSfx, type SfxName } from "@/lib/sfx";
 import { haptic, type HapticKind } from "@/lib/haptic";
 
-type AnchorProps = Omit<AnchorHTMLAttributes<HTMLAnchorElement>, keyof LinkProps>;
-
-interface SoundLinkProps extends LinkProps, AnchorProps {
+interface SoundLinkProps extends AnchorHTMLAttributes<HTMLAnchorElement> {
   children: ReactNode;
   /** 音效名，默认 "tap" */
   sfx?: SfxName;
@@ -30,7 +30,7 @@ export function SoundLink({
   ...rest
 }: SoundLinkProps) {
   return (
-    <Link
+    <a
       {...rest}
       onClick={e => {
         playSfx(sfx);
@@ -39,6 +39,6 @@ export function SoundLink({
       }}
     >
       {children}
-    </Link>
+    </a>
   );
 }

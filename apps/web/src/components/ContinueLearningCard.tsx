@@ -11,8 +11,6 @@
  */
 
 import { useEffect, useState } from "react";
-import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { Mascot } from "./Mascot";
 import { Check, Sparkle } from "@/components/icons";
@@ -50,7 +48,8 @@ export function ContinueLearningCard() {
       transition={{ type: "spring", damping: 18, stiffness: 220 }}
       className="w-full max-w-3xl lg:max-w-6xl mb-6 lg:mb-10"
     >
-      <Link
+      {/* <a> 硬跳转：静态导出 + 安卓 WebView 下 Next <Link> 软导航偶发 404 */}
+      <a
         href={href}
         onClick={() => {
           playSfx("tap");
@@ -103,7 +102,7 @@ export function ContinueLearningCard() {
             transition={{ delay: 0.3, duration: 0.8 }}
           />
         </motion.div>
-      </Link>
+      </a>
     </motion.div>
   );
 }
@@ -174,7 +173,6 @@ export function CurrentBookBadge({
   gradeBooks: Book[];
 }) {
   const [open, setOpen] = useState(false);
-  const router = useRouter();
   const setActiveBookId = useProgressStore(s => s.setActiveBookId);
   const setSelectedGrade = useProgressStore(s => s.setSelectedGrade);
 
@@ -195,7 +193,8 @@ export function CurrentBookBadge({
     setOpen(false);
     if (b.id === book.id) return;
     setActiveBookId(b.id);
-    router.push(`/book/${b.id}/`);
+    // <a> 硬跳转：静态导出 + 安卓 WebView 下 Next router 软导航偶发 404
+    window.location.assign(`/book/${b.id}/`);
   }
 
   function changeGrade() {
@@ -205,7 +204,7 @@ export function CurrentBookBadge({
     // 清空年级 + 当前教材 → 首页回到 GradePicker 引导
     setActiveBookId(null);
     setSelectedGrade(null);
-    router.push("/");
+    window.location.assign("/");
   }
 
   return (

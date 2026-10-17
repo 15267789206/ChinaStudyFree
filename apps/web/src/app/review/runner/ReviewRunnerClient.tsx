@@ -15,7 +15,7 @@
  */
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import dynamic from "next/dynamic";
 import { motion, AnimatePresence, useAnimation, useReducedMotion } from "framer-motion";
 import type { Question } from "@/types";
@@ -61,7 +61,6 @@ interface ReviewStats {
 
 export function ReviewRunnerClient() {
   useSyncMute();
-  const router = useRouter();
   const searchParams = useSearchParams();
   // 断心跳转标记（?from=hearts）：完成页多给一句「红心会慢慢恢复」的安抚。
   const fromHearts = searchParams.get("from") === "hearts";
@@ -194,7 +193,7 @@ export function ReviewRunnerClient() {
       const correct = [...attempts.values()].filter(Boolean).length;
       awardReviewXP(correct, attempts.size);
     }
-    router.push("/review/");
+    window.location.assign("/review/");
   }
 
   // ============ 加载占位 ============

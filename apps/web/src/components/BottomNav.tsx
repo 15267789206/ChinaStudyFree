@@ -8,7 +8,6 @@
 
 import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
-import Link from "next/link";
 import {
   Home as HomeIcon,
   HomeFill,
@@ -183,7 +182,7 @@ export function BottomNav() {
           const Icon = active ? item.IconActive : item.Icon;
           const badge = getBadge(item);
           return (
-            <Link
+            <a
               key={item.href}
               href={item.href}
               onClick={() => {
@@ -231,7 +230,7 @@ export function BottomNav() {
               >
                 {item.label}
               </span>
-            </Link>
+            </a>
           );
         })}
       </div>

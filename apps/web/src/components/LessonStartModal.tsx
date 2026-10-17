@@ -7,7 +7,6 @@
  * 若红心为 0，按钮禁用并显示下一颗心的倒计时。
  */
 
-import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import { Modal } from "./Modal";
 import { Mascot } from "./Mascot";
@@ -56,7 +55,6 @@ export function LessonStartModal({
   kpTotal,
   isExam = false,
 }: LessonStartModalProps) {
-  const router = useRouter();
   const toast = useToast();
   const now = useProgressTicker();
   const hearts = useProgressStore(s => s.hearts);
@@ -114,7 +112,8 @@ export function LessonStartModal({
     if (!canStart) return;
     playSfx("tap");
     haptic("medium");
-    router.push(`/lesson/${bookId}__${lessonId}/`);
+    // 硬跳转：静态导出 + 安卓 WebView 下 router.push 偶发 404
+    window.location.assign(`/lesson/${bookId}__${lessonId}/`);
   }
 
   function handleRestart() {

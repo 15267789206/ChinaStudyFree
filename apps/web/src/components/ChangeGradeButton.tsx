@@ -11,13 +11,11 @@
  * 想换学段请用 GradePicker 上的「切换学段」入口（显式清空 selectedStage）。
  */
 
-import { useRouter } from "next/navigation";
 import { useProgressStore } from "@/store/progress";
 import { playSfx } from "@/lib/sfx";
 import { haptic } from "@/lib/haptic";
 
 export function ChangeGradeButton() {
-  const router = useRouter();
   const setSelectedGrade = useProgressStore(s => s.setSelectedGrade);
   const setActiveBookId = useProgressStore(s => s.setActiveBookId);
 
@@ -30,7 +28,8 @@ export function ChangeGradeButton() {
         // 只清年级与当前教材，保留学段 → 首页进入同批次的年级选择
         setActiveBookId(null);
         setSelectedGrade(null);
-        router.push("/");
+        // 硬跳转：静态导出 + 安卓 WebView 下 router.push 偶发 404
+        window.location.assign("/");
       }}
       className="text-xs lg:text-sm font-extrabold text-secondary hover:underline"
     >

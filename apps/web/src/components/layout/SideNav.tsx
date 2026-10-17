@@ -12,7 +12,6 @@
  * 底部：免费深色模式三态开关。
  */
 
-import Link from "next/link";
 import { usePathname } from "next/navigation";
 import type { ComponentType } from "react";
 import {
@@ -74,7 +73,7 @@ export function SideNav() {
   return (
     <nav className="flex flex-col gap-2 w-full h-full" aria-label="主导航">
       {/* Logo —— 文字 wordmark（lg+）；md 窄栏显示熊猫图标 */}
-      <Link
+      <a
         href="/"
         onClick={() => {
           playSfx("tap");
@@ -89,13 +88,13 @@ export function SideNav() {
         <span className="lg:hidden inline-flex items-center justify-center w-10 h-10 rounded-2xl bg-primary/10 text-primary font-extrabold text-lg">
           聪
         </span>
-      </Link>
+      </a>
 
       {ITEMS.map(item => {
         const active = isActive(pathname, item);
         const Icon = active ? item.IconActive : item.Icon;
         return (
-          <Link
+          <a
             key={item.label}
             href={item.href}
             onClick={() => {
@@ -125,7 +124,7 @@ export function SideNav() {
             >
               {item.label}
             </span>
-          </Link>
+          </a>
         );
       })}
 

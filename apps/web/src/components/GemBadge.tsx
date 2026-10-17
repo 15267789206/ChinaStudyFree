@@ -8,7 +8,6 @@
  */
 
 import { useEffect, useRef, useState } from "react";
-import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { useProgressStore } from "@/store/progress";
 import { Gem } from "@/components/icons";
@@ -74,7 +73,12 @@ export function GemBadge({ className = "", asLink = true }: GemBadgeProps) {
   );
 
   if (asLink) {
-    return <Link href="/shop">{inner}</Link>;
+    // <a> 硬跳转：静态导出 + 安卓 WebView 下 Next <Link> 软导航偶发 404
+    return (
+      <a href="/shop/" className="inline-block">
+        {inner}
+      </a>
+    );
   }
   return inner;
 }

@@ -13,7 +13,7 @@
  */
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import dynamic from "next/dynamic";
 import { motion, AnimatePresence, useAnimation, useReducedMotion } from "framer-motion";
 import {
@@ -63,7 +63,6 @@ function newSeed(): string {
 
 export function JumpClient() {
   useSyncMute();
-  const router = useRouter();
   const searchParams = useSearchParams();
   const bookId = searchParams.get("book") ?? "";
   const unitNumber = Number(searchParams.get("unit") ?? "0");
@@ -242,7 +241,7 @@ export function JumpClient() {
   function exitToPath() {
     playSfx("tap");
     haptic("light");
-    router.push(bookId ? `/book/${bookId}/` : "/");
+    window.location.assign(bookId ? `/book/${bookId}/` : "/");
   }
 
   function handleGateRefill() {

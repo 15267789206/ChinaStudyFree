@@ -16,7 +16,6 @@
 
 import { useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Link from "next/link";
 import { useToast } from "@/components/Toast";
 import { Sparkle } from "@/components/icons";
 import {
@@ -139,14 +138,15 @@ export default function ShopPage() {
       {/* Header —— 仅移动端：白底 sticky（lg+ 宝石数由右栏 RightRail HUD 常驻展示） */}
       <div className="bg-white border-b border-bg-softer sticky top-0 z-10 lg:hidden">
         <div className="max-w-3xl mx-auto px-4 py-2.5 lg:px-0 flex items-center gap-3">
-          <Link
+          {/* <a> 硬跳转：静态导出 + 安卓 WebView 下 Next <Link> 软导航偶发 404 */}
+          <a
             href="/"
             className="inline-flex items-center justify-center w-10 h-10 rounded-full text-ink-light hover:text-primary hover:bg-bg-soft transition-colors shrink-0 lg:hidden"
             onClick={() => playSfx("tap")}
             aria-label="返回首页"
           >
             <ArrowLeft className="w-5 h-5" />
-          </Link>
+          </a>
           <div className="flex-1 min-w-0 lg:hidden">
             <div className="text-base font-extrabold text-ink leading-tight">商店</div>
           </div>

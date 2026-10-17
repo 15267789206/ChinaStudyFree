@@ -8,7 +8,6 @@
  */
 
 import { useEffect, useState } from "react";
-import Link from "next/link";
 import {
   UNLOCK_LESSONS,
   botsForWeek,
@@ -77,7 +76,7 @@ function LeaderboardTeaserCard() {
   }
 
   return (
-    <Link
+    <a
       href="/league/"
       onClick={() => {
         playSfx("tap");
@@ -127,7 +126,7 @@ function LeaderboardTeaserCard() {
           </span>
         </div>
       </CardShell>
-    </Link>
+    </a>
   );
 }
 
