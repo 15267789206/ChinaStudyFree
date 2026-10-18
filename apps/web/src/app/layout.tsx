@@ -7,6 +7,7 @@ import { ToastProvider } from "@/components/Toast";
 import { DailyRewardWatcher } from "@/components/DailyRewardWatcher";
 import { AchievementWatcher } from "@/components/AchievementWatcher";
 import { LeagueWatcher } from "@/components/LeagueWatcher";
+import ErrorBoundary from "@/components/ErrorBoundary";
 
 const nunito = Nunito({
   subsets: ["latin"],
@@ -103,15 +104,17 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       {/* 底部导航的高度补偿由 BottomNav 自带的占位条负责（web-lesson-15）：
           课程 / 阅读器等沉浸页导航隐藏时不再留 64px 死空隙 */}
       <body className="min-h-screen bg-bg-soft">
-        <ThemeProvider>
-          <ToastProvider>
-            <DailyRewardWatcher />
-            <AchievementWatcher />
-            <LeagueWatcher />
-            {children}
-            <BottomNav />
-          </ToastProvider>
-        </ThemeProvider>
+        <ErrorBoundary>
+          <ThemeProvider>
+            <ToastProvider>
+              <DailyRewardWatcher />
+              <AchievementWatcher />
+              <LeagueWatcher />
+              {children}
+              <BottomNav />
+            </ToastProvider>
+          </ThemeProvider>
+        </ErrorBoundary>
       </body>
     </html>
   );

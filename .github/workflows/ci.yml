@@ -1,0 +1,74 @@
+name: CI
+
+# 质量门禁：每次 PR / 推到 main 都跑「类型检查 + 单元测试 + Lint + 数据生成冒烟」，
+# 保证「改了不会悄悄坏」。与 build-installers.yml（出安装包）互补：CI 轻量、常驻；
+# build-installers 重、只在发版 tag / 手动触发时跑。
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+env:
+  NODE_VERSION: "22"
+
+jobs:
+  quality:
+    name: 质量门禁（类型检查 / 单元测试 / Lint）
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - name: 核心单元测试（@cstf/core，黄金向量锁死 Web/iOS 双端一致）
+        run: npm run test --workspace=@cstf/core
+      - name: 全 workspace 类型检查（core / web / server）
+        run: npm run type-check
+      - name: Web Lint
+        run: npm run lint --workspace=china-study-free
+
+  data-build:
+    name: 前端数据生成冒烟
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - name: 生成前端数据（output/ → public/data）
+        run: npm run build:data
+      - name: 校验题目三定律（答案∈选项 / 无重复选项 / 判断合法）
+        run: npm run validate:quizzes
+
+  audit:
+    name: 依赖安全审计
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm audit --audit-level=high
+
+  secret-scan:
+    name: 密钥泄漏扫描
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 扫描明显密钥（演示密钥 / sk- / AKIA / 私钥块）
+        run: |
+          if grep -rIEn '(sk-[A-Za-z0-9]{20,}|AKIA[0-9A-Z]{16}|-----BEGIN (RSA |EC |OPENSSH|AES)?PRIVATE KEY-----)' \
+                --exclude-dir=node_modules --exclude-dir=.git --exclude=.env.example . ; then
+            echo "::error::发现疑似密钥，请确认不是真实凭据后再提交"
+            exit 1
+          fi
+          echo "未检测到明显密钥"

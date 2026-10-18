@@ -82,13 +82,45 @@ app.use((req, res, next) => {
   next();
 });
 
+// ---- 安全响应头（纵深防御；作用于本服务托管的静态站 / API）----
+// 说明：CSP 对静态 SPA 刻意保持宽松（依赖内联 boot 脚本与兜底 eval）；
+// 如需更严格，应改 nonce 方案，见 SECURITY.md。
+app.use((_req, res, next) => {
+  res.setHeader("X-Content-Type-Options", "nosniff");
+  res.setHeader("X-Frame-Options", "SAMEORIGIN");
+  res.setHeader("Referrer-Policy", "no-referrer-when-downgrade");
+  res.setHeader("Permissions-Policy", "camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()");
+  res.setHeader("Cross-Origin-Opener-Policy", "same-origin");
+  res.setHeader(
+    "Content-Security-Policy",
+    "default-src 'self'; " +
+      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; " +
+      "style-src 'self' 'unsafe-inline' https:; " +
+      "img-src 'self' data: blob: https:; " +
+      "media-src 'self' data: blob: https:; " +
+      "font-src 'self' data: https:; " +
+      "connect-src 'self' https: http://localhost:* http://127.0.0.1:*; " +
+      "frame-ancestors 'self'; base-uri 'self'; form-action 'self'",
+  );
+  next();
+});
+
+// ---- 结构化日志（时间戳 + 分级 + 消息 + 可选元数据，JSON 单行便于收集）----
+// 启动横幅保持人类可读；运行时 / 错误用结构化输出，便于线上与桌面排障。
+function log(level: "info" | "warn" | "error", msg: string, meta?: Record<string, unknown>) {
+  const line = JSON.stringify({ t: new Date().toISOString(), level, msg, ...(meta ? { meta } : {}) });
+  if (level === "error") console.error(line);
+  else if (level === "warn") console.warn(line);
+  else console.log(line);
+}
+
 // ---- 统一错误响应 ----
 function fail(res: Response, status: number, message: string, code?: string) {
   res.status(status).json({ ok: false, error: message, code });
 }
 
 app.use((err: unknown, _req: Request, res: Response, _next: NextFunction) => {
-  console.error("[ai-server] 未捕获错误:", err);
+  log("error", "未捕获的中间件错误", { err: String((err as Error)?.stack || err) });
   fail(res, 500, "服务器内部错误");
 });
 
@@ -97,6 +129,7 @@ app.get("/api/health", (_req, res) => {
   const edgeEnabled = process.env.EDGE_TTS_ENABLED !== "false";
   res.json({
     ok: true,
+    version: process.env.CSF_VERSION || "0.1.0",
     llm: !!process.env.LLM_API_KEY,
     tts: !!process.env.DASHSCOPE_API_KEY || edgeEnabled,
     ttsBackend: process.env.DASHSCOPE_API_KEY ? "dashscope" : edgeEnabled ? "edge" : "none",
@@ -243,6 +276,16 @@ if (fs.existsSync(STATIC_DIR)) {
 } else {
   console.warn(`[ai-server] 静态目录不存在: ${STATIC_DIR}（仅 AI 接口可用）`);
 }
+
+// ---- 进程级兜底：未处理的 Promise 拒绝 / 未捕获异常记结构化日志 ----
+// 这是「本地常驻 AI 服务」，刻意不主动退出进程（避免误杀桌面托盘内嵌的服务），
+// 只落日志便于排障。
+process.on("unhandledRejection", (reason) => {
+  log("error", "unhandledRejection", { reason: String(reason) });
+});
+process.on("uncaughtException", (err) => {
+  log("error", "uncaughtException", { error: String((err as Error)?.stack || err) });
+});
 
 app.listen(PORT, HOST, () => {
   console.log(`✅ ChinaStudyFree AI 服务已启动: http://${HOST}:${PORT}`);

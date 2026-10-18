@@ -10,6 +10,8 @@
 - Docker = 静态 `out/` + Express AI 后端，一键起服务
 - 统一在线 AI 后端（`apps/server`）：出题 / 讲解 / 故事生成 + 语音合成 + 课本配图
 
+> 🤝 **参与贡献 / 安全 / 版本记录**：欢迎提 Issue 与 PR！开发环境、代码规约、双端黄金向量测试要求见 [CONTRIBUTING.md](CONTRIBUTING.md)。安全与儿童隐私政策见 [SECURITY.md](SECURITY.md)；版本变更见 [CHANGELOG.md](CHANGELOG.md)。
+
 ---
 
 ## 一、学段与教材中心（本次新增）
