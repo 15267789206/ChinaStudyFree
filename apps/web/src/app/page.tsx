@@ -28,6 +28,7 @@ export default async function HomePage() {
       totalBooks={index.books.length}
       totalLessons={index.totalLessons}
       totalQuestions={index.totalQuestions}
+      validBookIds={index.books.map(b => b.id)}
     />
   );
 }

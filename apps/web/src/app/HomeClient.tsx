@@ -12,6 +12,8 @@ interface HomeClientProps {
   totalBooks: number;
   totalLessons: number;
   totalQuestions: number;
+  /** 当前构建里真实存在的 bookId 集合（来自 index.json），用于校验 activeBookId。 */
+  validBookIds?: string[];
 }
 
 /**
@@ -30,7 +32,7 @@ interface HomeClientProps {
  *     首页仍会用它恢复，绝不把用户打回学段引导；
  *   - 若学段字段全丢但还记得年级，用 stageOfGrade(grade) 反推（自愈）。
  */
-export function HomeClient(_props: HomeClientProps) {
+export function HomeClient({ validBookIds }: HomeClientProps) {
   const selectedStage = useProgressStore(s => s.selectedStage);
   const lastStage = useProgressStore(s => s.lastStage);
   const selectedGrade = useProgressStore(s => s.selectedGrade);
@@ -62,7 +64,13 @@ export function HomeClient(_props: HomeClientProps) {
       return;
     }
     if (selectedGrade == null) return; // 交给 GradePicker(stage)
-    if (activeBookId) {
+    // 防御：activeBookId 可能是旧版本遗留、指向当前构建已不存在的书，
+    // 直接 assign 会把用户扔进 404 死页（无底栏、无法返回）。先校验存在性，
+    // 不存在则回退到年级页（/grade/{grade}/ 一定存在）。validBookIds 缺省时信任 activeBookId。
+    const bookOk =
+      !!activeBookId &&
+      (!validBookIds || validBookIds.length === 0 || validBookIds.includes(activeBookId));
+    if (bookOk) {
       window.location.assign(`/book/${activeBookId}/`);
     } else {
       window.location.assign(`/grade/${selectedGrade}/`);
