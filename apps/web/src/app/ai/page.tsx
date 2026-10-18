@@ -57,22 +57,22 @@ export default function AIDemoPage() {
       <div className="mb-4 grid grid-cols-2 gap-3 sm:grid-cols-4">
         <label className="text-xs text-gray-600">
           学科
-          <input className="mt-1 w-full rounded-lg border px-2 py-1.5" value={subject} onChange={(e) => setSubject(e.target.value)} />
+          <input className="mt-1 w-full rounded-lg border px-2 py-1.5 text-base" value={subject} onChange={(e) => setSubject(e.target.value)} />
         </label>
         <label className="text-xs text-gray-600">
           年级
-          <input className="mt-1 w-full rounded-lg border px-2 py-1.5" value={grade} onChange={(e) => setGrade(e.target.value)} />
+          <input className="mt-1 w-full rounded-lg border px-2 py-1.5 text-base" value={grade} onChange={(e) => setGrade(e.target.value)} />
         </label>
         <label className="col-span-2 text-xs text-gray-600">
           知识点
-          <input className="mt-1 w-full rounded-lg border px-2 py-1.5" value={topic} onChange={(e) => setTopic(e.target.value)} />
+          <input className="mt-1 w-full rounded-lg border px-2 py-1.5 text-base" value={topic} onChange={(e) => setTopic(e.target.value)} />
         </label>
       </div>
 
       <div className="mb-4 flex items-center gap-3">
         <label className="text-xs text-gray-600">
           题数
-          <input type="number" min={1} max={15} className="mt-1 w-20 rounded-lg border px-2 py-1.5" value={count} onChange={(e) => setCount(Number(e.target.value))} />
+          <input type="number" min={1} max={15} className="mt-1 w-20 rounded-lg border px-2 py-1.5 text-base" value={count} onChange={(e) => setCount(Number(e.target.value))} />
         </label>
         <button
           onClick={run}

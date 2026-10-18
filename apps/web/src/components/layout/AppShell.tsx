@@ -40,7 +40,7 @@ export function AppShell({ children, right, centerMaxWidth = 640 }: AppShellProp
           : "lg:[grid-template-columns:260px_minmax(0,1fr)]")
       }
     >
-      <aside className="hidden md:block md:sticky md:top-6 md:self-start md:h-[calc(100vh-3rem)]">
+      <aside className="hidden md:block md:sticky md:top-6 md:self-start md:h-[calc(100dvh-3rem)]">
         <SideNav />
       </aside>
 
@@ -54,7 +54,7 @@ export function AppShell({ children, right, centerMaxWidth = 640 }: AppShellProp
       </div>
 
       {showRight && (
-        <aside className="hidden lg:block lg:sticky lg:top-6 lg:self-start lg:h-[calc(100vh-3rem)] overflow-y-auto pb-6">
+        <aside className="hidden lg:block lg:sticky lg:top-6 lg:self-start lg:h-[calc(100dvh-3rem)] overflow-y-auto pb-6">
           {right ?? <RightRail />}
         </aside>
       )}

@@ -220,7 +220,7 @@ export function TextbooksClient() {
               value={query}
               onChange={e => setQuery(e.target.value)}
               placeholder={`在「${stageMeta?.name}」教材中搜索（书名 / 学科 / 年级 / 出版社）`}
-              className="w-full px-4 py-3 rounded-2xl border-2 border-bg-softer bg-white text-sm focus:border-secondary outline-none"
+              className="w-full px-4 py-3 rounded-2xl border-2 border-bg-softer bg-white text-base focus:border-secondary outline-none"
             />
           </div>
         </div>

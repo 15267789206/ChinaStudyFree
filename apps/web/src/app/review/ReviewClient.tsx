@@ -164,7 +164,7 @@ export function ReviewClient() {
           initial={{ y: 80, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ type: "spring", damping: 20, stiffness: 240, delay: 0.2 }}
-          className="fixed bottom-20 lg:bottom-6 left-0 right-0 z-20 px-5 pointer-events-none"
+          className="fixed bottom-[calc(3.5rem+env(safe-area-inset-bottom,0px)+0.75rem)] lg:bottom-6 left-0 right-0 z-20 px-5 pointer-events-none"
         >
           <div className="max-w-2xl lg:max-w-4xl mx-auto flex justify-center">
             <SoundLink

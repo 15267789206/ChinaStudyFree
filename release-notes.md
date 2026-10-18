@@ -24,8 +24,8 @@
 | `ChinaStudyFree-Setup-0.1.0-x64.exe` | Windows 安装版（NSIS，推荐） | 59.3 MB |
 | `ChinaStudyFree-Setup-0.1.0-x64.msi` | Windows 安装版（MSI，企业/机房批量部署） | 96.3 MB |
 | `ChinaStudyFree-Portable-0.1.0.zip` | Windows 便携版（解压即用，免安装） | 119.8 MB |
-| `ChinaStudyFree-Android-release.apk` | 安卓 release（已签名，可侧载） | 49.1 MB |
-| `ChinaStudyFree-Android-release.aab` | 安卓 App Bundle（用于上架 Google Play） | 49.1 MB |
+| `ChinaStudyFree-Android-release.apk` | 安卓 release（已签名，可侧载） | 51.5 MB |
+| `ChinaStudyFree-Android-release.aab` | 安卓 App Bundle（用于上架 Google Play） | 51.5 MB |
 | `ChinaStudyFree-Offline-Bundle-0.1.0.zip` | 校园内网 / 离线部署（跨平台，含启动脚本） | 47.8 MB |
 
 > 源码 zip / tar.gz 由 GitHub 按 tag 自动生成。
@@ -67,14 +67,28 @@
 
 四端产物均已用最新代码重新构建并替换（版本号仍为 0.1.0）。
 
+## 🔧 本次修订（安卓 · 第五弹：WebView 交互加固，2026-10-18）
+
+针对安卓 WebView 的已知交互坑做系统性加固（前端改动，重出安卓包即可生效；对 iOS / Web 端同样更安全）：
+
+- **动态视口高度**：原来全站 `min-h-screen` 用的是 `100vh`，在安卓 Chrome / iOS Safari 里会把被系统导航条、地址栏遮挡的区域也算进去，导致满屏容器底部内容被切掉或不可达。现加 `@supports (height:100dvh){ .min-h-screen{ min-height:100dvh } }` 自动升级到动态视口高度（老内核自动回落 100vh，不回归）；桌面侧栏同步改用 `100dvh`。
+- **去掉点按延迟 / 双击缩放**：给所有按钮、链接、可点击元素加 `touch-action: manipulation`，消除安卓 300ms 点按延迟与误触双击缩放（不影响双指缩放），点哪响哪。
+- **禁止下拉刷新 / 橡皮筋**：`html, body` 加 `overscroll-behavior-y: none`，避免安卓 WebView 页面级 overscroll 与下拉刷新干扰应用内滚动。
+- **防横屏字体放大**：`html` 加 `-webkit-text-size-adjust:100%`，避免安卓横屏时浏览器自动放大字体把布局撑乱。
+- **修输入框聚焦整页缩放（真缺陷）**：安卓 WebView 聚焦 `<16px` 的输入框会整页缩放——AI 出题页 4 个输入框、教材中心搜索框原本字号偏小。已统一把表单控件抬到 16px，并给这些输入框显式 `text-base`。
+- **修悬浮「开始复习」按钮与底栏重叠**：错题本页的悬浮「开始复习」条原来固定在 `bottom-20`，在带安全区的机型上会压到底部导航栏；现改为 `calc(3.5rem + 安全区 + 0.75rem)`，永远在底栏上方。
+- 注：当前仍保持默认 `viewport-fit`（系统栏由 WebView 预留），各安全区内边距暂为空操作但不影响；刻意**未**开 `viewport-fit=cover`，否则顶部一堆置顶头部会被状态栏遮挡。
+
+四端产物均已用最新代码重新构建并替换（版本号仍为 0.1.0）。
+
 ## 🔐 SHA256 校验和
 
 ```text
 70eee097ec2ae709b8c79111cf29d9be68fb43e09478ef33df5390a6b97e813b  ChinaStudyFree-Setup-0.1.0-x64.exe
 237752fd00498441f86ba7eb17093dc04b7a17306e924f35ff9229ba248bd83f  ChinaStudyFree-Setup-0.1.0-x64.msi
 5ac80748b5b4987751bb479efe55c8fdd587d18c1a4f638698bac782202058b7  ChinaStudyFree-Portable-0.1.0.zip
-cebfbc042a7330403eb9cc50d36a799da1df039174e5b2202c4e32f706c9d714  ChinaStudyFree-Android-release.apk
-4b1568b931ac0eab02ec6acfddb16991e91dc510dd1d58f34d5e0af8db4cb7f5  ChinaStudyFree-Android-release.aab
+4b90adb37fb0b33130c076c66090ed322824350776425bc3f6dc9ee29e23d989  ChinaStudyFree-Android-release.apk
+621538164e879d526fbc51701258f01e614f4fe367dbecb608edf8a972f2a66b  ChinaStudyFree-Android-release.aab
 05f6000c23b2b0bf851170079b0c476a0562fc0e3fe49d36a28a8dda5894627b  ChinaStudyFree-Offline-Bundle-0.1.0.zip
 ```
 

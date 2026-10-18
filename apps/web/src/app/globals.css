@@ -316,3 +316,50 @@ button:focus-visible,
   background-color: var(--app-bg-softer);
   color: var(--app-ink-softer);
 }
+
+/* ============================================================
+ * 移动端 / 安卓 WebView 加固（web-android-hardening）
+ * 这些规则对所有端都安全，主要解决安卓 WebView 的已知交互坑。
+ * ============================================================ */
+
+/* 1) 动态视口高度：安卓 Chrome / iOS Safari 的 100vh 会把被系统导航条 /
+ *    地址栏遮挡的区域也算进去，导致满屏容器底部内容被切掉或不可达。
+ *    dvh 取"当前可见"视口高度。@supports 保证老内核不支持时回落到
+ *    Tailwind 自带的 100vh，不引发回归。 */
+@supports (height: 100dvh) {
+  .min-h-screen {
+    min-height: 100dvh;
+  }
+}
+
+/* 2) 去掉安卓点击的 300ms 延迟 + 禁止双击缩放（不影响双指缩放），
+ *    所有可交互元素即时响应。 */
+button,
+a,
+[role="button"],
+label,
+select,
+textarea {
+  touch-action: manipulation;
+}
+
+/* 3) 禁止安卓 WebView 的橡皮筋回弹 / 下拉刷新与页面级 overscroll
+ *    干扰应用内滚动（不影响正常滚动）。 */
+html,
+body {
+  overscroll-behavior-y: none;
+}
+
+/* 4) 防止安卓横屏时浏览器自动放大字体。 */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+/* 5) 表单控件统一 16px：安卓 WebView 聚焦 <16px 的输入框会整页缩放，
+ *    这里兜底所有输入框（具体输入处也显式加了 text-base）。 */
+input,
+textarea,
+select {
+  font-size: 16px;
+}
