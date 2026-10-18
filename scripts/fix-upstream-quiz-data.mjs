@@ -130,45 +130,49 @@ for (const fix of FIXES) {
       missing++;
       continue;
     }
-    const q = arr.find(x => x.id === fix.id);
-    if (!q) {
+    // 按 id 改题必须 filter 出同 id 全部再按内容识别（规则 #16：
+    // 上游同段 id 可能重复，绝不能用 find 只取第一条，否则会漏改第二条）。
+    const matches = arr.filter(x => x.id === fix.id);
+    if (matches.length === 0) {
       console.log(`⚠️  ${fix.file} ${fix.section} #${fix.id} 找不到`);
       missing++;
       continue;
     }
-    // before 断言：任一字段对不上就整条跳过，绝不再 Object.assign
-    let assertOk = true;
-    for (const [k, v] of Object.entries(fix.before)) {
-      const cur = q[k];
-      const same = Array.isArray(v)
-        ? Array.isArray(cur) && v.length === cur.length && v.every((x, i) => x === cur[i])
-        : cur === v;
-      if (!same) {
-        console.log(`⚠️  ${fix.file} ${fix.section} #${fix.id} 字段 ${k} 与预期不符:\n     实际 ${JSON.stringify(cur)}\n     预期 ${JSON.stringify(v)}`);
-        assertOk = false;
-        break;
-      }
-    }
-    if (!assertOk) {
-      // 幂等友好：如果当前已等于目标状态，视为已修复
-      const already = Object.entries(fix.set).every(([k, v]) => {
+    for (const q of matches) {
+      // before 断言：任一字段对不上就整条跳过，绝不再 Object.assign
+      let assertOk = true;
+      for (const [k, v] of Object.entries(fix.before)) {
         const cur = q[k];
-        return Array.isArray(v)
+        const same = Array.isArray(v)
           ? Array.isArray(cur) && v.length === cur.length && v.every((x, i) => x === cur[i])
           : cur === v;
-      });
-      if (already) {
-        console.log(`✅ ${fix.file} ${fix.section} #${fix.id} 已是目标状态 (${root === ROOTS[0] ? "output" : "upstream/output"})`);
-        applied++;
-      } else {
-        missing++;
+        if (!same) {
+          console.log(`⚠️  ${fix.file} ${fix.section} #${fix.id} 字段 ${k} 与预期不符:\n     实际 ${JSON.stringify(cur)}\n     预期 ${JSON.stringify(v)}`);
+          assertOk = false;
+          break;
+        }
       }
-      continue;
+      if (!assertOk) {
+        // 幂等友好：如果当前已等于目标状态，视为已修复
+        const already = Object.entries(fix.set).every(([k, v]) => {
+          const cur = q[k];
+          return Array.isArray(v)
+            ? Array.isArray(cur) && v.length === cur.length && v.every((x, i) => x === cur[i])
+            : cur === v;
+        });
+        if (already) {
+          console.log(`✅ ${fix.file} ${fix.section} #${fix.id} 已是目标状态 (${root === ROOTS[0] ? "output" : "upstream/output"})`);
+          applied++;
+        } else {
+          missing++;
+        }
+        continue;
+      }
+      Object.assign(q, fix.set);
+      fs.writeFileSync(p, JSON.stringify(quiz, null, 2), "utf-8");
+      applied++;
+      console.log(`✅ ${fix.file} ${fix.section} #${fix.id} 已修 (${root === ROOTS[0] ? "output" : "upstream/output"})`);
     }
-    Object.assign(q, fix.set);
-    fs.writeFileSync(p, JSON.stringify(quiz, null, 2), "utf-8");
-    applied++;
-    console.log(`✅ ${fix.file} ${fix.section} #${fix.id} 已修 (${root === ROOTS[0] ? "output" : "upstream/output"})`);
   }
 }
 

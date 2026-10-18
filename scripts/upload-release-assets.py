@@ -66,6 +66,10 @@ def _request(url, method="GET", data=None, headers=None, timeout=600):
 
 def list_assets(release_id):
     assets = _request(f"{API}/repos/{OWNER_REPO}/releases/{release_id}/assets")
+    if assets is None:
+        # _request swallowed a 5xx/422 (see its docstring); nothing to iterate.
+        print("!! list failed (server returned 5xx/empty) - verify in the GitHub UI")
+        return []
     for a in assets:
         print(f"{a['id']}\t{a['size']}\t{a['state']}\t{a['name']}")
     print(f"-- {len(assets)} assets --")

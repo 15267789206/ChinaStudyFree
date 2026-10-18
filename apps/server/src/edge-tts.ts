@@ -142,6 +142,17 @@ export async function edgeTTSSynthesis(
         const data = rawData.toString("utf8");
         if (data.includes("turn.end")) {
           finish(resolve, { buffer: Buffer.concat(chunks), contentType: "audio/mpeg" });
+          return;
+        }
+        // EdgeTTS 错误通道：Path:response 带 HTTP 错误码（如 402/403）。
+        // 命中则快速失败，避免卡在 30s 超时只报"超时"（误导排查）。
+        if (data.includes("Path:response")) {
+          const code = (data.match(/"Code"\s*:\s*"([^"]+)"/) || [])[1] || "";
+          const msg = (data.match(/"Message"\s*:\s*"([^"]*)"/) || [])[1] || "";
+          if (code && code !== "Success" && code !== "Reload") {
+            fail(new EdgeTTSNotAvailable(`EdgeTTS 返回错误 ${code}: ${msg || "(无详情)"}`));
+            return;
+          }
         }
         return;
       }
