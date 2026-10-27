@@ -1,0 +1,9 @@
+# 兼容旧版安卓 WebView（minSdk 22，公益项目要跑在廉价老机 / 旧 System WebView 上）。
+# 不配 browserslist 时 SWC 只按现代浏览器目标编译，老 WebView 会因解析不了
+# 现代语法在 bootstrap 阶段直接崩 → 首页停在 SSR 空壳（纯白 + 底栏、无交互）。
+last 2 versions
+> 0.5%
+not dead
+Chrome >= 49
+Android >= 4.4
+iOS >= 10

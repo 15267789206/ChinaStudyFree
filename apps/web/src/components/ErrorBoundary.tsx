@@ -48,6 +48,11 @@ export default class ErrorBoundary extends React.Component<
     console.error("[ErrorBoundary] 渲染异常:", error, info?.componentStack);
   }
 
+  componentDidMount() {
+    // hydration 成功的信号：bootScript 的启动诊断据此判断「已正常启动」。
+    (window as unknown as { __csfHydrated?: boolean }).__csfHydrated = true;
+  }
+
   private reload = () => {
     if (typeof window !== "undefined") window.location.reload();
   };
